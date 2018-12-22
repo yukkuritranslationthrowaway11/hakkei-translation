@@ -1,0 +1,49 @@
+;飼い主呼び方
+your_name_1_aka="Mishter Human"
+your_name_2_aka="Mishter"
+your_name_3_aka="Geejer"
+your_name_4_aka="Old Geejer"
+your_name_5_aka="dwaddie"
+your_name_6_aka="shiddy pawent"
+
+your_name_1_sei="Mister Human"
+your_name_2_sei="Mister"
+your_name_3_sei="Geezer"
+your_name_4_sei="Old Geezer"
+your_name_5_sei="dwaddie"
+your_name_6_sei="shiddy pawent"
+
+;まりさ
+marisa_name_1_aka="Maricha"
+marisa_name_2_aka="Marisha"
+marisa_name_3_aka="Maicha"
+marisa_name_4_aka="Maisha"
+marisa_name_5_aka="Maacha"
+marisa_name_6_aka="Maasha"
+
+marisa_name_1_sei="Marisa"
+marisa_name_2_sei="Marisa"
+marisa_name_3_sei="Marisa"
+marisa_name_4_sei="Marisa"
+marisa_name_5_sei="Marisa"
+marisa_name_6_sei="Marisa"
+
+sakebi_marisa = "Aaaaah！？"
+
+
+;れいむ
+reimu_name_1_aka="Reimyu"
+reimu_name_2_aka="Reimyu"
+reimu_name_3_aka="Reimyu"
+reimu_name_4_aka="Reemyu"
+reimu_name_5_aka="Reemyu"
+reimu_name_6_aka="Reemyu"
+
+reimu_name_1_sei="Reimu"
+reimu_name_2_sei="Reimu"
+reimu_name_3_sei="Reimu"
+reimu_name_4_sei="Reimu"
+reimu_name_5_sei="Reemu"
+reimu_name_6_sei="Reemu"
+
+sakebi_reimu = "uuuuu！？"
