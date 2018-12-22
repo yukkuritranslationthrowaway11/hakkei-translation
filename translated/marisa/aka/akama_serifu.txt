@@ -3914,16 +3914,16 @@ ma_aka_deth2_1_10 = "ゆっくち……しちゃかっちゃ……"
 
 
 ;非ゆっくり症
-ma_aka_not_yukkuri_1 = "ゆっ"
-ma_aka_not_yukkuri_2 = "ゆっ！"
-ma_aka_not_yukkuri_3 = "ゆ"
-ma_aka_not_yukkuri_4 = "ゆ！"
-ma_aka_not_yukkuri_5 = "ゆっくち"
-ma_aka_not_yukkuri_6 = "ゆっくち！"
-ma_aka_not_yukkuri_7 = "ゆくち"
-ma_aka_not_yukkuri_8 = "ゆくち！"
-ma_aka_not_yukkuri_9 = "ゆくちぃ"
-ma_aka_not_yukkuri_10 = "ゆくちぃ！"
+ma_aka_not_yukkuri_1 = "YU"
+ma_aka_not_yukkuri_2 = "YU！"
+ma_aka_not_yukkuri_3 = "Yu"
+ma_aka_not_yukkuri_4 = "Yu！"
+ma_aka_not_yukkuri_5 = "Eajy"
+ma_aka_not_yukkuri_6 = "Eajy！"
+ma_aka_not_yukkuri_7 = "Eaj"
+ma_aka_not_yukkuri_8 = "Eaj！"
+ma_aka_not_yukkuri_9 = "Eajy"
+ma_aka_not_yukkuri_10 = "Eajy！"
 
 
 
