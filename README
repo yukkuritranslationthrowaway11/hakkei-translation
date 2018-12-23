@@ -1,0 +1,10 @@
+Translated dialogues for the Yukkuri Hakkei game.
+
+Developer's site: http://ennjiiro.seesaa.net/
+
+Drop the content of the `translated' folder inside the game's `text'
+folder, then run the executable which updates the dialogues.
+
+The `original' folder is used to track changes between different
+versions.  When a new version is out, drop the content of the `text'
+folder inside `original' and let Git do its magic.
