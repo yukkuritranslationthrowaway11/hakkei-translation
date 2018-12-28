@@ -517,16 +517,16 @@ ma_aka_self_training_unun_taisou_10 = "うんうんたいちょう はじみゃりゅのじぇっ！
 ;相互お礼
 ;///////////////////////////////////////////////////////////
 
-ma_aka_sougo_thank_1_1 = " ありがちょうなのじぇ！"
-ma_aka_sougo_thank_1_2 = " たしゅかっちゃのじぇ！"
-ma_aka_sougo_thank_1_3 = " ありがちょうなのじぇ！"
-ma_aka_sougo_thank_1_4 = "の おかげでたしゅかっちゃのじぇ！"
-ma_aka_sougo_thank_1_5 = " ありがちょうなのじぇ！"
-ma_aka_sougo_thank_1_6 = " たしゅかっちゃのじぇ！"
-ma_aka_sougo_thank_1_7 = " ありがちょうなのじぇ！"
-ma_aka_sougo_thank_1_8 = "の おかげでたしゅかっちゃのじぇ！"
-ma_aka_sougo_thank_1_9 = " ありがちょうなのじぇ！"
-ma_aka_sougo_thank_1_10 = " たしゅかっちゃのじぇ！"
+ma_aka_sougo_thank_1_1 = " chank you nano je！"
+ma_aka_sougo_thank_1_2 = " dat weally hwelped no je！"
+ma_aka_sougo_thank_1_3 = " chank you nano je！"
+ma_aka_sougo_thank_1_4 = "'sh asshistanshe hwelped no je！"
+ma_aka_sougo_thank_1_5 = " chank you nano je！"
+ma_aka_sougo_thank_1_6 = " Dat weally hwelped no je！"
+ma_aka_sougo_thank_1_7 = " chank you nano je！"
+ma_aka_sougo_thank_1_8 = "'sh asshistanshe hwelped no je！"
+ma_aka_sougo_thank_1_9 = " chank you nano je！"
+ma_aka_sougo_thank_1_10 = " dat weally hwelped no je！"
 
 ma_aka_sougo_thank_2_1 = "どういたち まちて なのじぇ！"
 ma_aka_sougo_thank_2_2 = "とうっぜん の こちょを しちゃまじぇなのじぇ！"
