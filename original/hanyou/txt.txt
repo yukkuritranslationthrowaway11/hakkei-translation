@@ -13,6 +13,18 @@ your_name_4_sei="くそじじい"
 your_name_5_sei="おとーしゃ"
 your_name_6_sei="くちょおや"
 
+家族
+big_sis_name_aka="おねーちゃ"
+little_sis_name_aka="いもーちょ"
+mother_name_aka="おかーしゃ"
+father_name_aka="おとーしゃ"
+otibi_name_aka="おちびちゃん"
+big_sis_name_sei="おねーちゃん"
+little_sis_name_sei="いもーと"
+mother_name_sei="おかーさん"
+father_name_sei="おとーさん"
+otibi_name_sei="おちびちゃん"
+
 ;まりさ
 marisa_name_1_aka="まりちゃ"
 marisa_name_2_aka="まりしゃ"
