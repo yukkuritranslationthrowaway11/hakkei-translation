@@ -13,6 +13,18 @@ your_name_4_sei="Old Geezer"
 your_name_5_sei="dwaddie"
 your_name_6_sei="shiddy pawent"
 
+‰Æ‘°
+big_sis_name_aka="Big shish"
+little_sis_name_aka="Widdle shish"
+mother_name_aka="Mwommie"
+father_name_aka="Dwaddie"
+otibi_name_aka="Liddle one"
+big_sis_name_sei="Big sis"
+little_sis_name_sei="Little sis"
+mother_name_sei="Mommie"
+father_name_sei="Daddie"
+otibi_name_sei="Little one"
+
 ;‚Ü‚è‚³
 marisa_name_1_aka="Maricha"
 marisa_name_2_aka="Marisha"
