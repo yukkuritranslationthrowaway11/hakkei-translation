@@ -1,10 +1,10 @@
 //来店時
-Welcome！ We're in the middle of preopening！！
+Welcome！\nWe're in the middle of preopening！！
 Between the bronze badge there are some bad apples……
 The bronze badges know how to use the toiletー
-子ゆっくり同士で遊ばせていると怪我をしやすいので、水槽には床材を敷いてあげてくださいねー
-プールをそのままにしておくと不衛生になりますし、事故も起きるので遊び終わったら片付けてあげると安心ですよー
-水槽が過密すぎると、子供が出来なくなるみたいなんで気をつけてあげてくださいね
+子ゆっくり同士で遊ばせていると怪我をしやすいので、\n水槽には床材を敷いてあげてくださいねー
+プールをそのままにしておくと不衛生になりますし、\n事故も起きるので遊び終わったら片付けてあげると安心ですよー
+水槽が過密すぎると、子供が出来なくなるみたいなんで、\n気をつけてあげてくださいね
 
 
 
@@ -23,21 +23,25 @@ Are you done buying？
 
 
 
-
-
-
+//タッチ
+きゃっ！？
+セクハラはいけませんよ！
 
 
 //ゆっくり購入
 You want this yukkuri？
 The bought yukkuri is in your cooler boxー
-Your cooler box is full, please make some spaceー
+Your cooler box is full,\nplease make some spaceー
 You changed your mind？
 Thank your for your patronage！
 
 
 
 
+//ゆっくり購入２
+お値段は
+円になっております
+この子は私が躾けたゆっくりで、\n
 
 
 
@@ -47,8 +51,7 @@ Thank your for your patronage！
 
 
 
-//コメント
-We're still opening, so the customers can pick one per type……Apologies
+
 
 
 
