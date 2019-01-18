@@ -4,7 +4,7 @@ Between the bronze badge there are some bad apples……
 The bronze badges know how to use the toiletー
 子ゆっくり同士で遊ばせていると怪我をしやすいので、\n水槽には床材を敷いてあげてくださいねー
 プールをそのままにしておくと不衛生になりますし、\n事故も起きるので遊び終わったら片付けてあげると安心ですよー
-水槽が過密すぎると、子供が出来なくなるみたいなんで、\n気をつけてあげてくださいね
+If the aquarium is too crowded, you can't get other Yukkuri.\nKeep that in mind!
 
 
 
@@ -24,24 +24,24 @@ Are you done buying？
 
 
 //タッチ
-きゃっ！？
-セクハラはいけませんよ！
+Kyaah！？
+Sexual harassment is bad！
 
 
 //ゆっくり購入
-You want this yukkuri？
+You want to buy a Yukkuri？
 The bought yukkuri is in your cooler boxー
 Your cooler box is full,\nplease make some spaceー
 You changed your mind？
-Thank your for your patronage！
+Thank you for your patronage！
 
 
 
 
 //ゆっくり購入２
-お値段は
-円になっております
-この子は私が躾けたゆっくりで、\n
+It would be 
+ Yen
+This Yukkuri has been traied.\n
 
 
 
