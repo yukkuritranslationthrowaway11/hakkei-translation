@@ -1,8 +1,8 @@
 //来店時
-あけまして おめでとうございます！
-どう？晴れ着姿かわいいでしょ？かわいいでしょ？
-お年玉ください！！
-今年もよろしくおねがいします！
+Happy new year！
+So？ Do I look cute in this dress？ Do I？
+New year gifts please！！
+Let's do our best this year too！
 
 
 
@@ -18,7 +18,7 @@
 
 
 //退店時
-おさいせん忘れてませんか？
+Aren't you forgetting your offerings？
 
 
 
@@ -29,11 +29,11 @@
 
 
 //ゆかび治療
-ゆっくりの しゅくってきを ちりょうして しんぜよう！
-わたしを あがめ たてまつるのです！
-おさいせんを いれるのです！すぐにいれるのです！
-帰る前に おさいせんを いれるのです！
-えー！もう少し お話しましょうよ！
+Defeating Yukkuri's arch-enemy with blessings！
+Revere me with an offering！
+Make an offering！ Make an offering right now！
+Before returning home, make an offering！
+Aww！ Let's talk a bit more！
 
 
 
