@@ -2,8 +2,8 @@
 Welcome！\nWe're in the middle of preopening！！
 Between the bronze badge there are some bad apples……
 The bronze badges know how to use the toiletー
-子ゆっくり同士で遊ばせていると怪我をしやすいので、\n水槽には床材を敷いてあげてくださいねー
-プールをそのままにしておくと不衛生になりますし、\n事故も起きるので遊び終わったら片付けてあげると安心ですよー
+Since it's easy for KoYukkuri to hurt themselves when playing,\nplease spread some proper flooring in the\naquariumー
+If you leave the pool as it is, it'll become dirty and accidents\nmight occur. Please put it away after playingー
 If the aquarium is too crowded, you can't get other Yukkuri.\nKeep that in mind!
 
 
@@ -41,7 +41,7 @@ Thank you for your patronage！
 //ゆっくり購入２
 It would be 
  Yen
-This Yukkuri has been traied.\n
+This Yukkuri has been trained.\n
 
 
 
