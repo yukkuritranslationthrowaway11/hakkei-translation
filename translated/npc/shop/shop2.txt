@@ -1,9 +1,9 @@
 //来店時
-よく来てくれた、現在プレオープン中だがゆっくりしていってくれ
-高耐久ゆっくりは「活きのいい」性格が多いぞ！
-耐久力があれば虐待の手数が増やせるからな……生かさず殺さずは１つの理想だ
-ゆっくりは同族の死骸に対する考えは死臭の嫌悪感に全て上書きされるようだ
-なにか私に話させる、虐待に関する注釈が浮かべばブログにコメントをよろしく！
+Come in！ we're still opening, so take it easy！
+We have plenty of 「Energetic」 high-resistance yukkuri！
+With high durability they can stand more abuse……\nDoing that without killing is a man's dream
+It seems that Yukkuri will not mourn the corpses of their\nfamily members but rather be disgusted by the death smell
+Let me tell you something: if you have concerns about the abuse\nleave a comment in my blog！
 
 
 
@@ -18,7 +18,7 @@
 
 
 //退店時
-またきてくれたまえ！
+Please come again！
 
 
 
@@ -29,7 +29,7 @@
 
 
 //ゆっくり購入
-ゆっくりを購入してくれるのか？
+Interested in a Yukkuri？
 購入したゆっくりはクーラーボックスの中入れておこう
 クーラーボックスがいっぱいなので、ボックスを空けてからまた来たまえ
 やめてしまうのか？
