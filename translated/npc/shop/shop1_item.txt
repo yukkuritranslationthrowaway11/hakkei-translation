@@ -1,10 +1,10 @@
 //来店時
-\nお値段は
-円になっております
+\nwill cost you
+yen.
 //アイテム説明・トイレ
-ゆっくりちゃん用のサイズのトイレです。\nトイレの躾は根気よく繰り返してあげてくださいね
-ゆっくりちゃん用のサイズの砂付きのトイレです。\n防臭、防湿効果のある砂ですので、\nうんうんを掃除し忘れてもゆっくりちゃんの負担が少ないです。
-ゆっくりちゃん用のサイズの自動水洗トイレです。\nなんと、すごい技術で配管工事無しで水が流れます。\nきっと凄い計算されてるんでしょうね。角度とか。
+A toilet for a Yukkuri's businesses.\nToilet training requires lots of patience and perseverance.
+A toilet for Yukkuri with sand.\nIt doesn't let out odors and avoids humidiy,\nso it's OK to forget about cleaning from time to time.
+A toilet for Yukkuri with automatic flushing.\nIt flushes water without needing plumbing, and that's amazing.\nI suppose there's a lot of calulations or something.
 
 
 
