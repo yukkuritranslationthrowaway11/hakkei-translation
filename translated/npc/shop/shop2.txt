@@ -30,10 +30,10 @@ Please come again！
 
 //ゆっくり購入
 Interested in a Yukkuri？
-購入したゆっくりはクーラーボックスの中入れておこう
-クーラーボックスがいっぱいなので、ボックスを空けてからまた来たまえ
-やめてしまうのか？
-購入してくれてありがとう！
+The Yukkuri you bought was placed in your cooler box
+Your cooler box is full, make some space please
+You're done？
+Thanks for your purchase！
 
 
 
