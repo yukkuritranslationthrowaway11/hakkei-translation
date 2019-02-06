@@ -2,9 +2,16 @@ Translated dialogues for the Yukkuri Hakkei game.
 
 Developer's site: http://ennjiiro.seesaa.net/
 
-Drop the content of the `translated' folder inside the game's `text'
-folder, then run the executable which updates the dialogues.
+The `translated' folder contains a set of directories containing the
+dialogues of the latest version.  To update the in-game dialogues,
+copy those directories inside the game's `text' folder.  After that,
+run the executable that is not the game (should be called
+'セリフ再読込用.exe'.  If you don't have a program with that name,
+just pick the executable that is not the actual game.)
+After that step, the game will be translated (to the extent the
+translators could.)
 
 The `original' folder is used to track changes between different
 versions.  When a new version is out, drop the content of the `text'
-folder inside `original' and let Git do its magic.
+folder inside `original' and let Git do its magic ('git add' the
+files, then use 'git diff' to check what was changed.)
