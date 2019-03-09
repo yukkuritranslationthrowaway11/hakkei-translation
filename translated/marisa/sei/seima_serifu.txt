@@ -5962,6 +5962,16 @@ ma_sei_maisou_other_8="を まいっそう してほしいのぜ……"
 ma_sei_maisou_other_9="に りっぱっな おはかを つくってほしいのぜ…… "
 ma_sei_maisou_other_10="を おはかにいれて ほしいのぜ……
 
+ma_sei_cadaver_1="こわいのぜぇぇぇぇぇ！！"
+ma_sei_cadaver_2="おばけが いっぱいなのぜぇぇぇぇ！"
+ma_sei_cadaver_3="ここは ゆっくり ぷれいすじゃ ないのぜぇぇぇぇ！ "
+ma_sei_cadaver_4="めっちゃ くさいのぜぇぇぇぇぇ！"
+ma_sei_cadaver_5="ゆぁぁぁぁ！ おばけぇぇぇぇ！"
+ma_sei_cadaver_6="こわいのぜぇぇぇぇぇ！！"
+ma_sei_cadaver_7="おばけが いっぱいなのぜぇぇぇぇ！"
+ma_sei_cadaver_8="ここは ゆっくり ぷれいすじゃ ないのぜぇぇぇぇ！ "
+ma_sei_cadaver_9="めっちゃ くさいのぜぇぇぇぇぇ！"
+ma_sei_cadaver_10="ゆぁぁぁぁ！ おばけぇぇぇぇ！"
 
 ;///////////////////////////////////
 ;//死体食い関係
