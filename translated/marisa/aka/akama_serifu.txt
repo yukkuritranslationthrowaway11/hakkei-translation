@@ -1755,16 +1755,16 @@ ma_aka_pa_dokan_no_out_10 = "かくりぇがしゃん！いじみぇにゃいでぇぇぇぇぇ！？"
 ;///////////////////////////////////////////////////////////
 ;ぷくー
 ;///////////////////////////////////////////////////////////
-ma_aka_puku1_1 = "ぷきゅっ ぷきゅーっ"
-ma_aka_puku1_2 = "【一人称】は ぷきゅーっ なんだじぇ！"
-ma_aka_puku1_3 = "【一人称】の ぷきゅーっ きょわいんでしょ？わかってりゅんだじぇ！"
-ma_aka_puku1_4 = "ぷきゅっ ぷきゅーっ"
-ma_aka_puku1_5 = "【一人称】おこっちぇりゅんだじぇ！ぷきゅーっ！"
-ma_aka_puku1_6 = "【一人称】おこっちぇりゅんだじぇ！ぷきゅーっ！"
-ma_aka_puku1_7 = "ぷきゅっ ぷきゅーっ"
-ma_aka_puku1_8 = "【一人称】は ぷきゅーっ なんだじぇ！"
-ma_aka_puku1_9 = "ぷきゅーっ！ なんだじぇ！"
-ma_aka_puku1_10 = "【一人称】は ぷきゅーっ なんだじぇ！"
+ma_aka_puku1_1 = "Pwuff pwuffff"
+ma_aka_puku1_2 = "【一人称】 ij pwuffing no je！"
+ma_aka_puku1_3 = "【一人称】'sh pwuff ij shcawy ijn'd id？ Now you undewshand no je！"
+ma_aka_puku1_4 = "Pwuff pwuffff"
+ma_aka_puku1_5 = "【一人称】 ij angwy no je！ Pwuffff！"
+ma_aka_puku1_6 = "【一人称】 ij angwy no je！ Pwuffff！"
+ma_aka_puku1_7 = "Pwuff pwuffff"
+ma_aka_puku1_8 = "【一人称】 ij pwuffing no je！"
+ma_aka_puku1_9 = "Pwuff！ Pwuffff！"
+ma_aka_puku1_10 = "【一人称】 ij pwuffing no je！"
 
 ;///////////////////////////////////////////////////////////
 ;もるんもるん
