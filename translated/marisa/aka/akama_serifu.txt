@@ -503,13 +503,13 @@ ma_aka_self_training_unko_atack_9 = "‚µ‚å‚±‚Í ‚¤‚ñ‚¤‚ñ‚µ‚ã‚é‚Æ‚±‚è‚å‚¶‚á ‚É‚á‚¢‚
 ma_aka_self_training_unko_atack_10 = "Whach awe you dwoing choo mishter fwood no jeI"
 
 ma_aka_self_training_mate_1 = "‚İ‚ñ‚É‚á‚ğ ‚Ü‚¿‚á‚É‚á‚«‚á ‚¢‚«‚¥‚É‚á‚¢‚Ì‚¶‚¥IH"
-ma_aka_self_training_mate_2 = "‚Ş[‚µ‚á‚Ş[‚µ‚á‚Í ‚İ‚ñ‚É‚á‚Å ‚µ‚ã‚é‚Ì‚¶‚¥IH"
-ma_aka_self_training_mate_3 = "‚İ‚ñ‚É‚á‚Å ‚¢‚¿‚á‚¶‚á‚« ‚Ü‚µ‚ã ‚µ‚ã‚é‚Ì‚¶‚¥IH"
-ma_aka_self_training_mate_4 = "‚Ğ‚Æ‚ä‚Å ‚½‚×‚¿‚á ‚¾‚ß‚É‚á‚Ì‚¶‚¥I"
+ma_aka_self_training_mate_2 = "Mwunch mwunch wid eberyone no jeIH"
+ma_aka_self_training_mate_3 = "Habing a meal wid eberyone no jeIH"
+ma_aka_self_training_mate_4 = "Eaching awone ij bad no jeI"
 ma_aka_self_training_mate_5 = "‚Ğ‚¿‚å‚ä‚¶‚ß‚µ‚ã‚é‚Ì‚Í ‚°‚µ‚ã ‚È‚Ì‚¶‚¥IH"
 ma_aka_self_training_mate_6 = "‚Ğ‚¿‚å‚ä‚¶‚ß‚Í@‚ä‚Á‚­‚¿ ‚µ‚¿‚¥‚É‚á‚¢‚Ì‚¶‚¥IH"
-ma_aka_self_training_mate_7 = "‚Ş[‚¿‚á‚Ş[‚¿‚á‚Í ‚İ‚ñ‚É‚á‚Å ‚µ‚ã‚é‚Ì‚¶‚¥IH"
-ma_aka_self_training_mate_8 = "‚Ğ‚Æ‚ä‚Å ‚½‚×‚¿‚á ‚¾‚ß‚É‚á‚Ì‚¶‚¥I"
+ma_aka_self_training_mate_7 = "Mwunch mwunch wid eberyone no jeIH"
+ma_aka_self_training_mate_8 = "Eaching awone ij bad no jeI"
 ma_aka_self_training_mate_9 = "‚Ğ‚¿‚å‚ä‚¶‚ß‚µ‚ã‚é‚Ì‚Í ‚°‚µ‚ã ‚È‚Ì‚¶‚¥IH"
 ma_aka_self_training_mate_10 = "‚Ğ‚¿‚å‚ä‚¶‚ß‚Í@‚ä‚Á‚­‚¿ ‚µ‚¿‚¥‚É‚á‚¢‚Ì‚¶‚¥IH"
 
