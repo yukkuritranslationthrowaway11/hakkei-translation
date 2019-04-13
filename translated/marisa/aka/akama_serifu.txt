@@ -759,16 +759,16 @@ ma_aka_damage_hanyou_10 = "Eajy！ Eajyyyyyy！！"
 ;////////////////////////////////////////////////////////////
 ;拘束
 ;///////////////////////////////////////////////////////////
-ma_aka_kousoku_1_hanyou_1 = "ゆ……うごけないのじぇ……"
-ma_aka_kousoku_1_hanyou_2 = "ゆんやぁ！はなしちぇぇぇ！"
-ma_aka_kousoku_1_hanyou_3 = "【一人称】を たしゅけちぇにぇ……？"
-ma_aka_kousoku_1_hanyou_4 = "うごけないのじぇ！"
-ma_aka_kousoku_1_hanyou_5 = "きゃわいい 【一人称】を はなしてねっ"
-ma_aka_kousoku_1_hanyou_6 = "【一人称】くるちぃのじぇ！ たしゅけりゅんだじぇ！！"
-ma_aka_kousoku_1_hanyou_7 = "【一人称】を たしゅけちぇにぇっ しゅぐでいいよっ"
-ma_aka_kousoku_1_hanyou_8 = "くるちぃのじぇぇぇぇ！？"
-ma_aka_kousoku_1_hanyou_9 = "【一人称】…… うごけないのじぇ……"
-ma_aka_kousoku_1_hanyou_10 = "はなすんだじぇぇぇぇ"
+ma_aka_kousoku_1_hanyou_1 = "Yu…… Can'd mwove no je……"
+ma_aka_kousoku_1_hanyou_2 = "Yunyaa！ Led gwoo！"
+ma_aka_kousoku_1_hanyou_3 = "Hewp 【一人称】……？"
+ma_aka_kousoku_1_hanyou_4 = "Can'd mwove no je！"
+ma_aka_kousoku_1_hanyou_5 = "Led gwo ob cyute 【一人称】"
+ma_aka_kousoku_1_hanyou_6 = "【一人称】 ij in a pwinch！ Hwelp no je！！"
+ma_aka_kousoku_1_hanyou_7 = "Hwelp 【一人称】！ Wight now ij fwine"
+ma_aka_kousoku_1_hanyou_8 = "Can'd mwove no je！？"
+ma_aka_kousoku_1_hanyou_9 = "【一人称】…… Can'd mwove no je……"
+ma_aka_kousoku_1_hanyou_10 = "Led gwo no jeeeeeee"
 
 ;////////////////////////////////////////////////////////////
 ;睡眠
