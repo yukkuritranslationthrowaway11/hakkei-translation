@@ -745,16 +745,16 @@ ma_aka_sougo_good_pat1_10 = "は ゆっくち しちぇりゅのじぇ！"
 ;////////////////////////////////////////////////////////////
 ;ダメージ
 ;///////////////////////////////////////////////////////////
-ma_aka_damage_hanyou_1 = "いぢゃいよぉ……！！ゆっくち！ゆっくちィィィ！！"
-ma_aka_damage_hanyou_2 = "ゆピィィィィ！いぢゃいんだじぇぇぇぇ！！"
-ma_aka_damage_hanyou_3 = "いぢゃィィィッ！おきゃーしゃぁぁぁッ……！！"
-ma_aka_damage_hanyou_4 = "ゆピャァァァァァッ！！いぢゃっ いっちゃぁぁぁぁぁあぁぁ！！"
-ma_aka_damage_hanyou_5 = "ゆや……ゆんやぁぁぁぁぁぁあぁぁぁぁぁっ！！"
-ma_aka_damage_hanyou_6 = "ゆんやぁ！ゆんやぁぁぁぁっ！！"
-ma_aka_damage_hanyou_7 = "いぢゃいのじぇぇぇっ！！【一人称】 いぢゃい いぢゃい なのじぇぇぇぇ！！"
-ma_aka_damage_hanyou_8 = "いぢゃぁぁぁぁぁぁあぁぁぁぁぁッッ！？"
-ma_aka_damage_hanyou_9 = "【一人称】 いぢゃいの いやっ なのじぇぇぇぇぇ！！"
-ma_aka_damage_hanyou_10 = "ゆっくち！ゆっくちィィィィ！！"
+ma_aka_damage_hanyou_1 = "Huurtsh……！！ Eajy！ Eajyyyyy！！"
+ma_aka_damage_hanyou_2 = "Yupiiiii！ Huuuurtsh jeeee！！"
+ma_aka_damage_hanyou_3 = "Huuuuuurtsh！ Mwommieeeee……！！"
+ma_aka_damage_hanyou_4 = "Yupiiiiiiii！！ Hurd huuuuuuurtsh！！"
+ma_aka_damage_hanyou_5 = "Yuya…… Yunyaaaaaaaaaaaaaaaa！！"
+ma_aka_damage_hanyou_6 = "Yunyaaa！ Yunyaaaaaaaaaa！！"
+ma_aka_damage_hanyou_7 = "Huuuuurtsh！！ 【一人称】 ij hurd hurd no jeeeee！！"
+ma_aka_damage_hanyou_8 = "Huuuuuuuuuuuuuurtsh！？"
+ma_aka_damage_hanyou_9 = "Hurding 【一人称】 ij no gwood no jeeee！！"
+ma_aka_damage_hanyou_10 = "Eajy！ Eajyyyyyy！！"
 
 ;////////////////////////////////////////////////////////////
 ;拘束
