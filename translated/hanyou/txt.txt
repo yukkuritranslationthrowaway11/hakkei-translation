@@ -40,7 +40,7 @@ marisa_name_4_sei="Marisa"
 marisa_name_5_sei="Marisa"
 marisa_name_6_sei="Marisa"
 
-sakebi_marisa = "Aaaaah！？"
+sakebi_marisa = "aaaaa！？"
 
 
 ;れいむ
@@ -59,3 +59,22 @@ reimu_name_5_sei="Reemu"
 reimu_name_6_sei="Reemu"
 
 sakebi_reimu = "uuuuu！？"
+
+
+;つむり
+tumuri_name_1_aka="Shewwy"
+tumuri_name_2_aka="Shewwy"
+tumuri_name_3_aka="Shewwy"
+tumuri_name_4_aka="Shewwy"
+tumuri_name_5_aka="Shewwy"
+tumuri_name_6_aka="Shewwy"
+
+tumuri_name_1_sei="Shelly"
+tumuri_name_2_sei="Shelly"
+tumuri_name_3_sei="Shelly"
+tumuri_name_4_sei="Shelly"
+tumuri_name_5_sei="Shelly"
+tumuri_name_6_sei="Shelly"
+
+sakebi_tumuri = "yyyyy！？"
+
