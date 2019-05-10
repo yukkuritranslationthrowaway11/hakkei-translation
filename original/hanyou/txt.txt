@@ -59,3 +59,22 @@ reimu_name_5_sei="れーむ"
 reimu_name_6_sei="れーむ"
 
 sakebi_reimu = "ぅぅぅぅ！？"
+
+
+;つむり
+tumuri_name_1_aka="ちゅむり"
+tumuri_name_2_aka="ちゅみゅり"
+tumuri_name_3_aka="つみゅり"
+tumuri_name_4_aka="ちゅむり"
+tumuri_name_5_aka="つみゅり"
+tumuri_name_6_aka="ちゅみゅり"
+
+tumuri_name_1_sei="つむり"
+tumuri_name_2_sei="つむり"
+tumuri_name_3_sei="つむり"
+tumuri_name_4_sei="つむり"
+tumuri_name_5_sei="つむり"
+tumuri_name_6_sei="つむり"
+
+sakebi_tumuri = "ぃぃぃぃ！？"
+
