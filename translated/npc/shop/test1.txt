@@ -1,10 +1,10 @@
 //来場時
-こちらはバッジ試験所です。現在、銅、銀、金の３種の試験を行っております。
-こちらはバッジ試験所です。現在、銅、銀、金の３種の試験を行っております。
-こちらはバッジ試験所です。現在、銅、銀、金の３種の試験を行っております。
-こちらはバッジ試験所です。現在、銅、銀、金の３種の試験を行っております。
-こちらはバッジ試験所です。現在、銅、銀、金の３種の試験を行っております。
-こちらはバッジ試験所です。現在、銅、銀、金の３種の試験を行っております。
+This is the examination hall。 We perform examinations for copper,\nsilver and gold badges。
+This is the examination hall。 We perform examinations for copper,\nsilver and gold badges。
+This is the examination hall。 We perform examinations for copper,\nsilver and gold badges。
+This is the examination hall。 We perform examinations for copper,\nsilver and gold badges。
+This is the examination hall。 We perform examinations for copper,\nsilver and gold badges。
+This is the examination hall。 We perform examinations for copper,\nsilver and gold badges。
 
 
 
@@ -28,19 +28,19 @@
 
 
 //選択肢
-検定料は
-円になります。\n不合格時も返金等ございませんので、ご注意ください。
+The examination fee is
+yen。\nThere are no refunds in case of failure、so be careful。
 
-銅バッジ試験をお受けになりますか？
-銀バッジ試験をお受けになりますか？
-金バッジ試験をお受けになりますか？
+Take the copper badge exam？
+Take the silver badge exam ？
+Take the gold badge exam？
 
 
 
 //試験
-試験するゆっくりをお選びください
-性格テストで不合格です。
-知能テストで不合格です。
-性格テスト、知能テスト共に不合格です。
-既に同等以上のバッジ試験合格ずみです。
-既に試験を行っています。
+Pick the Yukkuri to be examined
+The behaviour test was a failure。
+The intelligence test was a failure。
+Both the behaviour and intelligence test were a failure。
+This Yukkuri already has a badge of higher rank。
+This Yukkuri has already been tested。
