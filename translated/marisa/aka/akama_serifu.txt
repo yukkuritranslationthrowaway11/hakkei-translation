@@ -1157,16 +1157,16 @@ ma_aka_hanyou_deth_10 = "【一人称】 ぢにぢゃく に゛ゃいのじぇぇぇぇ！！"
 ;通常移動時
 ;///////////////////////////////////////////////////////////
 ;基本
-ma_aka_m_1 = "ゆっきゅりしゅりゅじぇ！"
-ma_aka_m_2 = "ゆっゆっ"
-ma_aka_m_3 = "ゆっきゅちー"
-ma_aka_m_4 = "ゆー♪"
-ma_aka_m_5 = "ゆっくち ちてね！"
-ma_aka_m_6 = "ゆっくち しようにぇ"
-ma_aka_m_7 = "ゆっ♪　ゆっ♪　ゆっ♪"
-ma_aka_m_8 = "ゆっくち しちぇるよ！"
-ma_aka_m_9 = "ゆっくちぃー♪"
-ma_aka_m_10 = "ゆっくちしちぇいっちぇにぇ！"
+ma_aka_m_1 = "Chaking id eajy no je！"
+ma_aka_m_2 = "Yu yu"
+ma_aka_m_3 = "Eajyyy"
+ma_aka_m_4 = "Yuu♪"
+ma_aka_m_5 = "Chake id eajy！"
+ma_aka_m_6 = "Led'sh chake id eajy"
+ma_aka_m_7 = "Yu♪　Yu♪　Yu♪"
+ma_aka_m_8 = "Chaking id eajy！"
+ma_aka_m_9 = "Eajyyy♪"
+ma_aka_m_10 = "Chake id eajy！"
 
 
 ;賢さ中・ゲス 賢さの判定は低め
