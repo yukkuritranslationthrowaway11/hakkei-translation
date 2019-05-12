@@ -731,16 +731,16 @@ ma_aka_sougo_eat_4_10 = "もっちょ たべちゃいのじぇ！　おかわりっ なのじぇ！"
 ;////////////////////////////////////////////////////////////
 ;相互感想
 ;///////////////////////////////////////////////////////////
-ma_aka_sougo_good_pat1_1 = "は ゆっくち しちぇりゅのじぇ！"
-ma_aka_sougo_good_pat1_2 = "は ゆっくち しちぇりゅのじぇ！"
-ma_aka_sougo_good_pat1_3 = "は ゆっくち しちぇりゅのじぇ！"
-ma_aka_sougo_good_pat1_4 = "は ゆっくち しちぇりゅのじぇ！"
-ma_aka_sougo_good_pat1_5 = "は ゆっくち しちぇりゅのじぇ！"
-ma_aka_sougo_good_pat1_6 = "は ゆっくち しちぇりゅのじぇ！"
-ma_aka_sougo_good_pat1_7 = "は ゆっくち しちぇりゅのじぇ！"
-ma_aka_sougo_good_pat1_8 = "は ゆっくち しちぇりゅのじぇ！"
-ma_aka_sougo_good_pat1_9 = "は ゆっくち しちぇりゅのじぇ！"
-ma_aka_sougo_good_pat1_10 = "は ゆっくち しちぇりゅのじぇ！"
+ma_aka_sougo_good_pat1_1 = " can chake id eajy no je！"
+ma_aka_sougo_good_pat1_2 = " can chake id eajy no je！"
+ma_aka_sougo_good_pat1_3 = " can chake id eajy no je！"
+ma_aka_sougo_good_pat1_4 = " can chake id eajy no je！"
+ma_aka_sougo_good_pat1_5 = " can chake id eajy no je！"
+ma_aka_sougo_good_pat1_6 = " can chake id eajy no je！"
+ma_aka_sougo_good_pat1_7 = " can chake id eajy no je！"
+ma_aka_sougo_good_pat1_8 = " can chake id eajy no je！"
+ma_aka_sougo_good_pat1_9 = " can chake id eajy no je！"
+ma_aka_sougo_good_pat1_10 = " can chake id eajy no je！"
 
 ;////////////////////////////////////////////////////////////
 ;ダメージ
