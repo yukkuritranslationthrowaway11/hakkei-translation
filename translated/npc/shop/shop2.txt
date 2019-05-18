@@ -39,9 +39,9 @@ Thanks for your purchase！
 
 
 //ゆっくり購入２
-値段は
-円になるが、購入するかね？
-特殊な薬剤で耐久力を高めた、無調教のゆっくりで、\n
+That'll be
+ yen、 you sure about it？
+A special medice to increase Yukkuri stamina、for training、\n
 
 
 
@@ -51,8 +51,8 @@ Thanks for your purchase！
 
 
 //アイテム購入
-ゆっくり用の虐待用品を\n購入するかね？
-全ての虐待用品を購入してくれたのか！\nどうかこのまま、虐待鬼威惨への道を突き進んでくれたまえ！！
+You're looking for abyuse\nsupplies？
+You bought all the abyuse supplies！\nThis is just a step forward through the abyuse mister path！！
 
 
 
