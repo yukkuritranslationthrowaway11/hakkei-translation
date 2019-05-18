@@ -1,6 +1,6 @@
 //来店時
 \nwill cost you
-yen.
+ yen.
 //アイテム説明・トイレ
 A toilet for a Yukkuri's businesses.\nToilet training requires lots of patience and perseverance.
 A toilet for Yukkuri with sand.\nIt doesn't let out odors and avoids humidity,\nso it's OK to forget about cleaning from time to time.
@@ -9,7 +9,7 @@ A toilet for Yukkuri with automatic flushing.\nIt flushes water without needing 
 
 
 //給水器
-ゆっくりちゃん用の給水器です。\n基本的に、通常のフードを与えていれば他の水分補給は必要ないのですが、\n夏場などにはフード以外の水分補給手段も必要かもしれません。(未実装)
+Water supply for Yukkuri。\nOther than food、hydration is essential\nDuring summer and the like something else might be needed。(Not implemented yet)
 
 
 
