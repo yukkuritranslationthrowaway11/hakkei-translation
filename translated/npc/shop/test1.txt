@@ -29,7 +29,7 @@ This is the examination hall。 We perform examinations for copper,\nsilver and g
 
 //選択肢
 The examination fee is
-yen。\nThere are no refunds in case of failure、so be careful。
+ yen。\nThere are no refunds in case of failure、so be careful。
 
 Take the copper badge exam？
 Take the silver badge exam ？
