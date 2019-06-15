@@ -3328,7 +3328,17 @@ ma_aka_doku_karai_7 = "ゆぁああ かりゃいよぉ どくはいっちぇる！！"
 ma_aka_doku_karai_8 = "かりゃいよぉ！ こりぇ どくはいっちぇる！"
 ma_aka_doku_karai_9 = "かりゃいよぉ こりぇ どくはいっちぇる！"
 ma_aka_doku_karai_10 = "ゆぁぁぁ！ どくはいっちぇる！"
-
+;苦い
+ma_aka_doku_nigai_1 = "こりぇ どく はいっちぇる！"
+ma_aka_doku_nigai_2 = "ゆぁああ にぎゃいよぉ！"
+ma_aka_doku_nigai_3 = "にぎゃいよぉ！ どくはいっちぇる！"
+ma_aka_doku_nigai_4 = "ゆぁぁぁ！ どくはいっちぇる！"
+ma_aka_doku_nigai_5 = "ゆぁああ にぎゃいよぉ どくはいっちぇる！！"
+ma_aka_doku_nigai_6 = "にぎゃいよぉ こりぇ どくはいっちぇる！"
+ma_aka_doku_nigai_7 = "ゆぁああ にぎゃいよぉ どくはいっちぇる！！"
+ma_aka_doku_nigai_8 = "にぎゃいよぉ！ こりぇ どくはいっちぇる！"
+ma_aka_doku_nigai_9 = "にぎゃいよぉ こりぇ どくはいっちぇる！"
+ma_aka_doku_nigai_10 = "ゆぁぁぁ！ どくはいっちぇる！"
 
 
 ;===================================================
@@ -4397,7 +4407,16 @@ ma_aka_unko_cary_lost_8 = "おといれしゃん！かきゅれちぇにゃいで でちぇくりゅのじ
 ma_aka_unko_cary_lost_9 = "おといれしゃんが きえちゃったのじぇぇぇぇ！！"
 ma_aka_unko_cary_lost_10 = "おといれしゃんが ないない しちゃったのじぇぇぇ！"
 
-
+ma_aka_unko_cary_self_1 = "ゆぅ……うんうん かたじゅけりゅのじぇ"
+ma_aka_unko_cary_self_2 = "おしょうじ しゅりゅのじぇ"
+ma_aka_unko_cary_self_3 = "うんうんは おといれしゃんなのじぇ"
+ma_aka_unko_cary_self_4 = "ゆぅぅ……きちゃにゃいのじぇ"
+ma_aka_unko_cary_self_5 = "【一人称】が かたじゅけりゅしか にゃいのじぇ"
+ma_aka_unko_cary_self_6 = "ゆぅ……うんうん かたじゅけりゅのじぇ"
+ma_aka_unko_cary_self_7 = "おしょうじ しゅりゅのじぇ"
+ma_aka_unko_cary_self_8 = "うんうんは おといれしゃんなのじぇ"
+ma_aka_unko_cary_self_9 = "ゆぅぅ……きちゃにゃいのじぇ"
+ma_aka_unko_cary_self_10 = "【一人称】が かたじゅけりゅしか にゃいのじぇ"
 
 
 ;////////////////////////////////////////////////////////////
