@@ -967,6 +967,18 @@ ma_sei_hanyou_gimon_2_8 = "……"
 ma_sei_hanyou_gimon_2_9 = "……？"
 ma_sei_hanyou_gimon_2_10 = "？"
 
+ma_sei_hanyou_gimon_3_1 = "ゆぅ？"
+ma_sei_hanyou_gimon_3_2 = "ゆぴっ？"
+ma_sei_hanyou_gimon_3_3 = "ゆゆっ？"
+ma_sei_hanyou_gimon_3_4 = "どうしたのぜ？"
+ma_sei_hanyou_gimon_3_5 = "なにかあったのぜ？"
+ma_sei_hanyou_gimon_3_6 = "【一人称】に ごよう なのぜ？"
+ma_sei_hanyou_gimon_3_7 = "【飼い主】 どうしたのぜ？"
+ma_sei_hanyou_gimon_3_8 = "【飼い主】 なにかあったのぜ？"
+ma_sei_hanyou_gimon_3_9 = "【一人称】に ごよう なのぜ？"
+ma_sei_hanyou_gimon_3_10 = "【一人称】に ようじが あるのぜ？"
+
+
 ma_sei_hanyou_gimon_1 = "ゆゆっ？"
 ma_sei_hanyou_gimon_2 = "ゆっ？"
 ma_sei_hanyou_gimon_3 = "ゆぴっ？"
@@ -3247,6 +3259,16 @@ ma_sei_want_give_pat1_8 = "おちびちゃんが おなか ぺーこぺーこ なのぜ！"
 ma_sei_want_give_pat1_9 = "おちびちゃんが おなかすいたって いってるのぜ！"
 ma_sei_want_give_pat1_10 = "おちびちゃんに ごはんさんを あげるのぜ！"
 
+ma_sei_want_give_juce_1 = "ほかの おちびちゃんにも あげるのぜ！"
+ma_sei_want_give_juce_2 = "ほかの おちびちゃんも なおすのぜ！"
+ma_sei_want_give_juce_3 = "ほかの おちびちゃんにも あげるのぜ！"
+ma_sei_want_give_juce_4 = "ほかの おちびちゃんも なおすのぜ！"
+ma_sei_want_give_juce_5 = "ほかの おちびちゃんにも あげるのぜ！"
+ma_sei_want_give_juce_6 = "ほかの おちびちゃんも なおすのぜ！"
+ma_sei_want_give_juce_7 = "ほかの おちびちゃんにも あげるのぜ！"
+ma_sei_want_give_juce_8 = "ほかの おちびちゃんも なおすのぜ！"
+ma_sei_want_give_juce_9 = "ほかの おちびちゃんにも あげるのぜ！"
+ma_sei_want_give_juce_10 = "ほかの おちびちゃんも なおすのぜ！"
 
 
 ;食糞
