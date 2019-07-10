@@ -10,8 +10,13 @@ your_name_1_sei="にんげんさん"
 your_name_2_sei="おにーさん"
 your_name_3_sei="じじい"
 your_name_4_sei="くそじじい"
-your_name_5_sei="おとーしゃ"
-your_name_6_sei="くちょおや"
+your_name_5_sei="おとーさん"
+your_name_6_sei="くそおや"
+
+数
+many_aka=たくっちゃん
+
+many_sei=たくっさん
 
 家族
 big_sis_name_aka="おねーちゃ"
