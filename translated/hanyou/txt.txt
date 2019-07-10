@@ -10,8 +10,13 @@ your_name_1_sei="Mister Human"
 your_name_2_sei="Mister"
 your_name_3_sei="Geezer"
 your_name_4_sei="Old Geezer"
-your_name_5_sei="dwaddie"
-your_name_6_sei="shiddy pawent"
+your_name_5_sei="daaddie"
+your_name_6_sei="shitty parent"
+
+”
+many_aka=wotsh
+
+many_sei=lots
 
 ‰Æ‘°
 big_sis_name_aka="Big shish"
