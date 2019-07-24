@@ -5748,6 +5748,17 @@ ma_aka_lost_other_1_8 = "を かえしゅのじぇ！"
 ma_aka_lost_other_1_9 = "を ちゅれちぇ いくんじゃ にゃいのじぇ！"
 ma_aka_lost_other_1_10 = "を かえしゅのぜ！"
 
+ma_aka_lost_leader_1_1 = "たいちょー を かえしゅのぜ！"
+ma_aka_lost_leader_1_2 = "たいちょーを かえしゅのじぇ！"
+ma_aka_lost_leader_1_3 = "たいちょーを ちゅれちぇ いくんじゃ にゃいのじぇ！"
+ma_aka_lost_leader_1_4 = "ちゃいちょーを かえしゅのぜ！"
+ma_aka_lost_leader_1_5 = "ちゃいちょーを かえしゅのじぇ！"
+ma_aka_lost_leader_1_6 = "ちゃいちょーを ちゅれちぇ いくんじゃ にゃいのじぇ！"
+ma_aka_lost_leader_1_7 = "たいちょーを かえしゅのぜ！"
+ma_aka_lost_leader_1_8 = "たいちょーを かえしゅのじぇ！"
+ma_aka_lost_leader_1_9 = "ちゃいちょーを ちゅれちぇ いくんじゃ にゃいのじぇ！"
+ma_aka_lost_leader_1_10 = "ちゃいちょーを かえしゅのぜ！"
+
 ;野良野生
 
 赤まりさ_飼いゆ希望_ノーマル１_1 = "【一人称】を かいゆっくちに しちぇくだちゃい！"
