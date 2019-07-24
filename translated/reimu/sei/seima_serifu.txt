@@ -5875,7 +5875,16 @@ ma_sei_lost_other_1_8 = "を かえすんだよ！"
 ma_sei_lost_other_1_9 = "を つれて いくんじゃ ないんだよ！"
 ma_sei_lost_other_1_10 = "を かえすんだよ！"
 
-
+ma_sei_lost_leader_1_1 = "たいちょー を かえすんだよ！"
+ma_sei_lost_leader_1_2 = "たいちょー を かえすんだよ！"
+ma_sei_lost_leader_1_3 = "たいちょー を つれて いくんじゃ ないんだよ！"
+ma_sei_lost_leader_1_4 = "たいちょー を かえすんだよ！"
+ma_sei_lost_leader_1_5 = "たいちょー を かえすんだよ！"
+ma_sei_lost_leader_1_6 = "たいちょー を つれて いくんじゃ ないんだよ！"
+ma_sei_lost_leader_1_7 = "たいちょー を かえすんだよ！"
+ma_sei_lost_leader_1_8 = "たいちょー を かえすんだよ！"
+ma_sei_lost_leader_1_9 = "たいちょー を つれて いくんじゃ ないんだよ！"
+ma_sei_lost_leader_1_10 = "たいちょー を かえすんだよ！"
 
 
 ;野良野生
