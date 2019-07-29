@@ -1,11 +1,11 @@
-ごはん
-アクション
-教育
-アイテム
-冷凍庫
-ステータス
-実績
-記録
-オプション
-基本画面
-外出
+Food
+Actions
+Training
+Items
+Freezer
+Status
+Achievments
+Save
+Options
+Main Screen
+Outside
