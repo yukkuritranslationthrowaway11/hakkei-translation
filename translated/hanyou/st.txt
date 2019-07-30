@@ -1,28 +1,28 @@
-かしこさ
-トイレすら覚えられないだろう
-なんとかトイレは覚えられそうだ
-目を離すと自滅する恐れもありそうだ
-飼いゆとして最低限の知能はありそうだ
-１桁までなら完璧に数えられそうだ
-目を離しても自滅する可能性は低いだろう
-飼いゆとして恥ずかしくない知能がありそうだ
-金バッジ試験にも合格できるかもしれない
-簡単なおつかいまでできそうだ
-他のゆっくりの規範となる知能がありそうだ
-ゆっくりとは思えない知性を感じる……
+Intelligence
+Can't remember what toilet is
+Somehow knows what a toilet is
+Will die if left alone
+The bare minimum for a pet yu
+Can perfectly count up to 1
+If alone it will probably live
+Won't be an embarassing pet
+It might fail the gold badge test
+Can do simple errands
+Meets the standard of other yukkuri
+Is not really like other yukkuri……
 
-なつき度
-警戒されている……
-ほとんど懐いていないようだ
-少し懐き始めたようだ
-積極的に近づいてくる
-少し信頼してくれていそうだ
-ゆっくりを分けあってくれそうだ
-かなり信頼してくれていそうだ
-すごく信頼してくれていそうだ
-強い親愛の念を感じる
-無理なお願いでも聞いてくれそうだ
-ゆっくりをすべてくれそうだ
+Emotions
+Cautious……
+Hardly attached
+Starts to warm up
+Approaches positively
+Puts a little faith in you
+Feels easy around you
+Considerable trust
+Quite the trust
+A strong sense of love
+Would listen to unreasonable demands
+Totally takes it easy
 
 ゲス度
 純粋無垢だ
