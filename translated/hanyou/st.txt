@@ -37,12 +37,12 @@ She's never wrong
 Thinks she's a blessing
 Thinks the world is hers
 
-満腹度
-餓死しそうだ
-腹ペコだ
-お腹が空いている
-特に空腹ではないだろう
-満腹だ
+Hunger
+Starving
+Hungry
+Getting hungry
+Not really hungry
+Full stomach
 
 恐怖度
 全く人間を恐れていない
