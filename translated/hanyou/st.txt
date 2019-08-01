@@ -52,42 +52,42 @@ Scared of humans
 Very scared of humans
 Scared of humans a lot
 
-運動神経
-ものすごく鈍い
-鈍い
-まぁまぁだ
-少し機敏だ
-まぁまぁ機敏だ
-なかなか機敏だ
-かなり機敏だ
-抜群だ
-かなり抜群だ
-たつゆん級だ
-ゆっくりとは思えない
+Motor Skills
+Can barely move
+Slow
+So so
+A bit quick
+Somewhat quick
+Quite agile
+Considerably agile
+Athletic
+Really athletic
+Olympic skills
+Is it really a yukkuri?
 
-最大体力
-永遠にゆっくりしそうだ
-虚弱だ
-ひ弱だ
-普通だ
-丈夫だ
-とても丈夫だ
-鉄ゆんだ
+Stamina
+Forever easy (slow)
+Feeble
+Weak
+Normal
+Healthy
+Very healthy
+Outstandngly healthy
 
-病気
-健康
-便秘
+Disease
+Health
+Constipated
 痔主
-去勢
-ゆかび
+Castrated
+Mold
 
-好感度
-嫌っている
-無関心
-気まずい
-仲良し
-ラブラブ
-無償の愛
+Popularity
+Hated
+Indifferent
+Awkward
+Intimate
+LoveLove
+Absolute Love
 
 
 
