@@ -44,13 +44,13 @@ Getting hungry
 Not really hungry
 Full stomach
 
-恐怖度
-全く人間を恐れていない
-少し人間を警戒している
-人間は危険だと思っている
-人間に恐怖心がある
-人間に強い恐怖心がある
-人間を強く恐れている
+Fear
+Not scared of humans
+Cautious around humans
+Thinks humans are dangerous
+Scared of humans
+Very scared of humans
+Scared of humans a lot
 
 運動神経
 ものすごく鈍い
