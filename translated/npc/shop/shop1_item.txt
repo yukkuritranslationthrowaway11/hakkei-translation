@@ -9,7 +9,7 @@ A toilet for Yukkuri with automatic flushing.\nIt flushes water without needing 
 
 
 //給水器
-Water supply for Yukkuri。\nOther than food、hydration is essential\nDuring summer and the like something else might be needed。(Not implemented yet)
+Water supply for Yukkuri。\nOther than food、hydration is essential\nDuring summer and the like something else might be needed。
 
 
 

@@ -43,4 +43,4 @@ The behaviour test was a failure。
 The intelligence test was a failure。
 Both the behaviour and intelligence test were a failure。
 This Yukkuri already has a badge of higher rank。
-This Yukkuri has already been tested。
+This Yukkuri has already been tested for this。
