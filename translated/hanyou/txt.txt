@@ -82,4 +82,56 @@ tumuri_name_5_sei="Shelly"
 tumuri_name_6_sei="Shelly"
 
 sakebi_tumuri = "yyyyy！？"
+;つむり
+tumuri_name_1_aka="Shewwy"
+tumuri_name_2_aka="Shewwy"
+tumuri_name_3_aka="Shewwy"
+tumuri_name_4_aka="Shewwy"
+tumuri_name_5_aka="Shewwy"
+tumuri_name_6_aka="Shewwy"
+
+tumuri_name_1_sei="Shelly"
+tumuri_name_2_sei="Shelly"
+tumuri_name_3_sei="Shelly"
+tumuri_name_4_sei="Shelly"
+tumuri_name_5_sei="Shelly"
+tumuri_name_6_sei="Shelly"
+
+sakebi_tumuri = "yyyyy！？"
+
+
+;ありす
+arisu_name_1_aka="Awiche"
+arisu_name_2_aka="Awishe"
+arisu_name_3_aka="Aishe"
+arisu_name_4_aka="Awiche"
+arisu_name_5_aka="Awishe"
+arisu_name_6_aka="Aishe"
+
+arisu_name_1_sei="Alice"
+arisu_name_2_sei="Alice"
+arisu_name_3_sei="Alice"
+arisu_name_4_sei="Alice"
+arisu_name_5_sei="Alice"
+arisu_name_6_sei="Alice"
+
+sakebi_arisu = "eeeeee！？"
+
+
+;add
+add_name_1_aka="maricha"
+add_name_2_aka="maricha"
+add_name_3_aka="marisha"
+add_name_4_aka="maacha"
+add_name_5_aka="maacha"
+add_name_6_aka="maasha"
+
+add_name_1_sei="maricha"
+add_name_2_sei="maricha"
+add_name_3_sei="marisha"
+add_name_4_sei="maacha"
+add_name_5_sei="maacha"
+add_name_6_sei="maasha"
+
+sakebi_add = "aaaaaaa！？"
 
