@@ -29,8 +29,8 @@ What is it for today`H
 
 //‘I‘ğˆ
 A cure for mold, is it`H\nThat would be 10000 yen`
-‚ ‚ñ‚æ‚³‚ñ‚Ì¡—Ã‚Å‚·‚©`H\n¡—Ã”ï‚Í10000‰~‚É‚È‚è‚Ü‚·`
-A–Ñ‚Å‚·‚©`H\n‚¨’l’i‚Í5000‰~‚É‚È‚è‚Ü‚·`
+A cure for mister footsies`H\nThe cost is 10000 yen`
+Hair problems`H\nThe total is 5000 yen`
 
 
 
@@ -51,5 +51,5 @@ You don't have enough money`
 Please pick the Yukkuri needing treatment`
 Is it this Yukkuri`H
 This Yukkuri doesn't have mold`
-‚±‚Ì‚ä‚Á‚­‚è‚Ì‚ ‚ñ‚æ‚³‚ñ‚ÍŒ’N‚Å‚·‚æ`
-‚±‚Ì‚ä‚Á‚­‚è‚Í‚Â‚é‚Ò‚©‚¶‚á‚È‚¢‚Å‚·‚æ`
+The mister footsies of this yukkri are healthy`
+This yukkuri isn't a baldy`
