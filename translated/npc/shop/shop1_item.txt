@@ -49,8 +49,8 @@ It's a pool for Yukkuri。\nYukkuri like to swim here、 but if they stay in the w
 
 
 //ハウス
-ゆっくりちゃん用の木のおうちです。\n自然の木材を加工して作った、まさにゆっくりプレイスです！
-ゆっくりちゃん用のきのこ型のおうちです。\n自然のきのこを加工して作った……わけではありませんが、\nとってもゆっくりしているそうですよ！
+A wooden house for yukkuri。\nIt's made from real wood、so it is certainly an easy place！
+A mushroom-shaped house for yukkuri。\nIt's made from……not a real mushroom、\nbut it seems to be still an easy place！
 
 
 
