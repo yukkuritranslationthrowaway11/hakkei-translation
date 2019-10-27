@@ -1,14 +1,14 @@
-（野生のゆっくりを探していたら雨に振られてしまった）
-（雨宿り出来る場所を探していたら古びた山小屋を見つけ、\n雨宿りさせてもらうことにした)
-（住人を探したが、小屋の中には誰も居ないようだ。）
-（中にはそこら中に大量の本が積まれている……）
-（２、３冊手にとって中身を見てみるが、\nミミズがのたくったような字でなんと書いてあるか分からない。）
+（While looking for wild yukkuri、suddenly rain started to fall）
+（You find an old hut in the midst of searching for shelter、\nwhich looks like a good place to hide in)
+（You search for the owner、but it appears to be empty。）
+（A large number of books seems to be piled up all over the place……）
+（You take a couple of them to check the insides、\nhowever bugs ate the pages making them unreadable。）
 …… ……
-Mukyu？ Is there someone？
+Mukyu？ Is someone there？
 ……
 Oh my、Mister Human？ What could you do here？
 （From the shadows、 Patchouli appears）
-そう、あまやどり させてほしいのね
+Ah、someone taking shelter from the rain
 いまここには ぱちぇいがい だれもいないから べつにかまわないわ
 …… ……
 そのまどうしょに きょうみが あるの？
