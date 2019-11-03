@@ -34,7 +34,7 @@ Spring
 Summer
 Fall
 Winter
-期目
+Mnth
 yen
 Mister footsies！？
 Abyuser level
@@ -69,8 +69,8 @@ Silver badge
 Arithmetics
 問正解！
 しつけ設定
-時間を朝に
-時間を夜に
+Skip to morning
+Skip to evening
 睡眠中限定：少し早送り
 ゆっくりしてんじゃない？
 ゆっくりしてんじゃない？
@@ -82,7 +82,7 @@ Screenshot
 Clean
 Tidy up
 Wash
-Emptyhanded
+Empty
 道具使用
 お飾り設置
 声かけ
@@ -135,10 +135,10 @@ Emptyhanded
 全ゆん転がって
 全ゆんおしり見せて
 おかざり吊り下げ
-まりさ種
-れいむ種
-つむり種
-ありす種
+Marisa
+Reimu
+Shelly
+Arisu
 種
 おかざり設置(子ゆ用)
 おかざり設置(成ゆ用)
@@ -247,10 +247,10 @@ Emptyhanded
 餅粉サプリ効果発動中：相互好感度UPボーナス
 小豆サプリ効果発動中：最大体力UPボーナス
 何も与えていない
-ブリーダー
-ボーナス１
-鬼威惨
-ボーナス２
+Breeder
+Bonus １
+Abyuser
+Bonus ２
 植毛治療
 未実装
 正解数:
@@ -279,7 +279,7 @@ Emptyhanded
 軽量
 背景処理を
 現在の背景処理
-戻る
+Back
 上部ショートカットキーの操作を
 移動
 表示
@@ -308,9 +308,9 @@ Xマスケーキ
 生ごみ
 うんうん
 餌分量調節
-小
-中
-大
+Small
+Medium
+Big
 特大
 配分設定
 固定
@@ -411,4 +411,4 @@ Xマスケーキ
 高級ゆっくりショップ
 公園隅っこ
 探検隊発見
-戻る
+Back
