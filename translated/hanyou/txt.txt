@@ -1,17 +1,17 @@
 ;”‚¢åŒÄ‚Ñ•û
-your_name_1_aka=Mishter Human
-your_name_2_aka=Mishter
-your_name_3_aka=Geejer
-your_name_4_aka=Old Geejer
-your_name_5_aka=dwaddie
-your_name_6_aka=shiddy pawent
+your_name1_1_aka=Mishter Human
+your_name1_2_aka=Mishter
+your_name1_3_aka=Geejer
+your_name1_4_aka=Old Geejer
+your_name1_5_aka=dwaddie
+your_name1_6_aka=shiddy pawent
 
-your_name_1_sei=Mister Human
-your_name_2_sei=Mister
-your_name_3_sei=Geezer
-your_name_4_sei=Old Geezer
-your_name_5_sei=daddie
-your_name_6_sei=shitty parent
+your_name1_1_sei=Mister Human
+your_name1_2_sei=Mister
+your_name1_3_sei=Geezer
+your_name1_4_sei=Old Geezer
+your_name1_5_sei=daddie
+your_name1_6_sei=shitty parent
 
 your_name2_1_aka=Mishter human
 your_name2_2_aka=Missh
