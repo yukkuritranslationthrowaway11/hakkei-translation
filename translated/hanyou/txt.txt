@@ -1,31 +1,31 @@
 ;飼い主呼び方
-your_name_1_aka="Mishter Human"
-your_name_2_aka="Mishter"
-your_name_3_aka="Geejer"
-your_name_4_aka="Old Geejer"
-your_name_5_aka="dwaddie"
-your_name_6_aka="shiddy pawent"
+your_name_1_aka=Mishter Human
+your_name_2_aka=Mishter
+your_name_3_aka=Geejer
+your_name_4_aka=Old Geejer
+your_name_5_aka=dwaddie
+your_name_6_aka=shiddy pawent
 
-your_name_1_sei="Mister Human"
-your_name_2_sei="Mister"
-your_name_3_sei="Geezer"
-your_name_4_sei="Old Geezer"
-your_name_5_sei="daaddie"
-your_name_6_sei="shitty parent"
+your_name_1_sei=Mister Human
+your_name_2_sei=Mister
+your_name_3_sei=Geezer
+your_name_4_sei=Old Geezer
+your_name_5_sei=daddie
+your_name_6_sei=shitty parent
 
-your_name2_1_aka=にんげんしゃん
-your_name2_2_aka=おねーしゃん
-your_name2_3_aka=ばばぁ
-your_name2_4_aka=くちょばばぁ
-your_name2_5_aka=おかーしゃ
-your_name2_6_aka=くちょおや
+your_name2_1_aka=Mishter human
+your_name2_2_aka=Missh
+your_name2_3_aka=Hwag
+your_name2_4_aka=Old hwag
+your_name2_5_aka=mwommie
+your_name2_6_aka=shiddy pawent
 
-your_name2_1_sei=にんげんさん
-your_name2_2_sei=おねーさん
-your_name2_3_sei=ばばあ
-your_name2_4_sei=くそばばあ
-your_name2_5_sei=おかーさん
-your_name2_6_sei=くそおや
+your_name2_1_sei=Mister human
+your_name2_2_sei=Miss
+your_name2_3_sei=Hag
+your_name2_4_sei=Shitty hag
+your_name2_5_sei=mommie
+your_name2_6_sei=shitty parent
 
 your_name3_1_aka=にんげんしゃん
 your_name3_2_aka=おねにーしゃん
