@@ -10,34 +10,34 @@ Options
 Main Screen
 Outside
 
-オートセーブ
-タイトルへ戻る
-ショートカットキー
-スロット
-コメント
-ＳＣキー ロードしますか？
-オートセーブ ロードしますか？
- ロードしますか？
-ＳＣキー セーブしますか？
-オートセーブ セーブしますか？
- セーブしますか？
-匹目
-終了
-最初は？
-次は？
-かしこさ
-ポイントUP
-はどっち？
-時
-分
-春
-夏
-秋
-冬
+Autosave
+Back to Title
+Shortcut Keys
+Slot
+Comment
+Load shortcuts？
+Load autosave？
+: load this？
+Save shortcut？
+Save autosave？
+: save this？
+°
+End
+Start？
+Next？
+Smart
+Point UP
+: where is？
+h
+m
+Spring
+Summer
+Fall
+Winter
 期目
-円
-あんよしゃんがぁ！？
-鬼威惨レベル
+yen
+Mister footsies！？
+Abyuser level
 強制ライブ開催！
 ぷるぷる えれくちおん
 これどくはいってる！？
@@ -49,7 +49,7 @@ Outside
 ひかりあれ！
 メンタルブレイク
 おかわりもいいぞ！
-ブリーダーレベル
+Breeder level
 あたらしいかぞく
 いのちのばとん
 一流スナイパー
@@ -61,12 +61,12 @@ Outside
 といれさんはここ！
 しょくごのうんどう
 はんてぃんぐ！
-ゆかび治療
-足焼き治療
-植毛
-銅バッジ入品
-銀バッジ入品
-さんすう連続
+Mold treatment
+Footsie treatment
+New hairs
+Copper badge
+Silver badge
+Arithmetics
 問正解！
 しつけ設定
 時間を朝に
@@ -78,11 +78,11 @@ Outside
 ゆっくりしてんじゃない？
 ゆっくりしてんじゃない？
 ゆっくりしてんじゃない？
-画面保存
-そうじ
-片付ける
-洗う
-素手
+Screenshot
+Clean
+Tidy up
+Wash
+Emptyhanded
 道具使用
 お飾り設置
 声かけ
