@@ -67,8 +67,8 @@ New hairs
 Copper badge
 Silver badge
 Arithmetics
-問正解！
-しつけ設定
+correct answers！
+Scold
 Skip to morning
 Skip to evening
 睡眠中限定：少し早送り
@@ -79,14 +79,14 @@ Can't take it easy？
 Can't take it easy？
 Can't take it easy？
 Screenshot
-Clean
+Wipe
 Tidy up
 Wash
 Hands
 Tools
 Accessory
 Greetings
-清掃
+Clean
 管理
 Hold gently
 Holdy firmly
@@ -97,39 +97,39 @@ Face up
 Flick
 Slap
 Punch
-瓶から茎を抜く
-おかざりをもつ
-おかざり没収
-まち針
-定規ビンタ
-ハンマー
-キリ
-キリライター
-あおむけ(固定)
-やさしく吊るす
-吊るす
-(ひもの長さ)
-箱閉じ込め
-ローター
+Free from container
+Hold accessory
+Hide accessory
+Pin
+Ruler slap
+Hammer
+Scalpel
+Hot scalpel
+Face up (Tied)
+Hang gently
+Hang
+(String length)
+Imprison in box
+Vibrator
 ぺにきりばさみ
 ばりかん
 裁ちばさみ
 茎きりばさみ
 茎きりばさみ
 (瓶に入れる)
-埋葬
-捨てる
-冷凍
-タグ付選択
-タグ付終了
-匹数表示
-タグ表示
-バッジ表示：ＯＮ
-バッジ表示：ＯＦＦ
-やさしい言葉
-冷たい言葉
-特別扱いする
-クズ扱いする
+Bury
+Throw away
+Freeze
+Set a tag
+End tag setting
+Show counter
+Show tag
+Badge display：ＯＮ
+Badge display：ＯＦＦ
+Gentle words
+Cold words
+Treat specially
+Treat like scum
 転がって
 おしり見せて
 全ゆん転がって
@@ -142,10 +142,10 @@ Arisu
 Type
 おかざり設置(子ゆ用)
 おかざり設置(成ゆ用)
-禁止
-許可
-命令
-学習
+Prohibit
+Allow
+Orders
+Study
 個別学習
 飲み込む前のしあわせー禁止
 さかさまうんうん禁止
@@ -156,57 +156,57 @@ Type
 おちびちゃん作るのを許可
 おうたを歌うのを許可
 うんうんをトイレに片付けなさい
-うんうんたいそう
-かりのれんしゅう
-さんすう
-さんすう(自動化)
-こくご
+Poo poo dance
+Hunting training
+Arithmetics
+Arithmetics (auto)
+Language
 こくご（餌付き）
-家具類
-おもちゃ
-おうち
-水槽
-虐待器具
-おくすり
-ノーマルトイレ
-砂つきトイレ
-自動水洗トイレ
-葉っぱ
-給水機
-トイレットペーパーの芯
-素焼き風土管
-ビー球
-ゴムボール
-すべりだい
-トランポリン
-プール
-小石
-きれいな石
-クリアダイス
-れいむ人形
-ダンボールハウス
-木のおうち
-きのこ型ハウス
-おうちを揺らす
-おうちから出す（順番に1匹)
-おうちから出す（一気に全部)
-おうち内を表示
-おうち内を非表示
-何もなし
-新聞紙
-土
-紙やすり
-アルコールランプ
-オレンジジュース
-飲むヨーグルト
-ラムネ
-精子餡
+Furniture
+Toys
+Houses
+Aquarium
+Abyuse tools
+Medicines
+Normal toilet
+Sand toilet
+Self-cleaning toilet
+Leaves
+Water dispenser
+Toilet paper tube
+Clay pipe
+Marble
+Rubber ball
+Slide
+Trampoline
+Pool
+Pebble
+Pretty rock
+Clear dice
+Reimu doll
+Cardboard house
+Wood house
+Mushroom house
+Shake house
+Take from house （one a time)
+Take from house （all in one)
+Show inside house
+Hide inside house
+Nothing
+Newspaper
+Earth
+Sandpaper
+Alcohol lamp
+Orange juice
+Yoghurt
+Ramune
+Sperm paste
 ばいゆぐら
-ラムネスプレー
-非ゆ症防止薬
-和三盆サプリ
-餅粉サプリ
-小豆サプリ
+Ramune spray
+Anti-yukkuritis prevention
+Sugar supplement
+Flour supplement
+Red beans supplement
 シタタラン
 個
 知能アップの秘薬：
@@ -216,12 +216,12 @@ Type
 家族関係
 交友関係
 投薬状況
-ステータスを見たいゆっくりを選択
-種類:
-健康状態
-かしこさ:
+Select a yukkuri to see status
+Type:
+Health
+Intelligence:
 なつき度:
-ゲス度:
+Scumminess:
 舌肥え度:
 満腹度:
 体力:
@@ -269,12 +269,12 @@ Bonus ２
 叱る設定記憶：ＯＦＦ
 メニュータブ記憶：ＯＮ
 メニュータブ記憶：ＯＦＦ
-速い
-普通
-遅い
+Fast
+Normal
+Slow
 ゲームスピードを
 選択してください
-現在のゲームスピード
+Current game speed
 通常
 軽量
 背景処理を
@@ -285,11 +285,11 @@ Back
 表示
 非表示
 現在の設定選択
-ゆっくりフード
+Yukkuri food
 Sweet sweet
-スペシャル
-いまいち
-餌設定
+Special
+Not good
+Food settings
 高級ゆっくりフード
 激辛ゆっくりフード
 廉価ゆっくりフード
@@ -308,9 +308,9 @@ Xマスケーキ
 生ごみ
 うんうん
 餌分量調節
-Small
-Medium
-Big
+S
+M
+L
 特大
 配分設定
 固定
@@ -347,9 +347,9 @@ Return
 銀バッジ試験を受ける
 金バッジ試験を受ける
 プラチナバッジ試験を受ける
-次へ
-前へ
-購入
+Next
+Previous
+Buy
 血統無しゆっくりを見る
 銅血統ゆっくりを見る
 銀血統ゆっくりを見る
@@ -404,8 +404,8 @@ Yukkuri Shop ２
 駅：街行き
 繁華街（未実装)
 ゆっくり協会
-ゆっクリニック
-ゆっくりショップ３
+Yukkurinic
+Yukkuri Shop ３
 路地裏２（未実装)
 工事途中放置ビル(未実装)
 高級ゆっくりショップ
