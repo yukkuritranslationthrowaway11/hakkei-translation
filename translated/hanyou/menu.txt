@@ -130,32 +130,32 @@ Gentle words
 Cold words
 Treat specially
 Treat like scum
-転がって
-おしり見せて
-全ゆん転がって
-全ゆんおしり見せて
+Do a roll
+Show butt
+Everyone roll
+Everyone show butt
 おかざり吊り下げ
 Marisa
 Reimu
 Shelly
 Arisu
 Type
-おかざり設置(子ゆ用)
-おかざり設置(成ゆ用)
+Give accessory (child)
+Give accessory (adult)
 Prohibit
 Allow
 Orders
 Study
 個別学習
-飲み込む前のしあわせー禁止
-さかさまうんうん禁止
-おちびちゃん作るのは禁止
-おうたを歌うの禁止
-飲み込む前のしあわせー許可
-さかさまうんうん許可
-おちびちゃん作るのを許可
-おうたを歌うのを許可
-うんうんをトイレに片付けなさい
+Can not say happiness before swallowing
+Can not make poo poo upside down
+Can not make little ones
+Can not sing songs
+Can say happiness before swallowing
+Can make poo poo upside down
+Can make little ones
+Can sing songs
+Clean poo poo from toilet
 Poo poo dance
 Hunting training
 Arithmetics
@@ -220,26 +220,26 @@ Select a yukkuri to see status
 Type:
 Health
 Intelligence:
-なつき度:
+Emotions:
 Scumminess:
 舌肥え度:
-満腹度:
+Hunger:
 体力:
 運動神経:
 恐怖心:
-未婚
-結婚相手:水槽内に居ない
-結婚相手:
-みなしご
+Not married
+Partner: not in aquarium
+Partner:
+Orphan
 親だと思われている
-母ゆ:水槽内に居ない
-母ゆ:
-父ゆ:水槽内に居ない
-父ゆ:
-子ゆ:水槽内に居ない
-子ゆ:
-姉妹:水槽内に居ない
-姉妹:
+Mother: not in aquarium
+Mother:
+Father: not in aquarium
+Father:
+Child: not in aquarium
+Child:
+Sister: not in aquarium
+Sister:
 種類:
 非ゆっくり症防止薬効果発動中
 シタタラン効果発動中
@@ -257,11 +257,11 @@ Bonus ２
 合計ランク:
 かしこさ指導補正:
 愛され補正:
-ボーナス：ＯＮ
-ボーナス：ＯＦＦ
+Bonus：ＯＮ
+Bonus：ＯＦＦ
 でこぴん連続HIT数:
 ゲス度指導補正:
-ゲームスピード
+Game speed
 背景処理
 ショートカットキー設定
 上部ショートカットキー設定
@@ -290,13 +290,13 @@ Sweet sweet
 Special
 Not good
 Food settings
-高級ゆっくりフード
-激辛ゆっくりフード
-廉価ゆっくりフード
+Hight class food
+Spicy food
+Cheap food
 自動給餌機セットしない
 自動給餌機セットする
-餌皿を置く
-手渡しで食べさせる
+Put food in a plate
+Give food pesonally
 どんぐりあめ
 クッキー盛り合わせ
 ケーキ
@@ -311,7 +311,7 @@ Xマスケーキ
 S
 M
 L
-特大
+XL
 配分設定
 固定
 頭数分
@@ -340,7 +340,7 @@ L
 処分開始
 所持金:
 この子は買取ができないです
-ボックス
+Box
 ゆっくりを売却
 Return
 銅バッジ試験を受ける
@@ -356,8 +356,8 @@ Buy
 金血統ゆっくりを見る
 飼育用品を見る
 ゆっくりを売る
-本当に買う
-やっぱりやめる
+Complete purchase
+Changed my mind
 耐久強化ゆっくりを見る
 虐待用品を見る
 ショップで購入した、お姉さんが躾けたゆっくり
@@ -382,33 +382,33 @@ Buy
 あんよさんを治療
 舌麻痺状態を治療
 植毛
-街
-自宅
-裏庭
-広場
-山林
+Downtown
+Home
+Backyard
+Plaza
+Mountain forest
 ？？？
-路地裏
-自販機下
-公園
-駅：都会行き
+Back alley
+Under a vending machine
+Park
+Station：to city
 Yukkuri Shop １
-ゴミ捨て場
-溜池
-ボロ神社
-神社
+Garbage dump
+Pond
+Ruined shrine
+Shrine
 Yukkuri Shop ２
-河川敷
-高架下
-都会
-駅：街行き
-繁華街（未実装)
-ゆっくり協会
+Riverside
+Near an elevation
+City
+Station：to downtown
+Shopping district（unavailable)
+Yukkuri Association
 Yukkurinic
 Yukkuri Shop ３
-路地裏２（未実装)
-工事途中放置ビル(未実装)
-高級ゆっくりショップ
-公園隅っこ
+Back alley ２（unavailable)
+Abandoned building site(unavailable)
+High class Yukkuri Shop
+Somewhere in park
 探検隊発見
 Back
