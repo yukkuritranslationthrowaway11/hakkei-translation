@@ -72,31 +72,31 @@ Arithmetics
 Skip to morning
 Skip to evening
 睡眠中限定：少し早送り
-ゆっくりしてんじゃない？
-ゆっくりしてんじゃない？
-ゆっくりしてんじゃない？
-ゆっくりしてんじゃない？
-ゆっくりしてんじゃない？
-ゆっくりしてんじゃない？
+Can't take it easy？
+Can't take it easy？
+Can't take it easy？
+Can't take it easy？
+Can't take it easy？
+Can't take it easy？
 Screenshot
 Clean
 Tidy up
 Wash
-Empty
-道具使用
-お飾り設置
-声かけ
+Hands
+Tools
+Accessory
+Greetings
 清掃
 管理
-やさしく持つ
-強く持つ
-(力加減)
-すりすり
-転がす
-あおむけ
-でこピン
-ビンタ
-ぱんち
+Hold gently
+Holdy firmly
+(Strength)
+Rub rub
+Roll
+Face up
+Flick
+Slap
+Punch
 瓶から茎を抜く
 おかざりをもつ
 おかざり没収
@@ -139,7 +139,7 @@ Marisa
 Reimu
 Shelly
 Arisu
-種
+Type
 おかざり設置(子ゆ用)
 おかざり設置(成ゆ用)
 禁止
@@ -286,7 +286,7 @@ Back
 非表示
 現在の設定選択
 ゆっくりフード
-あまあま
+Sweet sweet
 スペシャル
 いまいち
 餌設定
@@ -342,7 +342,7 @@ Big
 この子は買取ができないです
 ボックス
 ゆっくりを売却
-帰る
+Return
 銅バッジ試験を受ける
 銀バッジ試験を受ける
 金バッジ試験を受ける
@@ -392,12 +392,12 @@ Big
 自販機下
 公園
 駅：都会行き
-ゆっくりショップ１
+Yukkuri Shop １
 ゴミ捨て場
 溜池
 ボロ神社
 神社
-ゆっくりショップ２
+Yukkuri Shop ２
 河川敷
 高架下
 都会
