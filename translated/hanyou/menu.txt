@@ -240,7 +240,7 @@ Child: not in aquarium
 Child:
 Sister: not in aquarium
 Sister:
-種類:
+Type:
 非ゆっくり症防止薬効果発動中
 シタタラン効果発動中
 和三盆サプリ効果発動中：かしこさUPボーナス
@@ -293,21 +293,21 @@ Food settings
 Hight class food
 Spicy food
 Cheap food
-自動給餌機セットしない
-自動給餌機セットする
+Autofeeder not set
+Autofeeder set
 Put food in a plate
 Give food pesonally
-どんぐりあめ
-クッキー盛り合わせ
-ケーキ
-クッキー手渡し
-Xマスケーキ
-ベーコンごはんさん
-カルボさん
-ざっそう
-生ごみ
-うんうん
-餌分量調節
+Sweet acorn
+Assorted cookies
+Cake
+Personal cookie
+Xmas cake
+Mister bacon&rice
+Mister carbonara
+Grass
+Garbage
+Poo poo
+Food quantity
 S
 M
 L
@@ -315,14 +315,14 @@ XL
 配分設定
 固定
 頭数分
-自動給餌機設定
-常に給餌
-一日
-一食
-二食
-三食
-死因:
-享年
+Feeder settings
+Always feed
+Through the day
+Once
+Twice
+Thrice
+Death by:
+Age at death
 ねんと
 このきせつと
 期目
@@ -410,5 +410,5 @@ Back alley ２（unavailable)
 Abandoned building site(unavailable)
 High class Yukkuri Shop
 Somewhere in park
-探検隊発見
+Exploration party discovery
 Back
