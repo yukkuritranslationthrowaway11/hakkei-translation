@@ -222,11 +222,11 @@ Health
 Intelligence:
 Emotions:
 Scumminess:
-舌肥え度:
+Palate:
 Hunger:
-体力:
-運動神経:
-恐怖心:
+Stamina:
+Reflexes:
+Fear:
 Not married
 Partner: not in aquarium
 Partner:
