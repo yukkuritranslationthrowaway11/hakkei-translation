@@ -85,9 +85,9 @@ Wash
 Hands
 Tools
 Accessory
-Greetings
+Speech
 Clean
-ŠÇ—
+Manage
 Hold gently
 Holdy firmly
 (Strength)
@@ -375,7 +375,7 @@ Cookie
 Cake
 Ramune
 Spicy yukkuri food
-‹à‘®»‚Ì” 
+Metal box
 ”ñ‚ä‚Á‚­‚èÇ–h~–ò
 ‚¨d’u‚«—pŒÅ’è‹ï
 ‚ä‚©‚Ñ‚ğ¡—Ã
