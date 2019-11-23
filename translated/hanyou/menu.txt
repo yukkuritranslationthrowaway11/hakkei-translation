@@ -368,13 +368,13 @@ Changed my mind
 
 
 
-廉価ゆっくりフード契約
-ゆっくりフード契約
-高級ゆっくりフード契約
-ゆっくり用クッキー
-ゆっくり用ケーキ
-ゆっくり用ラムネ
-激辛ゆっくりフード契約
+Cheap yukkuri food
+Yukkuri food
+Fancy yukkuri food
+Cookie
+Cake
+Ramune
+Spicy yukkuri food
 金属製の箱
 非ゆっくり症防止薬
 お仕置き用固定具
