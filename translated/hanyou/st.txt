@@ -6,13 +6,13 @@ The bare minimum for a pet yu
 Can perfectly count up to 1
 If alone it will probably live
 Won't be an embarassing pet
-It might fail the gold badge test
+Might fail the gold badge test
 Can do simple errands
 Meets the standard of other yukkuri
-Is not really like other yukkuri……
+Is not really like other yukkuri...
 
-Emotions
-Cautious……
+Affection
+Cautious...
 Hardly attached
 Starts to warm up
 Approaches positively
@@ -27,12 +27,12 @@ Totally takes it easy
 Scumminess
 Pure and innocent
 Can take it easy
-Is a bit egoistic
-Acts egoistically
+A bit egotistical
+Acts egotistically
 Only thinks for herself
 If she's good, all's fine
 Looks down on other yukkuri
-Other yukkuri exists for her sake
+Other yukkuri exist for her sake
 She's never wrong
 Thinks she's a blessing
 Thinks the world is hers
@@ -42,7 +42,7 @@ Starving
 Hungry
 Getting hungry
 Not really hungry
-Full stomach
+Full
 
 Fear
 Not scared of humans
@@ -50,12 +50,12 @@ Cautious around humans
 Thinks humans are dangerous
 Scared of humans
 Very scared of humans
-Scared of humans a lot
+Extremely scared of humans
 
 Motor Skills
 Can barely move
 Slow
-So so
+So-so
 A bit quick
 Somewhat quick
 Quite agile
@@ -72,12 +72,12 @@ Weak
 Normal
 Healthy
 Very healthy
-Outstandngly healthy
+Outstandingly healthy
 
 Disease
 Healthy
 Constipated
-痔主
+逞比ｸｻ
 Castrated
 Mold
 
@@ -98,8 +98,8 @@ So-so sense of taste
 A bit spoiled
 A gourmet
 Luxurious palate
-Only sweet sweets and above
-Sweet sweets aren't enough
+Only sweet-sweets and above
+Sweet-sweets aren't enough
 Only excellent gourmet food
 
 
@@ -108,7 +108,7 @@ Only excellent gourmet food
 
 Species
 Marisa
-Shelly
+Shell Marisa
 Reimu
-WasaReimu
+Wasa Reimu
 
