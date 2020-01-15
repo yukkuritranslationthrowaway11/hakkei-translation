@@ -1,5 +1,4 @@
 
-
 ;/////////////////////////////////////////////////////////////
 ;
 ;汎用セリフ
@@ -312,24 +311,24 @@ ma_sei_hanyou_smel_1_9 = "これ くさぃぃぃ!!"
 ma_sei_hanyou_smel_1_10 = "ゆぇんっっ!!"
 
 ma_sei_hanyou_want_1_1 = "【一人称】 too!!"
-ma_sei_hanyou_want_1_2 = "【一人称】 wants it too!!"
+ma_sei_hanyou_want_1_2 = "【一人称】 wants it too da ze!!"
 ma_sei_hanyou_want_1_3 = "【一人称】 too!!"
 ma_sei_hanyou_want_1_4 = "【一人称】 too!!"
-ma_sei_hanyou_want_1_5 = "【一人称】 wants it too!!"
+ma_sei_hanyou_want_1_5 = "【一人称】 wants it too da ze!!"
 ma_sei_hanyou_want_1_6 = "【一人称】 too!!"
 ma_sei_hanyou_want_1_7 = "【一人称】 too!!"
-ma_sei_hanyou_want_1_8 = "【一人称】も ちょーだい!!"
+ma_sei_hanyou_want_1_8 = "【一人称】 wants it too!!"
 ma_sei_hanyou_want_1_9 = "【一人称】 too!!"
 ma_sei_hanyou_want_1_10 = "【一人称】 too!!"
 
 ma_sei_hanyou_want_2_1 = "【一人称】 too!!"
-ma_sei_hanyou_want_2_2 = "【一人称】 wants to play too!!"
+ma_sei_hanyou_want_2_2 = "【一人称】 wants to play too no ze!!"
 ma_sei_hanyou_want_2_3 = "【一人称】 too!!"
 ma_sei_hanyou_want_2_4 = "【一人称】 too!!"
-ma_sei_hanyou_want_2_5 = "【一人称】 wants to play too!!"
+ma_sei_hanyou_want_2_5 = "【一人称】 wants to play too no ze!!"
 ma_sei_hanyou_want_2_6 = "【一人称】 too!!"
 ma_sei_hanyou_want_2_7 = "【一人称】 too!!"
-ma_sei_hanyou_want_2_8 = "【一人称】 wants to play too!!"
+ma_sei_hanyou_want_2_8 = "【一人称】 wants to play too no ze!!"
 ma_sei_hanyou_want_2_9 = "【一人称】 too!!"
 ma_sei_hanyou_want_2_10 = "【一人称】 too!!"
 
