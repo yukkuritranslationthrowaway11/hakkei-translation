@@ -1,180 +1,179 @@
-;������Ăѕ�
-your_name1_1_aka=Mishter Human
-your_name1_2_aka=Mishter
-your_name1_3_aka=Geejer
-your_name1_4_aka=Old Geejer
-your_name1_5_aka=dwaddie
-your_name1_6_aka=shiddy pawent
+;飼い主呼び方
+your_name1_1_aka="Mishter human"
+your_name1_2_aka="Mishter"
+your_name1_3_aka="Geejer"
+your_name1_4_aka="Old geejer"
+your_name1_5_aka="Dwaddie"
+your_name1_6_aka="Shiddy pawent"
 
-your_name1_1_sei=Mister Human
-your_name1_2_sei=Mister
-your_name1_3_sei=Geezer
-your_name1_4_sei=Old Geezer
-your_name1_5_sei=daddie
-your_name1_6_sei=shitty parent
+your_name1_1_sei="Mister human"
+your_name1_2_sei="Mister"
+your_name1_3_sei="Geezer"
+your_name1_4_sei="Old geezer"
+your_name1_5_sei="Daddie"
+your_name1_6_sei="Shitty parent"
 
-your_name2_1_aka=Mishter human
-your_name2_2_aka=Missh
-your_name2_3_aka=Hwag
-your_name2_4_aka=Old hwag
-your_name2_5_aka=mwommie
-your_name2_6_aka=shiddy pawent
+your_name2_1_aka="Mish human"
+your_name2_2_aka="Mish"
+your_name2_3_aka="Hwag"
+your_name2_4_aka="Old hwag"
+your_name2_5_aka="Mwommie"
+your_name2_6_aka="Shiddy pawent"
 
-your_name2_1_sei=Mister human
-your_name2_2_sei=Miss
-your_name2_3_sei=Hag
-your_name2_4_sei=Shitty hag
-your_name2_5_sei=mommie
-your_name2_6_sei=shitty parent
+your_name2_1_sei="Miss human"
+your_name2_2_sei="Miss"
+your_name2_3_sei="Hag"
+your_name2_4_sei="Old hag"
+your_name2_5_sei="Mommie"
+your_name2_6_sei="Shitty parent"
 
-your_name3_1_aka=�ɂ񂰂񂵂��
-your_name3_2_aka=���˂Ɂ[�����
-your_name3_3_aka=�΂΂�
-your_name3_4_aka=������΂΂�
-your_name3_5_aka=�����Ɓ[����
-your_name3_6_aka=�����储��
+your_name3_1_aka=にんげんしゃん
+your_name3_2_aka=おねにーしゃん
+your_name3_3_aka=ばばか
+your_name3_4_aka=くちょばばぁ
+your_name3_5_aka=おかとーしゃ
+your_name3_6_aka=くちょおや
 
-your_name3_1_sei=�ɂ񂰂񂳂�
-your_name3_2_sei=���˂Ɂ[����
-your_name3_3_sei=�΂΂�
-your_name3_4_sei=�����΂΂�
-your_name3_5_sei=�����Ɓ[����
-your_name3_6_sei=��������
+your_name3_1_sei=にんげんさん
+your_name3_2_sei=おねにーさん
+your_name3_3_sei=ばばあ
+your_name3_4_sei=くそばばあ
+your_name3_5_sei=おかとーさん
+your_name3_6_sei=くそおや
 
-your_name4_1_aka=�ɂ񂰂񂵂��
-your_name4_2_aka=���ɂˁ[�����
-your_name4_3_aka=������
-your_name4_4_aka=�����傶����
-your_name4_5_aka=���Ƃ��[����
-your_name4_6_aka=�����储��
+your_name4_1_aka=にんげんしゃん
+your_name4_2_aka=おにねーしゃん
+your_name4_3_aka=じじぃ
+your_name4_4_aka=くちょじじぃ
+your_name4_5_aka=おとかーしゃ
+your_name4_6_aka=くちょおや
 
-your_name4_1_sei=�ɂ񂰂񂳂�
-your_name4_2_sei=���ɂˁ[����
-your_name4_3_sei=������
-your_name4_4_sei=����������
-your_name4_5_sei=���Ƃ��[����
-your_name4_6_sei=��������
-
-
-��
-many_aka=wotsh
-
-many_sei=lots
-
-�Ƒ�
-big_sis_name_aka="Big shish"
-little_sis_name_aka="Widdle shish"
-mother_name_aka="Mwommie"
-father_name_aka="Dwaddie"
-otibi_name_aka="Liddle one"
-big_sis_name_sei="Big sis"
-little_sis_name_sei="Little sis"
-mother_name_sei="Mommie"
-father_name_sei="Daddie"
-otibi_name_sei="Little one"
-
-;�܂肳
-marisa_name_1_aka="Maricha"
-marisa_name_2_aka="Marisha"
-marisa_name_3_aka="Maicha"
-marisa_name_4_aka="Maisha"
-marisa_name_5_aka="Maacha"
-marisa_name_6_aka="Maasha"
-
-marisa_name_1_sei="Marisa"
-marisa_name_2_sei="Marisa"
-marisa_name_3_sei="Marisa"
-marisa_name_4_sei="Marisa"
-marisa_name_5_sei="Marisa"
-marisa_name_6_sei="Marisa"
-
-sakebi_marisa = "aaaaa�I�H"
+your_name4_1_sei=にんげんさん
+your_name4_2_sei=おにねーさん
+your_name4_3_sei=じじい
+your_name4_4_sei=くそじじい
+your_name4_5_sei=おとかーさん
+your_name4_6_sei=くそおや
 
 
-;�ꂢ��
-reimu_name_1_aka="Reimyu"
-reimu_name_2_aka="Reimyu"
-reimu_name_3_aka="Reimyu"
-reimu_name_4_aka="Reemyu"
-reimu_name_5_aka="Reemyu"
-reimu_name_6_aka="Reemyu"
+数
+many_aka="wotsh"
 
-reimu_name_1_sei="Reimu"
-reimu_name_2_sei="Reimu"
-reimu_name_3_sei="Reimu"
-reimu_name_4_sei="Reimu"
-reimu_name_5_sei="Reemu"
-reimu_name_6_sei="Reemu"
+many_sei="lots"
 
-sakebi_reimu = "uuuuu�I�H"
+家族
+big_sis_name_aka="おねーちゃ"
+little_sis_name_aka="いもーちょ"
+mother_name_aka="おかーしゃ"
+father_name_aka="おとーしゃ"
+otibi_name_aka="おちびちゃん"
+big_sis_name_sei="おねーちゃん"
+little_sis_name_sei="いもーと"
+mother_name_sei="おかーさん"
+father_name_sei="おとーさん"
+otibi_name_sei="おちびちゃん"
 
+;まりさ
+marisa_name_1_aka="まりちゃ"
+marisa_name_2_aka="まりしゃ"
+marisa_name_3_aka="まいちゃ"
+marisa_name_4_aka="まいしゃ"
+marisa_name_5_aka="まーちゃ"
+marisa_name_6_aka="まーしゃ"
 
-;�ނ�
-tumuri_name_1_aka="Shewwy"
-tumuri_name_2_aka="Shewwy"
-tumuri_name_3_aka="Shewwy"
-tumuri_name_4_aka="Shewwy"
-tumuri_name_5_aka="Shewwy"
-tumuri_name_6_aka="Shewwy"
+marisa_name_1_sei="まりさ"
+marisa_name_2_sei="まりさ"
+marisa_name_3_sei="まりさ"
+marisa_name_4_sei="まりさ"
+marisa_name_5_sei="まりさ"
+marisa_name_6_sei="まりさ"
 
-tumuri_name_1_sei="Shelly"
-tumuri_name_2_sei="Shelly"
-tumuri_name_3_sei="Shelly"
-tumuri_name_4_sei="Shelly"
-tumuri_name_5_sei="Shelly"
-tumuri_name_6_sei="Shelly"
-
-sakebi_tumuri = "yyyyy�I�H"
-;�ނ�
-tumuri_name_1_aka="Shewwy"
-tumuri_name_2_aka="Shewwy"
-tumuri_name_3_aka="Shewwy"
-tumuri_name_4_aka="Shewwy"
-tumuri_name_5_aka="Shewwy"
-tumuri_name_6_aka="Shewwy"
-
-tumuri_name_1_sei="Shelly"
-tumuri_name_2_sei="Shelly"
-tumuri_name_3_sei="Shelly"
-tumuri_name_4_sei="Shelly"
-tumuri_name_5_sei="Shelly"
-tumuri_name_6_sei="Shelly"
-
-sakebi_tumuri = "yyyyy�I�H"
+sakebi_marisa = "ぁぁぁぁ！？"
 
 
-;���肷
-arisu_name_1_aka="Awiche"
-arisu_name_2_aka="Awishe"
-arisu_name_3_aka="Aishe"
-arisu_name_4_aka="Awiche"
-arisu_name_5_aka="Awishe"
-arisu_name_6_aka="Aishe"
+;れいむ
+reimu_name_1_aka="れいみゅ"
+reimu_name_2_aka="れいみゅ"
+reimu_name_3_aka="れいみゅ"
+reimu_name_4_aka="れーみゅ"
+reimu_name_5_aka="れーみゅ"
+reimu_name_6_aka="れーみゅ"
 
-arisu_name_1_sei="Alice"
-arisu_name_2_sei="Alice"
-arisu_name_3_sei="Alice"
-arisu_name_4_sei="Alice"
-arisu_name_5_sei="Alice"
-arisu_name_6_sei="Alice"
+reimu_name_1_sei="れいむ"
+reimu_name_2_sei="れいむ"
+reimu_name_3_sei="れいむ"
+reimu_name_4_sei="れーむ"
+reimu_name_5_sei="れーむ"
+reimu_name_6_sei="れーむ"
 
-sakebi_arisu = "eeeeee�I�H"
+sakebi_reimu = "Uuuu!?"
+
+
+;つむり
+tumuri_name_1_aka="ちゅむり"
+tumuri_name_2_aka="ちゅみゅり"
+tumuri_name_3_aka="つみゅり"
+tumuri_name_4_aka="ちゅむり"
+tumuri_name_5_aka="つみゅり"
+tumuri_name_6_aka="ちゅみゅり"
+
+tumuri_name_1_sei="つむり"
+tumuri_name_2_sei="つむり"
+tumuri_name_3_sei="つむり"
+tumuri_name_4_sei="つむり"
+tumuri_name_5_sei="つむり"
+tumuri_name_6_sei="つむり"
+
+sakebi_tumuri = "ぃぃぃぃ！？"
+;つむり
+tumuri_name_1_aka="ちゅむり"
+tumuri_name_2_aka="ちゅみゅり"
+tumuri_name_3_aka="つみゅり"
+tumuri_name_4_aka="ちゅむり"
+tumuri_name_5_aka="つみゅり"
+tumuri_name_6_aka="ちゅみゅり"
+
+tumuri_name_1_sei="つむり"
+tumuri_name_2_sei="つむり"
+tumuri_name_3_sei="つむり"
+tumuri_name_4_sei="つむり"
+tumuri_name_5_sei="つむり"
+tumuri_name_6_sei="つむり"
+
+sakebi_tumuri = "ぃぃぃぃ！？"
+
+
+;ありす
+arisu_name_1_aka="ありしゅ"
+arisu_name_2_aka="ありちゅ"
+arisu_name_3_aka="あいしゅ"
+arisu_name_4_aka="あいちゅ"
+arisu_name_5_aka="ありしゅ"
+arisu_name_6_aka="ありちゅ"
+
+arisu_name_1_sei="ありす"
+arisu_name_2_sei="ありす"
+arisu_name_3_sei="ありす"
+arisu_name_4_sei="ありす"
+arisu_name_5_sei="ありす"
+arisu_name_6_sei="ありす"
+
+sakebi_arisu = "Uuuu!?"
 
 
 ;add
-add_name_1_aka="maricha"
-add_name_2_aka="maricha"
-add_name_3_aka="marisha"
-add_name_4_aka="maacha"
-add_name_5_aka="maacha"
-add_name_6_aka="maasha"
+add_name_1_aka="Maricha"
+add_name_2_aka="Maricha"
+add_name_3_aka="Marisha"
+add_name_4_aka="Maacha"
+add_name_5_aka="Maacha"
+add_name_6_aka="Maasha"
 
-add_name_1_sei="maricha"
-add_name_2_sei="maricha"
-add_name_3_sei="marisha"
-add_name_4_sei="maacha"
-add_name_5_sei="maacha"
-add_name_6_sei="maasha"
+add_name_1_sei="Maricha"
+add_name_2_sei="Maricha"
+add_name_3_sei="Marisha"
+add_name_4_sei="Maacha"
+add_name_5_sei="Maacha"
+add_name_6_sei="Maasha"
 
-sakebi_add = "aaaaaaa�I�H"
-
+sakebi_add = "Aaaaaaa!?"
