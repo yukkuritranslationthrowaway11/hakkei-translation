@@ -1,42 +1,43 @@
-iWhile looking for wild yukkuriAsuddenly rain started to fallj
-iYou find an old hut in the midst of searching for shelterA\nwhich looks like a good place to hide in)
-iYou search for the ownerAbut it appears to be emptyBj
-iA large number of books seems to be piled up all over the placeccj
-iYou take a couple of them to check the insidesA\nhowever bugs ate the pages making them unreadableBj
-cc cc
-MukyuH Is someone thereH
-cc
-Oh myAMister HumanH What could you do hereH
-iFrom the shadowsA Patchouli appearsj
-AhAsomeone taking shelter from the rain
-‚¢‚Ü‚±‚±‚É‚Í ‚Ï‚¿‚¥‚¢‚ª‚¢ ‚¾‚ê‚à‚¢‚È‚¢‚©‚ç ‚×‚Â‚É‚©‚Ü‚í‚È‚¢‚í
-cc cc
-‚»‚Ì‚Ü‚Ç‚¤‚µ‚å‚É ‚«‚å‚¤‚Ý‚ª ‚ ‚é‚ÌH
-‚Ï‚¿‚¥‚Ì ‚©‚¢‚Ê‚µ‚³‚ñ‚Í ‚ä‚¤‚µ‚ã‚¤‚È ‚Ô‚è[‚¾[‚³‚ñ ‚ç‚µ‚¢‚í\n‚»‚Ì‚Ü‚Ç‚¤‚µ‚å‚Í ‚Ï‚¿‚¥‚Ì ‚©‚¢‚Ê‚µ‚³‚ñ‚ª ‚©‚¢‚½‚à‚Ì‚æ
-cc‚È‚ñ‚Ä‚©‚¢‚Ä‚ ‚é‚© ‚æ‚ß‚È‚¢‚ÌH
-‚»‚¤‚Ë ‚©‚¢‚Ê‚µ‚³‚ñ‚Ì ‚¶‚Í ‚æ‚­‚¢‚Á‚Ä‚à ‚Ç‚­‚Æ‚­ ‚¾‚Á‚½‚©‚çcc
-‚æ‚©‚Á‚½‚ç ‚Ï‚¿‚¥‚ª ‚æ‚ñ‚Å ‚ ‚°‚Ü‚µ‚å‚¤‚©H
-cc
-‚í‚©‚Á‚½‚í ‚Ü‚©‚¹‚Ä‚¿‚å‚¤‚¾‚¢
-‚Ç‚Ì ‚Ü‚Ç‚¤‚µ‚å‚ð ‚æ‚ß‚Î‚¢‚¢‚ÌH
-‚Á‚Ä ‚©‚¢‚Ä‚ ‚é‚í
+ï¿½iWhile looking for wild yukkuriï¿½Asuddenly rain started to fallï¿½j
+ï¿½iYou find an old hut in the midst of searching for shelterï¿½A\nwhich looks like a good place to hide in)
+ï¿½iYou search for the ownerï¿½Abut it appears to be emptyï¿½Bï¿½j
+ï¿½iA large number of books seems to be piled up all over the placeï¿½cï¿½cï¿½j
+ï¿½iYou take a couple of them to check the insidesï¿½A\nhowever bugs ate the pages making them unreadableï¿½Bï¿½j
+ï¿½cï¿½c ï¿½cï¿½c
+Mukyuï¿½H Is someone thereï¿½H
+ï¿½cï¿½c
+Oh myï¿½AMister Humanï¿½H What could you do hereï¿½H
+ï¿½iFrom the shadowsï¿½A Patchouli appearsï¿½j
+Ahï¿½Asomeone taking shelter from the rain
+ã„ã¾ã“ã“ã«ã¯ ã±ã¡ã‡ã„ãŒã„ ã ã‚Œã‚‚ã„ãªã„ã‹ã‚‰ ã¹ã¤ã«ã‹ã¾ã‚ãªã„ã‚
+â€¦â€¦ â€¦â€¦
+ãã®ã¾ã©ã†ã—ã‚‡ã« ãã‚‡ã†ã¿ãŒ ã‚ã‚‹ã®ï¼Ÿ
+ã±ã¡ã‡ã® ã‹ã„ã¬ã—ã•ã‚“ã¯ ã‚†ã†ã—ã‚…ã†ãª ã¶ã‚Šãƒ¼ã ãƒ¼ã•ã‚“ ã‚‰ã—ã„ã‚\nãã®ã¾ã©ã†ã—ã‚‡ã¯ ã±ã¡ã‡ã® ã‹ã„ã¬ã—ã•ã‚“ãŒ ã‹ã„ãŸã‚‚ã®ã‚ˆ
+â€¦â€¦ãªã‚“ã¦ã‹ã„ã¦ã‚ã‚‹ã‹ ã‚ˆã‚ãªã„ã®ï¼Ÿ
+ãã†ã­ ã‹ã„ã¬ã—ã•ã‚“ã® ã˜ã¯ ã‚ˆãã„ã£ã¦ã‚‚ ã©ãã¨ã ã ã£ãŸã‹ã‚‰â€¦â€¦
+ã‚ˆã‹ã£ãŸã‚‰ ã±ã¡ã‡ãŒ ã‚ˆã‚“ã§ ã‚ã’ã¾ã—ã‚‡ã†ã‹ï¼Ÿ
+â€¦â€¦
+ã‚ã‹ã£ãŸã‚ ã¾ã‹ã›ã¦ã¡ã‚‡ã†ã ã„
+ã©ã® ã¾ã©ã†ã—ã‚‡ã‚’ ã‚ˆã‚ã°ã„ã„ã®ï¼Ÿ
+ã£ã¦ ã‹ã„ã¦ã‚ã‚‹ã‚
 
-‚É‚ñ‚°‚ñ‚³‚ñ ‚È‚ñ‚¾‚© ‚¢‚¢‚±‚Æ‚ª‚ ‚Á‚½‚Ý‚½‚¢‚ËH
-‚»‚¤A‚»‚¾‚Ä‚Ä‚¢‚½ ‚ä‚Á‚­‚è‚ª \n“ºƒoƒbƒW ‚µ‚¯‚ñ‚³‚ñ‚É ‚²‚¤‚©‚­‚µ‚½‚Ì‚Ë
-‚¨‚ß‚Å‚Æ‚¤ ‚Ï‚¿‚¥‚à‚È‚ñ‚¾‚© ‚¤‚ê‚µ‚¢‚í
-‚»‚¤‚¢‚¦‚Î ‹âƒoƒbƒW‚µ‚¯‚ñ‚³‚ñ‚É \n‚½‚¢‚¨‚¤‚µ‚½ ‚Ü‚Ç‚¤‚µ‚å‚ª ‚ ‚Á‚½‚Í‚¸‚¾‚í
-cc
-cc cc
-‚ ‚Á‚½‚í ‚±‚ê‚Ë
-‚±‚ê‚©‚ç‚Í ‚±‚Á‚¿‚Ì‚Ü‚Ç‚¤‚µ‚å‚à ‚æ‚ñ‚Å‚ ‚°‚é‚©‚ç \n‚æ‚Ý‚½‚¢‚µ‚ã‚é‚¢‚ð ‚¨‚µ‚¦‚Ä‚Ë
+ã«ã‚“ã’ã‚“ã•ã‚“ ãªã‚“ã ã‹ ã„ã„ã“ã¨ãŒã‚ã£ãŸã¿ãŸã„ã­ï¼Ÿ
+ãã†ã€ãã ã¦ã¦ã„ãŸ ã‚†ã£ãã‚ŠãŒ \néŠ…ãƒãƒƒã‚¸ ã—ã‘ã‚“ã•ã‚“ã« ã”ã†ã‹ãã—ãŸã®ã­
+ãŠã‚ã§ã¨ã† ã±ã¡ã‡ã‚‚ãªã‚“ã ã‹ ã†ã‚Œã—ã„ã‚
+ãã†ã„ãˆã° éŠ€ãƒãƒƒã‚¸ã—ã‘ã‚“ã•ã‚“ã« \nãŸã„ãŠã†ã—ãŸ ã¾ã©ã†ã—ã‚‡ãŒ ã‚ã£ãŸã¯ãšã ã‚
+â€¦â€¦
+â€¦â€¦ â€¦â€¦
+ã‚ã£ãŸã‚ ã“ã‚Œã­
+ã“ã‚Œã‹ã‚‰ã¯ ã“ã£ã¡ã®ã¾ã©ã†ã—ã‚‡ã‚‚ ã‚ˆã‚“ã§ã‚ã’ã‚‹ã‹ã‚‰ \nã‚ˆã¿ãŸã„ã—ã‚…ã‚‹ã„ã‚’ ãŠã—ãˆã¦ã­
 
-‚É‚ñ‚°‚ñ‚³‚ñ ‚Ü‚½ ‚¢‚¢‚±‚Æ‚ª‚ ‚Á‚½‚Ý‚½‚¢‚ËH
-‚»‚¾‚Ä‚Ä‚¢‚½ ‚ä‚Á‚­‚è‚ª \n‹âƒoƒbƒW ‚µ‚¯‚ñ‚³‚ñ‚É ‚²‚¤‚©‚­‚µ‚½‚Ì‚©‚µ‚çH
-‚»‚¤A‚â‚Á‚Ï‚è
-‚¨‚ß‚Å‚Æ‚¤ ‚Ï‚¿‚¥‚à ‚Æ‚Á‚Ä‚à ‚¤‚ê‚µ‚¢‚í
-‚»‚¤‚¢‚¦‚Î ‹àƒoƒbƒW‚µ‚¯‚ñ‚³‚ñ‚É \n‚½‚¢‚¨‚¤‚µ‚½ ‚Ü‚Ç‚¤‚µ‚å‚à ‚ ‚Á‚½‚Í‚¸‚¾‚í
-cc
-cc cc
-‚ ‚Á‚½‚í ‚±‚ê‚Ë
-‚±‚ê‚©‚ç‚Í ‚±‚Á‚¿‚Ì‚Ü‚Ç‚¤‚µ‚å‚à ‚æ‚ñ‚Å‚ ‚°‚é‚©‚ç \n‚æ‚Ý‚½‚¢‚µ‚ã‚é‚¢‚ð ‚¨‚µ‚¦‚Ä‚Ë
-‹àƒoƒbƒW‚µ‚¯‚ñ‚³‚ñ‚Í ‚Æ‚Á‚Ä‚à‚Þ‚¸‚©‚µ‚¢‚ç‚µ‚¢‚©‚ç ‚È‚ñ‚Ç‚Å‚à‚«‚Ä‚Ë
+ã«ã‚“ã’ã‚“ã•ã‚“ ã¾ãŸ ã„ã„ã“ã¨ãŒã‚ã£ãŸã¿ãŸã„ã­ï¼Ÿ
+ãã ã¦ã¦ã„ãŸ ã‚†ã£ãã‚ŠãŒ \néŠ€ãƒãƒƒã‚¸ ã—ã‘ã‚“ã•ã‚“ã« ã”ã†ã‹ãã—ãŸã®ã‹ã—ã‚‰ï¼Ÿ
+ãã†ã€ã‚„ã£ã±ã‚Š
+ãŠã‚ã§ã¨ã† ã±ã¡ã‡ã‚‚ ã¨ã£ã¦ã‚‚ ã†ã‚Œã—ã„ã‚
+ãã†ã„ãˆã° é‡‘ãƒãƒƒã‚¸ã—ã‘ã‚“ã•ã‚“ã« \nãŸã„ãŠã†ã—ãŸ ã¾ã©ã†ã—ã‚‡ã‚‚ ã‚ã£ãŸã¯ãšã ã‚
+â€¦â€¦
+â€¦â€¦ â€¦â€¦
+ã‚ã£ãŸã‚ ã“ã‚Œã­
+ã“ã‚Œã‹ã‚‰ã¯ ã“ã£ã¡ã®ã¾ã©ã†ã—ã‚‡ã‚‚ ã‚ˆã‚“ã§ã‚ã’ã‚‹ã‹ã‚‰ \nã‚ˆã¿ãŸã„ã—ã‚…ã‚‹ã„ã‚’ ãŠã—ãˆã¦ã­
+é‡‘ãƒãƒƒã‚¸ã—ã‘ã‚“ã•ã‚“ã¯ ã¨ã£ã¦ã‚‚ã‚€ãšã‹ã—ã„ã‚‰ã—ã„ã‹ã‚‰ ãªã‚“ã©ã§ã‚‚ãã¦ã­
+
