@@ -1,22 +1,22 @@
-�iWhile looking for wild yukkuri�Asuddenly rain started to fall�j
-�iYou find an old hut in the midst of searching for shelter�A\nwhich looks like a good place to hide in)
-�iYou search for the owner�Abut it appears to be empty�B�j
-�iA large number of books seems to be piled up all over the place�c�c�j
-�iYou take a couple of them to check the insides�A\nhowever bugs ate the pages making them unreadable�B�j
-�c�c �c�c
-Mukyu�H Is someone there�H
-�c�c
-Oh my�AMister Human�H What could you do here�H
-�iFrom the shadows�A Patchouli appears�j
-Ah�Asomeone taking shelter from the rain
+(While looking for wild yukkuri, suddenly rain started to fall.)
+(You find an old hut in the midst of searching for shelter,\nwhich looks like a good place to hide in.)
+(You search for the owner, but it appears to be empty.)
+(A large number of books seems to be piled up all over the place...)
+(You take a couple of them to check the insides,\nhowever bugs ate the pages making them unreadable.)
+...
+Mukyu? Is someone there?
+...
+Oh my, a mister human? What could you do here?
+(From the shadows, Patchouli appears.)
+Ah, someone taking shelter from the rain.
 いまここには ぱちぇいがい だれもいないから べつにかまわないわ
-…… ……
+...
 そのまどうしょに きょうみが あるの？
 ぱちぇの かいぬしさんは ゆうしゅうな ぶりーだーさん らしいわ\nそのまどうしょは ぱちぇの かいぬしさんが かいたものよ
-……なんてかいてあるか よめないの？
-そうね かいぬしさんの じは よくいっても どくとく だったから……
+...なんてかいてあるか よめないの？
+そうね かいぬしさんの じは よくいっても どくとく だったから...
 よかったら ぱちぇが よんで あげましょうか？
-……
+...
 わかったわ まかせてちょうだい
 どの まどうしょを よめばいいの？
 って かいてあるわ
@@ -25,8 +25,8 @@ Ah�Asomeone taking shelter from the rain
 そう、そだてていた ゆっくりが \n銅バッジ しけんさんに ごうかくしたのね
 おめでとう ぱちぇもなんだか うれしいわ
 そういえば 銀バッジしけんさんに \nたいおうした まどうしょが あったはずだわ
-……
-…… ……
+...
+...
 あったわ これね
 これからは こっちのまどうしょも よんであげるから \nよみたいしゅるいを おしえてね
 
@@ -35,8 +35,8 @@ Ah�Asomeone taking shelter from the rain
 そう、やっぱり
 おめでとう ぱちぇも とっても うれしいわ
 そういえば 金バッジしけんさんに \nたいおうした まどうしょも あったはずだわ
-……
-…… ……
+...
+...
 あったわ これね
 これからは こっちのまどうしょも よんであげるから \nよみたいしゅるいを おしえてね
 金バッジしけんさんは とってもむずかしいらしいから なんどでもきてね

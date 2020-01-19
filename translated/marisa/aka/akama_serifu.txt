@@ -13,16 +13,16 @@
 ;////////////////////////////////////////////////////////////
 ;挨拶
 ;///////////////////////////////////////////////////////////
-ma_aka_aisatu_pat1_1 = "Chake id eajy！"
-ma_aka_aisatu_pat1_2 = "Chake id eajy！"
-ma_aka_aisatu_pat1_3 = "Chake id eajy！"
-ma_aka_aisatu_pat1_4 = "Chake id eajy！"
-ma_aka_aisatu_pat1_5 = "Chake id eajy！"
-ma_aka_aisatu_pat1_6 = "Chake id eajy！"
-ma_aka_aisatu_pat1_7 = "Chake id eajy！"
-ma_aka_aisatu_pat1_8 = "Chake id eajy！"
-ma_aka_aisatu_pat1_9 = "Chake id eajy！"
-ma_aka_aisatu_pat1_10 = "Chake id eajy！"
+ma_aka_aisatu_pat1_1 = "Chake id eajy!"
+ma_aka_aisatu_pat1_2 = "Chake id eajy!"
+ma_aka_aisatu_pat1_3 = "Chake id eajy!"
+ma_aka_aisatu_pat1_4 = "Chake id eajy!"
+ma_aka_aisatu_pat1_5 = "Chake id eajy!"
+ma_aka_aisatu_pat1_6 = "Chake id eajy!"
+ma_aka_aisatu_pat1_7 = "Chake id eajy!"
+ma_aka_aisatu_pat1_8 = "Chake id eajy!"
+ma_aka_aisatu_pat1_9 = "Chake id eajy!"
+ma_aka_aisatu_pat1_10 = "Chake id eajy!"
 
 ma_aka_aisatu_new_year_1 = "Hwappy new year da je！"
 ma_aka_aisatu_new_year_2 = "Hwappy new year da je！"

@@ -14,43 +14,43 @@ Water supply for yukkuri�B\nOther than food�Ahydration is essential\nDuring 
 
 
 //土管
-A clay pipe where yukkuri can fit in snugly�B\nThanks to the production method, yukkuri's delicate skin isn't injured�B
+A clay pipe  yukkuri can fit in snugly.\nThanks to the production method, yukkuri's delicate skin isn't injured.
 
 
 
-//��������
-An ordinary marble ball�B\nyukkuri like to play ball with it�`
-An ordinary rubber ball�B\nIt has a different feeling than the marble one, doesn't it�c�c
-An ordinary transparent dice�Ain a set of 50�B\nyukkuri like to collect them as treasures�`
-
-
-
-
-
-
-//�l�`
-A doll looking like Reimu�B\nyukkuri can feel lonely�A\nbut keeping multiple ones can be difficult�I
+//おもちゃ
+An ordinary marble ball.\nYukkuri like to play ball with it.
+An ordinary rubber ball.\nIt has a different feeling than the marble one, doesn't it...
+An ordinary transparent dice, in a set of 50.\nYukkuri like to collect them as treasures.
 
 
 
 
 
 
-
-
-//�V��
-It's a slide for yukkuri�B\nyukkuri seem to really favour this piece of park equipment
-A trampoline for yukkuri�B\nyukkuri like to fly in the sky especially as kids�A\nso they really favour making high jumps with this toy
-It's a pool for yukkuri�B\nyukkuri like to swim here�A but if they stay in the water too long they melt�A\nso please pay attention to them
+//人形
+A doll looking like Reimu.\nYukkuri can feel lonely,\nbut keeping multiple ones can be difficult!
 
 
 
 
 
 
-//�n�E�X
-A wooden house for yukkuri�B\nIt's made from real wood�Aso it is certainly an easy place�I
-A mushroom-shaped house for yukkuri�B\nIt's made from�c�cnot a real mushroom�A\nbut it seems to be still an easy place�I
+
+
+//遊具
+It's a slide for yukkuri.\nYukkuri seem to really favour this piece of park equipment.
+A trampoline for yukkuri.\nYukkuri like to fly in the sky especially as kids,\nso they really favour making high jumps with this toy.
+It's a pool for yukkuri.\nYukkuri like to swim here, but if they stay in the water too long they melt,\nso please pay attention to them.
+
+
+
+
+
+
+//ハウス
+A wooden house for yukkuri.\nIt's made from real wood, so it is certainly an easy place!
+A mushroom-shaped house for yukkuri.\nIt's made from... not a real mushroom,\nbut it seems to be still an easy place!
 
 
 
