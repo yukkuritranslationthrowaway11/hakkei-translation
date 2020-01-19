@@ -1,10 +1,10 @@
-//—ˆê
-What is it for today`H
-What is it for today`H
-What is it for today`H
-What is it for today`H
-What is it for today`H
-What is it for today`H
+//æ¥å ´æ™‚
+What is it for today~?
+What is it for today~?
+What is it for today~?
+What is it for today~?
+What is it for today~?
+What is it for today~?
 
 
 
@@ -27,11 +27,11 @@ What is it for today`H
 
 
 
-//‘I‘ğˆ
-A cure for mold, is it`H\nThat would be 10000 yen`
-A cure for mister footsies`H\nThe cost is 10000 yen`
-Hair problems`H\nThe total is 5000 yen`
-A treatment for the tongue, is it`H\nThe total is 10000 yen`
+//ï¿½Iï¿½ï¿½ï¿½ï¿½
+A cure for mold, is it~?\nThat would be 10000 yenï¿½`
+A cure for mister footsies~?\nThe cost is 10000 yenï¿½`
+Hair problems~?\nThe total is 5000 yenï¿½`
+A treatment for the tongue, is it~?\nThe total is 10000 yenï¿½`
 
 
 
@@ -46,10 +46,10 @@ A treatment for the tongue, is it`H\nThe total is 10000 yen`
 
 
 
-//¡—Ã’†
-You don't have enough money`
-Please pick the Yukkuri needing treatment`
-Is it this Yukkuri`H
-This Yukkuri doesn't have mold`
-The mister footsies of this yukkuri are healthy`
-This yukkuri isn't a baldy`
+//ï¿½ï¿½ï¿½Ã’ï¿½
+You don't have enough moneyï¿½`
+Please pick the Yukkuri needing treatmentï¿½`
+Is it this Yukkuri~?
+This Yukkuri doesn't have moldï¿½`
+The mister footsies of this yukkuri are healthyï¿½`
+This yukkuri isn't a baldyï¿½`

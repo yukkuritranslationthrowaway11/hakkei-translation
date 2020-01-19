@@ -1,71 +1,70 @@
-//—ˆ“X
+//æ¥åº—æ™‚
 \nwill cost you
  yen.
-//ƒAƒCƒeƒ€à–¾EƒgƒCƒŒ
-A toilet for a Yukkuri's businesses.\nToilet training requires lots of patience and perseverance.
-A toilet for Yukkuri with sand.\nIt doesn't let out odors and avoids humidity,\nso it's OK to forget about cleaning from time to time.
-A toilet for Yukkuri with automatic flushing.\nIt flushes water without needing plumbing, and that's amazing.\nI suppose there's a lot of calulations or something.
+//ã‚¢ã‚¤ãƒ†ãƒ èª¬æ˜ãƒ»ãƒˆã‚¤ãƒ¬
+A toilet for a yukkuri's businesses.\nToilet training requires lots of patience and perseverance.
+A toilet for yukkuri with sand.\nIt doesn't let out odors and avoids humidity,\nso it's OK to forget about cleaning from time to time.
+A toilet for yukkuri with automatic flushing.\nIt flushes water without needing plumbing, and that's amazing.\nI suppose there's a lot of calulations or something.
 
 
 
-//‹‹…Ší
-Water supply for YukkuriB\nOther than foodAhydration is essential\nDuring summer and the like something else might be neededB
+//çµ¦æ°´å™¨
+Water supply for yukkuriï¿½B\nOther than foodï¿½Ahydration is essential\nDuring summer and the like something else might be neededï¿½B
 
 
 
-//“yŠÇ
-A clay pipe where Yukkuri can fit in snuglyB\nThanks to the production method, Yukkuri's delicate skin isn't injuredB
+//åœŸç®¡
+A clay pipe where yukkuri can fit in snuglyï¿½B\nThanks to the production method, yukkuri's delicate skin isn't injuredï¿½B
 
 
 
-//‚¨‚à‚¿‚á
-An ordinary marble ballB\nYukkuri like to play ball with it`
-An ordinary rubber ballB\nIt has a different feeling than the marble one, doesn't itcc
-An ordinary transparent diceAin a set of 50B\nYukkuri like to collect them as treasures`
-
-
-
-
-
-
-//lŒ`
-A doll looking like ReimuB\nYukkuri can feel lonelyA\nbut keeping multiple ones can be difficultI
+//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+An ordinary marble ballï¿½B\nyukkuri like to play ball with itï¿½`
+An ordinary rubber ballï¿½B\nIt has a different feeling than the marble one, doesn't itï¿½cï¿½c
+An ordinary transparent diceï¿½Ain a set of 50ï¿½B\nyukkuri like to collect them as treasuresï¿½`
 
 
 
 
 
 
-
-
-//—V‹ï
-It's a slide for YukkuriB\nYukkuri seem to really favour this piece of park equipment
-A trampoline for YukkuriB\nYukkuri like to fly in the sky especially as kidsA\nso they really favour making high jumps with this toy
-It's a pool for YukkuriB\nYukkuri like to swim hereA but if they stay in the water too long they meltA\nso please pay attention to them
+//ï¿½lï¿½`
+A doll looking like Reimuï¿½B\nyukkuri can feel lonelyï¿½A\nbut keeping multiple ones can be difficultï¿½I
 
 
 
 
 
 
-//ƒnƒEƒX
-A wooden house for yukkuriB\nIt's made from real woodAso it is certainly an easy placeI
-A mushroom-shaped house for yukkuriB\nIt's made fromccnot a real mushroomA\nbut it seems to be still an easy placeI
+
+
+//ï¿½Vï¿½ï¿½
+It's a slide for yukkuriï¿½B\nyukkuri seem to really favour this piece of park equipment
+A trampoline for yukkuriï¿½B\nyukkuri like to fly in the sky especially as kidsï¿½A\nso they really favour making high jumps with this toy
+It's a pool for yukkuriï¿½B\nyukkuri like to swim hereï¿½A but if they stay in the water too long they meltï¿½A\nso please pay attention to them
 
 
 
 
 
 
-//ƒt[ƒh
-‚¨‹‚ß‚â‚·‚¢‰¿Ši‚Ì‚ä‚Á‚­‚èƒt[ƒh‚Ì‘î”zŒ_–ñ‚Å‚·B\n–¡‚Í‚¢‚Ü‚¢‚¿‚İ‚½‚¢‚Å‚·‚ªA‚±‚ê‚Å‚à‰h—{‚Í\•ª‚Å‚·‚æ[B\n’u‚«–ò‚İ‚½‚¢‚ÉA‚¨‘î‚É–K–â‚µ‚Äg‚Á‚½•ª‚Ì‘ã‹à‚ğ’¥û‚·‚éƒVƒXƒeƒ€‚Å‚·B
-‚ä‚Á‚­‚èƒt[ƒh‚Ì‘î”zŒ_–ñ‚Å‚·B\nˆê”Ô”„‚ê‚Ä‚¢‚éƒt[ƒh‚ÅA‚ä‚Á‚­‚è‚¿‚á‚ñ‚à–‘«‚Ì–¡‚İ‚½‚¢‚Å‚·B\n’u‚«–ò‚İ‚½‚¢‚ÉA‚¨‘î‚É–K–â‚µ‚Äg‚Á‚½•ª‚Ì‘ã‹à‚ğ’¥û‚·‚éƒVƒXƒeƒ€‚Å‚·B
-‚‹‰‚ä‚Á‚­‚èƒt[ƒh‚Ì‘î”zŒ_–ñ‚Å‚·B\n“Á•Ê‚È‚Æ‚«‚È‚Ç‚É‚ ‚°‚½‚¢A‚ä‚Á‚­‚è‚¿‚á‚ñ‚àu‚µ‚ ‚í‚¹[v‚È–¡‚İ‚½‚¢‚Å‚·B\n’u‚«–ò‚İ‚½‚¢‚ÉA‚¨‘î‚É–K–â‚µ‚Äg‚Á‚½•ª‚Ì‘ã‹à‚ğ’¥û‚·‚éƒVƒXƒeƒ€‚Å‚·B
-‚ä‚Á‚­‚è‚¿‚á‚ñ—p‚ÌƒNƒbƒL[‚Ì‘î”zŒ_–ñ‚Å‚·B\n‚ä‚Á‚­‚è‚¿‚á‚ñ‚ÍAŠÃ‚¢‚à‚Ì‚ª‘åD‚«‚È‚Ì‚ÅA‚·‚²‚­Šì‚Ô‚ñ‚Å‚·‚æ[B\n’u‚«–ò‚İ‚½‚¢‚ÉA‚¨‘î‚É–K–â‚µ‚Äg‚Á‚½•ª‚Ì‘ã‹à‚ğ’¥û‚·‚éƒVƒXƒeƒ€‚Å‚·B
-‚ä‚Á‚­‚è‚¿‚á‚ñ—p‚ÌƒP[ƒL‚Ì‘î”zŒ_–ñ‚Å‚·B\n‘å‚«‚ÈƒP[ƒL‚É‚ä‚Á‚­‚è‚¿‚á‚ñ‚à‘å‹»•±ŠÔˆá‚¢‚È‚µ‚Å‚·I\n’u‚«–ò‚İ‚½‚¢‚ÉA‚¨‘î‚É–K–â‚µ‚Äg‚Á‚½•ª‚Ì‘ã‹à‚ğ’¥û‚·‚éƒVƒXƒeƒ€‚Å‚·B
-‚ä‚Á‚­‚è‚¿‚á‚ñ—p‚Ìƒ‰ƒ€ƒl‚Ì‘î”zŒ_–ñ‚Å‚·B\n‚ä‚Á‚­‚è‚¿‚á‚ñ‚ÍAƒ‰ƒ€ƒl‚ğH‚×‚é‚Æ‰½ŒÌ‚©’¼‚®‚É–°‚Á‚Ä‚µ‚Ü‚¤‚Ì‚ÅA\n•a‰@‚Ö‚ÌˆÚ“®‚È‚Ç‚É‡–°–ò‘ã‚í‚è‚Ég‚Á‚Ä‚¢‚é•û‚à‘½‚¢‚İ‚½‚¢‚Å‚·‚æ[B
-‚ä‚Á‚­‚è‚¿‚á‚ñ—p‚Ì˜aO–~ƒTƒvƒŠ‚Ì‘î”zŒ_–ñ‚Å‚·B\n˜aO–~‚ğƒx[ƒX‚ÉA’m”\‚É—Ç‚¢‰e‹¿‚ğ—^‚¦‚ç‚ê‚é‰h—{•ª‚ğƒ~ƒbƒNƒX‚µ‚Ü‚µ‚½B\n‚¨•×‹­‚ÌŒ‹‰Ê‚É—Ç‚¢‰e‹¿‚ğ—^‚¦‚ê‚ê‚é‚Æv‚¢‚Ü‚·B
-‚ä‚Á‚­‚è‚¿‚á‚ñ—p‚Ì–İ•²ƒTƒvƒŠ‚Ì‘î”zŒ_–ñ‚Å‚·B\n‚‹‰–İ•²‚ğƒx[ƒX‚ÉAŠOŒ©‚É—Ç‚¢‰e‹¿‚ğ—^‚¦‚ç‚ê‚é‰h—{•ª‚ğƒ~ƒbƒNƒX‚µ‚Ü‚µ‚½B\n‘¼‚Ì‚ä‚Á‚­‚è‚ÉD‚©‚ê‚â‚·‚­‚È‚é‚Æv‚¢‚Ü‚·B
-‚ä‚Á‚­‚è‚¿‚á‚ñ—p‚Ì¬“¤ƒTƒvƒŠ‚Ì‘î”zŒ_–ñ‚Å‚·B\n‚‹‰¬“¤‚ğƒx[ƒX‚ÉA‘Ì‚É—Ç‚¢‰e‹¿‚ğ—^‚¦‚ç‚ê‚é‰h—{•ª‚ğƒ~ƒbƒNƒX‚µ‚Ü‚µ‚½B\n‘Ì—Í‚Ì¬’·‚É—Ç‚¢‰e‹¿‚ğ—^‚¦‚ç‚ê‚é‚Æv‚¢‚Ü‚·B
-\n‚P‚Â2000‰~‚Å‚·‚ªA‘î”zŒ_–ñ—¿‚Í–³—¿‚É‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·‚Ë[
+//ï¿½nï¿½Eï¿½X
+A wooden house for yukkuriï¿½B\nIt's made from real woodï¿½Aso it is certainly an easy placeï¿½I
+A mushroom-shaped house for yukkuriï¿½B\nIt's made fromï¿½cï¿½cnot a real mushroomï¿½A\nbut it seems to be still an easy placeï¿½I
 
+
+
+
+
+
+//ãƒ•ãƒ¼ãƒ‰
+ãŠæ±‚ã‚ã‚„ã™ã„ä¾¡æ ¼ã®ã‚†ã£ãã‚Šãƒ•ãƒ¼ãƒ‰ã®å®…é…å¥‘ç´„ã§ã™ã€‚\nå‘³ã¯ã„ã¾ã„ã¡ã¿ãŸã„ã§ã™ãŒã€ã“ã‚Œã§ã‚‚æ „é¤Šã¯ååˆ†ã§ã™ã‚ˆãƒ¼ã€‚\nç½®ãè–¬ã¿ãŸã„ã«ã€ãŠå®…ã«è¨ªå•ã—ã¦ä½¿ã£ãŸåˆ†ã®ä»£é‡‘ã‚’å¾´åã™ã‚‹ã‚·ã‚¹ãƒ†ãƒ ã§ã™ã€‚
+ã‚†ã£ãã‚Šãƒ•ãƒ¼ãƒ‰ã®å®…é…å¥‘ç´„ã§ã™ã€‚\nä¸€ç•ªå£²ã‚Œã¦ã„ã‚‹ãƒ•ãƒ¼ãƒ‰ã§ã€ã‚†ã£ãã‚Šã¡ã‚ƒã‚“ã‚‚æº€è¶³ã®å‘³ã¿ãŸã„ã§ã™ã€‚\nç½®ãè–¬ã¿ãŸã„ã«ã€ãŠå®…ã«è¨ªå•ã—ã¦ä½¿ã£ãŸåˆ†ã®ä»£é‡‘ã‚’å¾´åã™ã‚‹ã‚·ã‚¹ãƒ†ãƒ ã§ã™ã€‚
+é«˜ç´šã‚†ã£ãã‚Šãƒ•ãƒ¼ãƒ‰ã®å®…é…å¥‘ç´„ã§ã™ã€‚\nç‰¹åˆ¥ãªã¨ããªã©ã«ã‚ã’ãŸã„ã€ã‚†ã£ãã‚Šã¡ã‚ƒã‚“ã‚‚ã€Œã—ã‚ã‚ã›ãƒ¼ã€ãªå‘³ã¿ãŸã„ã§ã™ã€‚\nç½®ãè–¬ã¿ãŸã„ã«ã€ãŠå®…ã«è¨ªå•ã—ã¦ä½¿ã£ãŸåˆ†ã®ä»£é‡‘ã‚’å¾´åã™ã‚‹ã‚·ã‚¹ãƒ†ãƒ ã§ã™ã€‚
+ã‚†ã£ãã‚Šã¡ã‚ƒã‚“ç”¨ã®ã‚¯ãƒƒã‚­ãƒ¼ã®å®…é…å¥‘ç´„ã§ã™ã€‚\nã‚†ã£ãã‚Šã¡ã‚ƒã‚“ã¯ã€ç”˜ã„ã‚‚ã®ãŒå¤§å¥½ããªã®ã§ã€ã™ã”ãå–œã¶ã‚“ã§ã™ã‚ˆãƒ¼ã€‚\nç½®ãè–¬ã¿ãŸã„ã«ã€ãŠå®…ã«è¨ªå•ã—ã¦ä½¿ã£ãŸåˆ†ã®ä»£é‡‘ã‚’å¾´åã™ã‚‹ã‚·ã‚¹ãƒ†ãƒ ã§ã™ã€‚
+ã‚†ã£ãã‚Šã¡ã‚ƒã‚“ç”¨ã®ã‚±ãƒ¼ã‚­ã®å®…é…å¥‘ç´„ã§ã™ã€‚\nå¤§ããªã‚±ãƒ¼ã‚­ã«ã‚†ã£ãã‚Šã¡ã‚ƒã‚“ã‚‚å¤§èˆˆå¥®é–“é•ã„ãªã—ã§ã™ï¼\nç½®ãè–¬ã¿ãŸã„ã«ã€ãŠå®…ã«è¨ªå•ã—ã¦ä½¿ã£ãŸåˆ†ã®ä»£é‡‘ã‚’å¾´åã™ã‚‹ã‚·ã‚¹ãƒ†ãƒ ã§ã™ã€‚
+ã‚†ã£ãã‚Šã¡ã‚ƒã‚“ç”¨ã®ãƒ©ãƒ ãƒã®å®…é…å¥‘ç´„ã§ã™ã€‚\nã‚†ã£ãã‚Šã¡ã‚ƒã‚“ã¯ã€ãƒ©ãƒ ãƒã‚’é£Ÿã¹ã‚‹ã¨ä½•æ•…ã‹ç›´ãã«çœ ã£ã¦ã—ã¾ã†ã®ã§ã€\nç—…é™¢ã¸ã®ç§»å‹•æ™‚ãªã©ã«ç¡çœ è–¬ä»£ã‚ã‚Šã«ä½¿ã£ã¦ã„ã‚‹æ–¹ã‚‚å¤šã„ã¿ãŸã„ã§ã™ã‚ˆãƒ¼ã€‚
+ã‚†ã£ãã‚Šã¡ã‚ƒã‚“ç”¨ã®å’Œä¸‰ç›†ã‚µãƒ—ãƒªã®å®…é…å¥‘ç´„ã§ã™ã€‚\nå’Œä¸‰ç›†ã‚’ãƒ™ãƒ¼ã‚¹ã«ã€çŸ¥èƒ½ã«è‰¯ã„å½±éŸ¿ã‚’ä¸ãˆã‚‰ã‚Œã‚‹æ „é¤Šåˆ†ã‚’ãƒŸãƒƒã‚¯ã‚¹ã—ã¾ã—ãŸã€‚\nãŠå‹‰å¼·ã®çµæœã«è‰¯ã„å½±éŸ¿ã‚’ä¸ãˆã‚Œã‚Œã‚‹ã¨æ€ã„ã¾ã™ã€‚
+ã‚†ã£ãã‚Šã¡ã‚ƒã‚“ç”¨ã®é¤…ç²‰ã‚µãƒ—ãƒªã®å®…é…å¥‘ç´„ã§ã™ã€‚\né«˜ç´šé¤…ç²‰ã‚’ãƒ™ãƒ¼ã‚¹ã«ã€å¤–è¦‹ã«è‰¯ã„å½±éŸ¿ã‚’ä¸ãˆã‚‰ã‚Œã‚‹æ „é¤Šåˆ†ã‚’ãƒŸãƒƒã‚¯ã‚¹ã—ã¾ã—ãŸã€‚\nä»–ã®ã‚†ã£ãã‚Šã«å¥½ã‹ã‚Œã‚„ã™ããªã‚‹ã¨æ€ã„ã¾ã™ã€‚
+ã‚†ã£ãã‚Šã¡ã‚ƒã‚“ç”¨ã®å°è±†ã‚µãƒ—ãƒªã®å®…é…å¥‘ç´„ã§ã™ã€‚\né«˜ç´šå°è±†ã‚’ãƒ™ãƒ¼ã‚¹ã«ã€ä½“ã«è‰¯ã„å½±éŸ¿ã‚’ä¸ãˆã‚‰ã‚Œã‚‹æ „é¤Šåˆ†ã‚’ãƒŸãƒƒã‚¯ã‚¹ã—ã¾ã—ãŸã€‚\nä½“åŠ›ã®æˆé•·ã«è‰¯ã„å½±éŸ¿ã‚’ä¸ãˆã‚‰ã‚Œã‚‹ã¨æ€ã„ã¾ã™ã€‚
+\nï¼‘ã¤2000å††ã§ã™ãŒã€å®…é…å¥‘ç´„æ–™ã¯ç„¡æ–™ã«ã•ã›ã¦ã„ãŸã ãã¾ã™ã­ãƒ¼

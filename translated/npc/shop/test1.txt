@@ -1,10 +1,10 @@
-//—ˆê
-This is the examination hallB We perform examinations for copper,\nsilver and gold badgesB
-This is the examination hallB We perform examinations for copper,\nsilver and gold badgesB
-This is the examination hallB We perform examinations for copper,\nsilver and gold badgesB
-This is the examination hallB We perform examinations for copper,\nsilver and gold badgesB
-This is the examination hallB We perform examinations for copper,\nsilver and gold badgesB
-This is the examination hallB We perform examinations for copper,\nsilver and gold badgesB
+//ï¿½ï¿½ï¿½ê
+This is the examination hallï¿½B We perform examinations for bronze,\nsilver and gold badgesï¿½B
+This is the examination hallï¿½B We perform examinations for bronze,\nsilver and gold badgesï¿½B
+This is the examination hallï¿½B We perform examinations for bronze,\nsilver and gold badgesï¿½B
+This is the examination hallï¿½B We perform examinations for bronze,\nsilver and gold badgesï¿½B
+This is the examination hallï¿½B We perform examinations for bronze,\nsilver and gold badgesï¿½B
+This is the examination hallï¿½B We perform examinations for bronze,\nsilver and gold badgesï¿½B
 
 
 
@@ -27,20 +27,20 @@ This is the examination hallB We perform examinations for copper,\nsilver and g
 
 
 
-//‘I‘ğˆ
+//ï¿½Iï¿½ï¿½ï¿½ï¿½
 The examination fee is
- yenB\nThere are no refunds in case of failureAso be carefulB
+ yenï¿½B\nThere are no refunds in case of failureï¿½Aso be carefulï¿½B
 
-Take the copper badge examH
-Take the silver badge exam H
-Take the gold badge examH
+Take the bronze badge examï¿½H
+Take the silver badge exam ï¿½H
+Take the gold badge examï¿½H
 
 
 
-//Œ±
-Pick the Yukkuri to be examined
-The behaviour test was a failureB
-The intelligence test was a failureB
-Both the behaviour and intelligence test were a failureB
-This Yukkuri already has a badge of higher rankB
-This Yukkuri has already been tested for thisB
+//ï¿½ï¿½ï¿½ï¿½
+Pick the yukkuri to be tested.
+The behaviour test was a failureï¿½B
+The intelligence test was a failureï¿½B
+Both the behaviour and intelligence test were a failureï¿½B
+This yukkuri already has a badge of higher rankï¿½B
+This yukkuri has already been tested for thisï¿½B
