@@ -106,9 +106,9 @@ Rub-rub
 キリ
 キリライター
 あおむけ(固定)
-やさしく吊るす
-吊るす
-(ひもの長さ)
+Hang gently
+Hang
+(String length)
 箱閉じ込め
 ローター
 ぺにきりばさみ
@@ -163,13 +163,13 @@ Alice
 こくご
 こくご（餌付き）
 家具類
-おもちゃ
-おうち
-水槽
-虐待器具
-おくすり
-ノーマルトイレ
-砂つきトイレ
+Toys
+Houses
+Yukkurarium
+Abyuse
+Medicine
+Toilet
+Self-cleaning toilet
 自動水洗トイレ
 葉っぱ
 給水機
@@ -216,7 +216,7 @@ Alice
 家族関係
 交友関係
 投薬状況
-ステータスを見たいゆっくりを選択
+Select a yukkuri to see its status.
 種類:
 健康状態
 かしこさ:
