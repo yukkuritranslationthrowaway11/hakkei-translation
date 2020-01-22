@@ -7,7 +7,7 @@ Status
 Achievements
 Save
 Options
-基本画面
+Main Screen
 Go Outside
 
 Autosave
@@ -113,7 +113,7 @@ Hang
 ローター
 ぺにきりばさみ
 ばりかん
-裁ちばさみ
+Shred accessory
 茎きりばさみ
 茎きりばさみ
 (瓶に入れる)
@@ -212,35 +212,35 @@ Self-cleaning toilet
 知能アップの秘薬：
 親愛アップの秘薬：
 ゲス矯正の秘薬：
-状態
-家族関係
-交友関係
-投薬状況
+Status
+Family
+Friends
+Medication status
 Select a yukkuri to see its status.
-種類:
-健康状態
-かしこさ:
-なつき度:
-ゲス度:
-舌肥え度:
-満腹度:
-体力:
-運動神経:
-恐怖心:
-未婚
-結婚相手:水槽内に居ない
-結婚相手:
-みなしご
-親だと思われている
-母ゆ:水槽内に居ない
-母ゆ:
-父ゆ:水槽内に居ない
-父ゆ:
-子ゆ:水槽内に居ない
-子ゆ:
-姉妹:水槽内に居ない
-姉妹:
-種類:
+Type:
+Health:
+Intelligence:
+Affection:
+Scumminess:
+Pickiness (food):
+Hunger:
+Stamina:
+Reflexes:
+Fear:
+Not married
+Spouse: not in yukkurarium
+Spouse:
+Orphan
+Thinks you're her parent
+Mother: not in yukkurarium
+Mother:
+Father: not in yukkurarium
+Father:
+Child: not in yukkurarium
+Child:
+Sister: not in yukkurarium
+Sister:
+Type:
 非ゆっくり症防止薬効果発動中
 シタタラン効果発動中
 和三盆サプリ効果発動中：かしこさUPボーナス

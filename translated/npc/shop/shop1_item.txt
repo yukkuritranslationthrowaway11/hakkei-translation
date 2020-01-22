@@ -2,7 +2,7 @@
 \nwill cost you
  yen.
 //アイテム説明・トイレ
-A toilet for a yukkuri's businesses.\nToilet training requires lots of patience and perseverance.
+A toilet for yukkuri.\nToilet training requires lots of patience and perseverance.
 A toilet for yukkuri with sand.\nIt doesn't let out odors and avoids humidity,\nso it's OK to forget about cleaning from time to time.
 A toilet for yukkuri with automatic flushing.\nIt flushes water without needing plumbing, and that's amazing.\nI suppose there's a lot of calulations or something.
 
