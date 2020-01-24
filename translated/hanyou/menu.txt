@@ -12,7 +12,7 @@ Go Outside
 
 Autosave
 Back to title
-ショートカットキー
+Shortcut keys
 スロット
 コメント
 ＳＣキー ロードしますか？
@@ -304,13 +304,13 @@ Type:
 Xマスケーキ
 ベーコンごはんさん
 カルボさん
-ざっそう
-生ごみ
-うんうん
+Weeds
+Garbage
+Poo-poo
 餌分量調節
-小
-中
-大
+Small
+Medium
+Large
 特大
 配分設定
 固定
