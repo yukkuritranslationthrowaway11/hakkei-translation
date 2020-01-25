@@ -64,8 +64,8 @@ Abyuser level
 ゆかび治療
 足焼き治療
 植毛
-銅バッジ入品
-銀バッジ入品
+Copper badge 入品
+Silver badge 入品
 さんすう連続
 correct answers!
 Scold toggle
@@ -181,12 +181,12 @@ Slide
 Trampoline
 Pool
 Pebble
-きれいな石
+Pretty rock
 Clear dice
 Reimu doll
 Cardboard house
-木のおうち
-きのこ型ハウス
+Wooden house
+Mushroom house
 おうちを揺らす
 おうちから出す（順番に1匹)
 おうちから出す（一気に全部)
@@ -201,11 +201,11 @@ Cardboard house
 飲むヨーグルト
 ラムネ
 精子餡
-ばいゆぐら
+Viyugra
 ラムネスプレー
-非ゆ症防止薬
-和三盆サプリ
-餅粉サプリ
+Anti-antiyukkuritis
+Sugar supplement
+Flour supplement
 小豆サプリ
 シタタラン
 個
@@ -241,42 +241,42 @@ Child:
 Sister: not in yukkurarium
 Sister:
 Type:
-非ゆっくり症防止薬効果発動中
+Anti-antiyukkuritis active
 シタタラン効果発動中
 和三盆サプリ効果発動中：かしこさUPボーナス
 餅粉サプリ効果発動中：相互好感度UPボーナス
 小豆サプリ効果発動中：最大体力UPボーナス
-何も与えていない
-ブリーダー
-ボーナス１
-鬼威惨
-ボーナス２
+No medication
+Breeder
+Bonus 1
+Abyuser
+Bonus 2
 植毛治療
 未実装
 正解数:
 合計ランク:
 かしこさ指導補正:
 愛され補正:
-ボーナス：ＯＮ
-ボーナス：ＯＦＦ
-でこぴん連続HIT数:
+Bonus: ON
+Bonus: OFF
+Successive HITs:
 ゲス度指導補正:
-ゲームスピード
-背景処理
-ショートカットキー設定
-上部ショートカットキー設定
-Persistent scold toggle:ON
-Persistent scold toggle:OFF
-メニュータブ記憶：ＯＮ
-メニュータブ記憶：ＯＦＦ
-速い
-普通
-遅い
-ゲームスピードを
+Game speed
+Background processing
+Hotkey settings
+Upper hotkey settings
+Persistent scold toggle: ON
+Persistent scold toggle: OFF
+Persistent menu tab: ON
+Persistent menu tab: OFF
+Fast
+Normal
+Slow
+Game speed
 選択してください
 現在のゲームスピード
-通常
-軽量
+Normal
+Light
 背景処理を
 現在の背景処理
 戻る
@@ -285,29 +285,29 @@ Persistent scold toggle:OFF
 表示
 非表示
 現在の設定選択
-ゆっくりフード
-あまあま
-スペシャル
-いまいち
-餌設定
-高級ゆっくりフード
-激辛ゆっくりフード
-廉価ゆっくりフード
-自動給餌機セットしない
-自動給餌機セットする
-餌皿を置く
-手渡しで食べさせる
-どんぐりあめ
-クッキー盛り合わせ
-ケーキ
-クッキー手渡し
-Xマスケーキ
-ベーコンごはんさん
-カルボさん
+Yukkuri food
+Sweet-sweet
+Special
+Not good
+Food settings
+Luxury yukkuri food
+Spicy yukkuri food
+Cheap yukkuri food
+Auto-feeder: OFF
+Auto-feeder: ON
+Put in plate
+Hand-feed
+Sweet acorn
+Assorted cookies
+Cake
+Hand-fed cookie
+Christmas cake
+Bacon and rice
+Carbonara
 Weeds
 Garbage
 Poo-poo
-餌分量調節
+Portion size
 S
 M
 L
@@ -336,20 +336,20 @@ Thaw
 解凍開始
 これ以上
 入らない
-Throw away
+個別処分
 処分開始
 所持金:
 この子は買取ができないです
 ボックス
-ゆっくりを売却
+Sell yukkuri
 帰る
 銅バッジ試験を受ける
 銀バッジ試験を受ける
 金バッジ試験を受ける
 プラチナバッジ試験を受ける
-次へ
-前へ
-購入
+Next
+Previous
+Buy
 血統無しゆっくりを見る
 銅血統ゆっくりを見る
 銀血統ゆっくりを見る
@@ -376,21 +376,21 @@ Throw away
 ゆっくり用ラムネ
 激辛ゆっくりフード契約
 金属製の箱
-非ゆっくり症防止薬
+Anti-antiyukkuritis
 お仕置き用固定具
 ゆかびを治療
 あんよさんを治療
 舌麻痺状態を治療
 植毛
 街
-自宅
-裏庭
+Home
+Backyard
 広場
 山林
 ???
 路地裏
 自販機下
-公園
+Park
 駅：都会行き
 Yukkuri Shop 1
 ゴミ捨て場
@@ -403,12 +403,12 @@ Yukkuri Shop 2
 都会
 駅：街行き
 繁華街（未実装)
-ゆっくり協会
-ゆっクリニック
+Yukkuri Association
+Yukkuri Clinic
 Yukkuri Shop 3
 路地裏２（未実装)
 工事途中放置ビル(未実装)
 高級ゆっくりショップ
 公園隅っこ
 探検隊発見
-戻る
+Back
