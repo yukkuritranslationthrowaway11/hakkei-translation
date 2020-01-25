@@ -12,21 +12,21 @@ Go Outside
 
 Autosave
 Back to title
-Shortcut keys
-スロット
-コメント
-ＳＣキー ロードしますか？
-オートセーブ ロードしますか？
- ロードしますか？
-ＳＣキー セーブしますか？
-オートセーブ セーブしますか？
- セーブしますか？
+Hotkeys
+Slot
+Comment
+Load hotkeys?
+Load autosave?
+Load?
+Save hotkeys?
+Save autosave?
+Save?
 匹目
-終了
-最初は？
-次は？
-かしこさ
-ポイントUP
+End
+Start?
+Next?
+Intelligence
+Points UP
 はどっち？
 h
 m
@@ -34,10 +34,10 @@ Spring
 Summer
 Fall
 Winter
-期目
+Month
 Yen
-あんよしゃんがぁ！？
-鬼威惨レベル
+Mister footsie!?
+Abyuser level
 強制ライブ開催！
 ぷるぷる えれくちおん
 これどくはいってる！？
@@ -67,10 +67,10 @@ Yen
 銅バッジ入品
 銀バッジ入品
 さんすう連続
-問正解！
-しつけ設定
-時間を朝に
-時間を夜に
+correct answers!
+Scold toggle
+Skip to morning
+Skip to night
 Fast forward through sleep
 ゆっくりしてんじゃない？
 ゆっくりしてんじゃない？
@@ -78,90 +78,90 @@ Fast forward through sleep
 ゆっくりしてんじゃない？
 ゆっくりしてんじゃない？
 ゆっくりしてんじゃない？
-画面保存
-そうじ
-片付ける
-洗う
-素手
-道具使用
-お飾り設置
-声かけ
-清掃
-管理
-やさしく持つ
-強く持つ
-(力加減)
+Screenshot
+Clean waste
+Bathe
+Put away
+Bare hands
+Tools
+Accessory
+Speak
+Clean
+Manage
+Hold gently
+Hold roughly
+strength
 Rub-rub
-転がす
-あおむけ
-でこピン
-ビンタ
-ぱんち
-瓶から茎を抜く
-おかざりをもつ
-おかざり没収
-まち針
-定規ビンタ
-ハンマー
-キリ
-キリライター
-あおむけ(固定)
+Roll
+Face up
+Flick
+Slap
+Punch
+Take stalk
+Hold accessory
+Hide accessory
+Pins
+Slap with ruler
+Hammer
+Hand drill
+Hand drill (heated)
+Face up (tie down)
 Hang gently
 Hang
-(String length)
-箱閉じ込め
-ローター
+string length
+Confine to box
+Vibrator
 Peni-peni shears
 Razor
 Fabric shears
 Stalk shears
 Stalk shears
 (put stalk in jar)
-埋葬
+Bury
 捨てる
-冷凍
+Freeze
 タグ付選択
 タグ付終了
 匹数表示
 タグ表示
 バッジ表示：ＯＮ
 バッジ表示：ＯＦＦ
-やさしい言葉
-冷たい言葉
+Kind words
+Cold words
 特別扱いする
 クズ扱いする
-転がって
-おしり見せて
-全ゆん転がって
-全ゆんおしり見せて
+Roll
+Show butt
+Roll (all)
+Show butt (all)
 Hang accessory
 Marisa
 Reimu
 Shell Marisa
 Alice
-種
-おかざり設置(子ゆ用)
-おかざり設置(成ゆ用)
-禁止
-許可
-命令
-学習
-個別学習
-飲み込む前のしあわせー禁止
-さかさまうんうん禁止
-おちびちゃん作るのは禁止
-おうたを歌うの禁止
-飲み込む前のしあわせー許可
-さかさまうんうん許可
-おちびちゃん作るのを許可
-おうたを歌うのを許可
-うんうんをトイレに片付けなさい
+Type
+Give accessory (ko)
+Give accessory (adult)
+Disallow
+Allow
+Command
+Teach life basics
+Teach academics
+May not say "happiness" before meal
+May not poo-poo upside-down
+May not have little ones
+May not sing songs
+May say "happiness" before meal
+May poo-poo upside-down
+May have little ones
+May sing songs
+Drag poo-poo to toilet
 Poo-poo dance
-かりのれんしゅう
+Hunting practice
 Arithmetic
 Arithmetic (auto)
-Language
-Language（with food）
+Reading
+Reading（with food）
 Furniture
 Toys
 Houses
@@ -169,22 +169,22 @@ Yukkurarium
 Abyuse
 Medicine
 Toilet
+Litterbox toilet
 Self-cleaning toilet
-自動水洗トイレ
-葉っぱ
-給水機
-トイレットペーパーの芯
-素焼き風土管
-ビー球
-ゴムボール
-すべりだい
-トランポリン
-プール
-小石
+Leaves
+Water dispenser
+Toilet paper roll
+Clay pipe
+Marble
+Rubber ball
+Slide
+Trampoline
+Pool
+Pebble
 きれいな石
-クリアダイス
-れいむ人形
-ダンボールハウス
+Clear dice
+Reimu doll
+Cardboard house
 木のおうち
 きのこ型ハウス
 おうちを揺らす
@@ -265,8 +265,8 @@ Type:
 背景処理
 ショートカットキー設定
 上部ショートカットキー設定
-Persistent scold setting:ON
-Persistent scold setting:OFF
+Persistent scold toggle:ON
+Persistent scold toggle:OFF
 メニュータブ記憶：ＯＮ
 メニュータブ記憶：ＯＦＦ
 速い
