@@ -1,8 +1,8 @@
 //来店時
 Come in! We're still opening, so take it easy!
 We have plenty of 「Energetic」 high-resistance yukkuri!
-With high durability they can stand more abuse...\nDoing that without killing is a man's dream
-It seems that yukkuri will not mourn the corpses of their\nfamily members but rather be disgusted by the death smell
+With high durability they can stand more abuse...\nDoing that without killing is a man's dream!
+It seems that yukkuri will not mourn the corpses of their\nfamily members, but will be disgusted by the death smell.
 Let me tell you something: if you have concerns about the abuse\nleave a comment in my blog!
 
 
@@ -51,7 +51,7 @@ A special medicine to increase yukkuri stamina for training\n
 
 
 //アイテム購入
-You're looking for abyuse\nsupplies?
+Looking for abyuse\nsupplies?
 You bought all the abyuse supplies!\nThis is just a step forward through the abyuser path!!
 
 
