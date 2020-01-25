@@ -71,7 +71,7 @@ Yen
 しつけ設定
 時間を朝に
 時間を夜に
-睡眠中限定：少し早送り
+Fast forward through sleep
 ゆっくりしてんじゃない？
 ゆっくりしてんじゃない？
 ゆっくりしてんじゃない？
@@ -111,12 +111,12 @@ Hang
 (String length)
 箱閉じ込め
 ローター
-ぺにきりばさみ
-ばりかん
-Shred accessory
-茎きりばさみ
-茎きりばさみ
-(瓶に入れる)
+Peni-peni shears
+Razor
+Fabric shears
+Stalk shears
+Stalk shears
+(put stalk in jar)
 埋葬
 捨てる
 冷凍
@@ -156,13 +156,13 @@ Alice
 おちびちゃん作るのを許可
 おうたを歌うのを許可
 うんうんをトイレに片付けなさい
-うんうんたいそう
+Poo-poo dance
 かりのれんしゅう
-さんすう
-さんすう(自動化)
-こくご
-こくご（餌付き）
-家具類
+Arithmetic
+Arithmetic (auto)
+Language
+Language（with food）
+Furniture
 Toys
 Houses
 Yukkurarium
@@ -265,8 +265,8 @@ Type:
 背景処理
 ショートカットキー設定
 上部ショートカットキー設定
-叱る設定記憶：ＯＮ
-叱る設定記憶：ＯＦＦ
+Persistent scold setting:ON
+Persistent scold setting:OFF
 メニュータブ記憶：ＯＮ
 メニュータブ記憶：ＯＦＦ
 速い
@@ -308,10 +308,10 @@ Weeds
 Garbage
 Poo-poo
 餌分量調節
-Small
-Medium
-Large
-特大
+S
+M
+L
+XL
 配分設定
 固定
 頭数分
@@ -332,11 +332,11 @@ Large
 逃がす
 処分
 選択
-個別解凍
+Thaw
 解凍開始
 これ以上
 入らない
-個別処分
+Throw away
 処分開始
 所持金:
 この子は買取ができないです
@@ -392,12 +392,12 @@ Large
 自販機下
 公園
 駅：都会行き
-ゆっくりショップ１
+Yukkuri Shop 1
 ゴミ捨て場
 溜池
 ボロ神社
 神社
-ゆっくりショップ２
+Yukkuri Shop 2
 河川敷
 高架下
 都会
@@ -405,7 +405,7 @@ Large
 繁華街（未実装)
 ゆっくり協会
 ゆっクリニック
-ゆっくりショップ３
+Yukkuri Shop 3
 路地裏２（未実装)
 工事途中放置ビル(未実装)
 高級ゆっくりショップ
