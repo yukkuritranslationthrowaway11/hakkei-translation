@@ -49,7 +49,7 @@ Abyuser level
 ひかりあれ！
 メンタルブレイク
 おかわりもいいぞ！
-ブリーダーレベル
+Breeder level
 あたらしいかぞく
 いのちのばとん
 一流スナイパー
@@ -61,11 +61,11 @@ Abyuser level
 といれさんはここ！
 しょくごのうんどう
 はんてぃんぐ！
-ゆかび治療
-足焼き治療
-植毛
-Copper badge 入品
-Silver badge 入品
+Mold treatment
+Burnt footsie treatment
+Hair transplant
+Copper-badged import
+Silver-badged import
 さんすう連続
 correct answers!
 Scold toggle
@@ -187,26 +187,26 @@ Reimu doll
 Cardboard house
 Wooden house
 Mushroom house
-おうちを揺らす
-おうちから出す（順番に1匹)
-おうちから出す（一気に全部)
-おうち内を表示
-おうち内を非表示
-何もなし
-新聞紙
-土
-紙やすり
-アルコールランプ
-オレンジジュース
-飲むヨーグルト
-ラムネ
-精子餡
+Shake house
+Remove from house (individual)
+Remove from house (altogether)
+Display house interior
+Hide house interior
+Nothing
+Newspaper
+Earth
+Sandpaper
+Alcohol lamp
+Orange juice
+Yogurt
+Ramune
+Sperm paste
 Viyugra
-ラムネスプレー
+Ramune spray
 Anti-antiyukkuritis
 Sugar supplement
 Flour supplement
-小豆サプリ
+Bean paste supplement
 シタタラン
 個
 知能アップの秘薬：
@@ -315,14 +315,14 @@ XL
 配分設定
 固定
 頭数分
-自動給餌機設定
-常に給餌
-一日
-一食
-二食
-三食
-死因:
-享年
+Auto-feeder settings
+constantly
+_ daily
+Once
+Twice
+Thrice
+Death by:
+Age at death
 ねんと
 このきせつと
 期目
@@ -340,9 +340,9 @@ Thaw
 処分開始
 所持金:
 この子は買取ができないです
-ボックス
+Box
 Sell yukkuri
-帰る
+Return
 銅バッジ試験を受ける
 銀バッジ試験を受ける
 金バッジ試験を受ける
@@ -351,15 +351,15 @@ Next
 Previous
 Buy
 血統無しゆっくりを見る
-銅血統ゆっくりを見る
-銀血統ゆっくりを見る
-金血統ゆっくりを見る
-飼育用品を見る
-ゆっくりを売る
-本当に買う
-やっぱりやめる
-耐久強化ゆっくりを見る
-虐待用品を見る
+View bronze-badged yukkuri
+View silver-badged yukkuri
+View gold-badged yukkuri
+View yukkuri raising supplies
+Sell yukkuri
+Confirm purchase
+Nevermind
+View yukkuri endurance enhancements
+View abyuse tools
 ショップで購入した、お姉さんが躾けたゆっくり
 ショップで購入した、銅バッジ血統のゆっくり
 ショップで購入した、銀バッジ血統のゆっくり
@@ -375,40 +375,40 @@ Buy
 ゆっくり用ケーキ
 ゆっくり用ラムネ
 激辛ゆっくりフード契約
-金属製の箱
+Metal box
 Anti-antiyukkuritis
 お仕置き用固定具
 ゆかびを治療
 あんよさんを治療
 舌麻痺状態を治療
 植毛
-街
+Town
 Home
 Backyard
-広場
-山林
+Plaza
+Forest
 ???
-路地裏
-自販機下
+Back alley
+Under vending machine
 Park
-駅：都会行き
-Yukkuri Shop 1
-ゴミ捨て場
-溜池
-ボロ神社
-神社
-Yukkuri Shop 2
-河川敷
-高架下
-都会
-駅：街行き
-繁華街（未実装)
+Train station: to city
+Yukkuri shop 1
+Garbage dump
+Pond
+Run-down shrine
+Shrine
+Yukkuri shop 2
+Riverbed
+Underpass
+City
+Train station: to town
+Shopping center (unimplemented)
 Yukkuri Association
-Yukkuri Clinic
-Yukkuri Shop 3
-路地裏２（未実装)
-工事途中放置ビル(未実装)
-高級ゆっくりショップ
-公園隅っこ
-探検隊発見
+Yukkuri clinic
+Yukkuri shop 3
+Back alley 2 (unimplemented)
+Abandoned construction site (unimplemented)
+Luxury yukkuri shop
+Park corner
+Expedition discovery
 Back

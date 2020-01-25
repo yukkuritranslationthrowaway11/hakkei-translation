@@ -299,16 +299,16 @@ ma_sei_hanyou_wash_1_10 = "【一人称】を ぺーろ ぺーろ するんだ�
 ;////////////////////////////////////////////////////////////
 ;反応
 ;///////////////////////////////////////////////////////////
-ma_sei_hanyou_smel_1_1 = "くっさ！！"
-ma_sei_hanyou_smel_1_2 = "くさいぃぃぃ！！"
-ma_sei_hanyou_smel_1_3 = "これ くっさ！！"
-ma_sei_hanyou_smel_1_4 = "これ くさぃぃぃ！！"
-ma_sei_hanyou_smel_1_5 = "ゆぇんっっ！！"
-ma_sei_hanyou_smel_1_6 = "くっさ！！"
-ma_sei_hanyou_smel_1_7 = "くさいぃぃぃ！！"
-ma_sei_hanyou_smel_1_8 = "これ くっさ！！"
-ma_sei_hanyou_smel_1_9 = "これ くさぃぃぃ！！"
-ma_sei_hanyou_smel_1_10 = "ゆぇんっっ！！"
+ma_sei_hanyou_smel_1_1 = "Stinks!!"
+ma_sei_hanyou_smel_1_2 = "Stinkyyyy!!"
+ma_sei_hanyou_smel_1_3 = "This smells!"
+ma_sei_hanyou_smel_1_4 = "It stiiiinks!!"
+ma_sei_hanyou_smel_1_5 = "Yuennn!!"
+ma_sei_hanyou_smel_1_6 = "Stinks!!"
+ma_sei_hanyou_smel_1_7 = "Stinkyyyy!!"
+ma_sei_hanyou_smel_1_8 = "This smells!!"
+ma_sei_hanyou_smel_1_9 = "It stiiiinks!!"
+ma_sei_hanyou_smel_1_10 = "Yuennn!!"
 
 ma_sei_hanyou_want_1_1 = "【一人称】も！！"
 ma_sei_hanyou_want_1_2 = "【一人称】も ほしいんだよ！！"
