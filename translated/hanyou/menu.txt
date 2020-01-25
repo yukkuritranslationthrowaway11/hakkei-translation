@@ -128,8 +128,8 @@ Freeze
 バッジ表示：ＯＦＦ
 Kind words
 Cold words
-特別扱いする
-クズ扱いする
+Treat specially
+Treat as scum
 Roll
 Show butt
 Roll (all)
