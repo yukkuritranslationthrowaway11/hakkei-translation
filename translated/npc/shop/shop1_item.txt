@@ -9,12 +9,12 @@ A toilet for yukkuri with automatic flushing.\nIt flushes water without needing 
 
 
 //給水器
-Water supply for yukkuri�B\nOther than food�Ahydration is essential\nDuring summer and the like something else might be needed�B
+Water supply for yukkuri.\nKos need to drink often, but just water\nand normal food is healthy for all yus. 
 
 
 
 //土管
-A clay pipe  yukkuri can fit in snugly.\nThanks to the production method, yukkuri's delicate skin isn't injured.
+A clay pipe  yukkuri can fit in snugly.\nThanks to the production method, delicate yukkuri skin isn't injured.
 
 
 
@@ -29,7 +29,7 @@ An ordinary transparent dice, in a set of 50.\nYukkuri like to collect them as t
 
 
 //人形
-A doll looking like Reimu.\nYukkuri can feel lonely,\nbut keeping multiple ones can be difficult!
+A doll that looks like Reimu.\nYukkuri can feel lonely,\nbut keeping multiple can be difficult!
 
 
 
@@ -39,8 +39,8 @@ A doll looking like Reimu.\nYukkuri can feel lonely,\nbut keeping multiple ones 
 
 
 //遊具
-It's a slide for yukkuri.\nYukkuri seem to really favour this piece of park equipment.
-A trampoline for yukkuri.\nYukkuri like to fly in the sky especially as kids,\nso they really favour making high jumps with this toy.
+It's a slide for yukkuri.\nYukkuri seem to really like this piece of park equipment.
+A trampoline for yukkuri.\nYukkuri like to fly in the sky especially as kos,\nso they really like jumping high with this toy.
 It's a pool for yukkuri.\nYukkuri like to swim here, but if they stay in the water too long they melt,\nso please pay attention to them.
 
 

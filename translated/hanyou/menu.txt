@@ -253,13 +253,13 @@ Abyuser
 Bonus 2
 植毛治療
 未実装
-正解数:
+consecutive right answers:
 合計ランク:
 かしこさ指導補正:
 愛され補正:
 Bonus: ON
 Bonus: OFF
-Successive HITs:
+Consecutive HITs:
 ゲス度指導補正:
 Game speed
 Background processing
