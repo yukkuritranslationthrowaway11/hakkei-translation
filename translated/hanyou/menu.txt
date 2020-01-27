@@ -118,14 +118,14 @@ Stalk shears
 Stalk shears
 (put stalk in jar)
 Bury
-捨てる
+Throw away
 Freeze
-タグ付選択
-タグ付終了
-匹数表示
-タグ表示
-バッジ表示：ＯＮ
-バッジ表示：ＯＦＦ
+Set tag
+End tag
+Show numbers
+Show tags
+Show badges: ON
+Show badges: OFF
 Kind words
 Cold words
 Treat specially
@@ -224,7 +224,7 @@ Affection:
 Scumminess:
 Pickiness (food):
 Hunger:
-Stamina:
+Health:
 Reflexes:
 Fear:
 Not married
@@ -242,17 +242,17 @@ Sister: not in yukkurarium
 Sister:
 Type:
 Anti-antiyukkuritis active
-シタタラン効果発動中
-和三盆サプリ効果発動中：かしこさUPボーナス
-餅粉サプリ効果発動中：相互好感度UPボーナス
-小豆サプリ効果発動中：最大体力UPボーナス
+シタタランactive
+Sugar supplement active: Intelligence Points UP bonus
+Flour supplement active: 相互好感度UP bonus
+Bean paste supplement active: Max Health UP bonus
 No medication
 Breeder
 Bonus 1
 Abyuser
 Bonus 2
-植毛治療
-未実装
+Hair transplant treatment
+Unimplemented
 consecutive right answers:
 合計ランク:
 かしこさ指導補正:
@@ -273,8 +273,8 @@ Fast
 Normal
 Slow
 Game speed
-選択してください
-現在のゲームスピード
+Please select
+Current game speed
 Normal
 Light
 背景処理を
@@ -282,8 +282,8 @@ Light
 戻る
 上部ショートカットキーの操作を
 移動
-表示
-非表示
+Show
+Hide
 現在の設定選択
 Yukkuri food
 Sweet-sweet
@@ -312,7 +312,7 @@ S
 M
 L
 XL
-配分設定
+Distribution settings
 固定
 頭数分
 Auto-feeder settings
@@ -332,25 +332,25 @@ Age at death
 逃がす
 処分
 選択
-Thaw
-解凍開始
+個別解凍 //individual thawing
+解凍開始 //start thawing. figure out which one actually does it
 これ以上
 入らない
 個別処分
-処分開始
-所持金:
+処分開始 //yep this is important
+Money:
 この子は買取ができないです
 Box
 Sell yukkuri
 Return
-銅バッジ試験を受ける
-銀バッジ試験を受ける
-金バッジ試験を受ける
-プラチナバッジ試験を受ける
+Take bronze badge test
+Take silver badge test
+Take gold badge test
+Take platinum badge test
 Next
 Previous
 Buy
-血統無しゆっくりを見る
+View non-pedigreed yukkuri
 View bronze-badged yukkuri
 View silver-badged yukkuri
 View gold-badged yukkuri
@@ -358,7 +358,7 @@ View yukkuri raising supplies
 Sell yukkuri
 Confirm purchase
 Nevermind
-View yukkuri endurance enhancements
+View endurance-enhanced yukkuri
 View abyuse tools
 ショップで購入した、お姉さんが躾けたゆっくり
 ショップで購入した、銅バッジ血統のゆっくり
@@ -368,20 +368,20 @@ View abyuse tools
 
 
 
-廉価ゆっくりフード契約
-ゆっくりフード契約
-高級ゆっくりフード契約
-ゆっくり用クッキー
-ゆっくり用ケーキ
-ゆっくり用ラムネ
-激辛ゆっくりフード契約
+Cheap yukkuri food contract
+Yukkuri food contract
+Luxury yukkuri food contract
+Cookies for yukkuri
+Cake for yukkuri
+Ramune for yukkuri
+Spicy yukkuri food contract
 Metal box
 Anti-antiyukkuritis
 お仕置き用固定具
 ゆかびを治療
-あんよさんを治療
+Treat mister footsie
 舌麻痺状態を治療
-植毛
+Hair transplant
 Town
 Home
 Backyard
