@@ -330,14 +330,14 @@ Age at death
 ボックスがいっぱいやで！
 売却
 逃がす
-処分
-選択
-個別解凍 //individual thawing
-解凍開始 //start thawing. figure out which one actually does it
+Discard
+Select
+Thaw individual
+Thaw all selected
 これ以上
 入らない
-個別処分
-処分開始 //yep this is important
+Discard individual
+Discard all selected //yep this is important
 Money:
 この子は買取ができないです
 Box
