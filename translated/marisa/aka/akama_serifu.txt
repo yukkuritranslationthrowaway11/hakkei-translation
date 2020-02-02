@@ -1264,14 +1264,14 @@ ma_aka_m_2_10 = "Chake id eajy!"
 
 ;ネガティブモード
 ma_aka_nega_1 = "Wand choo chake id eajy je..."
-ma_aka_nega_2 = "【一人称】 wand choo be eajy...?"
+ma_aka_nega_2 = "【一人称】 wand choo chake id eajy...?"
 ma_aka_nega_3 = "Why cho 【一人称】..."
 ma_aka_nega_4 = "【一人称】 can'd chake id eajy no je!"
 ma_aka_nega_5 = "にゃんで...ゆっくち させちぇくれにゃいんだじぇ...?"
 ma_aka_nega_6 = "Wand choo chake id eajy je..."
 ma_aka_nega_7 = "にゃんで...ゆっくち させちぇくれにゃいんだじぇ...?"
 ma_aka_nega_8 = "Wand choo chake id eajy je..."
-ma_aka_nega_9 = "【一人称】 wand choo be eajy...?"
+ma_aka_nega_9 = "【一人称】 wand choo chake id eajy...?"
 ma_aka_nega_10 = "にゃんで...ゆっくち させちぇくれにゃいんだじぇ...?"
 
 ;便秘モード
@@ -4247,15 +4247,15 @@ ma_aka_dousite_toak_1_10 = "どうちてぇぇぇぇ!?"
 
 
 ;ごめんなさい
-ma_aka_gomen_1_1 = "ゆぁぁぁん! ごべんなざいぃぃぃ!"
-ma_aka_gomen_1_2 = "ゆわぁぁん! ごべんなざいぃぃぃ!"
-ma_aka_gomen_1_3 = "ゆぇぇぇん! ごべんなざいぃぃぃ!"
-ma_aka_gomen_1_4 = "ゆぁぁぁん! ごべんにゃしゃいぃぃぃ!"
-ma_aka_gomen_1_5 = "ゆわぁぁん! ごべんにゃしゃいぃぃぃ!"
-ma_aka_gomen_1_6 = "ゆぇぇぇん! ごべんにゃしゃぃぃぃ!"
-ma_aka_gomen_1_7 = "ゆぁぁぁん! ごみぇんにゃしゃぃぃぃ!"
-ma_aka_gomen_1_8 = "ゆわぁぁん! ごみぇんにゃしゃぃぃぃ!"
-ma_aka_gomen_1_9 = "ゆぇぇぇん! ごみぇんにゃしゃぃぃぃ!"
+ma_aka_gomen_1_1 = "Yuaaan! ごべんなざいぃぃぃ!"
+ma_aka_gomen_1_2 = "Yuwaaan! ごべんなざいぃぃぃ!"
+ma_aka_gomen_1_3 = "Yueeen! ごべんなざいぃぃぃ!"
+ma_aka_gomen_1_4 = "Yuaaan! ごべんにゃしゃいぃぃぃ!"
+ma_aka_gomen_1_5 = "Yuwaaan! ごべんにゃしゃいぃぃぃ!"
+ma_aka_gomen_1_6 = "Yueeen! ごべんにゃしゃぃぃぃ!"
+ma_aka_gomen_1_7 = "Yuaaan! ごみぇんにゃしゃぃぃぃ!"
+ma_aka_gomen_1_8 = "Yuwaaan! ごみぇんにゃしゃぃぃぃ!"
+ma_aka_gomen_1_9 = "Yueeen! ごみぇんにゃしゃぃぃぃ!"
 ma_aka_gomen_1_10 = "ごべんにゃしゃいぃぃぃぃぃ!"
 
 ;暴言
