@@ -1,65 +1,65 @@
 ;飼い主呼び方
-your_name1_1_aka="Mishter human"
-your_name1_2_aka="Mishter"
-your_name1_3_aka="Geejer"
-your_name1_4_aka="Shiddy geejer"
-your_name1_5_aka="Dwaddie"
-your_name1_6_aka="Shiddy pawent"
+your_name1_1_aka=Mishter human
+your_name1_2_aka=Mishter
+your_name1_3_aka=Geejer
+your_name1_4_aka=Shiddy geejer
+your_name1_5_aka=Dwaddie
+your_name1_6_aka=Shiddy pawent
 
-your_name1_1_sei="Mister human"
-your_name1_2_sei="Mister"
-your_name1_3_sei="Geezer"
-your_name1_4_sei="Shitty geezer"
-your_name1_5_sei="Daddy"
-your_name1_6_sei="Shitty parent"
+your_name1_1_sei=Mister human
+your_name1_2_sei=Mister
+your_name1_3_sei=Geezer
+your_name1_4_sei=Shitty geezer
+your_name1_5_sei=Daddy
+your_name1_6_sei=Shitty parent
 
-your_name2_1_aka="Mish human"
-your_name2_2_aka="Mish"
-your_name2_3_aka="Hwag"
-your_name2_4_aka="Shiddy hwag"
-your_name2_5_aka="Mwommie"
-your_name2_6_aka="Shiddy pawent"
+your_name2_1_aka=Mish human
+your_name2_2_aka=Mish
+your_name2_3_aka=Hwag
+your_name2_4_aka=Shiddy hwag
+your_name2_5_aka=Mwommie
+your_name2_6_aka=Shiddy pawent
 
-your_name2_1_sei="Miss human"
-your_name2_2_sei="Miss"
-your_name2_3_sei="Hag"
-your_name2_4_sei="Shitty hag"
-your_name2_5_sei="Mommy"
-your_name2_6_sei="Shitty parent"
+your_name2_1_sei=Miss human
+your_name2_2_sei=Miss
+your_name2_3_sei=Hag
+your_name2_4_sei=Shitty hag
+your_name2_5_sei=Mommy
+your_name2_6_sei=Shitty parent
 
 your_name3_1_aka=にんげんしゃん
 your_name3_2_aka=おねにーしゃん
-your_name3_3_aka="Hwag"
-your_name3_4_aka="Shiddy hwag"
+your_name3_3_aka=Hwag
+your_name3_4_aka=Shiddy hwag
 your_name3_5_aka=おかとーしゃ
-your_name3_6_aka="Shiddy pawent"
+your_name3_6_aka=Shiddy pawent
 
 your_name3_1_sei=にんげんさん
 your_name3_2_sei=おねにーさん
-your_name3_3_sei="Hag"
-your_name3_4_sei="Shitty hag"
+your_name3_3_sei=Hag
+your_name3_4_sei=Shitty hag
 your_name3_5_sei=おかとーさん
-your_name3_6_sei="Shitty parent"
+your_name3_6_sei=Shitty parent
 
 your_name4_1_aka=にんげんしゃん
 your_name4_2_aka=おにねーしゃん
-your_name4_3_aka="Geejer"
-your_name4_4_aka="Shiddy geejer"
+your_name4_3_aka=Geejer
+your_name4_4_aka=Shiddy geejer
 your_name4_5_aka=おとかーしゃ
-your_name4_6_aka="Shiddy pawent"
+your_name4_6_aka=Shiddy pawent
 
 your_name4_1_sei=にんげんさん
 your_name4_2_sei=おにねーさん
-your_name4_3_sei="Geezer"
-your_name4_4_sei="Shitty geezer"
+your_name4_3_sei=Geezer
+your_name4_4_sei=Shitty geezer
 your_name4_5_sei=おとかーさん
-your_name4_6_sei="Shitty parent"
+your_name4_6_sei=Shitty parent
 
 
 数
-many_aka="wotsh"
+many_aka=wotsh
 
-many_sei="lots"
+many_sei=lots
 
 家族
 big_sis_name_aka="おねーちゃ"
