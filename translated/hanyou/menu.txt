@@ -80,9 +80,9 @@ Fast forward through sleep
 ゆっくりしてんじゃない？
 Screenshot
 Clean waste
-Put away
 Bathe
-Hands
+Put away
+Bare hands
 Tools
 Accessory
 Speak
@@ -105,7 +105,7 @@ Slap with ruler
 Hammer
 Hand drill
 Hand drill (heated)
-Tie down
+Face up (tie down)
 Hang gently
 Hang
 string length
@@ -262,7 +262,7 @@ Bonus: OFF
 Consecutive HITs:
 ゲス度指導補正:
 Game speed
-Background
+Background processing
 Hotkey settings
 Upper hotkey settings
 Persistent scold toggle: ON
