@@ -1,6 +1,6 @@
 Intelligence
 Can't remember what toilet is
-Somehow knows what a toilet is
+Somehow knows what toilet is
 Will die if left alone
 The bare minimum for a pet yu
 Can perfectly count up to 1
@@ -52,7 +52,7 @@ Scared of humans
 Very scared of humans
 Extremely scared of humans
 
-Motor Skills
+Reflexes
 Can barely move
 Slow
 So-so
@@ -81,22 +81,22 @@ Hemorrhoids
 Castrated
 Mold
 
-Popularity
-Hated
+Relationships
+Hates
 Indifferent
 Awkward
-Intimate
-LoveLove
+Close
+Love
 Absolute Love
 
 Pickiness (food)
 No sense of taste
-Will eat almost anything
+Eats almost anything
 Unsophisticated tastes
 Not quite the palate
 So-so sense of taste
 A bit spoiled
-A gourmet
+Spoiled
 Luxurious palate
 Only sweet-sweets and above
 Sweet-sweets aren't enough
