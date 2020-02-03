@@ -116,7 +116,7 @@ Razor
 Fabric shears
 Stalk shears
 Stalk shears
-(Keep stalk)
+(keep stalk)
 Bury
 Throw away
 Freeze
@@ -161,7 +161,7 @@ Hunting practice
 Arithmetic
 Arithmetic (auto)
 Reading
-Reading（with food）
+Reading (with food)
 Furniture
 Toys
 Houses
@@ -262,7 +262,7 @@ Bonus: OFF
 Consecutive HITs:
 ゲス度指導補正:
 Game speed
-Background processing
+Background
 Hotkey settings
 Upper hotkey settings
 Persistent scold toggle: ON
@@ -312,7 +312,7 @@ S
 M
 L
 XL
-Distribution settings
+Distribution
 固定
 頭数分
 Auto-feeder settings
