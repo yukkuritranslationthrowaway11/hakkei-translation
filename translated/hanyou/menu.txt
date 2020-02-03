@@ -80,9 +80,9 @@ Fast forward through sleep
 ゆっくりしてんじゃない？
 Screenshot
 Clean waste
-Put away
 Bathe
-Hands
+Put away
+Bare hands
 Tools
 Accessory
 Speak
@@ -145,8 +145,8 @@ Give accessory (adult)
 Disallow
 Allow
 Command
-Life basics
-Academics
+Teach life basics
+Teach academics
 May not say "happiness" before meal
 May not poo-poo upside-down
 May not have little ones
@@ -252,7 +252,7 @@ Bonus 1
 Abyuser
 Bonus 2
 Hair transplant treatment
-Unavailable
+Unimplemented
 consecutive right answers:
 合計ランク:
 かしこさ指導補正:
@@ -262,7 +262,7 @@ Bonus: OFF
 Consecutive HITs:
 ゲス度指導補正:
 Game speed
-Background
+Background processing
 Hotkey settings
 Upper hotkey settings
 Persistent scold toggle: ON
@@ -327,17 +327,17 @@ Age at death
 このきせつと
 期目
 もう助からない
-Freezer full!
+ボックスがいっぱいやで！
 売却
 逃がす
 Discard
 Select
-Thaw one
-Thaw selected
+Thaw individual
+Thaw all selected
 これ以上
 入らない
-Discard one
-Discard selected
+Discard individual
+Discard all selected //yep this is important
 Money:
 この子は買取ができないです
 Box
