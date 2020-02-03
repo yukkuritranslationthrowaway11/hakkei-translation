@@ -80,9 +80,9 @@ Fast forward through sleep
 ゆっくりしてんじゃない？
 Screenshot
 Clean waste
-Bathe
 Put away
-Bare hands
+Bathe
+Hands
 Tools
 Accessory
 Speak
@@ -105,7 +105,7 @@ Slap with ruler
 Hammer
 Hand drill
 Hand drill (heated)
-Face up (tie down)
+Tie down
 Hang gently
 Hang
 string length
@@ -116,7 +116,7 @@ Razor
 Fabric shears
 Stalk shears
 Stalk shears
-(put stalk in jar)
+(Keep stalk)
 Bury
 Throw away
 Freeze
@@ -145,8 +145,8 @@ Give accessory (adult)
 Disallow
 Allow
 Command
-Teach life basics
-Teach academics
+Life skills
+Academics
 May not say "happiness" before meal
 May not poo-poo upside-down
 May not have little ones
@@ -327,17 +327,17 @@ Age at death
 このきせつと
 期目
 もう助からない
-ボックスがいっぱいやで！
+Freezer full!
 売却
 逃がす
 Discard
 Select
-Thaw individual
-Thaw all selected
+Thaw one
+Thaw selected
 これ以上
 入らない
-Discard individual
-Discard all selected //yep this is important
+Discard one
+Discard selected
 Money:
 この子は買取ができないです
 Box
