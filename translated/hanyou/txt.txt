@@ -63,7 +63,7 @@ many_sei=lots
 
 家族
 big_sis_name_aka="big shish"
-little_sis_name_aka="middle shish"
+little_sis_name_aka="widdle shish"
 mother_name_aka="Mwommie"
 father_name_aka="Dwaddie"
 otibi_name_aka="widdle one"
