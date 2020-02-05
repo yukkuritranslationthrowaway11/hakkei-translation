@@ -2068,15 +2068,15 @@ ma_aka_nobi3_1_10 = "Stwetch stwetch"
 
 
 ma_aka_surisuri1_1_1 = "Dwoing wub-wub no je"
-ma_aka_surisuri1_1_2 = "Dwo wub-wub no je!"
+ma_aka_surisuri1_1_2 = "Dwoing wub-wub!"
 ma_aka_surisuri1_1_3 = "Wub-wub da je"
 ma_aka_surisuri1_1_4 = "Wub-wub da je"
 ma_aka_surisuri1_1_5 = "Wub-wub da je"
-ma_aka_surisuri1_1_6 = "Dwoing wub-wub da je"
-ma_aka_surisuri1_1_7 = "Dwo wub-wub da je"
-ma_aka_surisuri1_1_8 = "Id'sh 【一人称】's wub-wub chime no je"
-ma_aka_surisuri1_1_9 = "Wub-wub da je"
-ma_aka_surisuri1_1_10 = "Dwoing wub-wub no je"
+ma_aka_surisuri1_1_6 = "Dwoing wub-wub no je"
+ma_aka_surisuri1_1_7 = "Dwoing wub-wub no je"
+ma_aka_surisuri1_1_8 = "Id'sh 【一人称】's wub-wub chime nanoje"
+ma_aka_surisuri1_1_9 = "Dwoing wub-wub da je"
+ma_aka_surisuri1_1_10 = "Dwoing wub-wub nanoje"
 
 
 ma_aka_surisuri2_1_1 = "Wub"
@@ -2104,15 +2104,15 @@ ma_aka_surisuri3_1_10 = "Wub-wub"
 
 
 ma_aka_surisuri_miage1_1_1 = "Wanna wub-wub no je"
-ma_aka_surisuri_miage1_1_2 = "Wetsh do wub-wub!"
+ma_aka_surisuri_miage1_1_2 = "Wet's dwo wub-wub!"
 ma_aka_surisuri_miage1_1_3 = "Wanna wub-wub no je"
-ma_aka_surisuri_miage1_1_4 = "Dwo wub-wub!"
+ma_aka_surisuri_miage1_1_4 = "Wet's dwo wub-wub!"
 ma_aka_surisuri_miage1_1_5 = "Wanna wub-wub no je!"
-ma_aka_surisuri_miage1_1_6 = "Dwo wub-wub!"
+ma_aka_surisuri_miage1_1_6 = "Wet's dwo wub-wub!"
 ma_aka_surisuri_miage1_1_7 = "Wanna wub-wub no je"
-ma_aka_surisuri_miage1_1_8 = "Dwo wub-wub!"
+ma_aka_surisuri_miage1_1_8 = "Wet's dwo wub-wub!"
 ma_aka_surisuri_miage1_1_9 = "Wanna wub-wub no je"
-ma_aka_surisuri_miage1_1_10 = "Wetsh do wub-wub!"
+ma_aka_surisuri_miage1_1_10 = "Wet's dwo wub-wub!"
 
 ;///////////////////////////////////////////////////////////
 ;ボール
@@ -2547,14 +2547,14 @@ ma_aka_outi_serching_good_10 = "ゆ~っ!しゅごいんだじぇぇぇ!!"
 
 ma_aka_outi_idou_serch_1 = "【一人称】は おうちに はいるんだじぇ!"
 ma_aka_outi_idou_serch_2 = "ゆっくち はいるじぇ!"
-ma_aka_outi_idou_serch_3 = "ゆ~っ!"
-ma_aka_outi_idou_serch_4 = "ゆ~..."
-ma_aka_outi_idou_serch_5 = "ゆゆっ!?"
-ma_aka_outi_idou_serch_6 = "ゆわあぁぁ…"
-ma_aka_outi_idou_serch_7 = "ゆわあぁぁ…"
-ma_aka_outi_idou_serch_8 = "ゆゆっ!?"
-ma_aka_outi_idou_serch_9 = "ゆ~っ!"
-ma_aka_outi_idou_serch_10 = "ゆ~..."
+ma_aka_outi_idou_serch_3 = "Yu~u!"
+ma_aka_outi_idou_serch_4 = "Yu~..."
+ma_aka_outi_idou_serch_5 = "Yuyu!?"
+ma_aka_outi_idou_serch_6 = "Yuwaaaa..."
+ma_aka_outi_idou_serch_7 = "Yuwaaaa..."
+ma_aka_outi_idou_serch_8 = "Yuyu!?"
+ma_aka_outi_idou_serch_9 = "Yu~u!"
+ma_aka_outi_idou_serch_10 = "Yu~..."
 
 
 ;///////////////////////////////////////////////////////////
@@ -2562,16 +2562,16 @@ ma_aka_outi_idou_serch_10 = "ゆ~..."
 ;///////////////////////////////////////////////////////////
 
 
-ma_aka_outi_1st1_1_1 = "ゆゆっ!?"
-ma_aka_outi_1st1_1_2 = "ゆわあぁぁ…"
-ma_aka_outi_1st1_1_3 = "ゆ~っ!"
-ma_aka_outi_1st1_1_4 = "ゆ~..."
-ma_aka_outi_1st1_1_5 = "ゆゆっ!?"
-ma_aka_outi_1st1_1_6 = "ゆわあぁぁ…"
-ma_aka_outi_1st1_1_7 = "ゆわあぁぁ…"
-ma_aka_outi_1st1_1_8 = "ゆゆっ!?"
-ma_aka_outi_1st1_1_9 = "ゆ~っ!"
-ma_aka_outi_1st1_1_10 = "ゆ~..."
+ma_aka_outi_1st1_1_1 = "Yuyu!?"
+ma_aka_outi_1st1_1_2 = "Yuwaaaa..."
+ma_aka_outi_1st1_1_3 = "Yu~u!"
+ma_aka_outi_1st1_1_4 = "Yu~..."
+ma_aka_outi_1st1_1_5 = "Yuyu!?"
+ma_aka_outi_1st1_1_6 = "Yuwaaaa..."
+ma_aka_outi_1st1_1_7 = "Yuwaaaa..."
+ma_aka_outi_1st1_1_8 = "Yuyu!?"
+ma_aka_outi_1st1_1_9 = "Yu~u!"
+ma_aka_outi_1st1_1_10 = "Yu~..."
 
 
 ma_aka_outi_1st1_2_1 = "とっちぇも ゆっくち できそうだじぇぇ"
@@ -2643,15 +2643,15 @@ ma_aka_kyoufu1_10 = "にげりゅんだじぇ!ゆっくち にげりゅんだじ
 ;///////////////////////////////////////////////////////////
 
 ;通常餌
-ma_aka_f_1 = "YU!Mishter fwood!"
-ma_aka_f_2 = "YU!Id'sh mishter fwood"
-ma_aka_f_3 = "Id'sh mishter fwoodー"
+ma_aka_f_1 = "YU! Mishter fwood!"
+ma_aka_f_2 = "YU! Id'sh mishter fwood"
+ma_aka_f_3 = "Id'sh mishter fwood!"
 ma_aka_f_4 = "Id'sh chime fwo fwood!"
-ma_aka_f_5 = "Yu!Mishter fwood!!"
+ma_aka_f_5 = "Yu! Mishter fwood!!"
 ma_aka_f_6 = "A nishe shmell!"
 ma_aka_f_7 = "Mishter fwood!"
-ma_aka_f_8 = "Id'sh mishter fwoodー"
-ma_aka_f_9 = "Yu!Mishter fwood!!"
+ma_aka_f_8 = "Id'sh mishter fwood!"
+ma_aka_f_9 = "Yu! Mishter fwood!!"
 ma_aka_f_10 = "A nishe shmell!"
 
 ;通常餌：満腹時

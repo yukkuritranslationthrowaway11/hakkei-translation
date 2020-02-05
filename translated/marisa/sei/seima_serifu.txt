@@ -2170,16 +2170,16 @@ ma_sei_nobi3_1_10 = "Stretch-stretch"
 ;///////////////////////////////////////////////////////////
 
 
-ma_sei_surisuri1_1_1 = "Do rub-rub no ze"
-ma_sei_surisuri1_1_2 = "Do rub-rub"
+ma_sei_surisuri1_1_1 = "Doing rub-rub no ze"
+ma_sei_surisuri1_1_2 = "Doing rub-rub!"
 ma_sei_surisuri1_1_3 = "Rub-rub da ze"
 ma_sei_surisuri1_1_4 = "Rub-rub da ze"
 ma_sei_surisuri1_1_5 = "Rub-rub da ze"
-ma_sei_surisuri1_1_6 = "Do rub-rub no ze"
-ma_sei_surisuri1_1_7 = "Do rub-rub no ze"
-ma_sei_surisuri1_1_8 = "【一人称】's super rub-rub time no ze"
-ma_sei_surisuri1_1_9 = "Do rub-rub no ze"
-ma_sei_surisuri1_1_10 = "Rub-rub no ze"
+ma_sei_surisuri1_1_6 = "Doing rub-rub no ze"
+ma_sei_surisuri1_1_7 = "Doing rub-rub no ze"
+ma_sei_surisuri1_1_8 = "【一人称】's rub-rub time nanoze"
+ma_sei_surisuri1_1_9 = "Doing rub-rub no ze"
+ma_sei_surisuri1_1_10 = "Rub-rub nanoze"
 
 
 ma_sei_surisuri2_1_1 = "Rub"
@@ -2207,15 +2207,15 @@ ma_sei_surisuri3_1_10 = "Rub-rub"
 
 
 ma_sei_surisuri_miage1_1_1 = "Want to rub-rub da ze"
-ma_sei_surisuri_miage1_1_2 = "Do rub-rub!"
+ma_sei_surisuri_miage1_1_2 = "Let's do rub-rub!"
 ma_sei_surisuri_miage1_1_3 = "Want to rub-rub da ze"
-ma_sei_surisuri_miage1_1_4 = "Do rub-rub!"
+ma_sei_surisuri_miage1_1_4 = "Let's do rub-rub!"
 ma_sei_surisuri_miage1_1_5 = "Want to rub-rub no ze!"
-ma_sei_surisuri_miage1_1_6 = "Do rub-rub!"
+ma_sei_surisuri_miage1_1_6 = "Let's do rub-rub!"
 ma_sei_surisuri_miage1_1_7 = "Want to rub-rub da ze"
-ma_sei_surisuri_miage1_1_8 = "Do rub-rub!"
+ma_sei_surisuri_miage1_1_8 = "Let's do rub-rub!"
 ma_sei_surisuri_miage1_1_9 = "Want to rub-rub da ze"
-ma_sei_surisuri_miage1_1_10 = "Do rub-rub!"
+ma_sei_surisuri_miage1_1_10 = "Let's do rub-rub!"
 
 ;///////////////////////////////////////////////////////////
 ;ボール
@@ -2228,9 +2228,9 @@ ma_sei_b_boll_dlible_3 = "Easyy♪ Easyy♪"
 ma_sei_b_boll_dlible_4 = "Easyy♪ Easyy♪"
 ma_sei_b_boll_dlible_5 = "Easyy♪ Easyy♪"
 ma_sei_b_boll_dlible_6 = "Ro-ll ro-ll da ze♪"
-ma_sei_b_boll_dlible_7 = "Ro-ll ro-llだぜ♪"
+ma_sei_b_boll_dlible_7 = "Ro-ll ro-ll da ze♪"
 ma_sei_b_boll_dlible_8 = "ぼーるあそびは たのしいのぜ!"
-ma_sei_b_boll_dlible_9 = "ぼーるさんは ゆっくり してるのぜぇぇ…♪"
+ma_sei_b_boll_dlible_9 = "ぼーるさんは ゆっくり してる no ze...♪"
 ma_sei_b_boll_dlible_10 = "Ro-ll ro-ll da ze♪"
 
 
@@ -2650,13 +2650,13 @@ ma_sei_outi_serching_good_10 = "Yu~! すごいんだぜぇぇぇ!!"
 
 ma_sei_outi_idou_serch_1 = "【一人称】は おうちに はいるんだぜ!"
 ma_sei_outi_idou_serch_2 = "ゆっくり はいるぜ!"
-ma_sei_outi_idou_serch_3 = "Yu~!"
+ma_sei_outi_idou_serch_3 = "Yu~u!"
 ma_sei_outi_idou_serch_4 = "Yu~..."
 ma_sei_outi_idou_serch_5 = "Yuyu!?"
 ma_sei_outi_idou_serch_6 = "Yuwaaaa..."
 ma_sei_outi_idou_serch_7 = "Yuwaaaa..."
 ma_sei_outi_idou_serch_8 = "Yuyu!?"
-ma_sei_outi_idou_serch_9 = "Yu~!"
+ma_sei_outi_idou_serch_9 = "Yu~u!"
 ma_sei_outi_idou_serch_10 = "Yu~..."
 
 
