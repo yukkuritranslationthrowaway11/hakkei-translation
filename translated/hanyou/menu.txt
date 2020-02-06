@@ -47,11 +47,11 @@ Abyuser level
 ついてない！？
 うしなわれた みらい
 ひかりあれ！
-メンタルブレイク
+Mental break
 おかわりもいいぞ！
 Breeder level
 あたらしいかぞく
-いのちのばとん
+Life's baton
 一流スナイパー
 上げて落とした
 絶対に逃さない！
@@ -60,14 +60,14 @@ Breeder level
 いのちのゆりかご
 といれさんはここ！
 しょくごのうんどう
-はんてぃんぐ！
+Hunt-hunt!
 Mold treatment
 Burnt footsie treatment
 Hair transplant
-Copper-badged import
-Silver-badged import
-さんすう連続
-correct answers!
+Sell copper-badged yu
+Sell silver-badged yu
+Consecutive arithmetic
+questions right!
 Scold toggle
 Skip to morning
 Skip to night
@@ -89,7 +89,7 @@ Speak
 Clean
 Manage
 Hold gently
-Hold roughly
+Squeeze
 strength
 Rub-rub
 Roll
@@ -105,13 +105,13 @@ Slap with ruler
 Hammer
 Hand drill
 Hand drill (heated)
-Tie down
+Punishment pad
 Hang gently
-Hang
+Hang by hook
 string length
 Confine to box
 Vibrator
-Peni-peni shears
+Nyutering kit
 Razor
 Fabric shears
 Stalk shears
@@ -155,9 +155,9 @@ May say "happiness" before meal
 May poo-poo upside-down
 May have little ones
 May sing songs
-Drag poo-poo to toilet
+Bring poo-poo to toilet
 Poo-poo dance
-Hunting practice
+Hunt-hunt practice
 Arithmetic
 Arithmetic (auto)
 Reading
@@ -188,9 +188,9 @@ Cardboard house
 Wooden house
 Mushroom house
 Shake house
-Remove from house (individual)
-Remove from house (altogether)
-Display house interior
+Remove from house (one)
+Remove from house (all)
+Show house interior
 Hide house interior
 Nothing
 Newspaper
@@ -207,7 +207,7 @@ Anti-antiyukkuritis
 Sugar supplement
 Flour supplement
 Bean paste supplement
-シタタラン
+Sitataran (tongue paralysis drug)
 個
 知能アップの秘薬：
 親愛アップの秘薬：
@@ -242,7 +242,7 @@ Sister: not in yukkurarium
 Sister:
 Type:
 Anti-antiyukkuritis active
-シタタランactive
+Sitataran active
 Sugar supplement active: Intelligence Points UP bonus
 Flour supplement active: 相互好感度UP bonus
 Bean paste supplement active: Max Health UP bonus
@@ -263,8 +263,8 @@ Consecutive HITs:
 ゲス度指導補正:
 Game speed
 Background
-Hotkey settings
-Upper hotkey settings
+Set hotkeys
+Hotbar display settings
 Persistent scold toggle: ON
 Persistent scold toggle: OFF
 Persistent menu tab: ON
@@ -274,17 +274,17 @@ Normal
 Slow
 Game speed
 Please select
-Current game speed
+Current setting
 Normal
 Light
-背景処理を
-現在の背景処理
-戻る
-上部ショートカットキーの操作を
-移動
+Background processing
+Current setting
+Return
+Hotbar settings
+Move
 Show
 Hide
-現在の設定選択
+Current setting
 Yukkuri food
 Sweet-sweet
 Special
@@ -360,11 +360,11 @@ Confirm purchase
 Nevermind
 View endurance-enhanced yukkuri
 View abyuse tools
-ショップで購入した、お姉さんが躾けたゆっくり
-ショップで購入した、銅バッジ血統のゆっくり
-ショップで購入した、銀バッジ血統のゆっくり
-ショップで購入した、金バッジ血統のゆっくり
-ショップで購入した、耐久力強化ゆっくり
+Purchased trained yu
+Purchased copper-badged yu
+Purchased silver-badged yu
+Purchased gold-badged yu
+Purchased endurance-enhanced yu
 
 
 
@@ -377,10 +377,10 @@ Ramune for yukkuri
 Spicy yukkuri food contract
 Metal box
 Anti-antiyukkuritis
-お仕置き用固定具
+Pad + Elastic of Punishment
 ゆかびを治療
 Treat mister footsie
-舌麻痺状態を治療
+Treat tongue paralysis
 Hair transplant
 Town
 Home
