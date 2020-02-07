@@ -58,7 +58,6 @@ ma_sei_sengen_pat2_8 = "【一人称】 will make this her treasure no ze!!"
 ma_sei_sengen_pat2_9 = "【一人称】's treasure no ze!!"
 ma_sei_sengen_pat2_10 = "【一人称】 will make this her treasure no ze!!"
 
-
 ;////////////////////////////////////////////////////////////
 ;移動
 ;///////////////////////////////////////////////////////////
@@ -4678,7 +4677,6 @@ ma_sei_unko_cary_lost_8 = "おといれさん!かくれてないで でてくる
 ma_sei_unko_cary_lost_9 = "おといれさんが きえちゃったのぜぇぇぇ!!"
 ma_sei_unko_cary_lost_10 = "おといれさんが ないない しちゃったのぜぇぇ!"
 
-
 ma_sei_unko_cary_self_1 = "Yuu... cleaning up poo-poo no ze"
 ma_sei_unko_cary_self_2 = "おそうじ するのぜ"
 ma_sei_unko_cary_self_3 = "うんうんは おといれさんなのぜ"
@@ -6371,6 +6369,7 @@ ma_sei_qol_pat2_2b_8 = "【飼い主】と おちびちゃんたちが... ゆっ
 ma_sei_qol_pat2_2b_9 = "【飼い主】と おちびちゃんたちに... あえて よかったのぜ...?"
 ma_sei_qol_pat2_2b_10 = "【飼い主】と おちびちゃんたちが... ゆっくり してたからなのぜ...?"
 
+
 ma_sei_qol_pat2_2c_1 = "なんだか 【一人称】 ずっと あかちゃんだった きがするのぜ..."
 ma_sei_qol_pat2_2c_2 = "なんだか 【一人称】 ずっと あかちゃんだった きがするのぜ..."
 ma_sei_qol_pat2_2c_3 = "【一人称】 おこさまっの ままだった きがするのぜ..."
@@ -6686,6 +6685,7 @@ ma_sei_river_attack3_10 = "それでも ねらってるのぜ?"
 
 
 
+
 ma_sei_expedition_1_1 = "【一人称】たんけんたいっ てんこっ なのぜ!"
 ma_sei_expedition_1_2 = "【一人称】たんけんたいっ てんこっ なのぜ!"
 ma_sei_expedition_1_3 = "【一人称】たんけんたいっ てんこっ なのぜ!"
@@ -6819,3 +6819,4 @@ ma_sei_remi_3_7="【一人称】が れみりゃを やっつけたのぜ?"
 ma_sei_remi_3_8="【一人称】 れみりゃに かったのぜ?"
 ma_sei_remi_3_9="【一人称】が れみりゃを やっつけたのぜ?"
 ma_sei_remi_3_10="【一人称】 れみりゃに かったのぜ?"
+
