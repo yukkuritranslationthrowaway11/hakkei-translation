@@ -27,32 +27,32 @@ your_name2_4_sei=Shitty hag
 your_name2_5_sei=Mommy
 your_name2_6_sei=Shitty parent
 
-your_name3_1_aka=にんげんしゃん
-your_name3_2_aka=おねにーしゃん
+your_name3_1_aka=Mishter mish human
+your_name3_2_aka=Mishter mish
 your_name3_3_aka=Hwag
 your_name3_4_aka=Shiddy hwag
-your_name3_5_aka=おかとーしゃ
+your_name3_5_aka=Mwommie-dwaddie
 your_name3_6_aka=Shiddy pawent
 
-your_name3_1_sei=にんげんさん
-your_name3_2_sei=おねにーさん
+your_name3_1_sei=Mister miss human
+your_name3_2_sei=Mister miss
 your_name3_3_sei=Hag
 your_name3_4_sei=Shitty hag
-your_name3_5_sei=おかとーさん
+your_name3_5_sei=Mommy-daddy
 your_name3_6_sei=Shitty parent
 
-your_name4_1_aka=にんげんしゃん
-your_name4_2_aka=おにねーしゃん
+your_name4_1_aka=Mish mishter human
+your_name4_2_aka=Mish mishter
 your_name4_3_aka=Geejer
 your_name4_4_aka=Shiddy geejer
-your_name4_5_aka=おとかーしゃ
+your_name4_5_aka=Dwaddie-mwommie
 your_name4_6_aka=Shiddy pawent
 
-your_name4_1_sei=にんげんさん
-your_name4_2_sei=おにねーさん
+your_name4_1_sei=Miss mister human
+your_name4_2_sei=Miss mister
 your_name4_3_sei=Geezer
 your_name4_4_sei=Shitty geezer
-your_name4_5_sei=おとかーさん
+your_name4_5_sei=Daddy-mommy
 your_name4_6_sei=Shitty parent
 
 
@@ -62,16 +62,16 @@ many_aka=wotsh
 many_sei=lots
 
 家族
-big_sis_name_aka="big shish"
-little_sis_name_aka="widdle shish"
+big_sis_name_aka="Big shish"
+little_sis_name_aka="Widdle shish"
 mother_name_aka="Mwommie"
 father_name_aka="Dwaddie"
-otibi_name_aka="widdle one"
-big_sis_name_sei="big sis"
-little_sis_name_sei="little sis"
+otibi_name_aka="Widdle one"
+big_sis_name_sei="Big sis"
+little_sis_name_sei="Little sis"
 mother_name_sei="Mommy"
 father_name_sei="Daddy"
-otibi_name_sei="little one"
+otibi_name_sei="Little one"
 
 ;まりさ
 marisa_name_1_aka="Mawisha"
