@@ -58,6 +58,7 @@ ma_sei_sengen_pat2_8 = "【一人称】 will make this her treasure no ze!!"
 ma_sei_sengen_pat2_9 = "【一人称】's treasure no ze!!"
 ma_sei_sengen_pat2_10 = "【一人称】 will make this her treasure no ze!!"
 
+
 ;////////////////////////////////////////////////////////////
 ;移動
 ;///////////////////////////////////////////////////////////
@@ -4677,6 +4678,7 @@ ma_sei_unko_cary_lost_8 = "おといれさん!かくれてないで でてくる
 ma_sei_unko_cary_lost_9 = "おといれさんが きえちゃったのぜぇぇぇ!!"
 ma_sei_unko_cary_lost_10 = "おといれさんが ないない しちゃったのぜぇぇ!"
 
+
 ma_sei_unko_cary_self_1 = "Yuu... cleaning up poo-poo no ze"
 ma_sei_unko_cary_self_2 = "おそうじ するのぜ"
 ma_sei_unko_cary_self_3 = "うんうんは おといれさんなのぜ"
@@ -5161,26 +5163,26 @@ ma_sei_sakebi_little_sister_9 = "Little sisssss!?"
 ma_sei_sakebi_little_sister_10 = "Liddle zisssss!?"
 
 ma_sei_sakebi_father_1 = "Daddyyyyy!?"
-ma_sei_sakebi_father_2 = "Daddyyyyy!?"
+ma_sei_sakebi_father_2 = "Dyaddyyyyy!?"
 ma_sei_sakebi_father_3 = "Daddyyyyy!?"
-ma_sei_sakebi_father_4 = "Daddyyyyy!?"
+ma_sei_sakebi_father_4 = "Dyaddyyyyy!?"
 ma_sei_sakebi_father_5 = "Daddyyyyy!?"
-ma_sei_sakebi_father_6 = "Daddyyyyy!?"
+ma_sei_sakebi_father_6 = "Dyaddyyyyy!?"
 ma_sei_sakebi_father_7 = "Daddyyyyy!?"
-ma_sei_sakebi_father_8 = "Daddyyyyy!?"
+ma_sei_sakebi_father_8 = "Dyaddyyyyy!?"
 ma_sei_sakebi_father_9 = "Daddyyyyy!?"
-ma_sei_sakebi_father_10 = "Daddyyyyy!?"
+ma_sei_sakebi_father_10 = "Dyaddyyyyy!?"
 
 ma_sei_sakebi_mother_1 = "Mommyyyyy!?"
-ma_sei_sakebi_mother_2 = "Mommyyyyy!?"
+ma_sei_sakebi_mother_2 = "Myommyyyyy!?"
 ma_sei_sakebi_mother_3 = "Mommyyyyy!?"
-ma_sei_sakebi_mother_4 = "Mommyyyyy!?"
+ma_sei_sakebi_mother_4 = "Myommyyyyy!?"
 ma_sei_sakebi_mother_5 = "Mommyyyyy!?"
-ma_sei_sakebi_mother_6 = "Mommyyyyy!?"
-ma_sei_sakebi_mother_7 = "Mommyyyyy!?"
-ma_sei_sakebi_mother_8 = "Mommyyyyy!?"
-ma_sei_sakebi_mother_9 = "Mommyyyyy!?"
-ma_sei_sakebi_mother_10 = "Mommyyyyy!?"
+ma_sei_sakebi_mother_6 = "Myammyyyyy!?"
+ma_sei_sakebi_mother_7 = "Myommyyyyy!?"
+ma_sei_sakebi_mother_8 = "Myammyyyyy!?"
+ma_sei_sakebi_mother_9 = "Myommyyyyy!?"
+ma_sei_sakebi_mother_10 = "Myammyyyyy!?"
 
 ma_sei_yobi_father_1 = "Dadd...?"
 ma_sei_yobi_father_2 = "Dadd...?"
@@ -6369,7 +6371,6 @@ ma_sei_qol_pat2_2b_8 = "【飼い主】と おちびちゃんたちが... ゆっ
 ma_sei_qol_pat2_2b_9 = "【飼い主】と おちびちゃんたちに... あえて よかったのぜ...?"
 ma_sei_qol_pat2_2b_10 = "【飼い主】と おちびちゃんたちが... ゆっくり してたからなのぜ...?"
 
-
 ma_sei_qol_pat2_2c_1 = "なんだか 【一人称】 ずっと あかちゃんだった きがするのぜ..."
 ma_sei_qol_pat2_2c_2 = "なんだか 【一人称】 ずっと あかちゃんだった きがするのぜ..."
 ma_sei_qol_pat2_2c_3 = "【一人称】 おこさまっの ままだった きがするのぜ..."
@@ -6681,7 +6682,6 @@ ma_sei_river_attack3_7 = "かれいに かいひっ なのぜ!!"
 ma_sei_river_attack3_8 = "【一人称】に あたるわけ ないのぜ! "
 ma_sei_river_attack3_9 = "【一人称】は ぜんぜん こわくないのぜ!"
 ma_sei_river_attack3_10 = "それでも ねらってるのぜ?"
-
 
 
 

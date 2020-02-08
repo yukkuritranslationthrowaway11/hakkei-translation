@@ -1,4 +1,4 @@
-;é£¼ã„ä¸»å‘¼ã³æ–¹
+;”‚¢åŒÄ‚Ñ•û
 your_name1_1_aka=Mishter human
 your_name1_2_aka=Mishter
 your_name1_3_aka=Geejer
@@ -9,7 +9,7 @@ your_name1_6_aka=Shiddy pawent
 your_name1_1_sei=Mister human
 your_name1_2_sei=Mister
 your_name1_3_sei=Geezer
-your_name1_4_sei=Shitty geezer
+your_name1_4_sei=Shitty Geezer
 your_name1_5_sei=Daddy
 your_name1_6_sei=Shitty parent
 
@@ -27,41 +27,41 @@ your_name2_4_sei=Shitty hag
 your_name2_5_sei=Mommy
 your_name2_6_sei=Shitty parent
 
-your_name3_1_aka=ã«ã‚“ã’ã‚“ã—ã‚ƒã‚“
-your_name3_2_aka=ãŠã­ã«ãƒ¼ã—ã‚ƒã‚“
+your_name3_1_aka=‚É‚ñ‚°‚ñ‚µ‚á‚ñ
+your_name3_2_aka=‚¨‚Ë‚É[‚µ‚á‚ñ
 your_name3_3_aka=Hwag
 your_name3_4_aka=Shiddy hwag
-your_name3_5_aka=ãŠã‹ã¨ãƒ¼ã—ã‚ƒ
+your_name3_5_aka=‚¨‚©‚Æ[‚µ‚á
 your_name3_6_aka=Shiddy pawent
 
-your_name3_1_sei=ã«ã‚“ã’ã‚“ã•ã‚“
-your_name3_2_sei=ãŠã­ã«ãƒ¼ã•ã‚“
+your_name3_1_sei=‚É‚ñ‚°‚ñ‚³‚ñ
+your_name3_2_sei=‚¨‚Ë‚É[‚³‚ñ
 your_name3_3_sei=Hag
 your_name3_4_sei=Shitty hag
-your_name3_5_sei=ãŠã‹ã¨ãƒ¼ã•ã‚“
+your_name3_5_sei=‚¨‚©‚Æ[‚³‚ñ
 your_name3_6_sei=Shitty parent
 
-your_name4_1_aka=ã«ã‚“ã’ã‚“ã—ã‚ƒã‚“
-your_name4_2_aka=ãŠã«ã­ãƒ¼ã—ã‚ƒã‚“
+your_name4_1_aka=‚É‚ñ‚°‚ñ‚µ‚á‚ñ
+your_name4_2_aka=‚¨‚É‚Ë[‚µ‚á‚ñ
 your_name4_3_aka=Geejer
 your_name4_4_aka=Shiddy geejer
-your_name4_5_aka=ãŠã¨ã‹ãƒ¼ã—ã‚ƒ
+your_name4_5_aka=‚¨‚Æ‚©[‚µ‚á
 your_name4_6_aka=Shiddy pawent
 
-your_name4_1_sei=ã«ã‚“ã’ã‚“ã•ã‚“
-your_name4_2_sei=ãŠã«ã­ãƒ¼ã•ã‚“
+your_name4_1_sei=‚É‚ñ‚°‚ñ‚³‚ñ
+your_name4_2_sei=‚¨‚É‚Ë[‚³‚ñ
 your_name4_3_sei=Geezer
 your_name4_4_sei=Shitty geezer
-your_name4_5_sei=ãŠã¨ã‹ãƒ¼ã•ã‚“
+your_name4_5_sei=‚¨‚Æ‚©[‚³‚ñ
 your_name4_6_sei=Shitty parent
 
 
-æ•°
+”
 many_aka=wotsh
 
 many_sei=lots
 
-å®¶æ—
+‰Æ‘°
 big_sis_name_aka="big shish"
 little_sis_name_aka="widdle shish"
 mother_name_aka="Mwommie"
@@ -73,7 +73,7 @@ mother_name_sei="Mommy"
 father_name_sei="Daddy"
 otibi_name_sei="little one"
 
-;ã¾ã‚Šã•
+;‚Ü‚è‚³
 marisa_name_1_aka="Mawisha"
 marisa_name_2_aka="Mawicha"
 marisa_name_3_aka="Maicha"
@@ -88,10 +88,10 @@ marisa_name_4_sei="Marisa"
 marisa_name_5_sei="Marisa"
 marisa_name_6_sei="Marisa"
 
-sakebi_marisa = "Aaaa!?"
+sakebi_marisa = "aaaaaIH"
 
 
-;ã‚Œã„ã‚€
+;‚ê‚¢‚Ş
 reimu_name_1_aka="Weimyu"
 reimu_name_2_aka="Weimu"
 reimu_name_3_aka="Reimyu"
@@ -106,10 +106,10 @@ reimu_name_4_sei="Reimu"
 reimu_name_5_sei="Reimu"
 reimu_name_6_sei="Reimu"
 
-sakebi_reimu = "Uuuu!?"
+sakebi_reimu = "uuuuuIH"
 
 
-;ã¤ã‚€ã‚Š
+;‚Â‚Ş‚è
 tumuri_name_1_aka="Mawisha"
 tumuri_name_2_aka="Mawicha"
 tumuri_name_3_aka="Maicha"
@@ -124,8 +124,8 @@ tumuri_name_4_sei="Marisa"
 tumuri_name_5_sei="Marisa"
 tumuri_name_6_sei="Marisa"
 
-sakebi_tumuri = "Eeee!?"
-;ã¤ã‚€ã‚Š
+sakebi_tumuri = "aaaaaIH"
+;‚Â‚Ş‚è
 tumuri_name_1_aka="Mawisha"
 tumuri_name_2_aka="Mawicha"
 tumuri_name_3_aka="Maicha"
@@ -140,16 +140,16 @@ tumuri_name_4_sei="Marisa"
 tumuri_name_5_sei="Marisa"
 tumuri_name_6_sei="Marisa"
 
-sakebi_tumuri = "Eeee!?"
+sakebi_tumuri = "aaaaaIH"
 
 
-;ã‚ã‚Šã™
+;‚ ‚è‚·
 arisu_name_1_aka="Awish"
-arisu_name_2_aka="Alich"
+arisu_name_2_aka="Awich"
 arisu_name_3_aka="Alish"
-arisu_name_4_aka="Awish"
-arisu_name_5_aka="Alich"
-arisu_name_6_aka="Alish"
+arisu_name_4_aka="Alich"
+arisu_name_5_aka="Alish"
+arisu_name_6_aka="Awish"
 
 arisu_name_1_sei="Alice"
 arisu_name_2_sei="Alice"
@@ -158,23 +158,23 @@ arisu_name_4_sei="Alice"
 arisu_name_5_sei="Alice"
 arisu_name_6_sei="Alice"
 
-sakebi_arisu = "Uuuu!?"
+sakebi_arisu = "eeeeeeIH"
 
 
 ;add
-add_name_1_aka="Mawisha"
-add_name_2_aka="Mawicha"
-add_name_3_aka="Maicha"
-add_name_4_aka="Maisha"
-add_name_5_aka="Maacha"
-add_name_6_aka="Maasha"
+add_name_1_aka="maricha"
+add_name_2_aka="maricha"
+add_name_3_aka="marisha"
+add_name_4_aka="maacha"
+add_name_5_aka="maacha"
+add_name_6_aka="maasha"
 
-add_name_1_sei="Marisa"
-add_name_2_sei="Marisa"
-add_name_3_sei="Marisa"
-add_name_4_sei="Marisa"
-add_name_5_sei="Marisa"
-add_name_6_sei="Marisa"
+add_name_1_sei="maricha"
+add_name_2_sei="maricha"
+add_name_3_sei="marisha"
+add_name_4_sei="maacha"
+add_name_5_sei="maacha"
+add_name_6_sei="maasha"
 
-sakebi_add = "Aaaaaaa!?"
+sakebi_add = "aaaaaaaIH"
 
