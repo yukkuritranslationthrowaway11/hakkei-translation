@@ -15,3 +15,5 @@ The `original' folder is used to track changes between different
 versions.  When a new version is out, drop the content of the `text'
 folder inside `original' and let Git do its magic ('git add' the
 files, then use 'git diff' to check what was changed.)
+
+The howto.txt file inside the translated 'event' folder, which can also be found as イベント改変について.txt in the original 'event' folder, may not actually be a how-to guide, but perhaps a guide on what to edit if you want to mess around with debug settings.
