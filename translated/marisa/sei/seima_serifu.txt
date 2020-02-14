@@ -1247,7 +1247,7 @@ ma_sei_hun_1_10 = "yˆêlÌz is hungry da ze!"
 
 ;Œ«‚³’áEƒQƒX
 ma_sei_hun_2_1 = "Shitty slave bring mister food quickly da ze!"
-ma_sei_hun_2_2 = "Cn't take it easy!"
+ma_sei_hun_2_2 = "Can't take it easy!"
 ma_sei_hun_2_3 = "yˆêlÌz‚¨‚È‚©‚·‚¢‚½‚Á‚Ä‚¢‚Á‚Ä‚é‚Å‚µ‚åI"
 ma_sei_hun_2_4 = "Bring mister food da ze! Right now is fine!"
 ma_sei_hun_2_5 = "Bring sweet-sweet!"
