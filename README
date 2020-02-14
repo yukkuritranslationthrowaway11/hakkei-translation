@@ -1,19 +1,24 @@
-Translated dialogues for the Yukkuri Hakkei game.
+An in-progress English translation of ゆっくり八景 (Yukkuri Hakkei), 
+also known as Eight Views of Yukkuri.
 
-Developer's site: http://ennjiiro.seesaa.net/
+The game developer's site: http://ennjiiro.seesaa.net/
+Buy the full game here: https://enjiiro.booth.pm/items/1727554
+Unofficial wiki for the game: https://wikiwiki.jp/yukkuri8kei/
 
-The `translated' folder contains a set of directories containing the
+The 'translated' folder contains a set of directories containing the
 dialogues of the latest version.  To update the in-game dialogues,
-copy those directories inside the game's `text' folder.  After that,
+copy those directories inside the game's 'text' folder.  After that,
 run the executable that is not the game (should be called
 'セリフ再読込用.exe'.  If you don't have a program with that name,
-just pick the executable that is not the actual game.)
-After that step, the game will be translated (to the extent the
-translators could.)
+just pick the executable that is not the actual game).
+After that step, the translations will be applied to the game.
 
-The `original' folder is used to track changes between different
-versions.  When a new version is out, drop the content of the `text'
-folder inside `original' and let Git do its magic ('git add' the
-files, then use 'git diff' to check what was changed.)
+The 'original' folder is used to track changes between different
+versions.  When a new version is out, drop the content of the 'text'
+folder inside 'original' and let Git do its magic ('git add' the
+files, then use 'git diff' to check what was changed).
 
-The howto.txt file inside the translated 'event' folder, which can also be found as イベント改変について.txt in the original 'event' folder, may not actually be a how-to guide, but perhaps a guide on what to edit if you want to mess around with debug settings.
+The howto.txt file inside the translated 'event' folder, which can
+also be found as イベント改変について.txt in the original 'event'
+folder, may not actually be a how-to guide, but perhaps a guide on
+what to edit if you want to mess around with debug settings.
