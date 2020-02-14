@@ -1,20 +1,20 @@
 Intelligence
 Can't remember what toilet is
-Somehow knows what a toilet is
+Somehow knows what toilet is
 Will die if left alone
 The bare minimum for a pet yu
 Can perfectly count up to 1
 If alone it will probably live
 Won't be an embarassing pet
-It might fail the gold badge test
+Might fail the gold badge test
 Can do simple errands
 Meets the standard of other yukkuri
-Is not really like other yukkuri……
+Is not really like other yukkuri...
 
-Emotions
-Cautious……
-Hardly attached
-Starts to warm up
+Affection
+Cautious...
+Hardly attached to you
+Starting to warm up to you
 Approaches positively
 Puts a little faith in you
 Feels easy around you
@@ -27,12 +27,12 @@ Totally takes it easy
 Scumminess
 Pure and innocent
 Can take it easy
-Is a bit egoistic
-Acts egoistically
+A bit egotistical
+Acts egotistically
 Only thinks for herself
 If she's good, all's fine
 Looks down on other yukkuri
-Other yukkuri exists for her sake
+Other yukkuri exist for her sake
 She's never wrong
 Thinks she's a blessing
 Thinks the world is hers
@@ -42,7 +42,7 @@ Starving
 Hungry
 Getting hungry
 Not really hungry
-Full stomach
+Full
 
 Fear
 Not scared of humans
@@ -50,12 +50,12 @@ Cautious around humans
 Thinks humans are dangerous
 Scared of humans
 Very scared of humans
-Scared of humans a lot
+Extremely scared of humans
 
-Motor Skills
+Reflexes
 Can barely move
 Slow
-So so
+So-so
 A bit quick
 Somewhat quick
 Quite agile
@@ -72,34 +72,34 @@ Weak
 Normal
 Healthy
 Very healthy
-Outstandngly healthy
+Outstandingly healthy
 
 Disease
 Healthy
 Constipated
-痔主
+Hemorrhoids
 Castrated
 Mold
 
-Popularity
-Hated
+Relationships
+Hates
 Indifferent
 Awkward
-Intimate
-LoveLove
+Close
+Love
 Absolute Love
 
-Sense of taste
+Pickiness (food)
 No sense of taste
-Will eat almost anything
+Eats almost anything
 Unsophisticated tastes
 Not quite the palate
 So-so sense of taste
 A bit spoiled
-A gourmet
+Spoiled
 Luxurious palate
-Only sweet sweets and above
-Sweet sweets aren't enough
+Only sweet-sweets and above
+Sweet-sweets aren't enough
 Only excellent gourmet food
 
 
@@ -108,7 +108,7 @@ Only excellent gourmet food
 
 Species
 Marisa
-Shelly
+Shell Marisa
 Reimu
-WasaReimu
+Wasa Reimu
 
