@@ -3739,13 +3739,13 @@ ma_sei_nageki1_10 = "‚È‚ñ‚Åcc‚ä‚Á‚­‚è ‚³‚¹‚Ä ‚­‚ê‚È‚¢‚ñ‚¾‚ºccH"
 ;‚Ñ‚ñ‚½
 ma_sei_binta_gimon_1 = "Yu? yˆêlÌz's cute face hurts..."
 ma_sei_binta_gimon_2 = "Why... face... hurts no ze...?"
-ma_sei_binta_gimon_3 = "Why is yˆêlÌz... mister hurt-hurt here nanoze...?"
+ma_sei_binta_gimon_3 = "Why is... mister hurt-hurt here nanoze...?"
 ma_sei_binta_gimon_4 = "Yu? Why is yˆêlÌz hurt no ze...?"
 ma_sei_binta_gimon_5 = "Yu? yˆêlÌz's youthful mister cheeks...?"
 ma_sei_binta_gimon_6 = "Youthful mister cheeks... hurt..."
 ma_sei_binta_gimon_7 = "Yu? yˆêlÌz's cute face hurts... "
 ma_sei_binta_gimon_8 = "Why... face... hurts no ze...?"
-ma_sei_binta_gimon_9 = "Why is yˆêlÌz... mister hurt-hurt here nanoze...?"
+ma_sei_binta_gimon_9 = "Why is... mister hurt-hurt here nanoze...?"
 ma_sei_binta_gimon_10 = "Yu? Why is yˆêlÌz hurt no ze...?"
 
 ;ƒLƒŠ
