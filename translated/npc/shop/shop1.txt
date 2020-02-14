@@ -1,10 +1,10 @@
-//æ¥åº—æ™‚
-Welcome!\nWe're in the middle of preopening!!
-Between the bronze badge there are some bad apples...
-The bronze badges know how to use the toilet.
-Since it's easy for koyukkuri to hurt themselves when playing,\nplease spread some proper flooring in the yukkurarium.
-If you leave the pool as it is, it'll become dirty and accidents\nmight occur. Please put it away after playing.
-If the yukkurarium is too crowded, you can't get other yukkuri.\nKeep that in mind!
+//—ˆ“X
+WelcomeI\nWe're in the middle of preopeningII
+Between the bronze badge there are some bad applescc
+The bronze badges know how to use the toilet[
+Since it's easy for KoYukkuri to hurt themselves when playing,\nplease spread some proper flooring in the aquarium[
+If you leave the pool as it is, it'll become dirty and accidents\nmight occur. Please put it away after playing[
+If the aquarium is too crowded, you can't get other Yukkuri.\nKeep that in mind!
 
 
 
@@ -17,42 +17,42 @@ If the yukkurarium is too crowded, you can't get other yukkuri.\nKeep that in mi
 
 
 
-//é€€åº—æ™‚
-Are you done shopping?
+//‘Ş“X
+Are you done buyingH
 
 
 
 
-//ã‚¿ãƒƒãƒ
-Kyaah!?
-Sexual harassment is bad!
+//ƒ^ƒbƒ`
+KyaahIH
+Sexual harassment is badI
 
 
-//ã‚†ã£ãã‚Šè³¼å…¥
-You want to buy a yukkuri?
-The purchased yukkuri is in your freezer.
-Your freezer is full,\nplease make some space.
-You changed your mind?
-Thank you for your patronage!
-You want to sell a yukkuri?
+//‚ä‚Á‚­‚èw“ü
+You want to buy a YukkuriH
+The bought yukkuri is in your cooler box[
+Your cooler box is full,\nplease make some space[
+You changed your mindH
+Thank you for your patronageI
+You want to sell a yukkuriH
 
 
 
-//ã‚†ã£ãã‚Šè³¼å…¥ï¼’
+//‚ä‚Á‚­‚èw“ü‚Q
 It would be 
  Yen
-This yukkuri has been trained.\n
-This yukkuri is a descendant of a bronze badge.\n
-This yukkuri is a descendant of a silver badge.\n
-This yukkuri is a descendant of a gold badge.\n
+This Yukkuri has been trained.\n
+This Yukkuri is a descendant of a copper badgeA\n
+This Yukkuri is a descendant of a silver badgeA\n
+This Yukkuri is a descendant of a gold badgeA\n
 
 
 
 
 
-//ã‚¢ã‚¤ãƒ†ãƒ è³¼å…¥
-Do you want to buy equipment for\nyukkuri breeding?
-Uwaa! You bought all the breeding equipment!\nThank you very much!!
+//ƒAƒCƒeƒ€w“ü
+Do you want to buy the equipment\nfor Yukkuri breedingH
+UwaaI You bought all the breeding equipmentI\nThank you very muchII
 
 
 
