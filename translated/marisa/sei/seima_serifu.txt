@@ -1996,7 +1996,7 @@ ma_sei_pa_hatujyou_1_10 = "Yuoooo!"
 ;“yŠÇ
 
 ;///////////////////////////////////////////////////////////
-ma_sei_pa_dokan_1_1 = "Yuuuun! ‚¨‚¿‚Â‚­‚Ì‚º!"
+ma_sei_pa_dokan_1_1 = "‚ä‚£‚£‚£‚ñI‚¨‚¿‚Â‚­‚Ì‚ºI"
 ma_sei_pa_dokan_1_2 = "Very secure da ze!"
 ma_sei_pa_dokan_1_3 = "yˆêlÌz is hidden no ze!"
 ma_sei_pa_dokan_1_4 = "yˆêlÌzis mister ninja da ze!"
@@ -2069,7 +2069,7 @@ ma_sei_pa_dokan_no_out_10 = "‚©‚­‚ê‚ª‚³‚ñI‚¢‚¶‚ß‚È‚¢‚Å‚¥‚¥‚¥‚¥‚¥IH"
 ;///////////////////////////////////////////////////////////
 ma_sei_puku1_1 = "Puff puff"
 ma_sei_puku1_2 = "yˆêlÌz is puffing da ze!"
-ma_sei_puku1_3 = "yˆêlÌz's puff is scary okay? ‚í‚©‚Á‚Ä‚é‚ñ‚¾‚º!"
+ma_sei_puku1_3 = "yˆêlÌz‚Ì ‚Õ‚­[‚Á ‚±‚í‚¢‚ñ‚Å‚µ‚åH‚í‚©‚Á‚Ä‚é‚ñ‚¾‚ºI"
 ma_sei_puku1_4 = "Puff puff"
 ma_sei_puku1_5 = "yˆêlÌz is angry da ze! Puff!"
 ma_sei_puku1_6 = "yˆêlÌz is angry da ze! Puff!"
@@ -2222,7 +2222,7 @@ ma_sei_surisuri_miage1_1_10 = "Let's do rub-rub!"
 ;///////////////////////////////////////////////////////////
 
 
-ma_sei_b_boll_dlible_3 = "Easyyô Easyyô"
+ma_sei_b_boll_dlible_1 = "Easyyô Easyyô"
 ma_sei_b_boll_dlible_2 = "Playing with mister ball is fun no ze!"
 ma_sei_b_boll_dlible_3 = "Easyyô Easyyô"
 ma_sei_b_boll_dlible_4 = "Easyyô Easyyô"
