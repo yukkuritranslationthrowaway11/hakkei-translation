@@ -4,176 +4,176 @@ Training
 Items
 Freezer
 Status
-Achievments
+Achievements
 Save
 Options
 Main Screen
-Outside
+Go Outside
 
 Autosave
-Back to Title
-Shortcut Keys
+Back to title
+Hotkeys
 Slot
 Comment
-Load shortcutsH
-Load autosaveH
-: load thisH
-Save shortcutH
-Save autosaveH
-: save thisH
-‹
+Load hotkeys?
+Load autosave?
+Load?
+Save hotkeys?
+Save autosave?
+Save?
+åŒ¹ç›®
 End
-StartH
-NextH
-Smart
-Point UP
-: where isH
+Start?
+Next?
+Intelligence
+Points UP
+ã¯ã©ã£ã¡ï¼Ÿ
 h
 m
 Spring
 Summer
 Fall
 Winter
-Mnth
-yen
-Mister footsiesIH
+Month
+Yen
+Mister footsie!?
 Abyuser level
-‹­§ƒ‰ƒCƒuŠJÃI
-‚Õ‚é‚Õ‚é ‚¦‚ê‚­‚¿‚¨‚ñ
-‚±‚ê‚Ç‚­‚Í‚¢‚Á‚Ä‚éIH
-‚Ü‚Á‚­‚ç‚â‚İ
-‚Ç[‚Ò‚ñ‚® ‚¦‚ê‚­‚¿‚¨‚ñ
-‚¦‚·‚¦‚Ş‚Õ‚ê‚¢H
-‚Â‚¢‚Ä‚È‚¢IH
-‚¤‚µ‚È‚í‚ê‚½ ‚İ‚ç‚¢
-‚Ğ‚©‚è‚ ‚êI
-ƒƒ“ƒ^ƒ‹ƒuƒŒƒCƒN
-‚¨‚©‚í‚è‚à‚¢‚¢‚¼I
+å¼·åˆ¶ãƒ©ã‚¤ãƒ–é–‹å‚¬ï¼
+ã·ã‚‹ã·ã‚‹ ãˆã‚Œãã¡ãŠã‚“
+ã“ã‚Œã©ãã¯ã„ã£ã¦ã‚‹ï¼ï¼Ÿ
+ã¾ã£ãã‚‰ã‚„ã¿
+ã©ãƒ¼ã´ã‚“ã ãˆã‚Œãã¡ãŠã‚“
+BDSM Play?
+ã¤ã„ã¦ãªã„ï¼ï¼Ÿ
+ã†ã—ãªã‚ã‚ŒãŸ ã¿ã‚‰ã„
+ã²ã‹ã‚Šã‚ã‚Œï¼
+Mental break
+ãŠã‹ã‚ã‚Šã‚‚ã„ã„ãï¼
 Breeder level
-‚ ‚½‚ç‚µ‚¢‚©‚¼‚­
-‚¢‚Ì‚¿‚Ì‚Î‚Æ‚ñ
-ˆê—¬ƒXƒiƒCƒp[
-ã‚°‚Ä—‚Æ‚µ‚½
-â‘Î‚É“¦‚³‚È‚¢I
-‚¢‚¿‚ä‚ñ‚Ü‚¦‚Á
-‚Æ‚í‚Á‚Ì‚ ‚¢
-‚¢‚Ì‚¿‚Ì‚ä‚è‚©‚²
-‚Æ‚¢‚ê‚³‚ñ‚Í‚±‚±I
-‚µ‚å‚­‚²‚Ì‚¤‚ñ‚Ç‚¤
-‚Í‚ñ‚Ä‚¡‚ñ‚®I
+ã‚ãŸã‚‰ã—ã„ã‹ãã
+Life's baton
+ä¸€æµã‚¹ãƒŠã‚¤ãƒ‘ãƒ¼
+ä¸Šã’ã¦è½ã¨ã—ãŸ
+çµ¶å¯¾ã«é€ƒã•ãªã„ï¼
+ã„ã¡ã‚†ã‚“ã¾ãˆã£
+ã¨ã‚ã£ã®ã‚ã„
+ã„ã®ã¡ã®ã‚†ã‚Šã‹ã”
+ã¨ã„ã‚Œã•ã‚“ã¯ã“ã“ï¼
+ã—ã‚‡ãã”ã®ã†ã‚“ã©ã†
+Hunt-hunt!
 Mold treatment
-Footsie treatment
-New hairs
-Copper badge
-Silver badge
-Arithmetics
-correct answersI
-Scold
+Burnt footsie treatment
+Hair transplant
+Sell copper-badged yu
+Sell silver-badged yu
+Consecutive arithmetic
+questions right!
+Scold toggle
 Skip to morning
-Skip to evening
-‡–°’†ŒÀ’èF­‚µ‘‘—‚è
-Can't take it easyH
-Can't take it easyH
-Can't take it easyH
-Can't take it easyH
-Can't take it easyH
-Can't take it easyH
+Skip to night
+Fast forward through sleep
+ã‚†ã£ãã‚Šã—ã¦ã‚“ã˜ã‚ƒãªã„ï¼Ÿ
+ã‚†ã£ãã‚Šã—ã¦ã‚“ã˜ã‚ƒãªã„ï¼Ÿ
+ã‚†ã£ãã‚Šã—ã¦ã‚“ã˜ã‚ƒãªã„ï¼Ÿ
+ã‚†ã£ãã‚Šã—ã¦ã‚“ã˜ã‚ƒãªã„ï¼Ÿ
+ã‚†ã£ãã‚Šã—ã¦ã‚“ã˜ã‚ƒãªã„ï¼Ÿ
+ã‚†ã£ãã‚Šã—ã¦ã‚“ã˜ã‚ƒãªã„ï¼Ÿ
 Screenshot
-Wipe
-Tidy up
-Wash
+Clean waste
+Put away
+Bathe
 Hands
 Tools
 Accessory
-Speech
+Speak
 Clean
 Manage
 Hold gently
-Holdy firmly
-(Strength)
-Rub rub
+Squeeze
+strength
+Rub-rub
 Roll
 Face up
 Flick
 Slap
 Punch
-Free from container
+Take stalk
 Hold accessory
 Hide accessory
-Pin
-Ruler slap
+Pins
+Slap with ruler
 Hammer
-Scalpel
-Hot scalpel
-Face up (Tied)
+Hand drill
+Hand drill (heated)
+Punishment seat
 Hang gently
-Hang
-(String length)
-Imprison in box
+Hang by hook
+string length
+Confine to box
 Vibrator
-‚Ø‚É‚«‚è‚Î‚³‚İ
-‚Î‚è‚©‚ñ
-Ù‚¿‚Î‚³‚İ
-Œs‚«‚è‚Î‚³‚İ
-Œs‚«‚è‚Î‚³‚İ
-(•r‚É“ü‚ê‚é)
+Nyutering kit
+Razor
+Fabric shears
+Stalk shears
+Stalk shears
+(keep stalk)
 Bury
 Throw away
 Freeze
-Set a tag
-End tag setting
-Show counter
-Show tag
-Badge displayF‚n‚m
-Badge displayF‚n‚e‚e
-Gentle words
+Set tag
+End tag
+Show numbers
+Show tags
+Show badges: ON
+Show badges: OFF
+Kind words
 Cold words
 Treat specially
-Treat like scum
-Do a roll
+Treat as scum
+Roll
 Show butt
-Everyone roll
-Everyone show butt
-‚¨‚©‚´‚è’İ‚è‰º‚°
+Roll (all)
+Show butt (all)
+Hang accessory
 Marisa
 Reimu
-Shelly
-Arisu
+Shell Marisa
+Alice
 Type
-Give accessory (child)
+Give accessory (ko)
 Give accessory (adult)
-Prohibit
+Disallow
 Allow
-Orders
-Study
-ŒÂ•ÊŠwK
-Can not say happiness before swallowing
-Can not make poo poo upside down
-Can not make little ones
-Can not sing songs
-Can say happiness before swallowing
-Can make poo poo upside down
-Can make little ones
-Can sing songs
-Clean poo poo from toilet
-Poo poo dance
-Hunting training
-Arithmetics
-Arithmetics (auto)
-Language
-‚±‚­‚²i‰a•t‚«j
+Command
+Life skills
+Academics
+May not say "happiness" before meal
+May not poo-poo upside-down
+May not have little ones
+May not sing songs
+May say "happiness" before meal
+May poo-poo upside-down
+May have little ones
+May sing songs
+Bring poo-poo to toilet
+Poo-poo dance
+Hunt-hunt practice
+Arithmetic
+Arithmetic (auto)
+Reading
+Reading (with food)
 Furniture
 Toys
 Houses
-Aquarium
-Abyuse tools
-Medicines
-Normal toilet
-Sand toilet
+Yukkurarium
+Abyuse
+Medicine
+Toilet
+Litterbox toilet
 Self-cleaning toilet
 Leaves
 Water dispenser
-Toilet paper tube
+Toilet paper roll
 Clay pipe
 Marble
 Rubber ball
@@ -185,230 +185,230 @@ Pretty rock
 Clear dice
 Reimu doll
 Cardboard house
-Wood house
+Wooden house
 Mushroom house
 Shake house
-Take from house ione a time)
-Take from house iall in one)
-Show inside house
-Hide inside house
+Remove from house (one)
+Remove from house (all)
+Show house interior
+Hide house interior
 Nothing
 Newspaper
 Earth
 Sandpaper
 Alcohol lamp
 Orange juice
-Yoghurt
+Yogurt
 Ramune
 Sperm paste
-‚Î‚¢‚ä‚®‚ç
+Viyugra
 Ramune spray
-Anti-yukkuritis prevention
+Anti-antiyukkuritis
 Sugar supplement
 Flour supplement
-Red beans supplement
-ƒVƒ^ƒ^ƒ‰ƒ“
-ŒÂ
-’m”\ƒAƒbƒv‚Ì”é–òF
-eˆ¤ƒAƒbƒv‚Ì”é–òF
-ƒQƒX‹¸³‚Ì”é–òF
-ó‘Ô
-‰Æ‘°ŠÖŒW
-Œğ—FŠÖŒW
-“Š–òó‹µ
-Select a yukkuri to see status
+Bean paste supplement
+Sitataran (tongue paralysis drug)
+å€‹
+çŸ¥èƒ½ã‚¢ãƒƒãƒ—ã®ç§˜è–¬ï¼š
+è¦ªæ„›ã‚¢ãƒƒãƒ—ã®ç§˜è–¬ï¼š
+ã‚²ã‚¹çŸ¯æ­£ã®ç§˜è–¬ï¼š
+Status
+Family
+Friends
+Medication status
+Select a yukkuri to see its status.
 Type:
-Health
+Health:
 Intelligence:
-Emotions:
+Affection:
 Scumminess:
-Palate:
+Pickiness (food):
 Hunger:
-Stamina:
+Health:
 Reflexes:
 Fear:
 Not married
-Partner: not in aquarium
-Partner:
+Spouse: not in yukkurarium
+Spouse:
 Orphan
-e‚¾‚Æv‚í‚ê‚Ä‚¢‚é
-Mother: not in aquarium
+Thinks you're her parent
+Mother: not in yukkurarium
 Mother:
-Father: not in aquarium
+Father: not in yukkurarium
 Father:
-Child: not in aquarium
+Child: not in yukkurarium
 Child:
-Sister: not in aquarium
+Sister: not in yukkurarium
 Sister:
 Type:
-”ñ‚ä‚Á‚­‚èÇ–h~–òŒø‰Ê”­“®’†
-ƒVƒ^ƒ^ƒ‰ƒ“Œø‰Ê”­“®’†
-˜aO–~ƒTƒvƒŠŒø‰Ê”­“®’†F‚©‚µ‚±‚³UPƒ{[ƒiƒX
-–İ•²ƒTƒvƒŠŒø‰Ê”­“®’†F‘ŠŒİDŠ´“xUPƒ{[ƒiƒX
-¬“¤ƒTƒvƒŠŒø‰Ê”­“®’†FÅ‘å‘Ì—ÍUPƒ{[ƒiƒX
-‰½‚à—^‚¦‚Ä‚¢‚È‚¢
+Anti-antiyukkuritis active
+Sitataran active
+Sugar supplement active: Intelligence Points UP bonus
+Flour supplement active: ç›¸äº’å¥½æ„Ÿåº¦UP bonus
+Bean paste supplement active: Max Health UP bonus
+No medication
 Breeder
-Bonus ‚P
+Bonus 1
 Abyuser
-Bonus ‚Q
-A–Ñ¡—Ã
-–¢À‘•
-³‰ğ”:
-‡Œvƒ‰ƒ“ƒN:
-‚©‚µ‚±‚³w“±•â³:
-ˆ¤‚³‚ê•â³:
-BonusF‚n‚m
-BonusF‚n‚e‚e
-‚Å‚±‚Ò‚ñ˜A‘±HIT”:
-ƒQƒX“xw“±•â³:
+Bonus 2
+Hair transplant treatment
+Unimplemented
+consecutive right answers:
+åˆè¨ˆãƒ©ãƒ³ã‚¯:
+ã‹ã—ã“ã•æŒ‡å°è£œæ­£:
+æ„›ã•ã‚Œè£œæ­£:
+Bonus: ON
+Bonus: OFF
+Consecutive HITs:
+ã‚²ã‚¹åº¦æŒ‡å°è£œæ­£:
 Game speed
-”wŒiˆ—
-ƒVƒ‡[ƒgƒJƒbƒgƒL[İ’è
-ã•”ƒVƒ‡[ƒgƒJƒbƒgƒL[İ’è
-¶‚éİ’è‹L‰¯F‚n‚m
-¶‚éİ’è‹L‰¯F‚n‚e‚e
-ƒƒjƒ…[ƒ^ƒu‹L‰¯F‚n‚m
-ƒƒjƒ…[ƒ^ƒu‹L‰¯F‚n‚e‚e
+Background
+Set hotkeys
+Hotbar display settings
+Persistent scold toggle: ON
+Persistent scold toggle: OFF
+Persistent menu tab: ON
+Persistent menu tab: OFF
 Fast
 Normal
 Slow
-ƒQ[ƒ€ƒXƒs[ƒh‚ğ
-‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢
-Current game speed
-’Êí
-Œy—Ê
-”wŒiˆ—‚ğ
-Œ»İ‚Ì”wŒiˆ—
-Back
-ã•”ƒVƒ‡[ƒgƒJƒbƒgƒL[‚Ì‘€ì‚ğ
-ˆÚ“®
-•\¦
-”ñ•\¦
-Œ»İ‚Ìİ’è‘I‘ğ
+Game speed
+Please select
+Current setting
+Normal
+Light
+Background processing
+Current setting
+Return
+Hotbar settings
+Move
+Show
+Hide
+Current setting
 Yukkuri food
-Sweet sweet
+Sweet-sweet
 Special
 Not good
 Food settings
-Hight class food
-Spicy food
-Cheap food
-Autofeeder not set
-Autofeeder set
-Put food in a plate
-Give food pesonally
+Luxury yukkuri food
+Spicy yukkuri food
+Cheap yukkuri food
+Auto-feeder: OFF
+Auto-feeder: ON
+Put in plate
+Hand-feed
 Sweet acorn
 Assorted cookies
 Cake
-Personal cookie
-Xmas cake
-Mister bacon&rice
-Mister carbonara
-Grass
+Hand-fed cookie
+Christmas cake
+Bacon and rice
+Carbonara
+Weeds
 Garbage
-Poo poo
-Food quantity
+Poo-poo
+Portion size
 S
 M
 L
 XL
-”z•ªİ’è
-ŒÅ’è
-“ª”•ª
-Feeder settings
-Always feed
-Through the day
+Distribution
+å›ºå®š
+é ­æ•°åˆ†
+Auto-feeder settings
+constantly
+_ daily
 Once
 Twice
 Thrice
 Death by:
 Age at death
-‚Ë‚ñ‚Æ
-‚±‚Ì‚«‚¹‚Â‚Æ
-Šú–Ú
-‚à‚¤•‚©‚ç‚È‚¢
-ƒ{ƒbƒNƒX‚ª‚¢‚Á‚Ï‚¢‚â‚ÅI
-”„‹p
-“¦‚ª‚·
-ˆ•ª
-‘I‘ğ
-ŒÂ•Ê‰ğ“€
-‰ğ“€ŠJn
-‚±‚êˆÈã
-“ü‚ç‚È‚¢
-ŒÂ•Êˆ•ª
-ˆ•ªŠJn
-Š‹à:
-‚±‚Ìq‚Í”ƒæ‚ª‚Å‚«‚È‚¢‚Å‚·
+ã­ã‚“ã¨
+ã“ã®ãã›ã¤ã¨
+æœŸç›®
+ã‚‚ã†åŠ©ã‹ã‚‰ãªã„
+Freezer full!
+å£²å´
+é€ƒãŒã™
+Discard
+Select
+Thaw one
+Thaw selected
+ã“ã‚Œä»¥ä¸Š
+å…¥ã‚‰ãªã„
+Discard one
+Discard selected
+Money:
+ã“ã®å­ã¯è²·å–ãŒã§ããªã„ã§ã™
 Box
-‚ä‚Á‚­‚è‚ğ”„‹p
+Sell yukkuri
 Return
-“ºƒoƒbƒWŒ±‚ğó‚¯‚é
-‹âƒoƒbƒWŒ±‚ğó‚¯‚é
-‹àƒoƒbƒWŒ±‚ğó‚¯‚é
-ƒvƒ‰ƒ`ƒiƒoƒbƒWŒ±‚ğó‚¯‚é
+Take bronze badge test
+Take silver badge test
+Take gold badge test
+Take platinum badge test
 Next
 Previous
 Buy
-ŒŒ“–³‚µ‚ä‚Á‚­‚è‚ğŒ©‚é
-“ºŒŒ“‚ä‚Á‚­‚è‚ğŒ©‚é
-‹âŒŒ“‚ä‚Á‚­‚è‚ğŒ©‚é
-‹àŒŒ“‚ä‚Á‚­‚è‚ğŒ©‚é
-”ˆç—p•i‚ğŒ©‚é
-‚ä‚Á‚­‚è‚ğ”„‚é
-Complete purchase
-Changed my mind
-‘Ï‹v‹­‰»‚ä‚Á‚­‚è‚ğŒ©‚é
-‹s‘Ò—p•i‚ğŒ©‚é
-ƒVƒ‡ƒbƒv‚Åw“ü‚µ‚½A‚¨o‚³‚ñ‚ªç^‚¯‚½‚ä‚Á‚­‚è
-ƒVƒ‡ƒbƒv‚Åw“ü‚µ‚½A“ºƒoƒbƒWŒŒ“‚Ì‚ä‚Á‚­‚è
-ƒVƒ‡ƒbƒv‚Åw“ü‚µ‚½A‹âƒoƒbƒWŒŒ“‚Ì‚ä‚Á‚­‚è
-ƒVƒ‡ƒbƒv‚Åw“ü‚µ‚½A‹àƒoƒbƒWŒŒ“‚Ì‚ä‚Á‚­‚è
-ƒVƒ‡ƒbƒv‚Åw“ü‚µ‚½A‘Ï‹v—Í‹­‰»‚ä‚Á‚­‚è
+View non-pedigreed yukkuri
+View bronze-badged yukkuri
+View silver-badged yukkuri
+View gold-badged yukkuri
+View yukkuri raising supplies
+Sell yukkuri
+Confirm purchase
+Nevermind
+View endurance-enhanced yukkuri
+View abyuse tools
+Purchased trained yu
+Purchased copper-badged yu
+Purchased silver-badged yu
+Purchased gold-badged yu
+Purchased endurance-enhanced yu
 
 
 
-Cheap yukkuri food
-Yukkuri food
-Fancy yukkuri food
-Cookie
-Cake
-Ramune
-Spicy yukkuri food
+Cheap yukkuri food contract
+Yukkuri food contract
+Luxury yukkuri food contract
+Cookies for yukkuri
+Cake for yukkuri
+Ramune for yukkuri
+Spicy yukkuri food contract
 Metal box
-”ñ‚ä‚Á‚­‚èÇ–h~–ò
-‚¨d’u‚«—pŒÅ’è‹ï
-‚ä‚©‚Ñ‚ğ¡—Ã
-‚ ‚ñ‚æ‚³‚ñ‚ğ¡—Ã
-ã–ƒáƒó‘Ô‚ğ¡—Ã
-A–Ñ
-Downtown
+Anti-antiyukkuritis
+Seat + Elastic of Punishment
+ã‚†ã‹ã³ã‚’æ²»ç™‚
+Treat mister footsie
+Treat tongue paralysis
+Hair transplant
+Town
 Home
 Backyard
 Plaza
-Mountain forest
-HHH
+Forest
+???
 Back alley
-Under a vending machine
+Under vending machine
 Park
-StationFto city
-Yukkuri Shop ‚P
+Train station: to city
+Yukkuri shop 1
 Garbage dump
 Pond
-Ruined shrine
+Run-down shrine
 Shrine
-Yukkuri Shop ‚Q
-Riverside
-Near an elevation
+Yukkuri shop 2
+Riverbed
+Underpass
 City
-StationFto downtown
-Shopping districtiunavailable)
+Train station: to town
+Shopping center (unimplemented)
 Yukkuri Association
-Yukkurinic
-Yukkuri Shop ‚R
-Back alley ‚Qiunavailable)
-Abandoned building site(unavailable)
-High class Yukkuri Shop
-Somewhere in park
-Exploration party discovery
+Yukkuri clinic
+Yukkuri shop 3
+Back alley 2 (unimplemented)
+Abandoned construction site (unimplemented)
+Luxury yukkuri shop
+Park corner
+Expedition discovery
 Back

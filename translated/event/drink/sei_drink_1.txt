@@ -12,31 +12,31 @@
 1
 0
 0
-Mister Human！
-Mister Human！
-Mister Human！
-Mister Human！
-Mister Human！
+Mister human!
+Mister human!
+Mister human!
+Mister human!
+Mister human!
 //////
 80
 1
 0
 1
-Hand over mister sweet sweet water okay！
-Hand over mister sweet sweet water okay！
-Hand over mister sweet sweet water okay！
-Hand over mister sweet sweet water okay！
-Hand over mister sweet sweet water okay！
+Hand over mister sweet sweet water okay?
+Hand over mister sweet sweet water okay?
+Hand over mister sweet sweet water okay?
+Hand over mister sweet sweet water okay?
+Hand over mister sweet sweet water okay?
 //////
 60
 1
 55
 1
-Right now is fine！
-Right now is fine！
-Right now is fine！
-Right now is fine！
-Right now is fine！
+Right now is fine!
+Right now is fine!
+Right now is fine!
+Right now is fine!
+Right now is fine!
 //////
 -8
 3

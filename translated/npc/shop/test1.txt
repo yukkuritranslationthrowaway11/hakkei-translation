@@ -1,10 +1,10 @@
-//—ˆê
-This is the examination hallB We perform examinations for copper,\nsilver and gold badgesB
-This is the examination hallB We perform examinations for copper,\nsilver and gold badgesB
-This is the examination hallB We perform examinations for copper,\nsilver and gold badgesB
-This is the examination hallB We perform examinations for copper,\nsilver and gold badgesB
-This is the examination hallB We perform examinations for copper,\nsilver and gold badgesB
-This is the examination hallB We perform examinations for copper,\nsilver and gold badgesB
+//æ¥å ´æ™‚
+This is the examination hall. We perform examinations for bronze,\nsilver and gold badges.
+This is the examination hall. We perform examinations for bronze,\nsilver and gold badges.
+This is the examination hall. We perform examinations for bronze,\nsilver and gold badges.
+This is the examination hall. We perform examinations for bronze,\nsilver and gold badges.
+This is the examination hall. We perform examinations for bronze,\nsilver and gold badges.
+This is the examination hall. We perform examinations for bronze,\nsilver and gold badges.
 
 
 
@@ -27,20 +27,20 @@ This is the examination hallB We perform examinations for copper,\nsilver and g
 
 
 
-//‘I‘ğˆ
+//é¸æŠè‚¢
 The examination fee is
- yenB\nThere are no refunds in case of failureAso be carefulB
+ yen.\nThere are no refunds in case of failure, so be careful.
 
-Take the copper badge examH
-Take the silver badge exam H
-Take the gold badge examH
+Take the bronze badge exam?
+Take the silver badge exam?
+Take the gold badge exam?
 
 
 
-//Œ±
-Pick the Yukkuri to be examined
-The behaviour test was a failureB
-The intelligence test was a failureB
-Both the behaviour and intelligence test were a failureB
-This Yukkuri already has a badge of higher rankB
-This Yukkuri has already been tested for thisB
+//è©¦é¨“
+Pick the yukkuri to be tested.
+The behaviour test was a failure.
+The intelligence test was a failure.
+Both the behaviour and intelligence test were a failure.
+This yukkuri already has a badge of higher rank.
+This yukkuri has already been tested for this.
