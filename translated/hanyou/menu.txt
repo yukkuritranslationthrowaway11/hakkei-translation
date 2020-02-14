@@ -27,7 +27,7 @@ Start?
 Next?
 Intelligence
 Points UP
-はどっち？
+Which one?
 h
 m
 Spring
@@ -66,8 +66,8 @@ Burnt footsie treatment
 Hair transplant
 Sell copper-badged yu
 Sell silver-badged yu
-Consecutive arithmetic
-questions right!
+(Arithmetic) Successive
+Correct!
 Scold toggle
 Skip to morning
 Skip to night
@@ -253,7 +253,7 @@ Abyuser
 Bonus 2
 Hair transplant treatment
 Unimplemented
-consecutive right answers:
+correct answers:
 合計ランク:
 かしこさ指導補正:
 愛され補正:
@@ -378,7 +378,7 @@ Spicy yukkuri food contract
 Metal box
 Anti-antiyukkuritis
 Seat + Elastic of Punishment
-ゆかびを治療
+Treat mold
 Treat mister footsie
 Treat tongue paralysis
 Hair transplant
