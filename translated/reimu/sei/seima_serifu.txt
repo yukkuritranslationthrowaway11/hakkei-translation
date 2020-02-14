@@ -816,16 +816,16 @@ ma_sei_kousoku_1_hanyou_10 = "はなすんだよぉぉぉぉ"
 ;////////////////////////////////////////////////////////////
 ;睡眠
 ;///////////////////////////////////////////////////////////
-ma_sei_hanyou_sleep_1 = "すーや……すーや……"
-ma_sei_hanyou_sleep_2 = "ゆぴー……"
-ma_sei_hanyou_sleep_3 = "ゆぅ……ゆぅ……"
-ma_sei_hanyou_sleep_4 = "ゆっくりぃ……"
-ma_sei_hanyou_sleep_5 = "ゆぴ……ゆぴ……"
-ma_sei_hanyou_sleep_6 = "ゆぴぴ……"
-ma_sei_hanyou_sleep_7 = "ゆぴ……ゆぴぴ……"
-ma_sei_hanyou_sleep_8 = "ゆ……あまあま……"
-ma_sei_hanyou_sleep_9 = "つばさ……【一人称】の……つばさ……"
-ma_sei_hanyou_sleep_10 = "ゆぅ……【一人称】は……ぷりんせす なんだよ……"
+ma_sei_hanyou_sleep_1 = "Sleep... sleep..."
+ma_sei_hanyou_sleep_2 = "Yupi..."
+ma_sei_hanyou_sleep_3 = "Yuu... yuu..."
+ma_sei_hanyou_sleep_4 = "Easyy..."
+ma_sei_hanyou_sleep_5 = "Yupi... yupi..."
+ma_sei_hanyou_sleep_6 = "Yupipi..."
+ma_sei_hanyou_sleep_7 = "Yupi... yupipi..."
+ma_sei_hanyou_sleep_8 = "Yu... sweet-sweet..."
+ma_sei_hanyou_sleep_9 = "Wings... 【一人称】's... wings..."
+ma_sei_hanyou_sleep_10 = "Yuu... 【一人称】 is... princess..."
 
 
 ma_sei_hanyou_morning_1 = "【一人称】が めを さましたんだよ！！"
