@@ -2062,16 +2062,16 @@ ma_aka_nobi3_1_10 = "のーび のーび"
 ;///////////////////////////////////////////////////////////
 
 
-ma_aka_surisuri1_1_1 = "しゅーり しゅーり するよ"
-ma_aka_surisuri1_1_2 = "しゅーりしゅーり さしぇちぇにぇ！"
-ma_aka_surisuri1_1_3 = "しゅーり しゅーり ぢゃよ"
-ma_aka_surisuri1_1_4 = "しゅーり しゅーり ぢゃよ"
-ma_aka_surisuri1_1_5 = "しゅーり しゅーり ぢゃよ"
-ma_aka_surisuri1_1_6 = "しゅーり しゅーり するよ"
-ma_aka_surisuri1_1_7 = "しゅーり しゅーり するよ"
-ma_aka_surisuri1_1_8 = "【一人称】しゅーりしゅーりたいむ ぢゃよ"
-ma_aka_surisuri1_1_9 = "しゅーり しゅーり するよ"
-ma_aka_surisuri1_1_10 = "しゅーり しゅーり ぢゃよ"
+ma_aka_surisuri1_1_1 = "Dwoing wub-wub"
+ma_aka_surisuri1_1_2 = "Wet's dwo wub-wub!"
+ma_aka_surisuri1_1_3 = "Wub-wub"
+ma_aka_surisuri1_1_4 = "Wub-wub"
+ma_aka_surisuri1_1_5 = "Wub-wub"
+ma_aka_surisuri1_1_6 = "Dwoing wub-wub"
+ma_aka_surisuri1_1_7 = "Dwoing wub-wub"
+ma_aka_surisuri1_1_8 = "Id'sh 【一人称】's wub-wub chime"
+ma_aka_surisuri1_1_9 = "Dwoing wub-wub"
+ma_aka_surisuri1_1_10 = "Wub-wub"
 
 
 ma_aka_surisuri2_1_1 = "Wub"
@@ -2098,16 +2098,16 @@ ma_aka_surisuri3_1_9 = "Wub-wub"
 ma_aka_surisuri3_1_10 = "Wub-wub"
 
 
-ma_aka_surisuri_miage1_1_1 = "しゅーり しゅーり しちゃいんぢゃよ"
-ma_aka_surisuri_miage1_1_2 = "しゅーりしゅーり さしぇちぇにぇ！"
-ma_aka_surisuri_miage1_1_3 = "しゅーり しゅーり しちゃいんぢゃよ"
-ma_aka_surisuri_miage1_1_4 = "しゅーり しゅーり さしぇちぇ！"
-ma_aka_surisuri_miage1_1_5 = "しゅーり しゅーり しちゃいよ！"
-ma_aka_surisuri_miage1_1_6 = "しゅーり しゅーり さしぇちぇ！"
-ma_aka_surisuri_miage1_1_7 = "しゅーり しゅーり しちゃいんぢゃよ"
-ma_aka_surisuri_miage1_1_8 = "しゅーり しゅーり さしぇちぇ！"
-ma_aka_surisuri_miage1_1_9 = "しゅーり しゅーり しちゃいんぢゃよ"
-ma_aka_surisuri_miage1_1_10 = "しゅーりしゅーり さしぇちぇにぇ！"
+ma_aka_surisuri_miage1_1_1 = "Wanna wub-wub"
+ma_aka_surisuri_miage1_1_2 = "Wet'sh do wub-wub!"
+ma_aka_surisuri_miage1_1_3 = "Wanna wub-wub"
+ma_aka_surisuri_miage1_1_4 = "Wet'sh do wub-wub!"
+ma_aka_surisuri_miage1_1_5 = "Wanna wub-wub!"
+ma_aka_surisuri_miage1_1_6 = "Wet'sh do wub-wub!"
+ma_aka_surisuri_miage1_1_7 = "Wanna wub-wub"
+ma_aka_surisuri_miage1_1_8 = "Wet'sh do wub-wub!"
+ma_aka_surisuri_miage1_1_9 = "Wanna wub-wub"
+ma_aka_surisuri_miage1_1_10 = "Wet'sh do wub-wub!"
 
 ;///////////////////////////////////////////////////////////
 ;ボール
