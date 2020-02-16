@@ -21,7 +21,7 @@ Load?
 Save hotkeys?
 Save autosave?
 Save?
-åŒ¹ç›®
+‹
 End
 Start?
 Next?
@@ -38,28 +38,28 @@ Month
 Yen
 Mister footsie!?
 Abyuser level
-å¼·åˆ¶ãƒ©ã‚¤ãƒ–é–‹å‚¬ï¼
-ã·ã‚‹ã·ã‚‹ ãˆã‚Œãã¡ãŠã‚“
-ã“ã‚Œã©ãã¯ã„ã£ã¦ã‚‹ï¼ï¼Ÿ
-ã¾ã£ãã‚‰ã‚„ã¿
-ã©ãƒ¼ã´ã‚“ã ãˆã‚Œãã¡ãŠã‚“
+‹­§ƒ‰ƒCƒuŠJÃI
+‚Õ‚é‚Õ‚é ‚¦‚ê‚­‚¿‚¨‚ñ
+‚±‚ê‚Ç‚­‚Í‚¢‚Á‚Ä‚éIH
+‚Ü‚Á‚­‚ç‚â‚İ
+‚Ç[‚Ò‚ñ‚® ‚¦‚ê‚­‚¿‚¨‚ñ
 BDSM Play?
-ã¤ã„ã¦ãªã„ï¼ï¼Ÿ
-ã†ã—ãªã‚ã‚ŒãŸ ã¿ã‚‰ã„
-ã²ã‹ã‚Šã‚ã‚Œï¼
+‚Â‚¢‚Ä‚È‚¢IH
+‚¤‚µ‚È‚í‚ê‚½ ‚İ‚ç‚¢
+‚Ğ‚©‚è‚ ‚êI
 Mental break
-ãŠã‹ã‚ã‚Šã‚‚ã„ã„ãï¼
+‚¨‚©‚í‚è‚à‚¢‚¢‚¼I
 Breeder level
-ã‚ãŸã‚‰ã—ã„ã‹ãã
+‚ ‚½‚ç‚µ‚¢‚©‚¼‚­
 Life's baton
-ä¸€æµã‚¹ãƒŠã‚¤ãƒ‘ãƒ¼
-ä¸Šã’ã¦è½ã¨ã—ãŸ
-çµ¶å¯¾ã«é€ƒã•ãªã„ï¼
-ã„ã¡ã‚†ã‚“ã¾ãˆã£
-ã¨ã‚ã£ã®ã‚ã„
-ã„ã®ã¡ã®ã‚†ã‚Šã‹ã”
-ã¨ã„ã‚Œã•ã‚“ã¯ã“ã“ï¼
-ã—ã‚‡ãã”ã®ã†ã‚“ã©ã†
+ˆê—¬ƒXƒiƒCƒp[
+ã‚°‚Ä—‚Æ‚µ‚½
+â‘Î‚É“¦‚³‚È‚¢I
+‚¢‚¿‚ä‚ñ‚Ü‚¦‚Á
+‚Æ‚í‚Á‚Ì‚ ‚¢
+‚¢‚Ì‚¿‚Ì‚ä‚è‚©‚²
+‚Æ‚¢‚ê‚³‚ñ‚Í‚±‚±I
+‚µ‚å‚­‚²‚Ì‚¤‚ñ‚Ç‚¤
 Hunt-hunt!
 Mold treatment
 Burnt footsie treatment
@@ -70,14 +70,14 @@ Sell silver-badged yu
 Correct!
 Scold toggle
 Skip to morning
-Skip to night
+Skip to evening
 Fast forward through sleep
-ã‚†ã£ãã‚Šã—ã¦ã‚“ã˜ã‚ƒãªã„ï¼Ÿ
-ã‚†ã£ãã‚Šã—ã¦ã‚“ã˜ã‚ƒãªã„ï¼Ÿ
-ã‚†ã£ãã‚Šã—ã¦ã‚“ã˜ã‚ƒãªã„ï¼Ÿ
-ã‚†ã£ãã‚Šã—ã¦ã‚“ã˜ã‚ƒãªã„ï¼Ÿ
-ã‚†ã£ãã‚Šã—ã¦ã‚“ã˜ã‚ƒãªã„ï¼Ÿ
-ã‚†ã£ãã‚Šã—ã¦ã‚“ã˜ã‚ƒãªã„ï¼Ÿ
+Not taking it easy?
+Not taking it easy?
+Not taking it easy?
+Not taking it easy?
+Not taking it easy?
+Not taking it easy?
 Screenshot
 Clean waste
 Put away
@@ -101,7 +101,7 @@ Take stalk
 Hold accessory
 Hide accessory
 Pins
-Slap with ruler
+Ruler slap
 Hammer
 Hand drill
 Hand drill (heated)
@@ -116,7 +116,7 @@ Razor
 Fabric shears
 Stalk shears
 Stalk shears
-(keep stalk)
+(Keep stalk)
 Bury
 Throw away
 Freeze
@@ -137,8 +137,8 @@ Show butt (all)
 Hang accessory
 Marisa
 Reimu
-Shell Marisa
-Alice
+Shelly
+Arisu
 Type
 Give accessory (ko)
 Give accessory (adult)
@@ -147,13 +147,13 @@ Allow
 Command
 Life skills
 Academics
-May not say "happiness" before meal
-May not poo-poo upside-down
-May not have little ones
+May not say "happiness" at meals
+May not poo-poo upside down
+May not make little ones
 May not sing songs
-May say "happiness" before meal
-May poo-poo upside-down
-May have little ones
+May say "happiness" at meals
+May make poo-poo upside down
+May make little ones
 May sing songs
 Bring poo-poo to toilet
 Poo-poo dance
@@ -188,7 +188,7 @@ Cardboard house
 Wooden house
 Mushroom house
 Shake house
-Remove from house (one)
+Remove from house
 Remove from house (all)
 Show house interior
 Hide house interior
@@ -206,15 +206,15 @@ Ramune spray
 Anti-antiyukkuritis
 Sugar supplement
 Flour supplement
-Bean paste supplement
-Sitataran (tongue paralysis drug)
-å€‹
-çŸ¥èƒ½ã‚¢ãƒƒãƒ—ã®ç§˜è–¬ï¼š
-è¦ªæ„›ã‚¢ãƒƒãƒ—ã®ç§˜è–¬ï¼š
-ã‚²ã‚¹çŸ¯æ­£ã®ç§˜è–¬ï¼š
+Red beans supplement
+Sitataran
+ŒÂ
+’m”\ƒAƒbƒv‚Ì”é–òF
+eˆ¤ƒAƒbƒv‚Ì”é–òF
+ƒQƒX‹¸³‚Ì”é–òF
 Status
 Family
-Friends
+Relationships
 Medication status
 Select a yukkuri to see its status.
 Type:
@@ -229,7 +229,7 @@ Reflexes:
 Fear:
 Not married
 Spouse: not in yukkurarium
-Spouse:
+Spoue:
 Orphan
 Thinks you're her parent
 Mother: not in yukkurarium
@@ -244,7 +244,7 @@ Type:
 Anti-antiyukkuritis active
 Sitataran active
 Sugar supplement active: Intelligence Points UP bonus
-Flour supplement active: ç›¸äº’å¥½æ„Ÿåº¦UP bonus
+Flour supplement active: Affection UP bonus
 Bean paste supplement active: Max Health UP bonus
 No medication
 Breeder
@@ -253,14 +253,14 @@ Abyuser
 Bonus 2
 Hair transplant treatment
 Unimplemented
-correct answers:
-åˆè¨ˆãƒ©ãƒ³ã‚¯:
-ã‹ã—ã“ã•æŒ‡å°è£œæ­£:
-æ„›ã•ã‚Œè£œæ­£:
+ correct answers:
+Highest counted to:
+‚©‚µ‚±‚³w“±•â³:
+ˆ¤‚³‚ê•â³:
 Bonus: ON
 Bonus: OFF
 Consecutive HITs:
-ã‚²ã‚¹åº¦æŒ‡å°è£œæ­£:
+ƒQƒX“xw“±•â³:
 Game speed
 Background
 Set hotkeys
@@ -279,7 +279,7 @@ Normal
 Light
 Background processing
 Current setting
-Return
+Back
 Hotbar settings
 Move
 Show
@@ -313,36 +313,36 @@ M
 L
 XL
 Distribution
-å›ºå®š
-é ­æ•°åˆ†
+ŒÅ’è
+“ª”•ª
 Auto-feeder settings
-constantly
+Constantly
 _ daily
 Once
 Twice
 Thrice
 Death by:
 Age at death
-ã­ã‚“ã¨
-ã“ã®ãã›ã¤ã¨
-æœŸç›®
-ã‚‚ã†åŠ©ã‹ã‚‰ãªã„
+‚Ë‚ñ‚Æ
+‚±‚Ì‚«‚¹‚Â‚Æ
+Šú–Ú
+‚à‚¤•‚©‚ç‚È‚¢
 Freezer full!
-å£²å´
-é€ƒãŒã™
+”„‹p
+“¦‚ª‚·
 Discard
 Select
-Thaw one
+Thaw
 Thaw selected
-ã“ã‚Œä»¥ä¸Š
-å…¥ã‚‰ãªã„
-Discard one
+‚±‚êˆÈã
+“ü‚ç‚È‚¢
+Discard
 Discard selected
 Money:
-ã“ã®å­ã¯è²·å–ãŒã§ããªã„ã§ã™
+‚±‚Ìq‚Í”ƒæ‚ª‚Å‚«‚È‚¢‚Å‚·
 Box
 Sell yukkuri
-Return
+Leave
 Take bronze badge test
 Take silver badge test
 Take gold badge test
@@ -357,7 +357,7 @@ View gold-badged yukkuri
 View yukkuri raising supplies
 Sell yukkuri
 Confirm purchase
-Nevermind
+Changed my mind
 View endurance-enhanced yukkuri
 View abyuse tools
 Purchased trained yu
@@ -368,13 +368,13 @@ Purchased endurance-enhanced yu
 
 
 
-Cheap yukkuri food contract
-Yukkuri food contract
-Luxury yukkuri food contract
-Cookies for yukkuri
-Cake for yukkuri
-Ramune for yukkuri
-Spicy yukkuri food contract
+Cheap yu food contract
+Yu food contract
+Luxury yu food contract
+Cookies for yus
+Cake for yus
+Ramune for yus
+Spicy yu food contract
 Metal box
 Anti-antiyukkuritis
 Seat + Elastic of Punishment
@@ -389,26 +389,26 @@ Plaza
 Forest
 ???
 Back alley
-Under vending machine
+Beneath vending machine
 Park
 Train to city
-Yukkuri shop 1
+Yukkuri Shop 1
 Garbage dump
 Pond
 Run-down shrine
 Shrine
-Yukkuri shop 2
-Riverbed
+Yukkuri Shop 2
+Riverside
 Underpass
 City
 Train to town
-Shopping center (unimplemented)
+Shopping district (unavailable)
 Yukkuri Association
-Yukkuri clinic
-Yukkuri shop 3
-Back alley 2 (unimplemented)
-Abandoned construction site (unimplemented)
-Luxury yukkuri shop
+Yukkuri Clinic
+Yukkuri Shop 3
+Back alley (unavailable)
+Abandoned construction site (unavailable)
+Luxury Yukkuri Shop
 Park corner
 Expedition discovery
 Back
