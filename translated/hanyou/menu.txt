@@ -391,7 +391,7 @@ Forest
 Back alley
 Under vending machine
 Park
-Train station: to city
+Train to city
 Yukkuri shop 1
 Garbage dump
 Pond
@@ -401,7 +401,7 @@ Yukkuri shop 2
 Riverbed
 Underpass
 City
-Train station: to town
+Train to town
 Shopping center (unimplemented)
 Yukkuri Association
 Yukkuri clinic
