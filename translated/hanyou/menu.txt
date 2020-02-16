@@ -44,21 +44,21 @@ Abyuser level
 まっくらやみ
 どーぴんぐ えれくちおん
 BDSM Play?
-ついてない！？
-うしなわれた みらい
+Unattached!?
+Lost future
 ひかりあれ！
 Mental break
 おかわりもいいぞ！
 Breeder level
-あたらしいかぞく
+New family
 Life's baton
 一流スナイパー
 上げて落とした
 絶対に逃さない！
 いちゆんまえっ
 とわっのあい
-いのちのゆりかご
-といれさんはここ！
+Cradle of life
+The toilet is here!
 しょくごのうんどう
 Hunt-hunt!
 Mold treatment
@@ -206,12 +206,12 @@ Ramune spray
 Anti-antiyukkuritis
 Sugar supplement
 Flour supplement
-Red beans supplement
+Bean paste supplement
 Sitataran
 個
-知能アップの秘薬：
-親愛アップの秘薬：
-ゲス矯正の秘薬：
+Intelligence UP drug
+Affection UP drug
+Scum correction drug
 Status
 Family
 Relationships
@@ -254,7 +254,7 @@ Bonus 2
 Hair transplant treatment
 Unimplemented
  correct answers:
-Highest counted to:
+Total points:
 かしこさ指導補正:
 愛され補正:
 Bonus: ON
