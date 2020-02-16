@@ -229,7 +229,7 @@ Reflexes:
 Fear:
 Not married
 Spouse: not in yukkurarium
-Spoue:
+Spouse:
 Orphan
 Thinks you're her parent
 Mother: not in yukkurarium
@@ -350,15 +350,15 @@ Take platinum badge test
 Next
 Previous
 Buy
-View non-pedigreed yukkuri
-View bronze-badged yukkuri
-View silver-badged yukkuri
-View gold-badged yukkuri
-View yukkuri raising supplies
+View non-pedigreed yus
+View bronze-badged yus
+View silver-badged yus
+View gold-badged yus
+View yu raising supplies
 Sell yukkuri
 Confirm purchase
 Changed my mind
-View endurance-enhanced yukkuri
+View endurance-enhanced yus
 View abyuse tools
 Purchased trained yu
 Purchased copper-badged yu
