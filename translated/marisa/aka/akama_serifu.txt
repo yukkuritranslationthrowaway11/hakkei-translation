@@ -710,7 +710,7 @@ ma_aka_sougo_play_sumou_2_4 = "Goch id no jeI"
 ma_aka_sougo_play_sumou_2_5 = "Behowld the power of the shtwongesht yˆêlÌz no jeI"
 ma_aka_sougo_play_sumou_2_6 = "Goch id no jeI"
 ma_aka_sougo_play_sumou_2_7 = "Chawwenge akshepted no jeI"
-ma_aka_sougo_play_sumou_2_8 = "yˆêlÌzwon'd run away no jeI"
+ma_aka_sougo_play_sumou_2_8 = "yˆêlÌz won'd run away no jeI"
 ma_aka_sougo_play_sumou_2_9 = "Goch id no jeI"
 ma_aka_sougo_play_sumou_2_10 = "yˆêlÌz akshept your chawwenge no jeI"
 

@@ -2,14 +2,14 @@ Intelligence
 Can't even remember the toilet
 Somehow remembers the toilet
 Likely to die if unsupervised
-Might meet the minimum for a pet yu
+Might meet the minimum for pet yus
 Counts the single digits perfectly
 Unlikely to die if unsupervised
 Probably not an embarrassing pet
 Might pass the gold badge test
 Can do simple errands
-Hers sets the standard for other yukkuri
-Too intelligent to really be a yukkuri?
+Sets the standard for other yus
+Too smart to really be a yu?
 
 Affection
 On guard around you...
@@ -32,7 +32,7 @@ Egotistical behavior
 Selfish
 Thinks all's good if she is
 Looks down on other yukkuri
-Thinks other yus exist for her sake
+Thinks other yus exist for her
 Thinks she's always right
 Thinks she's a blessing to the world
 Thinks the world is hers
@@ -89,8 +89,8 @@ Close
 Love
 Absolute Love
 
-Pickiness level
-Sense of taste destroyed
+Pickiness:
+Destroyed sense of taste
 Will eat anything
 Limited sense of taste
 Poor sense of taste
@@ -98,7 +98,7 @@ Decent sense of taste
 Gourmand
 Gourmet
 Luxurious tastes
-Only sweet-sweets are good enough
+Only sweet-sweets are enough
 Sweet-sweets aren't enough
 Gastronome
 

@@ -215,7 +215,7 @@ Scum correction drug
 Status
 Family
 Relationships
-Medication status
+Medication
 Select a yukkuri to see its status.
 Type:
 Health:
