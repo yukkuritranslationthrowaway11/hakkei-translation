@@ -1,78 +1,78 @@
 Intelligence
-Can't remember what toilet is
-Somehow knows what toilet is
-Will die if left alone
-The bare minimum for a pet yu
-Can perfectly count up to 1
-If alone it will probably live
-Won't be an embarassing pet
-Might fail the gold badge test
+Can't even remember the toilet
+Somehow remembers the toilet
+Likely to die if unsupervised
+Might meet the minimum for a pet yu
+Counts the single digits perfectly
+Unlikely to die if unsupervised
+Probably not an embarrassing pet
+Might pass the gold badge test
 Can do simple errands
-Meets the standard of other yukkuri
-Is not really like other yukkuri...
+Hers sets the standard for other yukkuri
+Too intelligent to really be a yukkuri?
 
 Affection
-Cautious...
-Hardly attached to you
-Starting to warm up to you
-Approaches positively
-Puts a little faith in you
-Feels easy around you
-Considerable trust
-Quite the trust
-A strong sense of love
-Would listen to unreasonable demands
-Totally takes it easy
+On guard around you...
+Mostly unattached to you
+A little attached to you
+Actively approaches you
+Trusts you a bit
+Shares all her easiness with you
+Really trusts you
+Trusts you immensely
+Has deep affection for you
+Would obey impossible requests
+Gives you all her easiness
 
 Scumminess
 Pure and innocent
-Can take it easy
-A bit egotistical
-Acts egotistically
-Only thinks for herself
-If she's good, all's fine
+Takes it easy
+A little egotistical
+Egotistical behavior
+Selfish
+Thinks all's good if she is
 Looks down on other yukkuri
-Other yukkuri exist for her sake
-She's never wrong
-Thinks she's a blessing
+Thinks other yus exist for her sake
+Thinks she's always right
+Thinks she's a blessing to the world
 Thinks the world is hers
 
 Hunger
 Starving
 Hungry
 Getting hungry
-Not really hungry
-Full
+Not particularly hungry
+Full stomach
 
 Fear
-Not scared of humans
-Cautious around humans
+Completely unafraid of humans
+A little cautious of humans
 Thinks humans are dangerous
-Scared of humans
-Very scared of humans
-Extremely scared of humans
+Fears humans
+Strong fear of humans
+Intense fear of humans
 
 Reflexes
-Can barely move
-Slow
-So-so
-A bit quick
-Somewhat quick
-Quite agile
-Considerably agile
-Athletic
-Really athletic
-Olympic skills
-Is it really a yukkuri?
+Extremely sluggish
+Sluggish
+Average
+A little agile
+Passably agile
+Fairly agile
+Really agile
+Excellent
+Outstanding
+Extraordinary
+Is she really a yukkuri?
 
-Stamina
-Forever easy (slow)
+Maximum health
+Might take it easy forever
 Feeble
-Weak
+Delicate
 Normal
-Healthy
-Very healthy
-Outstandingly healthy
+Durable
+Very durable
+Iron Yun
 
 Disease
 Healthy
@@ -89,24 +89,24 @@ Close
 Love
 Absolute Love
 
-Pickiness (food)
-No sense of taste
-Eats almost anything
-Unsophisticated tastes
-Not quite the palate
-So-so sense of taste
-A bit spoiled
-Spoiled
-Luxurious palate
-Only sweet-sweets and above
+Pickiness level
+Sense of taste destroyed
+Will eat anything
+Limited sense of taste
+Poor sense of taste
+Decent sense of taste
+Gourmand
+Gourmet
+Luxurious tastes
+Only sweet-sweets are good enough
 Sweet-sweets aren't enough
-Only excellent gourmet food
+Gastronome
 
 
 
 
 
-Species
+Type
 Marisa
 Shell Marisa
 Reimu
