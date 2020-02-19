@@ -147,14 +147,14 @@ Allow
 Command
 Life skills
 Academics
-say "Happiness" at meals
-poo-poo upside down
-make little ones
-sing songs
-say "Happiness" at meals
-poo-poo upside down
-make little ones
-sing songs
+saying "Happiness" at meals
+doing poo-poo upside down
+making little ones
+singing songs
+saying "Happiness" at meals
+doing poo-poo upside down
+making little ones
+singing songs
 Poo-poo clean-up (to toilet)
 Poo-poo dance
 Hunt-hunt practice
