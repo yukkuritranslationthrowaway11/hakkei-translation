@@ -1221,7 +1221,7 @@ ma_sei_m_life_10 = "‚ä‚Á‚­‚è‚µ‚Ä‚¢‚Á‚Ä‚ËI"
 ;///////////////////////////////////////////////////////////
 ;‹ó• (Œy“xj
 ;///////////////////////////////////////////////////////////
-ma_sei_hun_1 = "Hungry!"
+ma_sei_hun_1 = "Getting hungry!"
 ma_sei_hun_2 = "Can't take it easy!"
 ma_sei_hun_3 = "Mister food come out!"
 ma_sei_hun_4 = "Mister food don't take it easy and come out!"
@@ -1235,7 +1235,7 @@ ma_sei_hun_10 = "Mister food don't take it easy and come out!"
 
 
 ;Œ«‚³’†EƒQƒX Œ«‚³‚Ì”»’è‚Í’á‚ß
-ma_sei_hun_1_1 = "Hungry!"
+ma_sei_hun_1_1 = "Getting hungry!"
 ma_sei_hun_1_2 = "Can't take it easy!"
 ma_sei_hun_1_3 = "yˆêlÌz's tummy is hungry!"
 ma_sei_hun_1_4 = "Bring mister food! Right now is fine!"
@@ -1258,16 +1258,16 @@ ma_sei_hun_2_8 = "Don't take it easy and bring food!"
 ma_sei_hun_2_9 = "Quickly bring food!!"
 ma_sei_hun_2_10 = "yˆêlÌz's tummy is hungry!"
 
-ma_sei_hun_3_1 = "y”‚¢åz ‚¢‚»‚ª‚µ‚¢‚ÌH"
-ma_sei_hun_3_2 = "‚²‚Í‚ñ‚³‚ñ‚Ü‚Å ‚ä‚Á‚­‚è ‚Ü‚Â‚ñ‚¾‚æI"
-ma_sei_hun_3_3 = "yˆêlÌz‚Í ‚²‚Í‚ñ‚³‚ñ‚ğ ‚Ü‚Á‚Ä‚é‚ñ‚¾‚æI"
-ma_sei_hun_3_4 = "‚à‚¤‚·‚® ‚²‚Í‚ñ‚³‚ñ‚Ì ‚¶‚©‚ñ‚È‚ñ‚¾‚æI"
-ma_sei_hun_3_5 = "yˆêlÌz ‚¨‚È‚© ‚·‚¢‚Ä‚«‚½‚ñ‚¾‚æI"
-ma_sei_hun_3_6 = "y”‚¢åz ‚¢‚»‚ª‚µ‚¢‚ÌH"
-ma_sei_hun_3_7 = "‚²‚Í‚ñ‚³‚ñ‚Ü‚Å ‚ä‚Á‚­‚è ‚Ü‚Â‚ñ‚¾‚æI"
-ma_sei_hun_3_8 = "yˆêlÌz‚Í ‚²‚Í‚ñ‚³‚ñ‚ğ ‚Ü‚Á‚Ä‚é‚ñ‚¾‚æI"
-ma_sei_hun_3_9 = "‚à‚¤‚·‚® ‚²‚Í‚ñ‚³‚ñ‚Ì ‚¶‚©‚ñ‚È‚ñ‚¾‚æI"
-ma_sei_hun_3_10 = "yˆêlÌz ‚¨‚È‚© ‚·‚¢‚Ä‚«‚½‚ñ‚¾‚æI"
+ma_sei_hun_3_1 = "Is y”‚¢åz busy?"
+ma_sei_hun_3_2 = "Waiting easy until it's time for mister meal!"
+ma_sei_hun_3_3 = "yˆêlÌz is waiting for mister meal!"
+ma_sei_hun_3_4 = "Almost time for mister meal!"
+ma_sei_hun_3_5 = "yˆêlÌz is becoming hungry!"
+ma_sei_hun_3_6 = "Is y”‚¢åz busy?"
+ma_sei_hun_3_7 = "Waiting easy until it's time for mister meal!"
+ma_sei_hun_3_8 = "yˆêlÌz is waiting for mister meal!"
+ma_sei_hun_3_9 = "Almost time for mister meal!"
+ma_sei_hun_3_10 = "yˆêlÌz is becoming hungry!"
 
 
 ;///////////////////////////////////////////////////////////
