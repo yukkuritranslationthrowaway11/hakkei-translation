@@ -97,12 +97,12 @@ ma_sei_hanyou_escape_1_10 = "Eas-... easyy...!"
 
 ma_sei_hanyou_serch_1_1 = "Coming now!"
 ma_sei_hanyou_serch_1_2 = "Coming right now!"
-ma_sei_hanyou_serch_1_3 = "【一人称】is coming quickly!"
+ma_sei_hanyou_serch_1_3 = "【一人称】 is coming quickly!"
 ma_sei_hanyou_serch_1_4 = "Coming right now!"
 ma_sei_hanyou_serch_1_5 = "Coming quickly!"
 ma_sei_hanyou_serch_1_6 = "Coming now!"
 ma_sei_hanyou_serch_1_7 = "Coming right now!"
-ma_sei_hanyou_serch_1_8 = "【一人称】is coming quickly!"
+ma_sei_hanyou_serch_1_8 = "【一人称】 is coming quickly!"
 ma_sei_hanyou_serch_1_9 = "Coming at the speed of sound!"
 ma_sei_hanyou_serch_1_10= "Coming quickly!"
 
@@ -1170,16 +1170,16 @@ ma_sei_m_2_9 = "The great 【一人称】 is the world's blessing!"
 ma_sei_m_2_10 = "Take it easy!"
 
 ;ネガティブモード
-ma_sei_nega_1 = "ゆっくり したいんだよ……"
-ma_sei_nega_2 = "【一人称】ゆっくり したいんだよ……？"
-ma_sei_nega_3 = "なんで 【一人称】が こんなめに……"
-ma_sei_nega_4 = "【一人称】ゆっくり できないんだよ！"
-ma_sei_nega_5 = "なんで……ゆっくり させてくれないんだよ……？"
-ma_sei_nega_6 = "ゆっくり したいんだよ……"
-ma_sei_nega_7 = "なんで……ゆっくり させてくれないんだよ……？"
-ma_sei_nega_8 = "ゆっくり したいんだよ……"
-ma_sei_nega_9 = "【一人称】ゆっくり したいんだよ……？"
-ma_sei_nega_10 = "なんで……ゆっくり させてくれないんだよ……？"
+ma_sei_nega_1 = "Want to take it easy..."
+ma_sei_nega_2 = "【一人称】 wants to take it easy...?"
+ma_sei_nega_3 = "Why to 【一人称】..."
+ma_sei_nega_4 = "【一人称】 can't take it easy!"
+ma_sei_nega_5 = "Why... not letting 【一人称】 take it easy...?"
+ma_sei_nega_6 = "Want to take it easy..."
+ma_sei_nega_7 = "Why... not letting 【一人称】 take it easy...?"
+ma_sei_nega_8 = "Want to take it easy..."
+ma_sei_nega_9 = "【一人称】 wants to take it easy...?"
+ma_sei_nega_10 = "Why... not letting 【一人称】 take it easy...?"
 
 
 ;便秘モード
@@ -1215,8 +1215,8 @@ ma_sei_m_life_5 = "なんだか すぐ おなかいっぱいに なるんだよ"
 ma_sei_m_life_6 = "なんだか うんうんさんの きれっ が わるいきが するんだよ"
 ma_sei_m_life_7 = "なんだか すぐ つかれるきが するんだよ"
 ma_sei_m_life_8 = "なんだか あんこさんが おもく かんじるんだよ"
-ma_sei_m_life_9 = "ゆっくりー♪"
-ma_sei_m_life_10 = "ゆっくりしていってね！"
+ma_sei_m_life_9 = "Easyy♪"
+ma_sei_m_life_10 = "Take it easy!"
 
 ;///////////////////////////////////////////////////////////
 ;空腹(軽度）

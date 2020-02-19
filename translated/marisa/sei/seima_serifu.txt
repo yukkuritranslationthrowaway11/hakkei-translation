@@ -98,12 +98,12 @@ ma_sei_hanyou_escape_1_10 = "Eas-... easyy...!"
 
 ma_sei_hanyou_serch_1_1 = "Coming now no ze!"
 ma_sei_hanyou_serch_1_2 = "Coming right now no ze!"
-ma_sei_hanyou_serch_1_3 = "yˆêlÌzis coming quickly no ze!"
+ma_sei_hanyou_serch_1_3 = "yˆêlÌz is coming quickly no ze!"
 ma_sei_hanyou_serch_1_4 = "Coming right now no ze!"
 ma_sei_hanyou_serch_1_5 = "Coming quickly no ze!"
 ma_sei_hanyou_serch_1_6 = "Coming now no ze!"
 ma_sei_hanyou_serch_1_7 = "Coming right now no ze!"
-ma_sei_hanyou_serch_1_8 = "yˆêlÌzis coming quickly no ze!"
+ma_sei_hanyou_serch_1_8 = "yˆêlÌz is coming quickly no ze!"
 ma_sei_hanyou_serch_1_9 = "Coming at the speed of sound no ze!"
 ma_sei_hanyou_serch_1_10= "Coming quickly no ze!"
 
@@ -1172,14 +1172,14 @@ ma_sei_m_2_10 = "Take it easy!"
 ;ƒlƒKƒeƒBƒuƒ‚[ƒh
 ma_sei_nega_1 = "Want to take it easy no ze..."
 ma_sei_nega_2 = "yˆêlÌz wants to take it easy no ze...?"
-ma_sei_nega_3 = "Why to yˆêlÌz ..."
+ma_sei_nega_3 = "Why to yˆêlÌz..."
 ma_sei_nega_4 = "yˆêlÌz can't take it easy da ze!"
-ma_sei_nega_5 = "‚È‚ñ‚Å... ‚ä‚Á‚­‚è ‚³‚¹‚Ä‚­‚ê‚È‚¢‚ñ‚¾‚º...?"
+ma_sei_nega_5 = "Why... not letting yˆêlÌz take it easy da ze...?"
 ma_sei_nega_6 = "Want to take it easy no ze..."
-ma_sei_nega_7 = "‚È‚ñ‚Åcc‚ä‚Á‚­‚è ‚³‚¹‚Ä‚­‚ê‚È‚¢‚ñ‚¾‚º...?"
+ma_sei_nega_7 = "Why... not letting yˆêlÌz take it easy da ze...?"
 ma_sei_nega_8 = "Want to take it easy no ze..."
 ma_sei_nega_9 = "yˆêlÌz wants to take it easy no ze...?"
-ma_sei_nega_10 = "‚È‚ñ‚Åcc‚ä‚Á‚­‚è ‚³‚¹‚Ä‚­‚ê‚È‚¢‚ñ‚¾‚º...?"
+ma_sei_nega_10 = "Why... not letting yˆêlÌz take it easy da ze...?"
 
 
 ;•Ö”éƒ‚[ƒh
