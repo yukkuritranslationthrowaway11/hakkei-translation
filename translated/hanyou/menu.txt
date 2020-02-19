@@ -21,7 +21,7 @@ Load?
 Save hotkeys?
 Save autosave?
 Save?
-
+ 
 End
 Start?
 Next?
@@ -122,8 +122,8 @@ Throw away
 Freeze
 Set tag
 End tag
-Show numbers
-Show tags
+Showing numbers
+Showing tags
 Show badges: ON
 Show badges: OFF
 Kind words
@@ -147,15 +147,15 @@ Allow
 Command
 Life skills
 Academics
-May not say "happiness" at meals
-May not poo-poo upside down
-May not make little ones
-May not sing songs
-May say "happiness" at meals
-May make poo-poo upside down
-May make little ones
-May sing songs
-Bring poo-poo to toilet
+say "Happiness" at meals
+poo-poo upside down
+make little ones
+sing songs
+say "Happiness" at meals
+poo-poo upside down
+make little ones
+sing songs
+Poo-poo clean-up (to toilet)
 Poo-poo dance
 Hunt-hunt practice
 Arithmetic
