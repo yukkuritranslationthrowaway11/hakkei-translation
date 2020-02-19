@@ -222,7 +222,7 @@ Health:
 Intelligence:
 Affection:
 Scumminess:
-Pickiness (food):
+Pickiness:
 Hunger:
 Health:
 Reflexes:
