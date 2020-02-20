@@ -334,8 +334,8 @@ Discard
 Select
 Thaw
 Thaw selected
-Full yuk-
-kurarium
+Full yukk-
+urarium
 Discard
 Discard selected
 Money:
