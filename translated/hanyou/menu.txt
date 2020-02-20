@@ -328,18 +328,18 @@ Age at death
 Šú–Ú
 ‚à‚¤•‚©‚ç‚È‚¢
 Freezer full!
-”„‹p
-“¦‚ª‚·
+Sell
+Release
 Discard
 Select
 Thaw
 Thaw selected
-‚±‚êˆÈã
-“ü‚ç‚È‚¢
+Full yuk-
+kurarium
 Discard
 Discard selected
 Money:
-‚±‚Ìq‚Í”ƒæ‚ª‚Å‚«‚È‚¢‚Å‚·
+(can't sell this yukkuri here)
 Box
 Sell yukkuri
 Leave
