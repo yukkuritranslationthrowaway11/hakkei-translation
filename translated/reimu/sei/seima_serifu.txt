@@ -4783,7 +4783,7 @@ ma_sei_kari_miss_1_5 = "Mister caterpillar! Become munch-munch!"
 ma_sei_kari_miss_1_6 = "Don't take it easy and become munch-munch!"
 ma_sei_kari_miss_1_7 = "Become yˆêlÌz's munch-munch! Right now is fine!!"
 ma_sei_kari_miss_1_8 = "Mister caterpillar become munch-munch! Right now is fine!!"
-ma_sei_kari_miss_1_9 = "Become yˆêlÌz's munch munchhhhhhh!!"
+ma_sei_kari_miss_1_9 = "Become yˆêlÌz's munch-munchhhhhhh!!"
 ma_sei_kari_miss_1_10 = "Mister caterpillar don't run away!!"
 
 
