@@ -88,7 +88,7 @@ marisa_name_4_sei="Marisa"
 marisa_name_5_sei="Marisa"
 marisa_name_6_sei="Marisa"
 
-sakebi_marisa = "aaaaa！？"
+sakebi_marisa = "aaaaa!?"
 
 
 ;れいむ
@@ -106,7 +106,7 @@ reimu_name_4_sei="Reimu"
 reimu_name_5_sei="Reimu"
 reimu_name_6_sei="Reimu"
 
-sakebi_reimu = "uuuuu！？"
+sakebi_reimu = "uuuuu!?"
 
 
 ;つむり
@@ -124,7 +124,7 @@ tumuri_name_4_sei="Marisa"
 tumuri_name_5_sei="Marisa"
 tumuri_name_6_sei="Marisa"
 
-sakebi_tumuri = "aaaaa！？"
+sakebi_tumuri = "aaaaa!?"
 ;つむり
 tumuri_name_1_aka="Mawisha"
 tumuri_name_2_aka="Mawicha"
@@ -140,7 +140,7 @@ tumuri_name_4_sei="Marisa"
 tumuri_name_5_sei="Marisa"
 tumuri_name_6_sei="Marisa"
 
-sakebi_tumuri = "aaaaa！？"
+sakebi_tumuri = "aaaaa!?"
 
 
 ;ありす
@@ -158,7 +158,7 @@ arisu_name_4_sei="Alice"
 arisu_name_5_sei="Alice"
 arisu_name_6_sei="Alice"
 
-sakebi_arisu = "eeeeee！？"
+sakebi_arisu = "eeeeee!?"
 
 
 ;add
@@ -176,5 +176,5 @@ add_name_4_sei="maacha"
 add_name_5_sei="maacha"
 add_name_6_sei="maasha"
 
-sakebi_add = "aaaaaaa！？"
+sakebi_add = "aaaaaaa!?"
 
