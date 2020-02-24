@@ -229,17 +229,17 @@ Reflexes:
 Fear:
 Not married
 Spouse: not in yukkurarium
-Spouse:
+Spouse: 
 Orphan
 Thinks you're her parent
 Mother: not in yukkurarium
-Mother:
+Mother: 
 Father: not in yukkurarium
-Father:
+Father: 
 Child: not in yukkurarium
-Child:
+Child: 
 Sister: not in yukkurarium
-Sister:
+Sister: 
 Type:
 Anti-antiyukkuritis active
 Sitataran active
