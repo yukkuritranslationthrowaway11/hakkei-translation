@@ -10,16 +10,16 @@
 ;////////////////////////////////////////////////////////////
 ;挨拶
 ;///////////////////////////////////////////////////////////
-ma_sei_aisatu_pat1_1 = "ゆっくり していってね！"
-ma_sei_aisatu_pat1_2 = "ゆっくり していってね！"
-ma_sei_aisatu_pat1_3 = "ゆっくり していってね！"
-ma_sei_aisatu_pat1_4 = "ゆっくり していってね！"
-ma_sei_aisatu_pat1_5 = "ゆっくり していってね！"
-ma_sei_aisatu_pat1_6 = "ゆっくり していってね！"
-ma_sei_aisatu_pat1_7 = "ゆっくり していってね！"
-ma_sei_aisatu_pat1_8 = "ゆっくり していってね！"
-ma_sei_aisatu_pat1_9 = "ゆっくり していってね！"
-ma_sei_aisatu_pat1_10 = "ゆっくり していってね！"
+ma_sei_aisatu_pat1_1 = "Take it easy!"
+ma_sei_aisatu_pat1_2 = "Take it easy!"
+ma_sei_aisatu_pat1_3 = "Take it easy!"
+ma_sei_aisatu_pat1_4 = "Take it easy!"
+ma_sei_aisatu_pat1_5 = "Take it easy!"
+ma_sei_aisatu_pat1_6 = "Take it easy!"
+ma_sei_aisatu_pat1_7 = "Take it easy!"
+ma_sei_aisatu_pat1_8 = "Take it easy!"
+ma_sei_aisatu_pat1_9 = "Take it easy!"
+ma_sei_aisatu_pat1_10 = "Take it easy!"
 
 ma_sei_aisatu_new_year_1 = "あけまして おめでとう だだわん！"
 ma_sei_aisatu_new_year_2 = "あけまして おめでとう ございます だだわん！"
