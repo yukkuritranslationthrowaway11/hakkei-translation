@@ -2613,16 +2613,16 @@ ma_sei_doll_1st_10 = "y‚ê‚¢‚ŞlŒ`z is really easy!"
 ;///////////////////////////////////////////////////////////
 ;•m€
 ;///////////////////////////////////////////////////////////
-ma_sei_dead_before_1st_1 = "yˆêlÌzcc ‚µ‚É‚½‚­cc ‚È‚¢‚ñ‚¾‚æccI"
-ma_sei_dead_before_1st_2 = "‚ä‚Á‚­‚ècc ‚µ‚½‚¢‚ñ‚¾‚æcc"
-ma_sei_dead_before_1st_3 = "‚­‚é‚µ‚¢‚ñ‚¾‚æcc ‚Â‚ç‚¢‚Â‚ç‚¢ ‚È‚ñ‚¾‚æcc"
-ma_sei_dead_before_1st_4 = "yˆêlÌzcc ‚©‚¢‚ä‚Á‚­‚è‚¶‚á ‚È‚©‚Á‚½‚ñ‚¾‚æccH"
-ma_sei_dead_before_1st_5 = "‚ä‚Á‚­‚ècc‚Õ‚ê‚¢‚·cc yˆêlÌz‚Ì ‚µ‚ ‚í‚¹[cc"
-ma_sei_dead_before_1st_6 = "yˆêlÌzcc ‚µ‚É‚½‚­cc ‚È‚¢‚ñ‚¾‚æccI"
-ma_sei_dead_before_1st_7 = "‚ä‚Á‚­‚ècc ‚µ‚½‚¢‚ñ‚¾‚æcc"
-ma_sei_dead_before_1st_8 = "‚­‚é‚µ‚¢‚ñ‚¾‚æcc ‚Â‚ç‚¢‚Â‚ç‚¢ ‚È‚ñ‚¾‚æcc"
-ma_sei_dead_before_1st_9 = "yˆêlÌzcc ‚©‚¢‚ä‚Á‚­‚è‚¶‚á ‚È‚©‚Á‚½‚ñ‚¾‚æccH"
-ma_sei_dead_before_1st_10 = "yˆêlÌzcc ‚È‚ñ‚Ì‚½‚ß‚É ‚¤‚Ü‚ê‚Ä ‚«‚½‚ñ‚¾‚æccH"
+ma_sei_dead_before_1st_1 = "yˆêlÌz... doesn't... want to die...!"
+ma_sei_dead_before_1st_2 = "Want to... take it easy"
+ma_sei_dead_before_1st_3 = "Struggling painful..."
+ma_sei_dead_before_1st_4 = "yˆêlÌz... wasn't a pet yukkuri?"
+ma_sei_dead_before_1st_5 = "Easy... place... yˆêlÌz's happiness`..."
+ma_sei_dead_before_1st_6 = "yˆêlÌz... doesn't... want to die...!"
+ma_sei_dead_before_1st_7 = "Want to... take it easy"
+ma_sei_dead_before_1st_8 = "Struggling painful..."
+ma_sei_dead_before_1st_9 = "yˆêlÌz... wasn't a pet yukkuri?"
+ma_sei_dead_before_1st_10 = "Why was yˆêlÌz born?"
 
 
 
@@ -3702,12 +3702,12 @@ ma_sei_hako_escape_safe_1_10 = "yˆêlÌz‚Í ‚«‚å‚¤‚Ó‚É ‚Ó‚é‚¦‚é‚±‚Æ‚Í ‚È‚¢‚Á‚ñ‚
 ma_sei_hako_escape_out_1_1 = "Was saved...?"
 ma_sei_hako_escape_out_1_2 = "Mister morning came...?"
 ma_sei_hako_escape_out_1_3 = "Was scary...!"
-ma_sei_hako_escape_out_1_4 = "No more darkness nanoze...?"
+ma_sei_hako_escape_out_1_4 = "No more darkness...?"
 ma_sei_hako_escape_out_1_5 = "Yuguu... was scary...!"
 ma_sei_hako_escape_out_1_6 = "Was saved...?"
 ma_sei_hako_escape_out_1_7 = "Mister morning came...?"
 ma_sei_hako_escape_out_1_8 = "Was scary...!"
-ma_sei_hako_escape_out_1_9 = "No more darkness nanoze...?"
+ma_sei_hako_escape_out_1_9 = "No more darkness...?"
 ma_sei_hako_escape_out_1_10 = "Yuguu... was scary...!"
 
 
@@ -4354,15 +4354,15 @@ ma_sei_bougen_1_8 = "y”‚¢åz! What are you doing to yˆêlÌz!"
 ma_sei_bougen_1_9 = "y”‚¢åz! What are you doing!"
 ma_sei_bougen_1_10 = "y”‚¢åz! What are you doing to yˆêlÌz!"
 
-ma_sei_gaman_1_1 = "y”‚¢åz‚Ì ‚¢‚¤‚±‚Æ‚Í ‚«‚©‚È‚¢‚Æ ‚¢‚¯‚È‚¢‚ñ‚¾‚æcc"
+ma_sei_gaman_1_1 = "Not listening to what y”‚¢åz says is wrong..."
 ma_sei_gaman_1_2 = "‚ª‚Ü‚ñ‚Á ‚µ‚È‚¢‚Æ ‚¢‚¯‚È‚¢‚ñ‚¾‚æcc"
 ma_sei_gaman_1_3 = "‚¨‚µ‚Á‚¨‚«‚Í ‚µ‚å‚¤‚ª‚È‚¢‚ñ‚¾‚æcc"
-ma_sei_gaman_1_4 = "y”‚¢åz‚Ì ‚¢‚¤‚±‚Æ‚Í ‚º‚Á‚½‚¢‚Á ‚È‚ñ‚¾‚æcc"
+ma_sei_gaman_1_4 = "What y”‚¢åz says is right..."
 ma_sei_gaman_1_5 = "‚¿‚á‚ñ‚Æ ‚¢‚¢‚±‚É ‚µ‚Ä‚È‚¢‚Æ ‚¢‚¯‚È‚¢‚ñ‚¾‚æcc"
-ma_sei_gaman_1_6 = "y”‚¢åz‚Ì ‚¢‚¤‚±‚Æ‚Í ‚«‚©‚È‚¢‚Æ ‚¢‚¯‚È‚¢‚ñ‚¾‚æcc"
+ma_sei_gaman_1_6 = "Not listening to what y”‚¢åz says is wrong..."
 ma_sei_gaman_1_7 = "‚ª‚Ü‚ñ‚Á ‚µ‚È‚¢‚Æ ‚¢‚¯‚È‚¢‚ñ‚¾‚æcc"
 ma_sei_gaman_1_8 = "‚¨‚µ‚Á‚¨‚«‚Í ‚µ‚å‚¤‚ª‚È‚¢‚ñ‚¾‚æcc"
-ma_sei_gaman_1_9 = "y”‚¢åz‚Ì ‚¢‚¤‚±‚Æ‚Í ‚º‚Á‚½‚¢‚Á ‚È‚ñ‚¾‚æcc"
+ma_sei_gaman_1_9 = "What y”‚¢åz says is right..."
 ma_sei_gaman_1_10 = "‚¿‚á‚ñ‚Æ ‚¢‚¢‚±‚É ‚µ‚Ä‚È‚¢‚Æ ‚¢‚¯‚È‚¢‚ñ‚¾‚æcc"
 
 
