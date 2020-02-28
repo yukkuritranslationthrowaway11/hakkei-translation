@@ -79,9 +79,9 @@ Not taking it easy?
 Not taking it easy?
 Not taking it easy?
 Screenshot
-Clean waste
-Put away
-Bathe
+Waste
+Items
+Yukkuri
 Hands
 Tools
 Accessory
@@ -104,7 +104,7 @@ Pins
 Ruler slap
 Hammer
 Hand drill
-drill (heated)
+Drill (heated)
 Punishment seat
 Hang gently
 Hang by hook
@@ -229,17 +229,17 @@ Reflexes:
 Fear:
 Not married
 Spouse: not in yukkurarium
-Spouse:   
+Spouse: 
 Orphan
 Thinks you're her parent
 Mother: not in yukkurarium
-Mother:   
+Mother:  
 Father: not in yukkurarium
-Father:   
+Father:  
 Child: not in yukkurarium
-Child:   
+Child:    
 Sister: not in yukkurarium
-Sister:   
+Sister:       
 Type:
 Anti-antiyukkuritis active
 Sitataran active
@@ -286,7 +286,7 @@ Show
 Hide
 Current setting
 Yukkuri food
-Sweet-sweet
+Sweets
 Special
 Not good
 Food settings
