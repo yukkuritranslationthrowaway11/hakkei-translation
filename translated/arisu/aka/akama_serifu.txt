@@ -14,16 +14,16 @@
 ;////////////////////////////////////////////////////////////
 ;挨拶
 ;///////////////////////////////////////////////////////////
-ma_aka_aisatu_pat1_1 = "Chake id eajy!"
-ma_aka_aisatu_pat1_2 = "Chake id eajy!"
-ma_aka_aisatu_pat1_3 = "Chake id eajy!"
-ma_aka_aisatu_pat1_4 = "Chake id eajy!"
-ma_aka_aisatu_pat1_5 = "Chake id eajy!"
-ma_aka_aisatu_pat1_6 = "Chake id eajy!"
-ma_aka_aisatu_pat1_7 = "Chake id eajy!"
-ma_aka_aisatu_pat1_8 = "Chake id eajy!"
-ma_aka_aisatu_pat1_9 = "Chake id eajy!"
-ma_aka_aisatu_pat1_10 = "Chake id eajy!"
+ma_aka_aisatu_pat1_1 = "ゆっくち しちぇいっちぇにぇ！"
+ma_aka_aisatu_pat1_2 = "ゆっくち しちぇいっちぇにぇ！"
+ma_aka_aisatu_pat1_3 = "ゆっくち しちぇいっちぇにぇ！"
+ma_aka_aisatu_pat1_4 = "ゆっくち しちぇいっちぇにぇ！"
+ma_aka_aisatu_pat1_5 = "ゆっくち しちぇいっちぇにぇ！"
+ma_aka_aisatu_pat1_6 = "ゆっくち しちぇいっちぇにぇ！"
+ma_aka_aisatu_pat1_7 = "ゆっくち しちぇいっちぇにぇ！"
+ma_aka_aisatu_pat1_8 = "ゆっくち しちぇいっちぇにぇ！"
+ma_aka_aisatu_pat1_9 = "ゆっくち しちぇいっちぇにぇ！"
+ma_aka_aisatu_pat1_10 = "ゆっくち しちぇいっちぇにぇ！"
 
 ma_aka_aisatu_new_year_1 = "あけまちて おめでちょう！"
 ma_aka_aisatu_new_year_2 = "あけまちて おめでちょう ごじゃいましゅ！"
