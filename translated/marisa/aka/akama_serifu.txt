@@ -1833,7 +1833,7 @@ ma_aka_okazari_get_1_10 = "【一人称】の おぼーちしゃん やっと みつかっちゃのじぇ
 ma_aka_okazari_fire_1 = "めらめらしゃんは ゆっくちできにゃぃぃぃぃ！"
 ma_aka_okazari_fire_2 = "やめちぇにぇ！めらめらしゃんは やめちぇにぇ！！"
 ma_aka_okazari_fire_3 = "いやぢゃぁぁぁぁぁ！？ゆっくちぃぃぃぃぃ！"
-ma_aka_okazari_fire_4 = "ゆっくち！ゆっくちぃィィ！！"
+ma_aka_okazari_fire_4 = "Eajy! Eajyyyy!!"
 ma_aka_okazari_fire_5 = "めらめらしゃん やめちぇぇぇぇ！"
 ma_aka_okazari_fire_6 = "ゆ゛あ゛ぁぁぁぁぁ！？"
 ma_aka_okazari_fire_7 = "おぼーちしゃん！ゆっくちぃぃぃ！"
@@ -3005,15 +3005,15 @@ ma_aka_ea_end_sorenari_10 = "Sho-sho～"
 
 ;まずい
 ma_aka_ea_end_namagomi_1 = "げりょまじゅっ！"
-ma_aka_ea_end_namagomi_2 = "ふちあわしぇー"
+ma_aka_ea_end_namagomi_2 = "Unhwappinesh～"
 ma_aka_ea_end_namagomi_3 = "げりょまじゅー"
-ma_aka_ea_end_namagomi_4 = "あみゃあみゃ たべちゃいじぇ……"
+ma_aka_ea_end_namagomi_4 = "Wanch choo ead shweed-shweeds no je..."
 ma_aka_ea_end_namagomi_5 = "まじゅいよっ！ふちあわしぇー"
 ma_aka_ea_end_namagomi_6 = "げりょまじゅっ"
-ma_aka_ea_end_namagomi_7 = "ふちあわしぇー"
+ma_aka_ea_end_namagomi_7 = "Unhwappinesh～"
 ma_aka_ea_end_namagomi_8 = "げりょまじゅー"
-ma_aka_ea_end_namagomi_9 = "あみゃあみゃ ほちいんだじぇ……"
-ma_aka_ea_end_namagomi_10 = "ふちあわしぇー"
+ma_aka_ea_end_namagomi_9 = "Wanch shweed-shweeds da je..."
+ma_aka_ea_end_namagomi_10 = "Unhwappinesh～"
 
 
 
@@ -4693,7 +4693,7 @@ ma_aka_kari_end_1_8 = "【一人称】 ij a geniush hunter nanoje!"
 ma_aka_kari_end_1_9 = "【一人称】 ij vewy shtwong da je!"
 ma_aka_kari_end_1_10 = "【一人称】 ij an eckshpert hunter nanoje!"
 
-ma_aka_kari_miss_1_1 = "Mishter caderpiwwer! 【一人称】 wanchs choo ead da je!"
+ma_aka_kari_miss_1_1 = "Mishter caderpiwwer! 【一人称】 wanch choo ead da je!"
 ma_aka_kari_miss_1_2 = "Don't chake id eajy and be eaden!"
 ma_aka_kari_miss_1_3 = "Bwe eaden by 【一人称】!"
 ma_aka_kari_miss_1_4 = "Mishter caderpiwwer! Don't chake id eajy and be eaden!"
