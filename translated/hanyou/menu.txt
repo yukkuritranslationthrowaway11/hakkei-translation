@@ -326,7 +326,7 @@ Age at death
 ‚Ë‚ñ‚Æ
 ‚±‚Ì‚«‚¹‚Â‚Æ
 Week
-Can't save now
+Can't save this yukkuri
 Freezer full!
 Sell
 Release
@@ -410,5 +410,5 @@ Back alley (unavailable)
 Abandoned construction site (unavailable)
 Luxury Yukkuri Shop
 Park corner
-Expedition discovery
+Expedition party
 Back
