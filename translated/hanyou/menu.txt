@@ -260,7 +260,7 @@ Affection increase bonus:
 Bonus: ON
 Bonus: OFF
 Consecutive HITs:
-ÉQÉXìxéwì±ï‚ê≥:
+Scum correction bonus:
 Game speed
 Background
 Set hotkeys
@@ -324,7 +324,7 @@ Thrice
 Cause of death:
 Age at death
 ÇÀÇÒÇ∆
-Ç±ÇÃÇ´ÇπÇ¬Ç∆
+season and
 Week
 Can't save this yukkuri
 Freezer full!
