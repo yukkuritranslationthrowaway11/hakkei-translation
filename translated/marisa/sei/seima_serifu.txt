@@ -3791,9 +3791,9 @@ ma_sei_kiri_anal_1_4 = "Don't do stab-stab to mister anyaru no zeeee!!"
 ma_sei_kiri_anal_1_5 = "yˆêlÌz's mister anyaruuuuu!!"
 ma_sei_kiri_anal_1_6 = "Mister anyaru! Hurtsssss!!"
 ma_sei_kiri_anal_1_7 = "Yugiiii! Mister anyaru! Hurtssss!"
-ma_sei_kiri_anal_1_8 = "yˆêlÌz's... yˆêlÌz's mister anyaru!!"
+ma_sei_kiri_anal_1_8 = "yˆêlÌz's... yˆêlÌz's mister anyaruu!!"
 ma_sei_kiri_anal_1_9 = "Mister anyaru! Myammyyy!!"
-ma_sei_kiri_anal_1_10 = "yˆêlÌz's... yˆêlÌz's mister anyaru!!"
+ma_sei_kiri_anal_1_10 = "yˆêlÌz's... yˆêlÌz's mister anyaruu!!"
 
 ;‹ƒ‚«:‰£‚ç‚ê
 ma_sei_naki_m_1_1 = "Yupi!"
