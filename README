@@ -5,18 +5,22 @@ The game developer's site: http://ennjiiro.seesaa.net/
 Buy the full game here: https://enjiiro.booth.pm/items/1727554
 Unofficial wiki for the game: https://wikiwiki.jp/yukkuri8kei/
 
-The 'translated' folder contains a set of directories containing the
-dialogues of the latest version.  To update the in-game dialogues,
+The 'translated' folders contain a set of directories containing the
+dialogues of their respective versions.  To update the in-game dialogues,
 copy those directories inside the game's 'text' folder.  After that,
 run the executable that is not the game (should be called
 'セリフ再読込用.exe'.  If you don't have a program with that name,
 just pick the executable that is not the actual game).
 After that step, the translations will be applied to the game.
 
-The 'original' folder is used to track changes between different
-versions.  When a new version is out, drop the content of the 'text'
-folder inside 'original' and let Git do its magic ('git add' the
-files, then use 'git diff' to check what was changed).
+The 'original' folder was used to track changes between different
+versions.  When a new version was out, one was to drop the content 
+of the 'text' folder inside 'original' and let Git do its magic 
+('git add' the files, then use 'git diff' to check what was changed). 
+However, the latest version as of now, 1.11, is also the paid version.
+Those who only have the demo version should still be able to play in
+a language they understand, so there are now two sets of folders: one
+for the latest version of the game and one for the demo version.
 
 The howto.txt file inside the translated 'event' folder, which can
 also be found as イベント改変について.txt in the original 'event'
