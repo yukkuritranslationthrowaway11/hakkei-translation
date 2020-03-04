@@ -54,7 +54,7 @@ New family
 Life's baton
 First-class sniper
 è„Ç∞ÇƒóéÇ∆ÇµÇΩ
-Absolute aim
+No escape
 Growing up
 Eternal love
 Cradle of life
@@ -97,7 +97,7 @@ Face up
 Flick
 Slap
 Punch
-Take stalk from jar
+Remove stalk from jar
 Hold accessory
 Hide accessory
 Pins
@@ -233,9 +233,9 @@ Spouse:
 Orphan
 Thinks you're her parent
 Mother: not in yukkurarium
-Mother:  
+Mother: 
 Father: not in yukkurarium
-Father:  
+Father: 
 Child: not in yukkurarium
 Child:    
 Sister: not in yukkurarium
@@ -377,7 +377,7 @@ Ramune for yus
 Spicy yu food contract
 Metal box
 Anti-antiyukkuritis
-Seat + Elastic of Punishment
+Seat of Punishment
 Treat mold
 Treat mister footsie
 Treat tongue paralysis

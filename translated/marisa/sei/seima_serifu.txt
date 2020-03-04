@@ -775,16 +775,16 @@ ma_sei_sougo_eat_4_10 = "Want to eat more no ze! Seconds nanoze!"
 ;////////////////////////////////////////////////////////////
 ;相互感想
 ;///////////////////////////////////////////////////////////
-ma_sei_sougo_good_pat1_1 = " can take it easy no ze!"
-ma_sei_sougo_good_pat1_2 = " can take it easy no ze!"
-ma_sei_sougo_good_pat1_3 = " can take it easy no ze!"
-ma_sei_sougo_good_pat1_4 = " can take it easy no ze!"
-ma_sei_sougo_good_pat1_5 = " can take it easy no ze!"
-ma_sei_sougo_good_pat1_6 = " can take it easy no ze!"
-ma_sei_sougo_good_pat1_7 = " can take it easy no ze!"
-ma_sei_sougo_good_pat1_8 = " can take it easy no ze!"
-ma_sei_sougo_good_pat1_9 = " can take it easy no ze!"
-ma_sei_sougo_good_pat1_10 = " can take it easy no ze!"
+ma_sei_sougo_good_pat1_1 = " is taking it easy no ze!"
+ma_sei_sougo_good_pat1_2 = " is taking it easy no ze!"
+ma_sei_sougo_good_pat1_3 = " is taking it easy no ze!"
+ma_sei_sougo_good_pat1_4 = " is taking it easy no ze!"
+ma_sei_sougo_good_pat1_5 = " is taking it easy no ze!"
+ma_sei_sougo_good_pat1_6 = " is taking it easy no ze!"
+ma_sei_sougo_good_pat1_7 = " is taking it easy no ze!"
+ma_sei_sougo_good_pat1_8 = " is taking it easy no ze!"
+ma_sei_sougo_good_pat1_9 = " is taking it easy no ze!"
+ma_sei_sougo_good_pat1_10 = " is taking it easy no ze!"
 
 ;////////////////////////////////////////////////////////////
 ;ダメージ
