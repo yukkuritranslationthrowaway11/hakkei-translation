@@ -1961,14 +1961,14 @@ ma_sei_okazari_give_1_10 = "【一人称】の おかざりさん！"
 ;頭髪関係
 ma_sei_hair_cut_1_1 = "【一人称】の さらさら へあーさん がぁぁぁ！"
 ma_sei_hair_cut_1_2 = "【一人称】の さらさら つやつや へあーさん がぁぁぁ！"
-ma_sei_hair_cut_1_3 = "【一人称】の とかいは へあーさん がぁぁぁ！"
+ma_sei_hair_cut_1_3 = "【一人称】's city-sect mister hairrrr!"
 ma_sei_hair_cut_1_4 = "【一人称】の さらさら へあーさん がぁぁぁ！"
 ma_sei_hair_cut_1_5 = "【一人称】の さらさら つやつや へあーさん がぁぁぁ！"
 ma_sei_hair_cut_1_6 = "【一人称】の つやつや へあーさん がぁぁぁ！"
-ma_sei_hair_cut_1_7 = "【一人称】の とかいは へあーさん がぁぁぁ！"
+ma_sei_hair_cut_1_7 = "【一人称】's city-sect mister hairrrr!"
 ma_sei_hair_cut_1_8 = "【一人称】の きぬっ のような つややかっ へあーさん がぁぁぁ！"
 ma_sei_hair_cut_1_9 = "【一人称】の つやつや へあーさん がぁぁぁ！"
-ma_sei_hair_cut_1_10 = "【一人称】の さいっせんたん とかいは へあーさん がぁぁぁ！"
+ma_sei_hair_cut_1_10 = "【一人称】's fashionable city-sect mister hairrrr!"
 
 
 ;///////////////////////////////////////////////////////////
