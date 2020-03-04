@@ -1,15 +1,15 @@
-お賽銭を入れる
-帰る
-10円
-50円
-100円
-500円
-1000円
-2000円
-5000円
-10000円
-100000円
-1000000円
+Leave an offering
+Leave
+10 yen
+50 yen
+100 yen
+500 yen
+1000 yen
+2000 yen
+5000 yen
+10000 yen
+100000 yen
+1000000 yen
 やっぱり止める
 　女神様にお菓子をあげる
 　　　お賽銭を入れる
@@ -17,16 +17,16 @@
 どのこに パワー をあたえるの？
 このこにする？
 分
-むーしゃ
-むーしゃ むーしゃ
-むーしゃ むーしゃ……
-しあわせー！
-ポイント回復！
-現在MP:
+Munch
+Munch-munch
+Munch-munch...
+Happiness～!
+Points restored!
+Current MP:
 むぅ……やめちゃだめー！
-おさいせんは ゆっくりしてるよぉ！
-　ゆっくりの寿命を伸ばす
-　非ゆっくり症を治療
+Offerings are easy!
+　Lengthen a yu's lifespan
+　Cure antiyukkuritis
 
 現在MP
 消費MP
@@ -46,6 +46,6 @@
 変動後恐怖レベル
 決定
 戻る
-MP不足
+Not enough MP
 生存期日
 寿命

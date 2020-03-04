@@ -1,7 +1,7 @@
-あなたの性別を選んでください。
-ある日、あなたは友人から１匹のゆっくりをプレゼントされました。
-学生時代にゆっくりの研究を行っていましたが、最近はゆっくりに関わる機会がありませんでした。
-久しぶりのゆっくりの飼育に、緊張と期待が入り混じりますが、これから楽しい生活になる予感がします。
-友人から譲り受けたのは
-まりさ種
-れいむ種
+Please select your gender:
+One day, you received a yukkuri as a present from a friend.
+As a student, you researched yukkuri, but nowadays you don't interact much with them.
+It's been a long time since you cared for a yukkuri, but despite being nervous you hope to have fun.
+The yukkuri you received from your friend is:
+Marisa
+Reimu
