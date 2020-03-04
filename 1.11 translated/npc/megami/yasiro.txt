@@ -1,30 +1,30 @@
-‚¨æÎ‘K‚ğ“ü‚ê‚é
-‹A‚é
-1‰~
-5‰~
-10‰~
-50‰~
-100‰~
-500‰~
-1000‰~
-2000‰~
-5000‰~
-10000‰~
-‚â‚Á‚Ï‚è~‚ß‚é
-¢ŠE‚ª•½˜a‚É‚È‚è‚Ü‚·‚æ‚¤‚É
-‚ä‚Á‚­‚è‚ª‰h‚¦‚Ü‚·‚æ‚¤‚É
-‚ä‚Á‚­‚è‚ª–Å‚Ñ‚Ü‚·‚æ‚¤‚É
-”‚¢‚ä‚ªÌ‚Ä‚ç‚ê‚Ü‚¹‚ñ‚æ‚¤‚É
-”‚¢‚ä‚ªÌ‚Ä‚ç‚ê‚Ü‚·‚æ‚¤‚É
-‚ä‚Á‚­‚è‚ªl‚ğˆ¤‚µ‚Ü‚·‚æ‚¤‚É
-‚ä‚Á‚­‚è‚ªl‚ğŒ™‚¢‚Ü‚·‚æ‚¤‚É
-‚ä‚Á‚­‚è‚ªŒ«‚­‚È‚è‚Ü‚·‚æ‚¤‚É
-‚ä‚Á‚­‚è‚ª‹ğ“İ‚É‚È‚è‚Ü‚·‚æ‚¤‚É
-‚ä‚Á‚­‚è‚ªœˆ¤‚ÌS‚ğ‚¿‚Ü‚·‚æ‚¤‚É
-‚ä‚Á‚­‚è‚ª©ˆ¤‚ÌS‚ğ‚¿‚Ü‚·‚æ‚¤‚É
-‚ä‚Á‚­‚è‚ªæÒ‘ò‚É‚È‚è‚Ü‚·‚æ‚¤‚É
-‚ä‚Á‚­‚è‚ª‘eH‚Å–‘«‚µ‚Ü‚·‚æ‚¤‚É
-‚ä‚Á‚­‚è‚ª‘å’_•s“G‚É‚È‚è‚Ü‚·‚æ‚¤‚É
-‚ä‚Á‚­‚è‚ªl‚ğ‹°‚ê‚Ü‚·‚æ‚¤‚É
-Šè‚¢‚ªŠ‚¤‹C‚ª‚·‚éccI
-Šè‚¢‚ÍŠ‚í‚È‚¢‚©‚à‚µ‚ê‚È‚¢cc
+Leave an offering
+Return
+1 yen
+5 yen
+10 yen
+50 yen
+100 yen
+500 yen
+1000 yen
+2000 yen
+5000 yen
+10000 yen
+Let's not
+Wish for the world to be at peace
+Wish for yukkuri to flourish
+Wish for yukkuri to meet their demise
+Wish for yukkuri to not be thrown away
+Wish for yukkuri to be thrown away
+Wish for yukkuri to like humans
+Wish for yukkuri to hate humans
+Wish for smart yukkuri
+Wish for dumb yukkuri
+Wish for kindhearted yukkuri
+Wish for selfish yukkuri
+Wish for yukkuri to want luxury
+Wish for yukkuri to be content with little
+Wish for yukkuri to be fearless
+Wish for yukkuri to fear humans
+Your wish might come true...!
+Your wish will probably not come true...
