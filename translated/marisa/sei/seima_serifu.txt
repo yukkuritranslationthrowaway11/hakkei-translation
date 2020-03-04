@@ -1815,15 +1815,15 @@ ma_sei_decimation_7th_catch_1_10 = "It was inevitable no ze!!"
 
 
 ma_sei_decimation_8th_catch_1_1 = "Don't say anything and go with what yˆêlÌz says no ze!!"
-ma_sei_decimation_8th_catch_1_2 = "The  great yˆêlÌz is unopposed no ze!!"
+ma_sei_decimation_8th_catch_1_2 = "The great yˆêlÌz is unopposed no ze!!"
 ma_sei_decimation_8th_catch_1_3 = "Listen to what your husband says nanoze!!"
 ma_sei_decimation_8th_catch_1_4 = "Don't say anything and go with what yˆêlÌz says no ze!!"
-ma_sei_decimation_8th_catch_1_5 = "The  great yˆêlÌz is unopposed no ze!!"
+ma_sei_decimation_8th_catch_1_5 = "The great yˆêlÌz is unopposed no ze!!"
 ma_sei_decimation_8th_catch_1_6 = "Listen to what your husband says nanoze!!"
 ma_sei_decimation_8th_catch_1_7 = "Don't say anything and go with what yˆêlÌz says no ze!!"
-ma_sei_decimation_8th_catch_1_8 = "The  great yˆêlÌz is unopposed no ze!!"
+ma_sei_decimation_8th_catch_1_8 = "The great yˆêlÌz is unopposed no ze!!"
 ma_sei_decimation_8th_catch_1_9 = "Listen to what your husband says nanoze!!"
-ma_sei_decimation_8th_catch_1_10 = "The  great yˆêlÌz is unopposed no ze!!"
+ma_sei_decimation_8th_catch_1_10 = "The great yˆêlÌz is unopposed no ze!!"
 
 
 
