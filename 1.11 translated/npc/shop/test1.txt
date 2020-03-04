@@ -1,10 +1,10 @@
 //来場時
-こちらはバッジ試験所です。現在、銅、銀、金の３種の試験を行っております。
-こちらはバッジ試験所です。現在、銅、銀、金の３種の試験を行っております。
-こちらはバッジ試験所です。現在、銅、銀、金の３種の試験を行っております。
-こちらはバッジ試験所です。現在、銅、銀、金の３種の試験を行っております。
-こちらはバッジ試験所です。現在、銅、銀、金の３種の試験を行っております。
-こちらはバッジ試験所です。現在、銅、銀、金の３種の試験を行っております。
+This is a badge testing site. We currently offer three tests: bronze, silver, and gold.
+This is a badge testing site. We currently offer three tests: bronze, silver, and gold.
+This is a badge testing site. We currently offer three tests: bronze, silver, and gold.
+This is a badge testing site. We currently offer three tests: bronze, silver, and gold.
+This is a badge testing site. We currently offer three tests: bronze, silver, and gold.
+This is a badge testing site. We currently offer three tests: bronze, silver, and gold.
 
 
 
@@ -28,19 +28,19 @@
 
 
 //選択肢
-検定料は
-円になります。\n不合格時も返金等ございませんので、ご注意ください。
+The testing fee is 
+yen. \nThere are no refunds even if the yukkuri fails the test, so please be careful.
 
-銅バッジ試験をお受けになりますか？
-銀バッジ試験をお受けになりますか？
-金バッジ試験をお受けになりますか？
+Do you want to take the bronze badge test?
+Do you want to take the silver badge test?
+Do you want to take the gold badge test?
 
 
 
 //試験
-試験するゆっくりをお選びください
-性格テストで不合格です。
-知能テストで不合格です。
-性格テスト、知能テスト共に不合格です。
-既に同等以上のバッジ試験合格ずみです。
+Please select the yukkuri to be tested.
+The personality portion of the test was failed.
+The intelligence portion of the test was failed.
+Both the personality and intelligence portions of the test were failed.
+This yukkuri has a badge of higher rank.
 既に今期の試験を行っています。

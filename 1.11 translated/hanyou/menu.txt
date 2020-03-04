@@ -21,7 +21,7 @@ Load?
 Save hotkeys?
 Save autosave?
 Save?
-No.
+ 
 End
 Start?
 Next?
@@ -165,7 +165,7 @@ Reading (with food)
 Furniture
 Toys
 Houses
-Flooring
+Yukkurarium
 Abyuse
 Medicine
 Toilet
@@ -415,13 +415,13 @@ Back
 Yu stats
 Sell gold-badged yu
 ƒf[ƒg‚É—U‚¤
-…‘…‚ğ—h‚ç‚·
+Shake yukkurarium
 “Xˆõ‚ğ”ƒ‚¤
 ”éŒ
 ‹¨‚ğs‚¤
 ‰i‹v‚Ì•Ê‚ê
 Merciful heart
-_ĞÄŒš
+Shrine rebuilding
 Date with Missô
 ãµ’pS‚Í–³‚¢‚Ì
 All complete
@@ -430,5 +430,5 @@ All complete
 Merciless
 ’†•éQ’¼Œ‚
 Date with Missô
-‹‰Ø‚É–„‘’
+Luxury burial
 

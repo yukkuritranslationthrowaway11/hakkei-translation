@@ -1,0 +1,1 @@
+A newline is represented by \n.
