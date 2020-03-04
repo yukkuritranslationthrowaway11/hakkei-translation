@@ -289,7 +289,7 @@ Yukkuri food
 Sweets
 Special
 Not good
-Food settings
+Settings
 Luxury yukkuri food
 Spicy yukkuri food
 Cheap yukkuri food
