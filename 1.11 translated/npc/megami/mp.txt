@@ -14,8 +14,8 @@ Leave
 　女神様にお菓子をあげる
 　　　お賽銭を入れる
 ゆっくりのステータスを変更する
-どのこに パワー をあたえるの？
-このこにする？
+どのこに パワー をあたえるの?
+このこにする?
 分
 Munch
 Munch-munch
@@ -23,7 +23,7 @@ Munch-munch...
 Happiness～!
 Points restored!
 Current MP:
-むぅ……やめちゃだめー！
+むぅ...やめちゃだめー!
 Offerings are easy!
 　Lengthen a yu's lifespan
 　Cure antiyukkuritis
