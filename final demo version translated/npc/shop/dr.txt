@@ -1,10 +1,10 @@
 //来場時
-What is it for today〜?
-What is it for today〜?
-What is it for today〜?
-What is it for today〜?
-What is it for today〜?
-What is it for today〜?
+What can I do for you today〜?
+What can I do for you today〜?
+What can I do for you today〜?
+What can I do for you today〜?
+What can I do for you today〜?
+What can I do for you today〜?
 
 
 
@@ -28,10 +28,11 @@ What is it for today〜?
 
 
 //選択肢
-A cure for mold, is it〜?\nThat would be 10000 yen〜
-A cure for mister footsies〜?\nThe cost is 10000 yen〜
-Hair problems〜?\nThe total is 5000 yen〜
-A treatment for the tongue, is it〜?\nThe total is 10000 yen〜
+A cure for mold〜?\nThe medical bill is 10000 yen〜
+A treatment for mister footsie〜?\nThe medical bill is 10000 yen〜
+A hair transplant〜?\nThe cost is 5000 yen〜
+A cure for tongue paralysis〜?\nThe medical bill is 10000 yen〜
+Castration〜?\nThe cost is 2000 yen〜
 
 
 
@@ -47,9 +48,9 @@ A treatment for the tongue, is it〜?\nThe total is 10000 yen〜
 
 
 //治療中
-You don't have enough money〜
-Please pick the yukkuri needing treatment〜
-Is it this yukkuri〜?
+Not enough money〜
+Please select the yukkuri to be treated〜
+Is this the yukkuri〜?
 This yukkuri doesn't have mold〜
-The mister footsies of this yukkuri are healthy〜
-This yukkuri isn't a baldy〜
+This yukkuri's mister footsie is healthy〜
+This yukkuri isn't bald〜

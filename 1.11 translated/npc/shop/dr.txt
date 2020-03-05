@@ -1,10 +1,10 @@
 //—ˆê
-–{“ú‚Í‚È‚ñ‚Ì‚²—p‚Å‚·‚©`H
-–{“ú‚Í‚È‚ñ‚Ì‚²—p‚Å‚·‚©`H
-–{“ú‚Í‚È‚ñ‚Ì‚²—p‚Å‚·‚©`H
-–{“ú‚Í‚È‚ñ‚Ì‚²—p‚Å‚·‚©`H
-–{“ú‚Í‚È‚ñ‚Ì‚²—p‚Å‚·‚©`H
-–{“ú‚Í‚È‚ñ‚Ì‚²—p‚Å‚·‚©`H
+What can I do for you today`?
+What can I do for you today`?
+What can I do for you today`?
+What can I do for you today`?
+What can I do for you today`?
+What can I do for you today`?
 
 
 
@@ -28,11 +28,11 @@
 
 
 //‘I‘ğˆ
-‚ä‚©‚Ñ‚Ì¡—Ã‚Å‚·‚©`H\n¡—Ã”ï‚Í10000‰~‚É‚È‚è‚Ü‚·`
-‚ ‚ñ‚æ‚³‚ñ‚Ì¡—Ã‚Å‚·‚©`H\n¡—Ã”ï‚Í10000‰~‚É‚È‚è‚Ü‚·`
-A–Ñ‚Å‚·‚©`H\n‚¨’l’i‚Í5000‰~‚É‚È‚è‚Ü‚·`
-ã‚Ì–ƒáƒ‚Ì¡—Ã‚Å‚·‚©`H\n¡—Ã”ï‚Í10000‰~‚É‚È‚è‚Ü‚·`
-‹¨‚Å‚·‚©`H\n”ï—p‚Í2000‰~‚É‚È‚è‚Ü‚·`
+A cure for mold`?\nThe medical bill is 10000 yen`
+A treatment for mister footsie`?\nThe medical bill is 10000 yen`
+A hair transplant`?\nThe cost is 5000 yen`
+A cure for tongue paralysis`?\nThe medical bill is 10000 yen`
+Castration`?\nThe cost is 2000 yen`
 
 
 
@@ -47,11 +47,11 @@
 
 
 //¡—Ã’†
-‚¨‹à‚ª‘«‚è‚Ü‚¹‚ñ‚æ`
-¡‚µ‚Ä—~‚µ‚¢‚ä‚Á‚­‚è‚ğ‘I‚ñ‚Å‚­‚¾‚³‚¢‚Ë`
-‚±‚Ì‚ä‚Á‚­‚è‚Å‚·‚©`H
-‚±‚Ì‚ä‚Á‚­‚è‚Í‚ä‚©‚Ñ‚É‚©‚©‚Á‚Ä‚È‚¢‚Å‚·‚Ë`
-‚±‚Ì‚ä‚Á‚­‚è‚Ì‚ ‚ñ‚æ‚³‚ñ‚ÍŒ’N‚Å‚·‚æ`
-‚±‚Ì‚ä‚Á‚­‚è‚Í‚Â‚é‚Ò‚©‚¶‚á‚È‚¢‚Å‚·‚æ`
-‚±‚Ì‚ä‚Á‚­‚è‚Ì‚×‚ë‚ÍŒ’N‚Å‚·‚æ`
-‚±‚Ì‚ä‚Á‚­‚è‚Ì‚Ø‚É‚Ø‚É‚Í‚à‚¤‚È‚¢‚Å‚·‚æ`
+Not enough money`
+Please select the yukkuri to be treated`
+Is this the yukkuri`?
+This yukkuri doesn't have mold`
+This yukkuri's mister footsie is healthy`
+This yukkuri isn't bald`
+This yukkuri's tongue is healthy`
+This yukkuri no longer has a peni-peni`
