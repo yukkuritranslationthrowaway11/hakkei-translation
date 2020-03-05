@@ -12,38 +12,38 @@
 1
 0
 0
-にんげんさん！
-にんげんさん！
-にんげんさん！
-にんげんさん！
-にんげんさん！
+【飼い主】!
+【飼い主】!
+【飼い主】!
+【飼い主】!
+【飼い主】!
 //////
 80
 1
 0
 1
-あまあまな おみずさんを よこすのぜ！
-あまあまな おみずさんを よこすのぜ！
-あまあまな おみずさんを よこすのぜ！
-あまあまな おみずさんを よこすのぜ！
-あまあまな おみずさんを よこすのぜ！
+Fork over a mister sweet-sweet drink no ze!
+Fork over a mister sweet-sweet drink no ze!
+Fork over a mister sweet-sweet drink no ze!
+Fork over a mister sweet-sweet drink no ze!
+Fork over a mister sweet-sweet drink no ze!
 //////
 60
 1
 55
 1
-すぐで いいよ！
-すぐで いいよ！
-すぐで いいよ！
-すぐで いいよ！
-すぐで いいよ！
+Right now is fine!
+Right now is fine!
+Right now is fine!
+Right now is fine!
+Right now is fine!
 //////
 -8
 3
 0
-ジュースをあげる
+Give juice
 5
-コーヒーをあげる
+Give coffee
 6
-無視する
+Ignore
 2

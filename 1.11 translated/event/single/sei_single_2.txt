@@ -12,38 +12,38 @@
 1
 12
 0
-【一人称】は しんぐるまざー なのよ！ かわいそうなのよ！
-【一人称】は しんぐるまざー なのよ！ かわいそうなのよ！
-【一人称】は しんぐるまざー なのよ！ かわいそうなのよ！
-【一人称】は しんぐるまざー なのよ！ かわいそうなのよ！
-【一人称】は しんぐるまざー なのよ！ かわいそうなのよ！
+【一人称】 is a single mother nanoze! Pitiful nanoze!
+【一人称】 is a single mother nanoze! Pitiful nanoze!
+【一人称】 is a single mother nanoze! Pitiful nanoze!
+【一人称】 is a single mother nanoze! Pitiful nanoze!
+【一人称】 is a single mother nanoze! Pitiful nanoze!
 //////
 60
 1
 12
 0
-だから あまあま よこすのよ！
-だから あまあま よこすのよ！
-だから あまあま よこすのよ！
-だから あまあま よこすのよ！
-だから あまあま よこすのよ！
+So fork over the sweet-sweets no ze!
+So fork over the sweet-sweets no ze!
+So fork over the sweet-sweets no ze!
+So fork over the sweet-sweets no ze!
+So fork over the sweet-sweets no ze!
 //////
 60
 1
 55
 1
-すぐで いいわ！
-すぐで いいわ！
-すぐで いいわ！
-すぐで いいわ！
-すぐで いいわ！
+Right now is fine!
+Right now is fine!
+Right now is fine!
+Right now is fine!
+Right now is fine!
 //////
 -8
 3
 0
-お菓子をあげる
+Give candy
 1
-無視する
+Ignore
 2
-処分する
+Dispose
 sei_kick
