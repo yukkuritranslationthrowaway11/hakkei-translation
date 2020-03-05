@@ -1,10 +1,10 @@
 //—ˆê
-This is a badge testing site. We currently offer three tests: bronze, silver, and gold.
-This is a badge testing site. We currently offer three tests: bronze, silver, and gold.
-This is a badge testing site. We currently offer three tests: bronze, silver, and gold.
-This is a badge testing site. We currently offer three tests: bronze, silver, and gold.
-This is a badge testing site. We currently offer three tests: bronze, silver, and gold.
-This is a badge testing site. We currently offer three tests: bronze, silver, and gold.
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
 
 
 
@@ -43,4 +43,4 @@ The personality portion of the test was failed.
 The intelligence portion of the test was failed.
 Both the personality and intelligence portions of the test were failed.
 This yukkuri has a badge of higher rank.
-Šù‚É¡Šú‚ÌŒ±‚ğs‚Á‚Ä‚¢‚Ü‚·B
+This yukkuri has already been tested this week.

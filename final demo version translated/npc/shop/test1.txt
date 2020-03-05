@@ -1,10 +1,10 @@
 //来場時
-This is the examination hall. We perform examinations for bronze,\nsilver and gold badges.
-This is the examination hall. We perform examinations for bronze,\nsilver and gold badges.
-This is the examination hall. We perform examinations for bronze,\nsilver and gold badges.
-This is the examination hall. We perform examinations for bronze,\nsilver and gold badges.
-This is the examination hall. We perform examinations for bronze,\nsilver and gold badges.
-This is the examination hall. We perform examinations for bronze,\nsilver and gold badges.
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
 
 
 
@@ -29,18 +29,18 @@ This is the examination hall. We perform examinations for bronze,\nsilver and go
 
 //選択肢
 The examination fee is
- yen.\nThere are no refunds in case of failure, so be careful.
+ yen.\nThere are no refunds even if the yukkuri fails the test, so please be careful.
 
-Take the bronze badge exam?
-Take the silver badge exam?
-Take the gold badge exam?
+Do you want to take the bronze badge test?
+Do you want to take the silver badge test?
+Do you want to take the gold badge test?
 
 
 
 //試験
-Pick the yukkuri to be tested.
-The behaviour test was a failure.
-The intelligence test was a failure.
-Both the behaviour and intelligence test were a failure.
-This yukkuri already has a badge of higher rank.
-This yukkuri has already been tested for this.
+Please select the yukkuri to be tested.
+The personality portion of the test was failed.
+The intelligence portion of the test was failed.
+Both the personality and intelligence portions of the test were failed.
+This yukkuri has a badge of higher rank.
+This yukkuri has already been tested this week.
