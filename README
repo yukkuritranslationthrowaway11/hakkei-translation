@@ -22,9 +22,8 @@ Those who only have the demo version should still be able to play in
 a language they understand, so there are now two sets of folders: one
 for the latest version of the game and one for the demo version.
 
-The howto.txt file inside the translated 'event' folder, which can
+The eventmodification.txt file inside the translated 'event' folder, which can
 also be found as イベント改変について.txt in the original 'event'
-folder, may not actually be a how-to guide, but perhaps a guide on
-what to edit if you want to mess around with debug settings.
+folder appears to be a guide on what to edit if you want to mess around with debug settings and events.
 
 The add.txt file left outside of any of the translated copies can be found in the game directory/pict/add1/add.txt. Since add.txt is not included in the game directory/text folder, it is not in the 'translated' folders either, since their contents are meant to be copy/pasted into the game directory/text folder. However, the add.txt file may be useful to modders, so it is still included in the git.
