@@ -99,7 +99,7 @@ ma_aka_hanyou_escape_1_6 = "Yuuu…… Wunning away……！"
 ma_aka_hanyou_escape_1_7 = "Shlowly…… Shlowly……"
 ma_aka_hanyou_escape_1_8 = "Fwull shpeed…… Marsh……！"
 ma_aka_hanyou_escape_1_9 = "Shlow…… Shlow……"
-ma_aka_hanyou_escape_1_10 = "Yuchi…… Yuchi……！"
+ma_aka_hanyou_escape_1_10 = "Eaj-! Eajyy!"
 
 ma_aka_hanyou_serch_1_1 = "Gwoing now no je！"
 ma_aka_hanyou_serch_1_2 = "Getting weady pwomptly no je！"
