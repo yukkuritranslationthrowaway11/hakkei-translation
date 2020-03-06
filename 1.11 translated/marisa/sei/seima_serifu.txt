@@ -2343,9 +2343,9 @@ ma_sei_pool_melt_1st_10 = "Why does mister footsie itch no ze?"
 
 
 ma_sei_pool_melt_2nd_1 = "Mister paste!? Don't come outtttt!?"
-ma_sei_pool_melt_2nd_2 = "Yuaaaaa!? Meltinggggg!?"
+ma_sei_pool_melt_2nd_2 = "Yuaaaaa!? Dissolvinggggg!?"
 ma_sei_pool_melt_2nd_3 = "yˆêlÌz's... yˆêlÌz mister paste!?"
-ma_sei_pool_melt_2nd_4 = "yˆêlÌz's mister paste is meltinggggg!?"
+ma_sei_pool_melt_2nd_4 = "yˆêlÌz's mister paste is dissolvinggggg!?"
 ma_sei_pool_melt_2nd_5 = "Yuyaaaaa!? Mister paste!? Mister pasteeeeee!?"
 ma_sei_pool_melt_2nd_6 = "yˆêlÌz's easy mister pasteeeee!?"
 ma_sei_pool_melt_2nd_7 = "Why is mister paste coming outtttt!?"
