@@ -812,7 +812,7 @@ ma_sei_kousoku_1_hanyou_6 = "yˆêlÌz is trapped no ze! Help da ze!!"
 ma_sei_kousoku_1_hanyou_7 = "Help yˆêlÌz right now"
 ma_sei_kousoku_1_hanyou_8 = "Trapped no zeeee!?"
 ma_sei_kousoku_1_hanyou_9 = "yˆêlÌz... can't move no ze..."
-ma_sei_kousoku_1_hanyou_10 = "Release yˆêlÌz da zeeeee"
+ma_sei_kousoku_1_hanyou_10 = "Let go da zeeeee"
 
 ;////////////////////////////////////////////////////////////
 ;‡–°
@@ -5252,16 +5252,16 @@ ma_sei_deth_child_9 = "yˆêlÌz's little onesssss!?"
 ma_sei_deth_child_10 = "Little ones took it easy forever no zeeeee!!"
 
 
-ma_sei_serch_child_stop_1 = "yˆêlÌz‚ğ ‚Í‚È‚·‚Ì‚º‚¥‚¥‚¥II"
-ma_sei_serch_child_stop_2 = "‚Í‚È‚·‚Ì‚º‚¥‚¥‚¥II"
-ma_sei_serch_child_stop_3 = "yˆêlÌz‚ğ ‚¢‚©‚¹‚é‚Ì‚º‚¥‚¥‚¥II"
-ma_sei_serch_child_stop_4 = "‚¢‚©‚¹‚é‚Ì‚º‚¥‚¥‚¥II"
-ma_sei_serch_child_stop_5 = "yˆêlÌz‚ğ ‚Í‚È‚·‚Ì‚º‚¥‚¥‚¥II"
-ma_sei_serch_child_stop_6 = "‚½‚·‚¯‚É ‚¢‚©‚¹‚é‚Ì‚º‚¥‚¥‚¥II"
-ma_sei_serch_child_stop_7 = "yˆêlÌz‚ğ ‚¢‚©‚¹‚é‚Ì‚º‚¥‚¥‚¥II"
-ma_sei_serch_child_stop_8 = "‚¢‚©‚¹‚é‚Ì‚º‚¥‚¥‚¥II"
-ma_sei_serch_child_stop_9 = "yˆêlÌz‚ğ ‚Í‚È‚·‚Ì‚º‚¥‚¥‚¥II"
-ma_sei_serch_child_stop_10 = "‚½‚·‚¯‚É ‚¢‚©‚¹‚é‚Ì‚º‚¥‚¥‚¥II"
+ma_sei_serch_child_stop_1 = "Let yˆêlÌz go no zeeee!!"
+ma_sei_serch_child_stop_2 = "Let go no zeeee!!"
+ma_sei_serch_child_stop_3 = "Let yˆêlÌz go no zeeee!!"
+ma_sei_serch_child_stop_4 = "Let go no zeeee!!"
+ma_sei_serch_child_stop_5 = "Let yˆêlÌz go no zeeee!!"
+ma_sei_serch_child_stop_6 = "Let yˆêlÌz go save little ones no zeeee!!"
+ma_sei_serch_child_stop_7 = "Let yˆêlÌz go no zeeee!!"
+ma_sei_serch_child_stop_8 = "Let go no zeeee!!"
+ma_sei_serch_child_stop_9 = "Let yˆêlÌz go no zeeee!!"
+ma_sei_serch_child_stop_10 = "Let yˆêlÌz go save little ones no zeeee!!"
 
 
 ma_sei_serch_child_serch_1 = "Little oneeee! ‚¢‚Ü‚·‚® ‚¢‚­‚Ì‚º‚¥‚¥‚¥I"
