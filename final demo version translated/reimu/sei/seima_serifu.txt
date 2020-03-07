@@ -4142,14 +4142,14 @@ ma_sei_peni_cut_1_9 = "Peni-peni...yˆêlÌz's peni-peniii!"
 ma_sei_peni_cut_1_10 = "yˆêlÌz's peni-penii!"
 
 
-ma_sei_peni_cut_end_1 = "Wh... why would you do thattttt!!"
-ma_sei_peni_cut_end_2 = "yˆêlÌz‚Ì ‚¿‚¥‚è[‚³‚ñ‚Á"
+ma_sei_peni_cut_end_1 = "Wh-...why would you do thattttt!!"
+ma_sei_peni_cut_end_2 = "yˆêlÌz's mister virginity"
 ma_sei_peni_cut_end_3 = "yˆêlÌz can't... make babies anymoreeeeee!!"
 ma_sei_peni_cut_end_4 = "yˆêlÌz can't refreshhhhh!"
 ma_sei_peni_cut_end_5 = "yˆêlÌz can't... become a daddy anymore..."
 ma_sei_peni_cut_end_6 = "No... why would you do thattttt!!"
-ma_sei_peni_cut_end_7 = "yˆêlÌz‚Ì ‚¿‚¥‚è[‚³‚ñ‚Á"
-ma_sei_peni_cut_end_8 = "‚¿‚¥‚è[‚³‚ñ‚ÁccIyˆêlÌz‚Ì ‚·‚Ä‚«‚È ‚¿‚¥‚è[‚³‚ñ‚Á"
+ma_sei_peni_cut_end_7 = "yˆêlÌz's mister virginity"
+ma_sei_peni_cut_end_8 = "Mister virginity...! yˆêlÌz's precious mister virginity"
 ma_sei_peni_cut_end_9 = "yˆêlÌz can't refreshhhhh!"
 ma_sei_peni_cut_end_10 = "yˆêlÌz can't... become a daddy anymore..."
 

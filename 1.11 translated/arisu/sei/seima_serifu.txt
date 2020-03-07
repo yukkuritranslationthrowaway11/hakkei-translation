@@ -4162,15 +4162,15 @@ ma_sei_peni_cut_1_10 = "とっ……ときゃぁぁぁぁ！？"
 
 
 ma_sei_peni_cut_end_1 = "Wh-...why would you do thattttt!!"
-ma_sei_peni_cut_end_2 = "【一人称】の ちぇりーさんっ"
-ma_sei_peni_cut_end_3 = "【一人称】っ もう…… あかちゃん できなぁぁぁぁぁ！！"
-ma_sei_peni_cut_end_4 = "【一人称】っ すっきりーっ できなぁぁぁぁ！"
-ma_sei_peni_cut_end_5 = "【一人称】っ もう…… おどーざんに なれないっ……"
+ma_sei_peni_cut_end_2 = "【一人称】's mister virginity"
+ma_sei_peni_cut_end_3 = "【一人称】 can't... make babies anymoreeeeee!!"
+ma_sei_peni_cut_end_4 = "【一人称】 can't refreshhhhh!"
+ma_sei_peni_cut_end_5 = "【一人称】 can't... become a daddy anymore..."
 ma_sei_peni_cut_end_6 = "No... why would you do thattttt!!"
-ma_sei_peni_cut_end_7 = "【一人称】の ちぇりーさんっ"
-ma_sei_peni_cut_end_8 = "ちぇりーさんっ……！【一人称】の すてきな ちぇりーさんっ"
-ma_sei_peni_cut_end_9 = "【一人称】っ すっきりーっ できなぁぁぁぁ！"
-ma_sei_peni_cut_end_10 = "【一人称】っ もう…… おどーざんに なれないっ……"
+ma_sei_peni_cut_end_7 = "【一人称】's mister virginity"
+ma_sei_peni_cut_end_8 = "Mister virginity...! 【一人称】's precious mister virginity"
+ma_sei_peni_cut_end_9 = "【一人称】 can't refreshhhhh!"
+ma_sei_peni_cut_end_10 = "【一人称】 can't... become a daddy anymore..."
 
 
 
