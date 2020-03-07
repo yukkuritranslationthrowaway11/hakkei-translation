@@ -216,7 +216,7 @@ ma_sei_ikari_musi_10 = "‚Ç‚Ú‚¿‚Ä ‚Ş‚µ ‚·‚é‚Ì‚§‚§‚§‚§IH"
 ma_sei_ikari_musi_gesu_1 = "yˆêlÌz‚Ì‚±‚Æ ‚Ş‚µ ‚·‚é‚È‚Ÿ‚Ÿ‚ŸI"
 ma_sei_ikari_musi_gesu_2 = "yˆêlÌz‚ğ ‚Ş‚µ ‚·‚é ‚°‚·‚Í ‚¹‚¢‚Á‚³‚¢‚Á ‚¾‚íI"
 ma_sei_ikari_musi_gesu_3 = "yˆêlÌz‚ğ ‚Ş‚µ ‚·‚é ‚°‚·‚Í ‚¹‚¢‚Á‚³‚¢‚Á ‚¾‚íI"
-ma_sei_ikari_musi_gesu_4 = "yˆêlÌz‚Ì‚±‚Æ ‚Ş‚µ ‚·‚é‚È‚ñ‚Ä ‚¢‚È‚©‚à‚Ì ‚¾‚í‚Ÿ‚Ÿ‚ŸI"
+ma_sei_ikari_musi_gesu_4 = "Country bumpkin is ignoring yˆêlÌzeee!"
 ma_sei_ikari_musi_gesu_5 = "yˆêlÌz ‚¨‚±‚Á‚Ä‚é‚í‚æII"
 ma_sei_ikari_musi_gesu_6 = "yˆêlÌz ‚¨‚±‚Á‚Ä‚é‚í‚æII"
 ma_sei_ikari_musi_gesu_7 = "‚Ş‚µ ‚·‚é‚È‚ŸI ‚ä‚Á‚­‚è ‚³‚¹‚é‚Ì‚æ‚§‚§‚§II"
@@ -3188,7 +3188,7 @@ ma_sei_ea_s_kyozetu_500_hi_gesu_6 = "‚Æ‚©‚¢‚Í‚Á ‚È yˆêlÌz‚Ì ‚¤‚ñ‚¤‚ñ ‚ ‚°‚é‚
 ma_sei_ea_s_kyozetu_500_hi_gesu_7 = "‚±‚ñ‚È‚Ì yˆêlÌz‚Ì ‚Æ‚¢‚ê‚³‚ñ‚É‚µ‚© ‚È‚ç‚È‚¢‚íI"
 ma_sei_ea_s_kyozetu_500_hi_gesu_8 = "‚ ‚Ü‚ ‚Ü ‚à‚Á‚Ä‚±‚¢‚Á‚Ä ‚¢‚Á‚Ä‚é‚ÌH ‚è‚©‚¢‚Å‚«‚éH"
 ma_sei_ea_s_kyozetu_500_hi_gesu_9 = "‚­‚»‚Ç‚ê‚¢‚Í ‚ ‚Ü‚ ‚Ü ‚à‚Á‚Ä ‚­‚é‚Ì‚æII"
-ma_sei_ea_s_kyozetu_500_hi_gesu_10 = "‚¢‚È‚©‚à‚Ì‚È‚ÌH‚µ‚Ê‚ÌHyˆêlÌz‚Í ‚ ‚Ü‚ ‚Ü ‚à‚Á‚Ä‚±‚¢‚Á‚Ä ‚¢‚Á‚½‚íI"
+ma_sei_ea_s_kyozetu_500_hi_gesu_10 = "Are you a hick? Wanna die? yˆêlÌz‚Í ‚ ‚Ü‚ ‚Ü ‚à‚Á‚Ä‚±‚¢‚Á‚Ä ‚¢‚Á‚½‚íI"
 
 
 ;///‚È‚Ü‚²‚İ///
@@ -3993,7 +3993,7 @@ ma_sei_souji_6 = "yˆêlÌz‚Í ‚²‚İ‚¶‚á ‚È‚¢‚íI"
 ma_sei_souji_7 = "yˆêlÌz‚Í yˆêlÌz‚¾‚íI"
 ma_sei_souji_8 = "yˆêlÌz is city-sect!"
 ma_sei_souji_9 = "yˆêlÌz‚Í ‚²‚İ‚È‚ñ‚©‚¶‚á ‚È‚¢‚íI"
-ma_sei_souji_10 = "yˆêlÌz‚Í ‚¢‚È‚©‚à‚Ì‚¶‚á ‚È‚¢‚íI"
+ma_sei_souji_10 = "yˆêlÌz is not a hick!"
 
 
 ;===================================================
