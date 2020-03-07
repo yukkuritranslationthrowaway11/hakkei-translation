@@ -6631,16 +6631,16 @@ ma_sei_audience_pat4_9 = "【一人称】の あいどる ひとゆじめ しちゃ だめなんだよ！
 ma_sei_audience_pat4_10 = "【飼い主】は すーぱー あいどるの すとーかーさん なんだよ！？"
 
 
-ma_sei_rain_pat1_1 = "あめさん ゆっくり やんでほしいんだよ……"
-ma_sei_rain_pat1_2 = "おひさまさん さぼっちゃ やーなんだよ……"
-ma_sei_rain_pat1_3 = "あめさん こわいんだよ……"
-ma_sei_rain_pat1_4 = "あめさん いじわる なんだよ……"
-ma_sei_rain_pat1_5 = "あめさん つめたいんだよ……"
-ma_sei_rain_pat1_6 = "あめさん ゆっくり やんでほしいんだよ……"
-ma_sei_rain_pat1_7 = "おひさまさん さぼっちゃ やーなんだよ……"
-ma_sei_rain_pat1_8 = "あめさん こわいんだよ……"
-ma_sei_rain_pat1_9 = "あめさん いじわる なんだよ……"
-ma_sei_rain_pat1_10 = "あめさん つめたいんだよ……"
+ma_sei_rain_pat1_1 = "Want mister rain to stop easy..."
+ma_sei_rain_pat1_2 = "Great mister sun is slacking off..."
+ma_sei_rain_pat1_3 = "Mister rain is scary..."
+ma_sei_rain_pat1_4 = "Mister rain is mean..."
+ma_sei_rain_pat1_5 = "Mister rain is cold..."
+ma_sei_rain_pat1_6 = "Want mister rain to stop easy..."
+ma_sei_rain_pat1_7 = "Great mister sun is slacking off..."
+ma_sei_rain_pat1_8 = "Mister rain is scary..."
+ma_sei_rain_pat1_9 = "Mister rain is mean..."
+ma_sei_rain_pat1_10 = "Mister rain is cold..."
 
 
 ma_sei_river_pat1_1 = "【一人称】は おおうなばらっ に だびだつんだよ！"
