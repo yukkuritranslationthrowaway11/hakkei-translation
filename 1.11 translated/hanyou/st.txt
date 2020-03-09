@@ -3,7 +3,7 @@ Can't even remember the toilet
 Somehow remembers the toilet
 Likely to die if unsupervised
 May meet minimum for pet yus
-Counts the single digits perfectly
+Counts single digits perfectly
 Unlikely to die if unsupervised
 Probably not an embarrassing pet
 Might pass the gold badge test
@@ -42,7 +42,7 @@ Starving
 Hungry
 Getting hungry
 Not particularly hungry
-Full stomach
+Full
 
 Fear
 Completely unafraid of humans
@@ -112,4 +112,3 @@ Shell Marisa
 Reimu
 Wasa Reimu
 Alice
-add
