@@ -133,7 +133,7 @@ ma_sei_hanyou_fan_1_6 = "Yuwaaaaa♪"
 ma_sei_hanyou_fan_1_7 = "Yuuuuun♪"
 ma_sei_hanyou_fan_1_8 = "Yukyakya♪"
 ma_sei_hanyou_fan_1_9 = "Easyyyy♪"
-ma_sei_hanyou_fan_1_10 = "Taking it easyyyy♪"
+ma_sei_hanyou_fan_1_10 = "Very city-sectttt♪"
 
 ;////////////////////////////////////////////////////////////
 ;スキンシップ
