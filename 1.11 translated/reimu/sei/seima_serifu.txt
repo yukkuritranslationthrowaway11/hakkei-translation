@@ -110,15 +110,15 @@ ma_sei_hanyou_serch_1_10= "Coming quickly!"
 ;‚¨—ç
 ;///////////////////////////////////////////////////////////
 ma_sei_hanyou_thank_1_1 = "Thank you y”‚¢åz!"
-ma_sei_hanyou_thank_1_2 = "y”‚¢åz helped!"
+ma_sei_hanyou_thank_1_2 = "y”‚¢åz really helped!"
 ma_sei_hanyou_thank_1_3 = "Thank you y”‚¢åz!"
 ma_sei_hanyou_thank_1_4 = "y”‚¢åz's assistance was helpful!"
 ma_sei_hanyou_thank_1_5 = "Thank you y”‚¢åz!"
-ma_sei_hanyou_thank_1_6 = "y”‚¢åz helped!"
+ma_sei_hanyou_thank_1_6 = "y”‚¢åz really helped!"
 ma_sei_hanyou_thank_1_7 = "Thank you y”‚¢åz!"
 ma_sei_hanyou_thank_1_8 = "y”‚¢åz's assistance was helpful!"
 ma_sei_hanyou_thank_1_9 = "Thank you y”‚¢åz!"
-ma_sei_hanyou_thank_1_10 = "y”‚¢åz helped!"
+ma_sei_hanyou_thank_1_10 = "y”‚¢åz really helped!"
 
 
 ;////////////////////////////////////////////////////////////
@@ -561,16 +561,16 @@ ma_sei_self_training_mate_8 = "‚Ğ‚Æ‚ä‚Å ‚½‚×‚¿‚á ‚¾‚ß‚È‚ñ‚¾‚æI"
 ma_sei_self_training_mate_9 = "‚Ğ‚Æ‚ä‚¶‚ß‚·‚é‚Ì‚Í ‚°‚· ‚È‚ñ‚¾‚æIH"
 ma_sei_self_training_mate_10 = "‚Ğ‚Æ‚ä‚¶‚ß‚Í@‚ä‚Á‚­‚¿ ‚µ‚Ä‚È‚¢‚ñ‚¾‚æIH"
 
-ma_sei_self_training_unun_taisou_1 = "Starting poo-poo dance!"
-ma_sei_self_training_unun_taisou_2 = "Watching poo-poo dance!"
-ma_sei_self_training_unun_taisou_3 = "Starting poo-poo dance!"
-ma_sei_self_training_unun_taisou_4 = "Watching poo-poo dance!"
-ma_sei_self_training_unun_taisou_5 = "Starting poo-poo dance!"
-ma_sei_self_training_unun_taisou_6 = "Watching poo-poo dance!"
-ma_sei_self_training_unun_taisou_7 = "Starting poo-poo dance!"
-ma_sei_self_training_unun_taisou_8 = "Watching poo-poo dance!"
-ma_sei_self_training_unun_taisou_9 = "Starting poo-poo dance!"
-ma_sei_self_training_unun_taisou_10 = "Watching poo-poo dance!"
+ma_sei_self_training_unun_taisou_1 = "Start poo-poo dance!"
+ma_sei_self_training_unun_taisou_2 = "Do poo-poo dance!"
+ma_sei_self_training_unun_taisou_3 = "Start poo-poo dance!"
+ma_sei_self_training_unun_taisou_4 = "Do poo-poo dance!"
+ma_sei_self_training_unun_taisou_5 = "Start poo-poo dance!"
+ma_sei_self_training_unun_taisou_6 = "Do poo-poo dance!"
+ma_sei_self_training_unun_taisou_7 = "Start poo-poo dance!"
+ma_sei_self_training_unun_taisou_8 = "Do poo-poo dance!"
+ma_sei_self_training_unun_taisou_9 = "Start poo-poo dance!"
+ma_sei_self_training_unun_taisou_10 = "Do poo-poo dance!"
 
 ;////////////////////////////////////////////////////////////
 ;‘ŠŒİ‚¨—ç

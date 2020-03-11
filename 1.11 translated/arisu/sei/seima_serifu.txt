@@ -110,15 +110,15 @@ ma_sei_hanyou_serch_1_10= "Coming quickly!"
 ;‚¨—ç
 ;///////////////////////////////////////////////////////////
 ma_sei_hanyou_thank_1_1 = "Thank you y”‚¢åz!"
-ma_sei_hanyou_thank_1_2 = "y”‚¢åz helped!"
+ma_sei_hanyou_thank_1_2 = "y”‚¢åz really helped!"
 ma_sei_hanyou_thank_1_3 = "Thank you y”‚¢åz!"
 ma_sei_hanyou_thank_1_4 = "y”‚¢åz's assistance was helpful!"
 ma_sei_hanyou_thank_1_5 = "Thank you y”‚¢åz!"
-ma_sei_hanyou_thank_1_6 = "y”‚¢åz helped!"
+ma_sei_hanyou_thank_1_6 = "y”‚¢åz really helped!"
 ma_sei_hanyou_thank_1_7 = "Thank you y”‚¢åz!"
 ma_sei_hanyou_thank_1_8 = "y”‚¢åz's assistance was helpful!"
 ma_sei_hanyou_thank_1_9 = "Thank you y”‚¢åz!"
-ma_sei_hanyou_thank_1_10 = "y”‚¢åz helped!"
+ma_sei_hanyou_thank_1_10 = "y”‚¢åz really helped!"
 
 
 ;////////////////////////////////////////////////////////////
@@ -210,7 +210,7 @@ ma_sei_ikari_musi_5 = "yˆêlÌz is unhappyyyy!!"
 ma_sei_ikari_musi_6 = "yˆêlÌz is unhappyyyy!!"
 ma_sei_ikari_musi_7 = "Don't ignore! Can't take it easy!!"
 ma_sei_ikari_musi_8 = "Ignoring what yˆêlÌz is saying isn't goodddd!"
-ma_sei_ikari_musi_9 = "Ignoring is uneasyyyy!!"
+ma_sei_ikari_musi_9 = "Ignoring is not city-sectttt!!"
 ma_sei_ikari_musi_10 = "Wry are you ignoringgggg!?"
 
 ma_sei_ikari_musi_gesu_1 = "Don't ignore yˆêlÌzeee!"
@@ -232,7 +232,7 @@ ma_sei_gaman_musi_5 = "yˆêlÌz is sad..."
 ma_sei_gaman_musi_6 = "yˆêlÌz is sad...?"
 ma_sei_gaman_musi_7 = "Don't ignore? Can't take it easy..."
 ma_sei_gaman_musi_8 = "Ignoring what yˆêlÌz is saying isn't good...?"
-ma_sei_gaman_musi_9 = "Ignoring is country bumpkin-like..."
+ma_sei_gaman_musi_9 = "Ignoring is not city-sect..."
 ma_sei_gaman_musi_10 = "Wry are you ignoring...?"
 
 
@@ -561,16 +561,16 @@ ma_sei_self_training_mate_8 = "‚Ğ‚Æ‚ä‚Å ‚½‚×‚¿‚á ‚¾‚ß‚È‚ñ‚¾‚íI"
 ma_sei_self_training_mate_9 = "‚Ğ‚Æ‚ä‚¶‚ß‚·‚é‚Ì‚Í ‚¢‚È‚©‚à‚Ì ‚È‚Ì‚æIH"
 ma_sei_self_training_mate_10 = "‚Ğ‚Æ‚ä‚¶‚ß‚Í@‚ä‚Á‚­‚¿ ‚µ‚Ä‚È‚¢‚íIH"
 
-ma_sei_self_training_unun_taisou_1 = "Starting poo-poo dance!"
-ma_sei_self_training_unun_taisou_2 = "Watching poo-poo dance!"
-ma_sei_self_training_unun_taisou_3 = "Starting poo-poo dance!"
-ma_sei_self_training_unun_taisou_4 = "Watching poo-poo dance!"
-ma_sei_self_training_unun_taisou_5 = "Starting poo-poo dance!"
-ma_sei_self_training_unun_taisou_6 = "Watching poo-poo dance!"
-ma_sei_self_training_unun_taisou_7 = "Starting poo-poo dance!"
-ma_sei_self_training_unun_taisou_8 = "Watching poo-poo dance!"
-ma_sei_self_training_unun_taisou_9 = "Starting poo-poo dance!"
-ma_sei_self_training_unun_taisou_10 = "Watching poo-poo dance!"
+ma_sei_self_training_unun_taisou_1 = "Start poo-poo dance!"
+ma_sei_self_training_unun_taisou_2 = "Do poo-poo dance!"
+ma_sei_self_training_unun_taisou_3 = "Start poo-poo dance!"
+ma_sei_self_training_unun_taisou_4 = "Do poo-poo dance!"
+ma_sei_self_training_unun_taisou_5 = "Start poo-poo dance!"
+ma_sei_self_training_unun_taisou_6 = "Do poo-poo dance!"
+ma_sei_self_training_unun_taisou_7 = "Start poo-poo dance!"
+ma_sei_self_training_unun_taisou_8 = "Do poo-poo dance!"
+ma_sei_self_training_unun_taisou_9 = "Start poo-poo dance!"
+ma_sei_self_training_unun_taisou_10 = "Do poo-poo dance!"
 
 ;////////////////////////////////////////////////////////////
 ;‘ŠŒİ‚¨—ç

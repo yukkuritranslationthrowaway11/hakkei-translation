@@ -111,15 +111,15 @@ ma_sei_hanyou_serch_1_10= "Coming quickly no ze!"
 ;‚¨—ç
 ;///////////////////////////////////////////////////////////
 ma_sei_hanyou_thank_1_1 = "Thank you y”‚¢åz nanoze!"
-ma_sei_hanyou_thank_1_2 = "y”‚¢åz helped no ze!"
+ma_sei_hanyou_thank_1_2 = "y”‚¢åz really helped no ze!"
 ma_sei_hanyou_thank_1_3 = "Thank you y”‚¢åz nanoze!"
 ma_sei_hanyou_thank_1_4 = "y”‚¢åz's assistance was helpful no ze!"
 ma_sei_hanyou_thank_1_5 = "Thank you y”‚¢åz nanoze!"
-ma_sei_hanyou_thank_1_6 = "y”‚¢åz helped no ze!"
+ma_sei_hanyou_thank_1_6 = "y”‚¢åz really helped no ze!"
 ma_sei_hanyou_thank_1_7 = "Thank you y”‚¢åz nanoze!"
 ma_sei_hanyou_thank_1_8 = "y”‚¢åz's assistance was helpful no ze!"
 ma_sei_hanyou_thank_1_9 = "Thank you y”‚¢åz nanoze!"
-ma_sei_hanyou_thank_1_10 = "y”‚¢åz helped no ze!"
+ma_sei_hanyou_thank_1_10 = "y”‚¢åz really helped no ze!"
 
 
 ;////////////////////////////////////////////////////////////
@@ -562,16 +562,16 @@ ma_sei_self_training_mate_8 = "Eating alone is no good no ze!"
 ma_sei_self_training_mate_9 = "‚Ğ‚Æ‚ä‚¶‚ß‚·‚é‚Ì‚Í ‚°‚· ‚È‚Ì‚ºIH"
 ma_sei_self_training_mate_10 = "‚Ğ‚Æ‚ä‚¶‚ß‚Í@‚ä‚Á‚­‚¿ ‚µ‚Ä‚È‚¢‚Ì‚ºIH"
 
-ma_sei_self_training_unun_taisou_1 = "Starting poo-poo dance no ze!"
-ma_sei_self_training_unun_taisou_2 = "Watching poo-poo dance no ze!"
-ma_sei_self_training_unun_taisou_3 = "Starting poo-poo dance no ze!"
-ma_sei_self_training_unun_taisou_4 = "Watching poo-poo dance no ze!"
-ma_sei_self_training_unun_taisou_5 = "Starting poo-poo dance no ze!"
-ma_sei_self_training_unun_taisou_6 = "Watching poo-poo dance no ze!"
-ma_sei_self_training_unun_taisou_7 = "Starting poo-poo dance no ze!"
-ma_sei_self_training_unun_taisou_8 = "Watching poo-poo dance no ze!"
-ma_sei_self_training_unun_taisou_9 = "Starting poo-poo dance no ze!"
-ma_sei_self_training_unun_taisou_10 = "Watching poo-poo dance no ze!"
+ma_sei_self_training_unun_taisou_1 = "Start poo-poo dance no ze!"
+ma_sei_self_training_unun_taisou_2 = "Do poo-poo dance no ze!"
+ma_sei_self_training_unun_taisou_3 = "Start poo-poo dance no ze!"
+ma_sei_self_training_unun_taisou_4 = "Do poo-poo dance no ze!"
+ma_sei_self_training_unun_taisou_5 = "Start poo-poo dance no ze!"
+ma_sei_self_training_unun_taisou_6 = "Do poo-poo dance no ze!"
+ma_sei_self_training_unun_taisou_7 = "Start poo-poo dance no ze!"
+ma_sei_self_training_unun_taisou_8 = "Do poo-poo dance no ze!"
+ma_sei_self_training_unun_taisou_9 = "Start poo-poo dance no ze!"
+ma_sei_self_training_unun_taisou_10 = "Do poo-poo dance no ze!"
 
 ;////////////////////////////////////////////////////////////
 ;‘ŠŒİ‚¨—ç
