@@ -5305,6 +5305,7 @@ ma_aka_sougo_surisuri_other_stert1_8 = "! Dwo wub-wub wich ÅyàÍêlèÃÅz!"
 ma_aka_sougo_surisuri_other_stert1_9 = "! Dwo wub-wub wid ÅyàÍêlèÃÅz!"
 ma_aka_sougo_surisuri_other_stert1_10 = "! Dwo wub-wub wich ÅyàÍêlèÃÅz!"
 
+
 ma_aka_sougono_okazari1_1 = "Yu? Who ish thish?"
 ma_aka_sougono_okazari1_2 = "Don'd know thish stwange yukkuwi?"
 ma_aka_sougono_okazari1_3 = "Yu? Who ij thish?"
@@ -6736,7 +6737,6 @@ ma_aka_expedition_7_8 = "Leajer!?"
 ma_aka_expedition_7_9 = "Leajer!?"
 ma_aka_expedition_7_10 = "Leajer!?"
 
-
 ma_aka_expedition_8_1 = "Leajer..."
 ma_aka_expedition_8_2 = "Leajer..."
 ma_aka_expedition_8_3 = "Leajer..."
@@ -6759,6 +6759,7 @@ ma_aka_remi_1_7="Wemiwia!? Nwoooooo!"
 ma_aka_remi_1_8="Wemiwia!? Nwoooooo!"
 ma_aka_remi_1_9="Wemiwia!? Nwoooooo!"
 ma_aka_remi_1_10="Wemiwia!? Nwoooooo!"
+
 
 ma_aka_remi_2_1="Remiwia dwon't come hewe!!"
 ma_aka_remi_2_2="Remiwia gwo away!!"
