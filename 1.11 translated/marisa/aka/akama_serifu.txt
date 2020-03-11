@@ -5218,7 +5218,6 @@ ma_aka_sougo_yukkuri_8 = " can chake id eajy no je?"
 ma_aka_sougo_yukkuri_9 = " can chake id eajy no je?"
 ma_aka_sougo_yukkuri_10 = " can chake id eajy no je?"
 
-
 ma_aka_sougo_self_yukkuri_1 = "yˆêlÌz chakes id eajy no je!"
 ma_aka_sougo_self_yukkuri_2 = "yˆêlÌz chakes id eajy no je!"
 ma_aka_sougo_self_yukkuri_3 = "yˆêlÌz ij an eajy yukkuwi nanoje!"
@@ -5308,7 +5307,6 @@ ma_aka_sougo_surisuri_other_stert1_7 = "! Wand you choo wub-wub wich yˆêlÌz 
 ma_aka_sougo_surisuri_other_stert1_8 = "! Dwo wub-wub wich yˆêlÌz!"
 ma_aka_sougo_surisuri_other_stert1_9 = "! Dwo wub-wub wid yˆêlÌz no je!"
 ma_aka_sougo_surisuri_other_stert1_10 = "! Dwo wub-wub wich yˆêlÌz no je!"
-
 
 ma_aka_sougono_okazari1_1 = "Yu? Who ij thish no je?"
 ma_aka_sougono_okazari1_2 = "Don'd know thish stwange yukkuwi no je?"
@@ -6741,7 +6739,6 @@ ma_aka_expedition_8_7 = "Leajer..."
 ma_aka_expedition_8_8 = "Leajer..."
 ma_aka_expedition_8_9 = "Leajer..."
 ma_aka_expedition_8_10 = "Leajer..."
-
 
 ma_aka_remi_1_1="Wemiwia!? Nwoooooo!"
 ma_aka_remi_1_2="Wemiwia!? Nwoooooo!"
