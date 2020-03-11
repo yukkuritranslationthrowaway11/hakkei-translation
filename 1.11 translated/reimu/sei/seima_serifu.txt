@@ -6581,7 +6581,7 @@ ma_sei_wish_last1_9 = "‚ğ ‚æ‚ë‚µ‚­ ‚¨‚Ë‚ª‚¢ ‚·‚é‚ñ‚¾‚æccII"
 ma_sei_wish_last1_10 = "cc yˆêlÌz‚Ì ‚Ô‚ñ‚à ‚ä‚Á‚­‚è ‚·‚é‚ñ‚¾‚æccI"
 
 
-ma_sei_idol_pat1_1 = "Watch super idol yˆêlÌz's Grand Dance!"
+ma_sei_idol_pat1_1 = "Watch super idol yˆêlÌz's grand dance!"
 ma_sei_idol_pat1_2 = "Super idol yˆêlÌz's entrance!"
 ma_sei_idol_pat1_3 = "yˆêlÌz's fans are getting more and more lively!!"
 ma_sei_idol_pat1_4 = "yˆêlÌz's cuteness is intoxicating!"
