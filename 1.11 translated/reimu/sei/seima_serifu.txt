@@ -2243,11 +2243,11 @@ ma_sei_surisuri_miage1_1_10 = "Let's do rub-rub!"
 ;///////////////////////////////////////////////////////////
 
 
-ma_sei_b_boll_dlible_1 = "Easyyô Easyyô"
+ma_sei_b_boll_dlible_1 = "Easyyô easyyô"
 ma_sei_b_boll_dlible_2 = "Playing with mister ball is fun!"
-ma_sei_b_boll_dlible_3 = "Easyyô Easyyô"
-ma_sei_b_boll_dlible_4 = "Easyyô Easyyô"
-ma_sei_b_boll_dlible_5 = "Easyyô Easyyô"
+ma_sei_b_boll_dlible_3 = "Easyyô easyyô"
+ma_sei_b_boll_dlible_4 = "Easyyô easyyô"
+ma_sei_b_boll_dlible_5 = "Easyyô easyyô"
 ma_sei_b_boll_dlible_6 = "Ro-ll ro-llô"
 ma_sei_b_boll_dlible_7 = "Ro-ll ro-llô"
 ma_sei_b_boll_dlible_8 = "Playing with mister ball is fun!"
