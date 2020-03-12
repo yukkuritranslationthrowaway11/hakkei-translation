@@ -1,6 +1,6 @@
 //来店時
 \nThat's 
- yen, you want to buy it?
+ yen, ya wanna buy it?
 //アイテム説明・フード
 A spicy yukkuri food delivery subscription.\n口に含むまで辛いと気づかれないように加工してあるぞ。\n定期訪問し、使った分だけ代金を徴収する仕組みだ。
 
