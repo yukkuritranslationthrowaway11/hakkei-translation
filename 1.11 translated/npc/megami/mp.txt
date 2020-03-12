@@ -13,7 +13,7 @@ Leave
 やっぱり止める
 　女神様にお菓子をあげる
 　　　お賽銭を入れる
-ゆっくりのステータスを変更する
+Change a yu's stats
 どのこに パワー をあたえるの?
 このこにする?
 分
@@ -28,24 +28,24 @@ Offerings are easy!
 　Lengthen a yu's lifespan
 　Cure antiyukkuritis
 
-現在MP
-消費MP
-あっぷ
-だうん
-元かしこさ
-変動後かしこさ
-元なつき度
-変動後なつき度
-元ゲス度
-変動後ゲス度
-元運動神経
-変動後運動神経
-元舌肥え度
-変動後舌肥え度
-元恐怖レベル
-変動後恐怖レベル
-決定
-戻る
+Current MP
+MP expenditure
+up
+down
+Current intelligence
+Target intelligence
+Current affection
+Target affection
+Current scumminess
+Target scumminess
+Current reflexes
+Target reflexes
+Current pickiness
+Target pickiness
+Current fear of humans
+Target fear of humans
+Confirm
+Return
 Not enough MP
 生存期日
 寿命
