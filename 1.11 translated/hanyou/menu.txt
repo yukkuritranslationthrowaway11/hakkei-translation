@@ -60,9 +60,9 @@ Eternal love
 Cradle of life
 The toilet is here!
 Post-meal exercise
-Hunt-hunt!
-Mold treatment
-Burnt foot treatment
+Hunting!
+Mold cure
+Burnt foot cure
 Hair transplant
 Sell copper-badged yu
 Sell silver-badged yu
@@ -251,7 +251,7 @@ Breeder
 Bonus 1
 Abyuser
 Bonus 2
-Hair transplant treatment
+Hair transplant
 Unimplemented
  correct answers:
 Total points:
@@ -379,7 +379,7 @@ Metal box
 Anti-antiyukkuritis
 Seat of Punishment
 Treat mold
-Treat mister footsie
+Treat burnt foot
 Treat tongue paralysis
 Hair transplant
 Town

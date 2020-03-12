@@ -1,29 +1,29 @@
 ...
 _ŽÐ‚Ì‚æ‚¤‚¾‚ªAƒ{ƒƒ{ƒ‚É‹€‚¿‰Ê‚Ä‚Ä‚¢‚é...
 ...
-‚Í‚Ÿ,‚¨‚È‚©‚·‚¢‚½‚È`
-‚Í‚Ÿ,‚¨‚È‚©‚·‚¢‚½‚È`\n‚ ‚Ü‚¢‚Ì ‚½‚×‚½‚¢‚È`
-‚¨‚³‚¢‚¹‚ñ ‚Í‚¢‚Á‚Ä‚È‚¢‚©‚È`
-‚«‚å‚¤‚à ‚Í‚¢‚Á‚Ä‚È‚¢...
+Ah... empty stomach...
+Ah... empty stomach...`\nI want to eat something sweet`
+No offerings for me`
+These days, there are usually none...
 ...
 Ah, a human, please give me something sweet`
-‚Ë‚¥‚Ë‚¥ ‚­‚¾‚³‚¢‚æ`
-‚Ë‚¥‚Ë‚¥ ‚­‚¾‚³‚¢‚æ`\n‚Ë‚¥‚Á‚½‚ç`
-‚Þ‚µ‚Í ‚ä‚Á‚­‚è ‚µ‚Ä‚È‚¢‚æ?
+Hey hey, please`
+Hey hey, please`\nListen`
+Hey, disregarding me isn't easy?
 Eh!? ‚­‚ê‚é‚ñ‚Å‚·‚©!
 Eh!? ‚­‚ê‚é‚ñ‚Å‚·‚©!\n‚Ù‚ñ‚Æ‚É‚­‚ê‚é‚ñ‚Å‚·‚©!?
-‚â‚Á‚½`!
+Yay`!
 Munch
 Munch-munch
 Happiness`!
 ‚Ó‚£...
-‚ñ?
+Hm?
 ‚­‚ñ‚­‚ñ...
-‚È‚ñ‚¾‚© ‚·‚²‚­ ‚ä‚Á‚­‚è‚Ì‚É‚¨‚¢‚Ì‚·‚é ‚É‚ñ‚°‚ñ‚³‚ñ‚Å‚·‚Ë`
-‚È‚é‚Ù‚Ç[ ‚ä‚Á‚­‚è‚ð ‚»‚¾‚Ä‚Ä‚¢‚é‚ñ‚Å‚·‚Ë`
+There's a hint of the scent of yukkuri,\nbut it's really a human`
+I see! You raise yukkuri`
 ...
-Eh? ‚Ç‚¤‚µ‚Ä ‚»‚ñ‚È‚±‚Æ ‚í‚©‚é‚Ì‚©‚Å‚·‚Á‚Ä?
-Eh? ‚Ç‚¤‚µ‚Ä ‚»‚ñ‚È‚±‚Æ ‚í‚©‚é‚Ì‚©‚Å‚·‚Á‚Ä?\n‚í‚½‚µ‚Í ‚ä‚Á‚­‚è‚Ì ‚©‚Ý‚³‚Ü‚È‚Ì‚Å‚·!
+Eh? Why do I know such things?
+Eh? Why do I know such things?\nI am the yukkuri goddess!
 ‚Þ‚£
 ‚Þ‚£...
 ‚Þ‚£...
@@ -41,10 +41,10 @@ Eh? ‚Ç‚¤‚µ‚Ä ‚»‚ñ‚È‚±‚Æ ‚í‚©‚é‚Ì‚©‚Å‚·‚Á‚Ä?\n‚í‚½‚µ‚Í ‚ä‚Á‚­‚è‚Ì ‚©‚Ý‚³‚Ü‚È‚Ì‚Å‚
 ‚ ‚Æ ‚¶‚ñ‚¶‚á‚à ‚«‚ê‚¢‚É ‚µ‚½‚¢‚©‚ç ‚¨‚³‚¢‚¹‚ñ‚à ‚¢‚ê‚Ä‚Ë!\n‚·‚®‚Å‚¢‚¢‚æ!
 
 ...
-_ŽÐ‚ªãY—í‚ÉÄŒš‚³‚ê‚Ä‚¢‚é...!
+The shrine has been completely rebuilt...!
 ...
-‚ ,‚É‚ñ‚°‚ñ‚³‚ñ‚¾`
-‚ ,‚É‚ñ‚°‚ñ‚³‚ñ‚¾`\n‚Ý‚Ä‚Ý‚Ä[‚«‚ê‚¢‚É‚È‚Á‚½‚ñ‚Å‚·‚æ`!
+Ah, human`
+Ah, human`\nLook, look` it's beautiful`!
 ‚Í‚ñ‚Ô‚ñ‚­‚ç‚¢‚Í ‚É‚ñ‚°‚ñ‚³‚ñ‚Ì ‚¨‚©‚°‚Å‚·!
 ‚Í‚ñ‚Ô‚ñ‚­‚ç‚¢‚Í ‚É‚ñ‚°‚ñ‚³‚ñ‚Ì ‚¨‚©‚°‚Å‚·!\n‚ ‚Æ‚Í‚í‚½‚µ‚Ì‚¿‚©‚ç!
 ‚Ü‚³‚É ‚ ‚È‚½‚Æ‚Ì ‚ ‚¢‚Ì ‚¯‚Á‚µ‚å‚¤‚Å‚·‚æ‚Á
@@ -66,7 +66,7 @@ Eh? ‚Ç‚¤‚µ‚Ä ‚»‚ñ‚È‚±‚Æ ‚í‚©‚é‚Ì‚©‚Å‚·‚Á‚Ä?\n‚í‚½‚µ‚Í ‚ä‚Á‚­‚è‚Ì ‚©‚Ý‚³‚Ü‚È‚Ì‚Å‚
 ƒAƒŒHƒAƒŒ?
 ‚Ç‚¤‚â‚Á‚Ä‚«‚é‚Ì[!?
 ‚í‚©‚ñ‚È‚¢‚æ‚§‚§‚§
-‚ ,‚É‚ñ‚°‚ñ‚³‚ñ‚¾!
+Ah, human!
 ‚æ‚©‚Á‚½‚æ‚§‚§‚§
 ‚¨‚µ‚å‚¤‚ª‚Â ‚¾‚©‚ç ‚«‚à‚Ì‚ð ‚«‚æ‚¤‚Æ‚µ‚½‚ç
 ‚«‚©‚½‚ª‚í‚©‚ç‚È‚¢‚Ì‚Å‚·...
