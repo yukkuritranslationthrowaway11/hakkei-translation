@@ -30,8 +30,8 @@ Kya!?
 
 //ゆっくり購入
 Would you like to buy a yukkuri?
-購入したゆっくりはクーラーボックスの中にお入れしますねー
-クーラーボックスがいっぱいなので、\nボックスを空けてからまたご来店くださいー
+I put the purchased yukkuri inside the cooler～
+There's no room for her since the cooler is full, so\nplease come back after clearing some space～
 やめちゃうんですか？
 Thank you for your purchase!
 Would you like to sell a yukkuri?

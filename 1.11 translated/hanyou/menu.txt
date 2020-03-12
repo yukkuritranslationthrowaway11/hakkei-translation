@@ -2,7 +2,7 @@ Food
 Actions
 Training
 Items
-Freezer
+Cooler
 Status
 Achievements
 Save
@@ -327,7 +327,7 @@ Age at death
 season and
 week
 Can't save this yukkuri
-Freezer full!
+Cooler full!
 Sell
 Release
 Discard

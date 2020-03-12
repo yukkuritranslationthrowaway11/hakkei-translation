@@ -29,9 +29,9 @@
 
 
 //ゆっくり購入
-ゆっくりを購入してくれるのか？
-購入したゆっくりはクーラーボックスの中に入れておこう
-クーラーボックスがいっぱいなので、ボックスを空けてからまた来たまえ
+Ya wanna buy a yukkuri?
+I put it in the cooler.
+There's no room in the cooler, so please\ncome again when there's space for it.
 やめてしまうのか？
 Thanks for the purchase!
 
@@ -39,7 +39,7 @@ Thanks for the purchase!
 
 
 //ゆっくり購入２
-That's 
+It's 
  yen, ya wanna buy it?
 特殊な薬剤で耐久力を高めた、無調教のゆっくりで、\n
 
