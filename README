@@ -10,7 +10,14 @@ dialogues of their respective versions.  To update the in-game dialogues,
 copy those directories inside the game's 'text' folder.  After that,
 run the executable that is not the game (should be called
 'セリフ再読込用.exe'.  If you don't have a program with that name,
-just pick the executable that is not the actual game).
+just pick the executable that is not the actual game). You will see
+a window that's mostly white, with some characters (as in 2, @, P; not
+as in "Hakurei Reimu" or "Superman") in the top left hand corner. Wait
+for a small popup in the center of your screen. If the popup doesn't
+have the word "Error" in it, the translation succeeded. Don't worry
+if all you see are squares. If the translation doesn't succeed, "Error"
+will still come out in English so you will know if something went wrong.
+If you just see squares, it succeeded.
 After that step, the translations will be applied to the game.
 
 The 'original' folder was used to track changes between different
@@ -22,4 +29,9 @@ Those who only have the demo version should still be able to play in
 a language they understand, so there are now two sets of folders: one
 for the latest version of the game and one for the demo version.
 
-The add.txt file left outside of any of the translated copies can be found in the game directory/pict/add1/add.txt. Since add.txt is not included in the game directory/text folder, it is not in the 'translated' folders either, since their contents are meant to be copy/pasted into the game directory/text folder. However, the add.txt file may be useful to modders, so it is still included in the git.
+The add.txt file left outside of any of the translated copies can be found 
+in (game directory)/pict/add1/add.txt. Since add.txt is not anywhere in
+(game directory)/text, it is not in the 'translated' folders either
+since their contents are meant to be copy/pasted into the game directory/text
+folder. However, the add.txt file may be useful to modders, so it is still
+included in the git.
