@@ -51,7 +51,7 @@
 
 
 //アイテム購入
-ゆっくり用の飼育用品を\n購入されますか？
+Would you like to buy yukkuri raising supplies?
 ...!\n当店で取り扱っている飼育用品は全て購入されております。
 
 

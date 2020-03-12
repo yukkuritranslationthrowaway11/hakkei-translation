@@ -29,29 +29,30 @@ Kya!?
 
 
 //ゆっくり購入
-ゆっくりを購入しますか？
+
+Would you like to buy a yukkuri?
 購入したゆっくりはクーラーボックスの中にお入れしますねー
 クーラーボックスがいっぱいなので、\nボックスを空けてからまたご来店くださいー
 やめちゃうんですか？
 Thank you for your purchase!
-ゆっくりを売却しますか？
+Would you like to sell a yukkuri?
 
 
 
 //ゆっくり購入２
-お値段は
-円になっております
-この子は私が躾けたゆっくりで、\n
-この子は銅バッジ血統のゆっくりで、\n
-この子は銀バッジ血統のゆっくりで、\n
-この子は金バッジ血統のゆっくりで、\n
+The price is 
+ yen.
+This yukkuri was trained by me.\n
+This yukkuri was born to bronze-badged parents.\n
+This yukkuri was born to silver-badged parents.\n
+This yukkuri was born to gold-badged parents.\n
 
 
 
 
 
 //アイテム購入
-ゆっくりちゃん用の飼育用品を\nWould you like to buy it?
+Would you like to buy yukkuri raising supplies?
 Uwa! お店に有る飼育用品、全部買ってくれたんですね！\nThank you!!
 私とお出かけしたいんですか？
 

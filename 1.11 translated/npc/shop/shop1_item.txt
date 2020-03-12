@@ -1,5 +1,5 @@
 //来店時
-\n costs 
+\nThe price is  
  yen.
 //アイテム説明・トイレ
 A yukkuri-sized toilet.\nトイレの躾は根気よく繰り返してあげてくださいね

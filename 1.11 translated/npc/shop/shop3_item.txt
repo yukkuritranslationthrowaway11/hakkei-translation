@@ -1,5 +1,5 @@
 //来店時
-\n costs
+\nThe price is 
  yen.
 //アイテム説明・トイレ
 A yukkuri-sized toilet.\nバッジ付きのゆっくりの場合、これでも充分ですが、\n排泄物の除去はお早めに……

@@ -25,7 +25,7 @@ Save?
 End
 Start?
 Next?
-Intelligence
+Intelligence 
  Point UP
 Which one?
 h
@@ -351,9 +351,9 @@ Next
 Previous
 Buy
 View non-pedigreed yus
-View bronze-badged yus
-View silver-badged yus
-View gold-badged yus
+View bronze-pedigreed yus
+View silver-pedigreed yus
+View gold-pedigreed yus
 View yu raising supplies
 Sell yukkuri
 Confirm purchase

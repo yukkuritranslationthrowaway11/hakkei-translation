@@ -39,7 +39,7 @@ Thanks for the purchase!
 
 
 //‚ä‚Á‚­‚èw“ü‚Q
- costs
+That's 
  yen, you want to buy it?
 “Áê‚È–òÜ‚Å‘Ï‹v—Í‚ğ‚‚ß‚½A–³’²‹³‚Ì‚ä‚Á‚­‚è‚ÅA\n
 

@@ -1,11 +1,11 @@
 ////スタート////
-I'm sorry, we don't have yukkuris whose parents were both badged yukkuris right now.
+I'm sorry, we don't have any yukkuris born to badged parents in stock right now.
 To tell you the truth, the breeder we worked with is retired. 
 ブリーダーさんは人手不足でして、\nうちみたいな小さなお店には中々提携していただけないんです。
 Eh? ブリーダーの資格をお持ちなんですか！？
 よろしければ、銅バッジクラスで構いませんので、\n母体になれるゆっくりをお譲りいただけませんか？
 ぜひ、ぜひよろしくおねがいします。
-Waa! この子は銅バッジなんですね！
+Waa! This yukkuri has a bronze badge!
 こんなに早く持ってきてくださるなんて、すごいです！
 この子を基準に繁殖させてみせます！応援してくださいね！
 
@@ -41,7 +41,7 @@ Waa! この子は銅バッジなんですね！
 高級和菓子の材料をベースに、ゆっくりちゃんの生育に欠かせない栄養分を\nフードとは別のアプローチで詰め込んでみました。
 お安くしておきますので、ぜひ使ってみてくださいね！
 
-Waa! この子は銀バッジなんですね！
+Waa! This yukkuri has a silver badge!
 こんなに早く持ってきてくださるなんて、すごいです！
 この子を基準に繁殖させてみせます！応援してくださいね！
 
@@ -49,9 +49,9 @@ Waa! この子は銀バッジなんですね！
 あ、聞いてください！とうとう銀バッジの子の繁殖に成功したんですよー！
 後は金バッジだけですね！よろしくおねがいします！
 
-……
-金バッジのゆっくりを連れてきてくれたんですね……
-本当に、本当にありがとうございます！
+...
+You brought a gold-badged yukkuri...
+Really, thank you so much!
 後は、私が頑張るだけですね！応援してくださいね！
 
 …… ……
