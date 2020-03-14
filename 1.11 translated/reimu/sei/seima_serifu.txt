@@ -614,12 +614,12 @@ ma_sei_sougo_play_win_1_10 = "yˆêlÌz is strong!"
 
 ma_sei_sougo_play_rose_1_1 = "yˆêlÌz lost..."
 ma_sei_sougo_play_rose_1_2 = "yˆêlÌz's defeat..."
-ma_sei_sougo_play_rose_1_3 = "yˆêlÌz the strongest shouldn't lose...!"
+ma_sei_sougo_play_rose_1_3 = "yˆêlÌz shouldn't lose...!"
 ma_sei_sougo_play_rose_1_4 = "It's improper for yˆêlÌz to lose...!"
 ma_sei_sougo_play_rose_1_5 = "Defeated..."
 ma_sei_sougo_play_rose_1_6 = "yˆêlÌz lost..."
 ma_sei_sougo_play_rose_1_7 = "yˆêlÌz's defeat..."
-ma_sei_sougo_play_rose_1_8 = "yˆêlÌz the strongest shouldn't lose...!"
+ma_sei_sougo_play_rose_1_8 = "yˆêlÌz shouldn't lose...!"
 ma_sei_sougo_play_rose_1_9 = "It's improper for yˆêlÌz to lose...!"
 ma_sei_sougo_play_rose_1_10 = "Defeated..."
 
@@ -824,7 +824,7 @@ ma_sei_hanyou_sleep_5 = "Yupi... yupi..."
 ma_sei_hanyou_sleep_6 = "Yupipi..."
 ma_sei_hanyou_sleep_7 = "Yupi... yupipi..."
 ma_sei_hanyou_sleep_8 = "Yu... sweet-sweet..."
-ma_sei_hanyou_sleep_9 = "Wings... yˆêlÌz's ... wings..."
+ma_sei_hanyou_sleep_9 = "Wings... yˆêlÌz's... wings..."
 ma_sei_hanyou_sleep_10 = "Yuu... yˆêlÌz is... princess..."
 
 
