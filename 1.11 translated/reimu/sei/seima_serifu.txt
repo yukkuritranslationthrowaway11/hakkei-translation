@@ -5840,7 +5840,7 @@ ma_sei_win_1_6 = "yˆêlÌz's overwhelming victory!"
 ma_sei_win_1_7 = "Prostrate before the great yˆêlÌz's footsie!"
 ma_sei_win_1_8 = "yˆêlÌz is strong!"
 ma_sei_win_1_9 = "Ooh, pitiful pitiful!"
-ma_sei_win_1_10 = "Give up!"
+ma_sei_win_1_10 = "You scum! Give up!"
 
 ma_sei_dorei_1_1 = "Will make you the great yˆêlÌz's poo-poo slave!"
 ma_sei_dorei_1_2 = "You are the poo-poo slave now!"
