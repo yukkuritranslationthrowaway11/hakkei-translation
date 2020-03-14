@@ -620,7 +620,7 @@ ma_aka_sougo_play_win_1_2 = "Pwoshtwate befow the gweat 【一人称】'sh footshie! 
 ma_aka_sougo_play_win_1_3 = "【一人称】 ij the shtwongesht! Nanoje!"
 ma_aka_sougo_play_win_1_4 = "【一人称】'sh victowy nanoje!"
 ma_aka_sougo_play_win_1_5 = "Gib up!"
-ma_aka_sougo_play_win_1_6 = "【一人称】'sh oberwhelming victowy!  Nanoje!"
+ma_aka_sougo_play_win_1_6 = "【一人称】'sh oberwhelming victowy! Nanoje!"
 ma_aka_sougo_play_win_1_7 = "【一人称】 ij shtwong no je!"
 ma_aka_sougo_play_win_1_8 = "【一人称】 ish the shtwongesht! Nanoje!"
 ma_aka_sougo_play_win_1_9 = "【一人称】'sh victowy nanoje!"
@@ -1212,7 +1212,7 @@ ma_aka_hanyou_syousi_8 = "ゆっぐち！ゆっぐちぃぃぃ！！"
 ma_aka_hanyou_syousi_9 = "【一人称】　ちぬの やぢゃっ！やぢゃぁぁぁぁ！"
 ma_aka_hanyou_syousi_10 = "あっ あぢゅ！！【一人称】 ちにちゃく にゃいのじぇぇぇぇ！！"
 
-ma_aka_hanyou_deth_1 = "Yu! Yugaga!"
+ma_aka_hanyou_deth_1 = "ゆ゛ッ！……ゆががッ！"
 ma_aka_hanyou_deth_2 = "だぢゅげっ……！【一人称】 ぢにぢゃく にゃぃぃぃ！！"
 ma_aka_hanyou_deth_3 = "おぎゃーじゃ！おぎゃーじゃ！？"
 ma_aka_hanyou_deth_4 = "まぢゃ ちにちゃくにゃいぃぃぃ！！"
@@ -2974,7 +2974,6 @@ ma_aka_mogu2_geromazu_9 = "Munsh... munsh..."
 ma_aka_mogu2_geromazu_10 = "Mwunch... munsh..."
 
 
-
 ;低知能
 ma_aka_mogu1_2_1 = "うっみぇ"
 ma_aka_mogu1_2_2 = "うっみぇ"
@@ -4247,6 +4246,7 @@ ma_aka_muzai_1_8 = "Yubyaaaaaaa!"
 ma_aka_muzai_1_9 = "Yupiiiiiii!"
 ma_aka_muzai_1_10 = "Yunyaaaaaaa!"
 
+
 ;どうして
 ma_aka_dousite_1_1 = "Bwry would you dwo datttt!?"
 ma_aka_dousite_1_2 = "Bwhy would you dwo datttt!?"
@@ -5218,7 +5218,6 @@ ma_aka_sougo_yukkuri_8 = " can chake id eajy no je?"
 ma_aka_sougo_yukkuri_9 = " can chake id eajy no je?"
 ma_aka_sougo_yukkuri_10 = " can chake id eajy no je?"
 
-
 ma_aka_sougo_self_yukkuri_1 = "【一人称】 chakes id eajy no je!"
 ma_aka_sougo_self_yukkuri_2 = "【一人称】 chakes id eajy no je!"
 ma_aka_sougo_self_yukkuri_3 = "【一人称】 ij an eajy yukkuwi nanoje!"
@@ -5309,7 +5308,6 @@ ma_aka_sougo_surisuri_other_stert1_8 = "! Dwo wub-wub wich 【一人称】!"
 ma_aka_sougo_surisuri_other_stert1_9 = "! Dwo wub-wub wid 【一人称】 no je!"
 ma_aka_sougo_surisuri_other_stert1_10 = "! Dwo wub-wub wich 【一人称】 no je!"
 
-
 ma_aka_sougono_okazari1_1 = "Yu? Who ij thish no je?"
 ma_aka_sougono_okazari1_2 = "Don'd know thish stwange yukkuwi no je?"
 ma_aka_sougono_okazari1_3 = "Yu? Who ish thish no je?"
@@ -5384,8 +5382,8 @@ ma_aka_sougo_parent_2_5 = "A thing wike you ishn't dwaddie no je!!"
 ma_aka_sougo_parent_2_6 =  "Shcum yukkuwi ishn't dwaddie no je!!"
 ma_aka_sougo_parent_2_7 = "A thing wike you ishn't dwaddie no je!!"
 ma_aka_sougo_parent_2_8 =  "Shcum yukkuwi ishn't dwaddie no je!!"
-ma_aka_sougo_parent_2_9 = "ゆっくしちぇにゃい おとーしゃは にせっもの なのじぇ！！"
-ma_aka_sougo_parent_2_10 =  "にしぇものっの おとーしゃは しゃっしゃと しにゅのじぇ！！"
+ma_aka_sougo_parent_2_9 = "Uneajy fake dwaddie nanoje!!"
+ma_aka_sougo_parent_2_10 =  "Fake dwaddie qwickly dwop dead nanoje!!"
 
 ma_aka_sougo_parent_3_1 = "おかーしゃは にゃんだか ゆっくち しちぇにゃいのじぇ……"
 ma_aka_sougo_parent_3_2 =  "【一人称】のおかーしゃは ゆっくち しちぇにゃいのじぇ……"
@@ -5417,8 +5415,8 @@ ma_aka_sougo_parent_5_5 = "A thing wike you ishn't mwommie no je!!"
 ma_aka_sougo_parent_5_6 =  "Shcum yukkuwi ishn't mwommie no je!!"
 ma_aka_sougo_parent_5_7 = "A thing wike you ishn't mwommie no je!!"
 ma_aka_sougo_parent_5_8 =  "Shcum yukkuwi ishn't mwommie no je!!"
-ma_aka_sougo_parent_5_9 = "ゆっくしちぇにゃい おかーしゃは にせっもの なのじぇ！！"
-ma_aka_sougo_parent_5_10 =  "にしぇものっの おかーしゃは しゃっしゃと しにゅのじぇ！！"
+ma_aka_sougo_parent_5_9 = "Uneajy fake mwommie nanoje!!"
+ma_aka_sougo_parent_5_10 =  "Fake mwommie qwickly dwop dead nanoje!!"
 
 
 ma_aka_sita_sougo_yousi_1_1 = "いいのじぇ！ おちびちゃん！"
@@ -5859,16 +5857,16 @@ ma_aka_lost_other_1_8 = "を かえしゅのじぇ！"
 ma_aka_lost_other_1_9 = "を ちゅれちぇ いくんじゃ にゃいのじぇ！"
 ma_aka_lost_other_1_10 = "を かえしゅのぜ！"
 
-ma_aka_lost_Leajer_1_1 = "たいちょー を かえしゅのぜ！"
-ma_aka_lost_Leajer_1_2 = "たいちょーを かえしゅのじぇ！"
-ma_aka_lost_Leajer_1_3 = "たいちょーを ちゅれちぇ いくんじゃ にゃいのじぇ！"
-ma_aka_lost_Leajer_1_4 = "ちゃいちょーを かえしゅのぜ！"
-ma_aka_lost_Leajer_1_5 = "ちゃいちょーを かえしゅのじぇ！"
-ma_aka_lost_Leajer_1_6 = "ちゃいちょーを ちゅれちぇ いくんじゃ にゃいのじぇ！"
-ma_aka_lost_Leajer_1_7 = "たいちょーを かえしゅのぜ！"
-ma_aka_lost_Leajer_1_8 = "たいちょーを かえしゅのじぇ！"
-ma_aka_lost_Leajer_1_9 = "ちゃいちょーを ちゅれちぇ いくんじゃ にゃいのじぇ！"
-ma_aka_lost_Leajer_1_10 = "ちゃいちょーを かえしゅのぜ！"
+ma_aka_lost_leader_1_1 = "たいちょー を かえしゅのぜ！"
+ma_aka_lost_leader_1_2 = "たいちょーを かえしゅのじぇ！"
+ma_aka_lost_leader_1_3 = "たいちょーを ちゅれちぇ いくんじゃ にゃいのじぇ！"
+ma_aka_lost_leader_1_4 = "ちゃいちょーを かえしゅのぜ！"
+ma_aka_lost_leader_1_5 = "ちゃいちょーを かえしゅのじぇ！"
+ma_aka_lost_leader_1_6 = "ちゃいちょーを ちゅれちぇ いくんじゃ にゃいのじぇ！"
+ma_aka_lost_leader_1_7 = "たいちょーを かえしゅのぜ！"
+ma_aka_lost_leader_1_8 = "たいちょーを かえしゅのじぇ！"
+ma_aka_lost_leader_1_9 = "ちゃいちょーを ちゅれちぇ いくんじゃ にゃいのじぇ！"
+ma_aka_lost_leader_1_10 = "ちゃいちょーを かえしゅのぜ！"
 
 ;野良野生
 
@@ -6611,12 +6609,12 @@ ma_aka_river_pat1_10 = "【一人称】は すいっじょうを こくっふく しちゃのじぇ！"
 
 ma_aka_river_attack1_1 = "Yububububububu...!"
 ma_aka_river_attack1_2 = "Yubobobobobobo...!"
-ma_aka_river_attack1_3 = "Yububu... yubu...! "
+ma_aka_river_attack1_3 = "Yububu... yubu...!"
 ma_aka_river_attack1_4 = "Yubobo... yubo...!"
 ma_aka_river_attack1_5 = "Shabe... 【一人称】...!"
 ma_aka_river_attack1_6 = "Yububububububu...!"
 ma_aka_river_attack1_7 = "Yubobobobobobo...!"
-ma_aka_river_attack1_8 = "Yububu... yubu...! "
+ma_aka_river_attack1_8 = "Yububu... yubu...!"
 ma_aka_river_attack1_9 = "Yubobo... yubo...!"
 ma_aka_river_attack1_10 = "【一人称】... dwowning...!"
 
@@ -6753,7 +6751,6 @@ ma_aka_remi_1_7="Wemiwia!? Nwoooooo!"
 ma_aka_remi_1_8="Wemiwia!? Nwoooooo!"
 ma_aka_remi_1_9="Wemiwia!? Nwoooooo!"
 ma_aka_remi_1_10="Wemiwia!? Nwoooooo!"
-
 
 ma_aka_remi_2_1="Wemiwia dwon't come hewe no je!!"
 ma_aka_remi_2_2="Wemiwia gwo away da je!!"
