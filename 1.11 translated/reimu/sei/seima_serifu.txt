@@ -953,7 +953,7 @@ ma_sei_hanyou_toan_6 = "Yugi...!"
 ma_sei_hanyou_toan_7 = "Yupyu...!"
 ma_sei_hanyou_toan_8 = "Yupu...!"
 ma_sei_hanyou_toan_9 = "Yue!?"
-ma_sei_hanyou_toan_10 = Yupyu!?"
+ma_sei_hanyou_toan_10 = "Yupyu!?"
 
 ma_sei_hanyou_mugon_1 = "...!?"
 ma_sei_hanyou_mugon_2 = "...!?"
