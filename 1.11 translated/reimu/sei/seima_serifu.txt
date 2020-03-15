@@ -676,7 +676,7 @@ ma_sei_sougo_play_toranpo_1_6 = "Get on yˆêlÌz's tummy!"
 ma_sei_sougo_play_toranpo_1_7 = "Come do high-high!"
 ma_sei_sougo_play_toranpo_1_8 = "Get on yˆêlÌz's tummy!"
 ma_sei_sougo_play_toranpo_1_9 = "Get on tummy!"
-ma_sei_sougo_play_toranpo_1_10 = Come do high-high!"
+ma_sei_sougo_play_toranpo_1_10 = "Come do high-high!"
 
 ma_sei_sougo_play_sumou_1_1 = "‚¨‚·‚à‚¤ ‚·‚é‚ñ‚¾‚æI"
 ma_sei_sougo_play_sumou_1_2 = "‚µ‚å‚¤‚Ô ‚·‚é‚ñ‚¾‚æI"
