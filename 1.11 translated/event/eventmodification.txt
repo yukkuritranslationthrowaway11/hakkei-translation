@@ -49,8 +49,8 @@ Dirt濃度
 
 
 //////Next/////
-イベントフォルダを作成。ファイル名、フォルダ名共にbaseファイルで指定したものになります
-ファイルのラストの数字は種族で
+Create a folder within text/event. Both the file name and folder name should be specified in the base file (see the section "First" above for more details on where this is specified.)
+The last number in the file determines the yukkuri type.
 
 0: Marisa
 1: Reimu
@@ -62,11 +62,11 @@ Dirt濃度
 会話を表示するかしないか　true:1 false:0
 表情パターン 下記参照
 表情の経過時間をリセットするか否か　true:1 false:0
-台詞１（一人称に関しては通常の台詞ファイルと同じです）
-台詞２
-台詞３
-台詞４
-台詞５
+Dialogue 1 (in these dialogues, 【一人称】 functions identically to the way it does in regular dialogue files, such as text/marisa/sei/seima_serifu.txt.)
+Dialogue 2
+Dialogue 3
+Dialogue 4
+Dialogue 5
 //////
 
 選択肢用
