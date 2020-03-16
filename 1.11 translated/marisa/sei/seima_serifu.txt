@@ -3302,15 +3302,15 @@ ma_sei_amaama_need_bud_1_10 = "Not easy da ze! Sweet-sweet nanoze!"
 ;‚¨‚©‚í‚è
 ;///////////////////////////////////////////////////////////
 ma_sei_gotisousama_okawari_1_1 = "Want mister seconds da ze!"
-ma_sei_gotisousama_okawari_1_2 = "y”‚¢åz, seconds no ze!"
-ma_sei_gotisousama_okawari_1_3 = "Not enough no ze! Seconds!"
+ma_sei_gotisousama_okawari_1_2 = "y”‚¢åz seconds nanoze!"
+ma_sei_gotisousama_okawari_1_3 = "Not enough no ze! Seconds nanoze!"
 ma_sei_gotisousama_okawari_1_4 = "y”‚¢åz! yˆêlÌz wants to eat more da ze!"
-ma_sei_gotisousama_okawari_1_5 = "Want to eat more no ze!@Seconds!"
+ma_sei_gotisousama_okawari_1_5 = "Want to eat more no ze!@Seconds nanoze!"
 ma_sei_gotisousama_okawari_1_6 = "Want mister seconds da ze!"
-ma_sei_gotisousama_okawari_1_7 = "y”‚¢åz, seconds no ze!"
-ma_sei_gotisousama_okawari_1_8 = "Not enough no ze! Seconds no ze!"
+ma_sei_gotisousama_okawari_1_7 = "y”‚¢åz seconds nanoze!"
+ma_sei_gotisousama_okawari_1_8 = "Not enough no ze! Seconds nanoze!"
 ma_sei_gotisousama_okawari_1_9 = "y”‚¢åz! yˆêlÌz wants to eat more da ze!"
-ma_sei_gotisousama_okawari_1_10 = "Want to eat more no ze!@Seconds no ze!"
+ma_sei_gotisousama_okawari_1_10 = "Want to eat more no ze! Seconds nanoze!"
 
 ;///////////////////////////////////////////////////////////
 ;‘¼Ò—v‹
