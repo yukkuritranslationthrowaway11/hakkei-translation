@@ -1891,15 +1891,15 @@ ma_aka_okazari_give_1_10 = "yˆêlÌz'sh mishter hat!"
 
 ;“ª”¯ŠÖŒW
 ma_aka_hair_cut_1_1 = "yˆêlÌz'sh shilky mishter haiwwww!"
-ma_aka_hair_cut_1_2 = "yˆêlÌz'sh shilky shleek mishter haiwwww!"
-ma_aka_hair_cut_1_3 = "yˆêlÌz'sh cidy-shect mishter haiwwww!"
+ma_aka_hair_cut_1_2 = "yˆêlÌz'sh shilky goldjen mishter haiwwww!"
+ma_aka_hair_cut_1_3 = "yˆêlÌz'sh goldjen mishter haiwwww!"
 ma_aka_hair_cut_1_4 = "yˆêlÌz'sh shilky mishter haiwwww!"
-ma_aka_hair_cut_1_5 = "yˆêlÌz'sh shilky shleek mishter haiwwww!"
-ma_aka_hair_cut_1_6 = "yˆêlÌz'sh shleek mishter haiwwww!"
-ma_aka_hair_cut_1_7 = "yˆêlÌz'sh cidy-shect mishter haiwwww!"
+ma_aka_hair_cut_1_5 = "yˆêlÌz'sh shilky goldjen mishter haiwwww!"
+ma_aka_hair_cut_1_6 = "yˆêlÌz'sh goldjen mishter haiwwww!"
+ma_aka_hair_cut_1_7 = "yˆêlÌz'sh gloshy mishter haiwwww!"
 ma_aka_hair_cut_1_8 = "yˆêlÌz'sh shleek shilk-wike mishter haiwwww!"
 ma_aka_hair_cut_1_9 = "yˆêlÌz'sh gloshy mishter haiwwww!"
-ma_aka_hair_cut_1_10 = "yˆêlÌz'sh fashionable cidy-shect mishter haiwwww!"
+ma_aka_hair_cut_1_10 = "yˆêlÌz'sh gloshy shilk-wike mishter haiwwww!"
 
 ;///////////////////////////////////////////////////////////
 ;
