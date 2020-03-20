@@ -2,7 +2,7 @@ Food
 Actions
 Training
 Items
-Freezer
+Cooler
 Status
 Achievements
 Save
@@ -25,8 +25,8 @@ Save?
 End
 Start?
 Next?
-Intelligence
-Points UP
+Intelligence 
+ Point UP
 Which one?
 h
 m
@@ -38,7 +38,7 @@ Week
 Yen
 Mister footsie!?
 Abyuser level
-強制ライブ開催！
+強制ライブ開催!
 Vibrator-induced erection
 Poisoned!?
 Total darkness
@@ -46,9 +46,9 @@ Total darkness
 BDSM Play?
 Unattached!?
 Lost future
-ひかりあれ！
+ひかりあれ!
 Mental break
-おかわりもいいぞ！
+おかわりもいいぞ!
 Breeder level
 New family
 Life's baton
@@ -60,9 +60,9 @@ Eternal love
 Cradle of life
 The toilet is here!
 Post-meal exercise
-Hunt-hunt!
-Mold treatment
-Burnt foot treatment
+Hunting!
+Mold cure
+Burnt foot cure
 Hair transplant
 Sell copper-badged yu
 Sell silver-badged yu
@@ -251,7 +251,7 @@ Breeder
 Bonus 1
 Abyuser
 Bonus 2
-Hair transplant treatment
+Hair transplant
 Unimplemented
  correct answers:
 Total points:
@@ -327,7 +327,7 @@ Age at death
 season and
 week
 Can't save this yukkuri
-Freezer full!
+Cooler full!
 Sell
 Release
 Discard
@@ -346,14 +346,14 @@ Leave
 Take bronze badge test
 Take silver badge test
 Take gold badge test
-Take platinum badge test
+
 Next
 Previous
 Buy
 View non-pedigreed yus
-View bronze-badged yus
-View silver-badged yus
-View gold-badged yus
+View bronze-pedigreed yus
+View silver-pedigreed yus
+View gold-pedigreed yus
 View yu raising supplies
 Sell yukkuri
 Confirm purchase
@@ -379,7 +379,7 @@ Metal box
 Anti-antiyukkuritis
 Seat of Punishment
 Treat mold
-Treat mister footsie
+Treat burnt foot
 Treat tongue paralysis
 Hair transplant
 Town
@@ -402,13 +402,33 @@ Riverside
 Underpass
 City
 Train to town
-Shopping district (unavailable)
+Shopping district
 Yukkuri Association
 Yukkuri Clinic
 Yukkuri Shop 3
-Back alley (unavailable)
-Abandoned construction site (unavailable)
+
+
 Luxury Yukkuri Shop
 Park corner
 Expedition party
 Back
+Yu stats
+Sell gold-badged yu
+デートに誘う
+Shake yukkurarium
+店員を買う
+秘拳
+Castrate
+永久の別れ
+Merciful heart
+Shrine rebuilding
+Date with Miss♪
+羞恥心は無いの
+All complete
+ぺにぺに大爆発
+ビュッフェ形式!?
+Merciless
+中枢餡直撃
+Date with Miss♪
+Luxury burial
+
