@@ -1716,13 +1716,13 @@ ma_sei_decimation_2_10 = "Little ones that don't look like yˆêlÌz are uneasy
 
 ma_sei_decimation_2nd_1_1 = "Sorry nanoze! Little one!"
 ma_sei_decimation_2nd_1_2 = "Little one understand easy!"
-ma_sei_decimation_2nd_1_3 = "‚±‚ê‚à ‚¤‚ñ‚Á‚ß‚¢ ‚¾‚Á‚½‚Ì‚ºI"
+ma_sei_decimation_2nd_1_3 = "This was fate no ze!"
 ma_sei_decimation_2nd_1_4 = "Sorry nanoze! Little one!"
 ma_sei_decimation_2nd_1_5 = "Little one understand easy!"
-ma_sei_decimation_2nd_1_6 = "‚±‚ê‚à ‚¤‚ñ‚Á‚ß‚¢ ‚¾‚Á‚½‚Ì‚ºI"
+ma_sei_decimation_2nd_1_6 = "This was fate no ze!"
 ma_sei_decimation_2nd_1_7 = "Sorry nanoze! Little one!"
 ma_sei_decimation_2nd_1_8 = "Little one understand easy!"
-ma_sei_decimation_2nd_1_9 = "‚±‚ê‚à ‚¤‚ñ‚Á‚ß‚¢ ‚¾‚Á‚½‚Ì‚ºI"
+ma_sei_decimation_2nd_1_9 = "This was fate no ze!"
 ma_sei_decimation_2nd_1_10 = "Sorry nanoze! Little one!"
 
 ma_sei_decimation_2nd_2_1 = "Only little ones that look like yˆêlÌz can take it easy no ze...!"
