@@ -2644,7 +2644,7 @@ ma_aka_outi_turen_10 = "Nwo more! Gwoing homeeeee!"
 
 
 ma_aka_kyoufu1_1 = "Wunning away eajy da je!"
-ma_aka_kyoufu1_2 = "Yunyaaa! Shtop da je!"
+ma_aka_kyoufu1_2 = "Yunaaa! Shtop da je!"
 ma_aka_kyoufu1_3 = "yˆêlÌz ij wunning away da je!"
 ma_aka_kyoufu1_4 = "Eajy! Eajyyyy!"
 ma_aka_kyoufu1_5 = "Yunyaa! Yunyaa!!"

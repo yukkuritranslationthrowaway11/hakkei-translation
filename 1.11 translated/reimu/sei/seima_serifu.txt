@@ -2745,7 +2745,7 @@ ma_sei_outi_turen_10 = "No more! Going homeeeee!"
 
 
 ma_sei_kyoufu1_1 = "Running away easy!"
-ma_sei_kyoufu1_2 = "Yunyaaa! Stop!"
+ma_sei_kyoufu1_2 = "Yunaaa! Stop!"
 ma_sei_kyoufu1_3 = "yˆêlÌz is running away!"
 ma_sei_kyoufu1_4 = "Easy! Easyyyy!"
 ma_sei_kyoufu1_5 = "Yunyaa! Yunyaa!!"
