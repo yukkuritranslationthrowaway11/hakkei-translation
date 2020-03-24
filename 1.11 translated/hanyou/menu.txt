@@ -35,7 +35,7 @@ Summer
 Fall
 Winter
 Week
-Yen
+ yen
 Mister footsie!?
 Abyuser level
 ‹­§ƒ‰ƒCƒuŠJÃ!
@@ -338,7 +338,7 @@ Full yukk-
 urarium
 Discard
 Discard selected
-Money:
+Money: 
 (can't sell this yukkuri here)
 Box
 Sell yukkuri
@@ -358,13 +358,13 @@ View yu raising supplies
 Sell yukkuri
 Confirm purchase
 Changed my mind
-View endurance-enhanced yus
+View stamina-enhanced yus
 View abyuse tools
 Purchased trained yu
 Purchased copper-badged yu
 Purchased silver-badged yu
 Purchased gold-badged yu
-Purchased endurance-enhanced yu
+Purchased stamina-enhanced yu
 
 
 

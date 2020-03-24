@@ -1,8 +1,8 @@
 //—ˆ“X
-\nThe price is  
+\nThe price is 
  yen.
 //ƒAƒCƒeƒ€à–¾EƒgƒCƒŒ
-A yukkuri-sized toilet.\nƒgƒCƒŒ‚Ìç^‚Íª‹C‚æ‚­ŒJ‚è•Ô‚µ‚Ä‚ ‚°‚Ä‚­‚¾‚³‚¢‚Ë
+A yukkuri-sized toilet.\nYukkuri may need to be corrected several times before they are fully\ntoilet trained, so please be patient.
 A yukkuri-sized litterbox-style toilet.\n–hLA–h¼Œø‰Ê‚Ì‚ ‚é»‚Å‚·‚Ì‚ÅA\n‚¤‚ñ‚¤‚ñ‚ğ‘|œ‚µ–Y‚ê‚Ä‚à‚ä‚Á‚­‚è‚¿‚á‚ñ‚Ì•‰’S‚ª­‚È‚¢‚Å‚·B
 A yukkuri-sized auto-flushing toilet.\n‚È‚ñ‚ÆA‚·‚²‚¢‹Zp‚Å”zŠÇH––³‚µ‚Å…‚ª—¬‚ê‚Ü‚·B\n‚«‚Á‚Æ¦‚¢ŒvZ‚³‚ê‚Ä‚é‚ñ‚Å‚µ‚å‚¤‚ËBŠp“x‚Æ‚©B
 
@@ -14,14 +14,14 @@ A water supply for yukkuri.\nŠî–{“I‚ÉA’Êí‚Ìƒt[ƒh‚ğ—^‚¦‚Ä‚¢‚ê‚Î‘¼‚Ì…•ª•â‹‹‚Í•
 
 
 //“yŠÇ
-An unglazed clay pipe.\nYukkuri fit inside snugly.‚ ‚­‚Ü‚Å‘fÄ‚«•—‰ÁH‚Å‚·‚Ì‚ÅA‚ä‚Á‚­‚è‚¿‚á‚ñ‚Ìã‚¢”ç‚Å‚à‚Â‚­‚±‚Æ‚Í‚È‚¢‚Å‚·B
+An unglazed clay pipe.\nYukkuri fit inside snugly. Because the pipe underwent unglazed wind\nprocessing, it won't damage a yukkuri's delicate skin.
 
 
 
 //‚¨‚à‚¿‚á
-A marble.\n‚ä‚Á‚­‚è‚¿‚á‚ñ‚Íƒ{[ƒ‹—V‚Ñ‚ªD‚«‚È‚ñ‚Å‚·‚æ[
+A marble.\nYukkuri like to play with balls`
 A rubber ball.\nƒr[‹Ê‚Æ‚Ìˆá‚¢‚ÍD‚İ‚Á‚ÄŠ´‚¶‚Å‚·‚©‚Ëcc
-A set of 50 clear dice.\n‚ä‚Á‚­‚è‚¿‚á‚ñ‚Í©•ª‚¾‚¯‚Ì•ó•¨‚ğW‚ß‚é‚Ì‚ªD‚«‚È‚ñ‚Å‚·‚æ[
+A set of 50 clear dice.\nYukkuri like to have their own personal treasures`
 
 
 
@@ -49,7 +49,7 @@ A pool for yukkuri.\n‚ä‚Á‚­‚è‚¿‚á‚ñ‚Í…—‚Ñ‚à‘åD‚«‚È‚ñ‚Å‚·‚ªA’·ŠÔZ‚©‚Á‚Ä‚¢‚
 
 
 //ƒnƒEƒX
-A wooden house for yukkuri.\n©‘R‚Ì–ØŞ‚ğ‰ÁH‚µ‚Äì‚Á‚½A‚Ü‚³‚É‚ä‚Á‚­‚èƒvƒŒƒCƒX‚Å‚·I
+A wooden house for yukkuri.\nIt was made using natural wood, so naturally, it's an easy place!
 A house for yukkuri modeled after a mushroom.\n©‘R‚Ì‚«‚Ì‚±‚ğ‰ÁH‚µ‚Äì‚Á‚½cc‚í‚¯‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚ªA\n‚Æ‚Á‚Ä‚à‚ä‚Á‚­‚è‚µ‚Ä‚¢‚é‚»‚¤‚Å‚·‚æI
 
 
@@ -58,8 +58,8 @@ A house for yukkuri modeled after a mushroom.\n©‘R‚Ì‚«‚Ì‚±‚ğ‰ÁH‚µ‚Äì‚Á‚½cc‚
 
 
 //ƒt[ƒh
-‚¨‹‚ß‚â‚·‚¢‰¿Ši‚Ì‚ä‚Á‚­‚èƒt[ƒh‚Ì‘î”zŒ_–ñ‚Å‚·B\n–¡‚Í‚¢‚Ü‚¢‚¿‚İ‚½‚¢‚Å‚·‚ªA‚±‚ê‚Å‚à‰h—{‚Í\•ª‚Å‚·‚æ[B\n’u‚«–ò‚İ‚½‚¢‚ÉA‚¨‘î‚É–K–â‚µ‚Äg‚Á‚½•ª‚Ì‘ã‹à‚ğ’¥û‚·‚éƒVƒXƒeƒ€‚Å‚·B
-A yukkuri food delivery subscription.\nˆê”Ô”„‚ê‚Ä‚¢‚éƒt[ƒh‚ÅA‚ä‚Á‚­‚è‚¿‚á‚ñ‚à–‘«‚Ì–¡‚İ‚½‚¢‚Å‚·B\n’u‚«–ò‚İ‚½‚¢‚ÉA‚¨‘î‚É–K–â‚µ‚Äg‚Á‚½•ª‚Ì‘ã‹à‚ğ’¥û‚·‚éƒVƒXƒeƒ€‚Å‚·B
+A budget yukkuri food delivery subscription.\n–¡‚Í‚¢‚Ü‚¢‚¿‚İ‚½‚¢‚Å‚·‚ªA‚±‚ê‚Å‚à‰h—{‚Í\•ª‚Å‚·‚æ[B\n’u‚«–ò‚İ‚½‚¢‚ÉA‚¨‘î‚É–K–â‚µ‚Äg‚Á‚½•ª‚Ì‘ã‹à‚ğ’¥û‚·‚éƒVƒXƒeƒ€‚Å‚·B
+A yukkuri food delivery subscription.\nThe best-selling yukkuri food. Yukkuri find its taste adequate. \n’u‚«–ò‚İ‚½‚¢‚ÉA‚¨‘î‚É–K–â‚µ‚Äg‚Á‚½•ª‚Ì‘ã‹à‚ğ’¥û‚·‚éƒVƒXƒeƒ€‚Å‚·B
 A luxury yukkuri food delivery subscription.\n“Á•Ê‚È‚Æ‚«‚È‚Ç‚É‚ ‚°‚½‚¢A‚ä‚Á‚­‚è‚¿‚á‚ñ‚à"Happiness`"‚È–¡‚İ‚½‚¢‚Å‚·B\n’u‚«–ò‚İ‚½‚¢‚ÉA‚¨‘î‚É–K–â‚µ‚Äg‚Á‚½•ª‚Ì‘ã‹à‚ğ’¥û‚·‚éƒVƒXƒeƒ€‚Å‚·B
 A yukkuri cookie delivery subscription.\n‚ä‚Á‚­‚è‚¿‚á‚ñ‚ÍAŠÃ‚¢‚à‚Ì‚ª‘åD‚«‚È‚Ì‚ÅA‚·‚²‚­Šì‚Ô‚ñ‚Å‚·‚æ[B\n’u‚«–ò‚İ‚½‚¢‚ÉA‚¨‘î‚É–K–â‚µ‚Äg‚Á‚½•ª‚Ì‘ã‹à‚ğ’¥û‚·‚éƒVƒXƒeƒ€‚Å‚·B
 A yukkuri cake delivery subscription.\n‘å‚«‚ÈƒP[ƒL‚É‚ä‚Á‚­‚è‚¿‚á‚ñ‚à‘å‹»•±ŠÔˆá‚¢‚È‚µ‚Å‚·I\n’u‚«–ò‚İ‚½‚¢‚ÉA‚¨‘î‚É–K–â‚µ‚Äg‚Á‚½•ª‚Ì‘ã‹à‚ğ’¥û‚·‚éƒVƒXƒeƒ€‚Å‚·B
