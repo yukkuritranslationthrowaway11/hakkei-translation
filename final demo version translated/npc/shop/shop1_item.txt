@@ -1,70 +1,71 @@
-//æ¥åº—æ™‚
-\nwill cost you
+//—ˆ“X
+\nThe price is 
  yen.
-//ã‚¢ã‚¤ãƒ†ãƒ èª¬æ˜ãƒ»ãƒˆã‚¤ãƒ¬
-A toilet for yukkuri.\nToilet training requires lots of patience and perseverance.
-A toilet for yukkuri with sand.\nIt doesn't let out odors and avoids humidity,\nso it's OK to forget about cleaning from time to time.
-A toilet for yukkuri with automatic flushing.\nIt flushes water without needing plumbing, and that's amazing.\nI suppose there's a lot of calulations or something.
+//ƒAƒCƒeƒ€à–¾EƒgƒCƒŒ
+A yukkuri-sized toilet.\nYukkuri may need to be corrected several times before they are fully\ntoilet trained, so please be patient.
+A yukkuri-sized litterbox-style toilet.\n–hLA–h¼Œø‰Ê‚Ì‚ ‚é»‚Å‚·‚Ì‚ÅA\n‚¤‚ñ‚¤‚ñ‚ğ‘|œ‚µ–Y‚ê‚Ä‚à‚ä‚Á‚­‚è‚¿‚á‚ñ‚Ì•‰’S‚ª­‚È‚¢‚Å‚·B
+A yukkuri-sized auto-flushing toilet.\n‚È‚ñ‚ÆA‚·‚²‚¢‹Zp‚Å”zŠÇH––³‚µ‚Å…‚ª—¬‚ê‚Ü‚·B\n‚«‚Á‚Æ¦‚¢ŒvZ‚³‚ê‚Ä‚é‚ñ‚Å‚µ‚å‚¤‚ËBŠp“x‚Æ‚©B
 
 
 
-//çµ¦æ°´å™¨
-Water supply for yukkuri.\nKos need to drink often, but just water\nand normal food is healthy for all yus. 
+//‹‹…Ší
+A water supply for yukkuri.\nŠî–{“I‚ÉA’Êí‚Ìƒt[ƒh‚ğ—^‚¦‚Ä‚¢‚ê‚Î‘¼‚Ì…•ª•â‹‹‚Í•K—v‚È‚¢‚Ì‚Å‚·‚ªA\nÔ‚ä‚Á‚­‚è‚Í‚±‚Ü‚ß‚È…•ª•â‹‹‚ª•K—v‚©‚à‚µ‚ê‚Ü‚¹‚ñB
 
 
 
-//åœŸç®¡
-A clay pipe  yukkuri can fit in snugly.\nThanks to the production method, delicate yukkuri skin isn't injured.
+//“yŠÇ
+An unglazed clay pipe.\nYukkuri fit inside snugly. Because the pipe underwent unglazed wind\nprocessing, it won't damage a yukkuri's delicate skin.
 
 
 
-//ãŠã‚‚ã¡ã‚ƒ
-An ordinary marble ball.\nYukkuri like to play ball with it.
-An ordinary rubber ball.\nIt has a different feeling than the marble one, doesn't it...
-An ordinary transparent dice, in a set of 50.\nYukkuri like to collect them as treasures.
-
-
-
-
-
-
-//äººå½¢
-A doll that looks like Reimu.\nYukkuri can feel lonely,\nbut keeping multiple can be difficult!
+//‚¨‚à‚¿‚á
+A marble.\nYukkuri like to play with balls`
+A rubber ball.\nƒr[‹Ê‚Æ‚Ìˆá‚¢‚ÍD‚İ‚Á‚ÄŠ´‚¶‚Å‚·‚©‚Ëcc
+A set of 50 clear dice.\nYukkuri like to have their own personal treasures`
 
 
 
 
 
 
-
-
-//éŠå…·
-It's a slide for yukkuri.\nYukkuri seem to really like this piece of park equipment.
-A trampoline for yukkuri.\nYukkuri like to fly in the sky especially as kos,\nso they really like jumping high with this toy.
-It's a pool for yukkuri.\nYukkuri like to swim here, but if they stay in the water too long they melt,\nso please pay attention to them.
+//lŒ`
+A doll modeled after Reimu-type yukkuris.\n‚ä‚Á‚­‚è‚¿‚á‚ñ‚ªâ‚µ‚ª‚Á‚Ä‚¢‚é‚¯‚ÇA\n‘½“ª”‚¢‚É‚Í“ï‚µ‚¢‚È[‚Æ‚¢‚¤•û‚Í¥”ñI
 
 
 
 
 
 
-//ãƒã‚¦ã‚¹
-A wooden house for yukkuri.\nIt's made from real wood, so it is certainly an easy place!
-A mushroom-shaped house for yukkuri.\nIt's made from... not a real mushroom,\nbut it seems to be still an easy place!
+
+
+//—V‹ï
+A playground slide for yukkuri.\n‚ä‚Á‚­‚è‚¿‚á‚ñ‚ÍŒö‰€‚É‚ ‚é‚æ‚¤‚È—V‹ï‚ª‚¨‹C‚É“ü‚è‚İ‚½‚¢‚Å‚·‚Ë[
+A trampoline for yukkuri.\n‚ä‚Á‚­‚è‚¿‚á‚ñ‚Í‹ó‚ğ”ò‚Ñ‚½‚¢‚Æv‚Á‚Ä‚¢‚éq‚ª‘½‚¢‚İ‚½‚¢‚ÅA\n‚‚­ƒWƒƒƒ“ƒv‚Å‚«‚éƒgƒ‰ƒ“ƒ|ƒŠƒ“‚Í‚¨‹C‚É“ü‚è‚È‚ñ‚Å‚·‚æ[
+A pool for yukkuri.\n‚ä‚Á‚­‚è‚¿‚á‚ñ‚Í…—‚Ñ‚à‘åD‚«‚È‚ñ‚Å‚·‚ªA’·ŠÔZ‚©‚Á‚Ä‚¢‚é‚¤‚¿‚É—n‚¯‚¿‚á‚¢‚Ü‚·‚Ì‚ÅA\n—V‚ÑI‚í‚Á‚½‚ç•Ğ•t‚¯‚Ä‚ ‚°‚Ä‚­‚¾‚³‚¢‚Ë[
 
 
 
 
 
 
-//ãƒ•ãƒ¼ãƒ‰
-This is a cheap yukkuri food home delivery contract.\nThe taste is not as good, but it has enough nutrients.\nJust like prescription medicine, this is a system that collects the price of visiting and using it at home.
-This is a yukkuri food home delivery contractã€‚\nIt's the best-selling food, and it seems like the taste is also satisfyingã€‚\nJust like prescription medicine, this is a system that collects the price of visiting and using it at home.
-Luxury yukkuri food home delivery contract.\nIt's good for special occasionsã€It gives yukkuri a "happiness" tasteã€‚\nJust like prescription medicine, this is a system that collects the price of visiting and using it at home.
-Cookies for yukkuri home delivery contract.\nYukkuris love sweets, so she'll be really happy.\nJust like a prescription medicine, this is a system that collects the price of visiting and using it at home.
-Cake for yukkuri home delivery contract.\nThere is no doubt yukkuri would be excited about a large cake!\nJust like a prescription medicine, this is a system that collects the price of visiting and using it at home.
-Ramune for yukkuri home delivery contract.\nWhen yukkuri eat ramune for some reason, sleep immediately.\nIt seems that many people use it as a sleeping pill when moving to a hospital.
-ã‚†ã£ãã‚Šã¡ã‚ƒã‚“ç”¨ã®å’Œä¸‰ç›†ã‚µãƒ—ãƒªã®å®…é…å¥‘ç´„ã§ã™ã€‚\nå’Œä¸‰ç›†ã‚’ãƒ™ãƒ¼ã‚¹ã«ã€çŸ¥èƒ½ã«è‰¯ã„å½±éŸ¿ã‚’ä¸ãˆã‚‰ã‚Œã‚‹æ „é¤Šåˆ†ã‚’ãƒŸãƒƒã‚¯ã‚¹ã—ã¾ã—ãŸã€‚\nãŠå‹‰å¼·ã®çµæœã«è‰¯ã„å½±éŸ¿ã‚’ä¸ãˆã‚Œã‚Œã‚‹ã¨æ€ã„ã¾ã™ã€‚
-ã‚†ã£ãã‚Šã¡ã‚ƒã‚“ç”¨ã®é¤…ç²‰ã‚µãƒ—ãƒªã®å®…é…å¥‘ç´„ã§ã™ã€‚\né«˜ç´šé¤…ç²‰ã‚’ãƒ™ãƒ¼ã‚¹ã«ã€å¤–è¦‹ã«è‰¯ã„å½±éŸ¿ã‚’ä¸ãˆã‚‰ã‚Œã‚‹æ „é¤Šåˆ†ã‚’ãƒŸãƒƒã‚¯ã‚¹ã—ã¾ã—ãŸã€‚\nä»–ã®ã‚†ã£ãã‚Šã«å¥½ã‹ã‚Œã‚„ã™ããªã‚‹ã¨æ€ã„ã¾ã™ã€‚
-ã‚†ã£ãã‚Šã¡ã‚ƒã‚“ç”¨ã®å°è±†ã‚µãƒ—ãƒªã®å®…é…å¥‘ç´„ã§ã™ã€‚\né«˜ç´šå°è±†ã‚’ãƒ™ãƒ¼ã‚¹ã«ã€ä½“ã«è‰¯ã„å½±éŸ¿ã‚’ä¸ãˆã‚‰ã‚Œã‚‹æ „é¤Šåˆ†ã‚’ãƒŸãƒƒã‚¯ã‚¹ã—ã¾ã—ãŸã€‚\nä½“åŠ›ã®æˆé•·ã«è‰¯ã„å½±éŸ¿ã‚’ä¸ãˆã‚‰ã‚Œã‚‹ã¨æ€ã„ã¾ã™ã€‚
-\nOne is 2000 yen, but the home delivery contract fee will be free
+//ƒnƒEƒX
+A wooden house for yukkuri.\nIt was made using natural wood, so naturally, it's an easy place!
+A house for yukkuri modeled after a mushroom.\n©‘R‚Ì‚«‚Ì‚±‚ğ‰ÁH‚µ‚Äì‚Á‚½cc‚í‚¯‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚ªA\n‚Æ‚Á‚Ä‚à‚ä‚Á‚­‚è‚µ‚Ä‚¢‚é‚»‚¤‚Å‚·‚æI
+
+
+
+
+
+
+//ƒt[ƒh
+A budget yukkuri food delivery subscription.\n–¡‚Í‚¢‚Ü‚¢‚¿‚İ‚½‚¢‚Å‚·‚ªA‚±‚ê‚Å‚à‰h—{‚Í\•ª‚Å‚·‚æ[B\n’u‚«–ò‚İ‚½‚¢‚ÉA‚¨‘î‚É–K–â‚µ‚Äg‚Á‚½•ª‚Ì‘ã‹à‚ğ’¥û‚·‚éƒVƒXƒeƒ€‚Å‚·B
+A yukkuri food delivery subscription.\nThe best-selling yukkuri food. Yukkuri find its taste adequate. \n’u‚«–ò‚İ‚½‚¢‚ÉA‚¨‘î‚É–K–â‚µ‚Äg‚Á‚½•ª‚Ì‘ã‹à‚ğ’¥û‚·‚éƒVƒXƒeƒ€‚Å‚·B
+A luxury yukkuri food delivery subscription.\n“Á•Ê‚È‚Æ‚«‚È‚Ç‚É‚ ‚°‚½‚¢A‚ä‚Á‚­‚è‚¿‚á‚ñ‚à"Happiness`"‚È–¡‚İ‚½‚¢‚Å‚·B\n’u‚«–ò‚İ‚½‚¢‚ÉA‚¨‘î‚É–K–â‚µ‚Äg‚Á‚½•ª‚Ì‘ã‹à‚ğ’¥û‚·‚éƒVƒXƒeƒ€‚Å‚·B
+A yukkuri cookie delivery subscription.\n‚ä‚Á‚­‚è‚¿‚á‚ñ‚ÍAŠÃ‚¢‚à‚Ì‚ª‘åD‚«‚È‚Ì‚ÅA‚·‚²‚­Šì‚Ô‚ñ‚Å‚·‚æ[B\n’u‚«–ò‚İ‚½‚¢‚ÉA‚¨‘î‚É–K–â‚µ‚Äg‚Á‚½•ª‚Ì‘ã‹à‚ğ’¥û‚·‚éƒVƒXƒeƒ€‚Å‚·B
+A yukkuri cake delivery subscription.\n‘å‚«‚ÈƒP[ƒL‚É‚ä‚Á‚­‚è‚¿‚á‚ñ‚à‘å‹»•±ŠÔˆá‚¢‚È‚µ‚Å‚·I\n’u‚«–ò‚İ‚½‚¢‚ÉA‚¨‘î‚É–K–â‚µ‚Äg‚Á‚½•ª‚Ì‘ã‹à‚ğ’¥û‚·‚éƒVƒXƒeƒ€‚Å‚·B
+A yukkuri ramune delivery subscription.\n‚ä‚Á‚­‚è‚¿‚á‚ñ‚ÍAƒ‰ƒ€ƒl‚ğH‚×‚é‚Æ‰½ŒÌ‚©’¼‚®‚É–°‚Á‚Ä‚µ‚Ü‚¤‚Ì‚ÅA\n•a‰@‚Ö‚ÌˆÚ“®‚È‚Ç‚É‡–°–ò‘ã‚í‚è‚Ég‚Á‚Ä‚¢‚é•û‚à‘½‚¢‚İ‚½‚¢‚Å‚·‚æ[B
+A yukkuri sugar supplement delivery subscription.\n˜aO–~‚ğƒx[ƒX‚ÉA’m”\‚É—Ç‚¢‰e‹¿‚ğ—^‚¦‚ç‚ê‚é‰h—{•ª‚ğƒ~ƒbƒNƒX‚µ‚Ü‚µ‚½B\n‚¨•×‹­‚ÌŒ‹‰Ê‚É—Ç‚¢‰e‹¿‚ğ—^‚¦‚ê‚ê‚é‚Æv‚¢‚Ü‚·B
+A yukkuri flour supplement delivery subscription.\n‚‹‰–İ•²‚ğƒx[ƒX‚ÉAŠOŒ©‚É—Ç‚¢‰e‹¿‚ğ—^‚¦‚ç‚ê‚é‰h—{•ª‚ğƒ~ƒbƒNƒX‚µ‚Ü‚µ‚½B\n‘¼‚Ì‚ä‚Á‚­‚è‚ÉD‚©‚ê‚â‚·‚­‚È‚é‚Æv‚¢‚Ü‚·B
+A yukkuri bean paste supplement delivery subscription.\n‚‹‰¬“¤‚ğƒx[ƒX‚ÉA‘Ì‚É—Ç‚¢‰e‹¿‚ğ—^‚¦‚ç‚ê‚é‰h—{•ª‚ğƒ~ƒbƒNƒX‚µ‚Ü‚µ‚½B\n‘Ì—Í‚Ì¬’·‚É—Ç‚¢‰e‹¿‚ğ—^‚¦‚ç‚ê‚é‚Æv‚¢‚Ü‚·B
+\n‚P‚Â2000‰~‚Å‚·‚ªA‘î”zŒ_–ñ—¿‚Í–³—¿‚É‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·‚Ë[
+

@@ -1,10 +1,11 @@
-//æ¥åº—æ™‚
-Welcome!\nWe're in the middle of preopening!!
-Between the bronze badge there are some bad apples...
-The bronze badges know how to use the toilet.
-Since it's easy for koyukkuri to hurt themselves when playing,\nplease spread some proper flooring in the yukkurarium.
-If you leave the pool as it is, it'll become dirty and accidents\nmight occur. Please put it away after playing.
-If the yukkurarium is too crowded, you can't get other yukkuri.\nKeep that in mind!
+//—ˆ“X
+Welcome!
+“ºƒoƒbƒW‚Ì’†‚É‚Í­‚µ«Ši‚Ìˆ«‚¢q‚à‚¢‚Ü‚·cc
+“ºƒoƒbƒW‚Ìq‚Í‚«‚¿‚ñ‚ÆƒgƒCƒŒ‚àŠo‚¦‚ç‚ê‚Ü‚·‚æ[
+q‚ä‚Á‚­‚è“¯m‚Å—V‚Î‚¹‚Ä‚¢‚é‚Æ‰ö‰ä‚ğ‚µ‚â‚·‚¢‚Ì‚ÅA\n…‘…‚É‚Í°Ş‚ğ•~‚¢‚Ä‚ ‚°‚Ä‚­‚¾‚³‚¢‚Ë[
+ƒv[ƒ‹‚ğ‚»‚Ì‚Ü‚Ü‚É‚µ‚Ä‚¨‚­‚Æ•s‰q¶‚É‚È‚è‚Ü‚·‚µA\n–ŒÌ‚à‹N‚«‚é‚Ì‚Å—V‚ÑI‚í‚Á‚½‚ç•Ğ•t‚¯‚Ä‚ ‚°‚é‚ÆˆÀS‚Å‚·‚æ[
+…‘…‚ª‰ß–§‚·‚¬‚é‚ÆAq‹Ÿ‚ªo—ˆ‚È‚­‚È‚é‚İ‚½‚¢‚È‚ñ‚ÅA\n‹C‚ğ‚Â‚¯‚Ä‚ ‚°‚Ä‚­‚¾‚³‚¢‚Ë
+‚ä‚Á‚­‚è‚Ì”ƒ‚¢æ‚è‚Í‘½­l“é‚ê‚µ‚Ä‚éq‚¾‚¯‚É‚È‚è‚Ü‚·[B\nl‚É“é‚ê‚Ä‚¢‚È‚¢q‚Íƒyƒbƒg‚Æ‚µ‚Ä•sŒü‚«‚Å‚·‚Ì‚Åcc
 
 
 
@@ -16,44 +17,43 @@ If the yukkurarium is too crowded, you can't get other yukkuri.\nKeep that in mi
 
 
 
-
-//é€€åº—æ™‚
-Are you done shopping?
-
-
-
-
-//ã‚¿ãƒƒãƒ
-Kyaah!?
-Sexual harassment is bad!
-
-
-//ã‚†ã£ãã‚Šè³¼å…¥
-You want to buy a yukkuri?
-The purchased yukkuri is in your freezer.
-Your freezer is full,\nplease make some space.
-You changed your mind?
-Thank you for your patronage!
-You want to sell a yukkuri?
-
-
-
-//ã‚†ã£ãã‚Šè³¼å…¥ï¼’
-It would be 
- Yen
-This yukkuri has been trained.\n
-This yukkuri is a descendant of a bronze badge.\n
-This yukkuri is a descendant of a silver badge.\n
-This yukkuri is a descendant of a gold badge.\n
+//‘Ş“X
+‚©‚¦‚Á‚¿‚á‚¤‚ñ‚Å‚·‚©H
 
 
 
 
+//ƒ^ƒbƒ`
+Kya!?
+ƒZƒNƒnƒ‰‚Í‚¢‚¯‚Ü‚¹‚ñ‚æI
 
-//ã‚¢ã‚¤ãƒ†ãƒ è³¼å…¥
-Do you want to buy equipment for\nyukkuri breeding?
-Uwaa! You bought all the breeding equipment!\nThank you very much!!
 
+//‚ä‚Á‚­‚èw“ü
+Would you like to buy a yukkuri?
+I put the purchased yukkuri inside the cooler`
+There's no room for her since the cooler is full, so\nplease come back after clearing some space`
+‚â‚ß‚¿‚á‚¤‚ñ‚Å‚·‚©H
+Thank you for your purchase!
+Would you like to sell a yukkuri?
+
+
+
+//‚ä‚Á‚­‚èw“ü‚Q
+The price is 
+ yen.
+This yukkuri was trained by me.\n
+This yukkuri was born to bronze-badged parents.\n
+This yukkuri was born to silver-badged parents.\n
+This yukkuri was born to gold-badged parents.\n
+
+
+
+
+
+//ƒAƒCƒeƒ€w“ü
+Would you like to buy yukkuri raising supplies?
+Uwa! ‚¨“X‚É—L‚é”ˆç—p•iA‘S•””ƒ‚Á‚Ä‚­‚ê‚½‚ñ‚Å‚·‚ËI\nThank you!!
+„‚Æ‚¨o‚©‚¯‚µ‚½‚¢‚ñ‚Å‚·‚©H
 
 
 

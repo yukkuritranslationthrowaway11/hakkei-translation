@@ -1,22 +1,23 @@
-//来店時
-\n値段は
-円になるんすけど、買うっすかー？
-//アイテム説明・フード
+//���X��
+\nThat costs
+�~�ɂȂ�񂷂��ǁA�����������[�H
+//�A�C�e�������E�t�[�h
 
 
 
 
 
-//虐待器具
-キリっすー\nあにゃるにぷすっと刺すのがいいっすねー\nその後は普通に餌あげてうんうんさせるっす
-ハンマーっすー\nゆっくりを処分するときに便利っすねー。
-金属製の箱っすー\n恐怖心を調整するときによく使うっすねー。\nゆっくりは大きな金属音が苦手みたいっすー人間もか。
-ローターっすー\nこれ以上の説明は別料金貰うっすよ？
+//�s�Ҋ��
+A hand drill.\nStab it repeatedly into a yukkuri's anyaru�`\nAfterwards, give it food as normal, and watch its reaction when it poops.
+A hammer.\n����������������Ƃ��ɕ֗������ˁ[.
+A metal box.\n���|�S�𒲐�����Ƃ��ɂ悭�g�������ˁ[�B\n�������͑傫�ȋ����������݂��������[�l�Ԃ����B
+A vibrator for use on yukkuri.\n����ȏ�̐����͕ʗ����Ⴄ������H
 
-アルコールランプっすー\n足焼きはしちゃうと治療法がないんで、適切なタイミングで行うべきっすー
-お仕置き用の固定具っすー\nあおむけでひっぷさんを突き出した状態で固定できるっすー\n身動きさせないことで、ひっぷさん系の虐待がやりやすくなるっすー
-ぺにぺに切断用のハサミっすー\n特殊な形状で、切断と同時に切断面を圧着することで出餡を防ぐらしいっすー\n意図せず死なすような真似は避けたいっすからねー
-茎切断用のハサミっすー\n特殊な形状で、切断と同時に切断面を圧着することで出餡を防ぐらしいっすー\n意図せず死なすような真似は避けたいっすからねー
-ゆっくり用のバリカンっすー\n電熱線でカットするので、砂糖細工のゆっくりの髪の毛にはピッタリらしいっす。
-ゆっくりの舌を麻痺させる薬っすー\nいい感じの辛味と苦味で、ゆっくりの舌を永続的に麻痺させるっす。\n成ゆでも赤ちゃんみたいな喋り方になるんすよー
+An alcohol lamp. Safe for human children.\n���Ă��͂����Ⴄ�Ǝ��Ö@���Ȃ���ŁA�K�؂ȃ^�C�~���O�ōs���ׂ������[
+A Seat of Punishment. One-size-fits-all yukkuri restraint included.\n�����ނ��łЂ��Ղ����˂��o������ԂŌŒ�ł�������[\n�g���������Ȃ����ƂŁA�Ђ��Ղ���n�̋s�҂����₷���Ȃ�����[
+A nyutering kit.\n����Ȍ`��ŁA�ؒf�Ɠ����ɐؒf�ʂ��������邱�Ƃŏo�Q��h���炵�������[\n�Ӑ}�������Ȃ��悤�Ȑ^���͔���������������ˁ[
+A pair of stalk removal shears.\n����Ȍ`��ŁA�ؒf�Ɠ����ɐؒf�ʂ��������邱�Ƃŏo�Q��h���炵�������[\n�Ӑ}�������Ȃ��悤�Ȑ^���͔���������������ˁ[
+A razor for use on yukkuri.\n�d�M���ŃJ�b�g����̂ŁA�����׍H�̂������̔��̖тɂ̓s�b�^���炵�������B
+"Sitataran," a tongue paralysis medication for yukkuri.\n���������̐h���Ƌꖡ�ŁA�������̐���i���I�ɖ�Ⴢ���������B\n����ł��Ԃ����݂����Ȓ�����ɂȂ�񂷂�[
+
 

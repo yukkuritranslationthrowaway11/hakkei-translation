@@ -1,58 +1,8 @@
-//æ¥åº—æ™‚
-Come in! We're still opening, so take it easy!
-We have plenty of ã€ŒEnergeticã€ high-resistance yukkuri!
-With high durability they can stand more abuse...\nDoing that without killing is a man's dream!
-It seems that yukkuri will not mourn the corpses of their\nfamily members, but will be disgusted by the death smell.
-Let me tell you something: if you have concerns about the abuse\nleave a comment in my blog!
-
-
-
-
-
-
-
-
-
-
-
-
-
-//é€€åº—æ™‚
-Please come again!
-
-
-
-
-//ã‚¿ãƒƒãƒ
-Muh...!
-Huh... these are some good muscles!
-
-
-//ã‚†ã£ãã‚Šè³¼å…¥
-Interested in a yukkuri?
-The yukkuri you bought was placed in your freezer.
-Your freezer is full, please make some space.
-You're done?
-Thanks for your purchase!
-
-
-
-
-//ã‚†ã£ãã‚Šè³¼å…¥ï¼’
-That'll be
- yen, you sure about it?
-A special medicine to increase yukkuri stamina for training\n
-
-
-
-
-
-
-
-
-//ã‚¢ã‚¤ãƒ†ãƒ è³¼å…¥
-Looking for abyuse\nsupplies?
-You bought all the abyuse supplies!\nThis is just a step forward through the abyuser path!!
+//—ˆ“X
+‚æ‚­—ˆ‚Ä‚­‚ê‚½A‚ä‚Á‚­‚è‚µ‚Ä‚¢‚Á‚Ä‚­‚ê
+‚‘Ï‹v‚ä‚Á‚­‚è‚ÍuŠˆ‚«‚Ì‚¢‚¢v«Ši‚ª‘½‚¢‚¼I
+‘Ï‹v—Í‚ª‚ ‚ê‚Î‹s‘Ò‚Ìè”‚ª‘‚â‚¹‚é‚©‚ç‚Ècc¶‚©‚³‚¸E‚³‚¸‚Í‚P‚Â‚Ì—‘z‚¾
+‚ä‚Á‚­‚è‚Í“¯‘°‚Ì€Š[‚É‘Î‚·‚él‚¦‚Í€L‚ÌŒ™ˆ«Š´‚É‘S‚Äã‘‚«‚³‚ê‚é‚æ‚¤‚¾
 
 
 
@@ -67,5 +17,63 @@ You bought all the abyuse supplies!\nThis is just a step forward through the aby
 
 
 
+//‘Ş“X
+‚Ü‚½‚«‚Ä‚­‚ê‚½‚Ü‚¦I
 
 
+
+
+//ƒ^ƒbƒ`
+‚Ş‚ñ‚ÁccI
+ƒtƒbcc‹Ø“÷‚Í—Ç‚¢‚¼I
+
+
+//‚ä‚Á‚­‚èw“ü
+Ya wanna buy a yukkuri?
+I put it in the cooler.
+There's no room in the cooler, so please\ncome again when there's space for it.
+‚â‚ß‚Ä‚µ‚Ü‚¤‚Ì‚©H
+Thanks for the purchase!
+
+
+
+
+//‚ä‚Á‚­‚èw“ü‚Q
+It's 
+ yen, ya wanna buy it?
+The yukkuri's stamina-boosted with a special drug. Untrained, too. \n
+
+
+
+
+
+
+
+
+//ƒAƒCƒeƒ€w“ü
+Ya wanna buy stuff for yukkuri abuse?
+‘S‚Ä‚Ì‹s‘Ò—p•i‚ğw“ü‚µ‚Ä‚­‚ê‚½‚Ì‚©I\n‚Ç‚¤‚©‚±‚Ì‚Ü‚ÜA‹s‘Ò‹SˆĞS‚Ö‚Ì“¹‚ğ“Ë‚«i‚ñ‚Å‚­‚ê‚½‚Ü‚¦II
+
+
+
+
+
+‚â‚ŸA‚æ‚­—ˆ‚Ä‚­‚ê‚½B
+‚ñH‰½‚©”Y‚İ‚ª‚ ‚è‚»‚¤‚¾‚Ècc
+cc cc
+‚»‚¤‚©A‘Ï‹v—Í‚Ì‚‚¢‚ä‚Á‚­‚è‚ª\nƒnƒ“ƒ}[‚ÌˆêŒ‚‚·‚ç‘Ï‚¦‚é–‚É•s–‚ğ‚¢‚¾‚¢‚Ä‚¢‚é‚Ì‚©cc
+Haha...
+No, I'm sorry.
+‚¢‚âA‚·‚Ü‚È‚¢B\nÎ‚¤‚Â‚à‚è‚Í‚È‚©‚Á‚½‚Ì‚¾‚ªA‚©‚Â‚Ä‚Ì„‚Æ“¯‚¶”Y‚İ‚ğ•ø‚¢‚Ä‚¢‚é‚Æ‚Í‚Ècc
+¶‚©‚³‚¸E‚³‚¸‚Ì‰Ê‚Ä‚ÉI‚í‚è‚ğ‚°‚éA
+¶‚©‚³‚¸E‚³‚¸‚Ì‰Ê‚Ä‚ÉI‚í‚è‚ğ‚°‚éA\n‚»‚ÌƒtƒBƒi[ƒŒ‚ÌuŠÔ‚ÉI‚í‚ç‚¹‚é‚±‚Æ‚ªo—ˆ‚È‚¢cc
+‚±‚ê‚Å‚Í“¹‰»‚¾‚æ
+ƒtƒbcc
+ƒtƒbcc\nƒLƒ~‚É‚È‚ç“`‚¦‚Ä‚à—Ç‚¢‚©‚à‚µ‚ê‚È‚¢‚È
+‚ä‚Á‚­‚è‚Ì¶–½ˆÛ‚Í‚»‚Ì–w‚Ç‚ğ’†•éQ‚Ås‚Á‚Ä‚¢‚é‚±‚Æ‚Í’m‚Á‚Ä‚é‚ÈH
+“Áê‚ÈŒ‚Ìˆ¬‚è‚ÅA‚»‚Ì’†•éQ‚ÉŒø‰Ê“I‚É‘ÅŒ‚‚ğZ“§‚³‚¹‚é•û–@‚ª‚ ‚é‚Ì‚¾‚æB
+’†•éQ‚ğƒ^[ƒQƒbƒg‚Æ‚·‚é‚±‚Æ‚ÅA‚»‚ÌŒ‚Íqí‚¶‚á‚È‚¢ˆĞ—Í‚ğ”­Šö‚·‚éI
+‚»‚ê‚ğƒLƒ~‚É‹³‚¦‚æ‚¤B
+‚È‚ÉA‚¨—ç‚È‚Ç‚Í‚¢‚ç‚È‚¢‚³B
+‚È‚ÉA‚¨—ç‚È‚Ç‚Í‚¢‚ç‚È‚¢‚³B\náÒ‚ğ“±‚­‚Ì‚Í”NŠñ‚è‚Ì“ÁŒ ‚³B
+Alright, now try it on your yukkuri!
