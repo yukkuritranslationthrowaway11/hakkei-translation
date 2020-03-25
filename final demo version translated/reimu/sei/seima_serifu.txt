@@ -281,7 +281,7 @@ ma_sei_hanyou_peropero_2_6 = "Don't take it easy and do lick-lick!"
 ma_sei_hanyou_peropero_2_7 = "Quickly comfort yˆêlÌz!"
 ma_sei_hanyou_peropero_2_8 = "Quickly do lick-lick!!"
 ma_sei_hanyou_peropero_2_9 = "yˆêlÌz is hurt-hurtttt!"
-ma_sei_hanyou_peropero_2_10 = "Do lick-lick toyˆêlÌz! Right now is fine!"
+ma_sei_hanyou_peropero_2_10 = "Do lick-lick to yˆêlÌz! Right now is fine!"
 
 ma_sei_hanyou_wash_1_1 = "Want you to lick-lick!"
 ma_sei_hanyou_wash_1_2 = "Do clean-clean to yˆêlÌz!"
