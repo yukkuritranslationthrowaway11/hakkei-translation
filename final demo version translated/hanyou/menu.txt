@@ -35,7 +35,7 @@ Summer
 Fall
 Winter
 Week
-Yen
+ yen
 Mister footsie!?
 Abyuser level
 ã≠êßÉâÉCÉuäJç√!
@@ -66,8 +66,8 @@ Burnt foot cure
 Hair transplant
 Sell copper-badged yu
 Sell silver-badged yu
-(Arithmetic) Successive
-Correct!
+Counted to 
+! New record!
 Scold toggle
 Skip to morning
 Skip to evening
@@ -253,7 +253,7 @@ Abyuser
 Bonus 2
 Hair transplant
 Unimplemented
- correct answers:
+(highest):
 Total points:
 Intelligence increase bonus:
 Affection increase bonus:
@@ -322,7 +322,7 @@ Once
 Twice
 Thrice
 Cause of death:
-Age at death
+Age at death:
 ÇÀÇÒÇ∆
 season and
 week
@@ -338,7 +338,7 @@ Full yukk-
 urarium
 Discard
 Discard selected
-Money:
+Money: 
 (can't sell this yukkuri here)
 Box
 Sell yukkuri
@@ -358,13 +358,13 @@ View yu raising supplies
 Sell yukkuri
 Confirm purchase
 Changed my mind
-View endurance-enhanced yus
+View stamina-enhanced yus
 View abyuse tools
 Purchased trained yu
 Purchased copper-badged yu
 Purchased silver-badged yu
 Purchased gold-badged yu
-Purchased endurance-enhanced yu
+Purchased stamina-enhanced yu
 
 
 
