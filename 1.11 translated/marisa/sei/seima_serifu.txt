@@ -2438,16 +2438,16 @@ ma_sei_suberidai_amae_no_10 = "Why not helping yˆêlÌz upppp!?"
 
 
 
-ma_sei_suberidai_1st_1 = "‚¢‚­‚Ì‚º[I"
+ma_sei_suberidai_1st_1 = "Going no ze`!"
 ma_sei_suberidai_1st_2 = "Watch yˆêlÌz's magnificent sliding!"
 ma_sei_suberidai_1st_3 = "Sliding easy no ze!"
 ma_sei_suberidai_1st_4 = "Watch yˆêlÌz easy!"
-ma_sei_suberidai_1st_5 = "‚ä‚Á‚­‚è ‚¢‚­‚Ì‚ºI"
-ma_sei_suberidai_1st_6 = "‚¢‚­‚Ì‚º[I"
+ma_sei_suberidai_1st_5 = "Going easy no ze!"
+ma_sei_suberidai_1st_6 = "Going no ze`!"
 ma_sei_suberidai_1st_7 = "Watch yˆêlÌz's magnificent sliding!"
 ma_sei_suberidai_1st_8 = "Sliding easy no ze!"
 ma_sei_suberidai_1st_9 = "Watch yˆêlÌz easy!"
-ma_sei_suberidai_1st_10 = "‚ä‚Á‚­‚è ‚¢‚­‚Ì‚ºI"
+ma_sei_suberidai_1st_10 = "Going easy no ze!"
 
 
 ma_sei_suberidai_hi_1 = "High no ze!"
@@ -2571,16 +2571,16 @@ ma_sei_toranpo_amae_no_10 = "Why not helping yˆêlÌz upppp!?"
 
 
 
-ma_sei_toranpo_1st_1 = "‚¢‚­‚Ì‚º[I"
+ma_sei_toranpo_1st_1 = "Going no ze`!"
 ma_sei_toranpo_1st_2 = "Watch yˆêlÌz's magnificent flight!"
 ma_sei_toranpo_1st_3 = "Doing jump-jump easy no ze!"
 ma_sei_toranpo_1st_4 = "Watch yˆêlÌz easy!"
-ma_sei_toranpo_1st_5 = "‚ä‚Á‚­‚è ‚¢‚­‚Ì‚ºI"
-ma_sei_toranpo_1st_6 = "‚¢‚­‚Ì‚º[I"
+ma_sei_toranpo_1st_5 = "Going easy no ze!"
+ma_sei_toranpo_1st_6 = "Going no ze`!"
 ma_sei_toranpo_1st_7 = "Watch yˆêlÌz's magnificent flight!"
 ma_sei_toranpo_1st_8 = "Flying easy no ze!"
 ma_sei_toranpo_1st_9 = "Watch yˆêlÌz easy!"
-ma_sei_toranpo_1st_10 = "‚ä‚Á‚­‚è ‚¢‚­‚Ì‚ºI"
+ma_sei_toranpo_1st_10 = "Going easy no ze!"
 
 
 ma_sei_toranpo_hi_1 = "Flying! yˆêlÌz is flying no ze!!"
@@ -4578,16 +4578,16 @@ ma_sei_no_rikai_esa_splash_8 = ""Happiness`!" comes after munch-munch da ze!!"
 ma_sei_no_rikai_esa_splash_9 = "Not doing "Happiness`!" can't take it easy da ze!"
 ma_sei_no_rikai_esa_splash_10 = "But yˆêlÌz's "Happiness`" takes it easy da ze!!"
 
-ma_sei_ok_esa_splash_1 = "‚µ‚ ‚í‚¹[ ‚µ‚Ä ‚¢‚¢‚Ì‚ºIH"
+ma_sei_ok_esa_splash_1 = "Okay to do "Happiness`!" no ze!?"
 ma_sei_ok_esa_splash_2 = "Really can do "Happiness`" no ze!?"
-ma_sei_ok_esa_splash_3 = "‚µ‚ ‚í‚¹[ ‚Í ‚ä‚Á‚­‚è ‚µ‚Ä‚é‚Ì‚º‚¥‚¥I"
-ma_sei_ok_esa_splash_4 = "‚ä‚é‚µ‚Ä ‚­‚ê‚é‚Ì‚ºIH"
-ma_sei_ok_esa_splash_5 = "‚µ‚ ‚í‚¹[I ‚µ‚Ä‚à ‚¢‚¢‚Ì‚ºIH"
-ma_sei_ok_esa_splash_6 = "‚Ş[‚µ‚á ‚Ş[‚µ‚á ‚µ‚½‚ç ‚µ‚ ‚í‚¹[I ‚µ‚Ä‚¢‚¢‚Ì‚ºIH"
-ma_sei_ok_esa_splash_7 = "‚ä‚é‚µ‚Ä ‚­‚ê‚é‚Ì‚ºIH"
-ma_sei_ok_esa_splash_8 = "‚Ş[‚µ‚á ‚Ş[‚µ‚á ‚µ‚½‚ç ‚µ‚ ‚í‚¹[I‚È‚ñ‚¾‚ºII"
+ma_sei_ok_esa_splash_3 = ""Happiness`!" takes it easy no zeee!"
+ma_sei_ok_esa_splash_4 = "y”‚¢åz is allowing no ze!?"
+ma_sei_ok_esa_splash_5 = "Really okay to do "Happiness`!" no ze!?"
+ma_sei_ok_esa_splash_6 = "Okay to do "Happiness`!" after munch-munch no ze!?"
+ma_sei_ok_esa_splash_7 = "y”‚¢åz is allowing no ze!?"
+ma_sei_ok_esa_splash_8 = "Doing "Happiness`!" after munch-munch! Da ze!!"
 ma_sei_ok_esa_splash_9 = "Doing "Happiness`!" can take it easy no ze!"
-ma_sei_ok_esa_splash_10 = "‚Ù‚ñ‚Æ‚É ‚â‚Á‚Ä ‚¢‚¢‚Ì‚ºIH"
+ma_sei_ok_esa_splash_10 = "Really okay to do no ze!?"
 
 ;////////////////////////////////////////////////////////////
 ;‚ä‚Á‚­‚·‹Ö~
