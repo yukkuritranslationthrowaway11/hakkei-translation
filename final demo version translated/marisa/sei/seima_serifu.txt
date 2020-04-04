@@ -589,15 +589,15 @@ ma_sei_sougo_thank_1_9 = " thank you nanoze!"
 ma_sei_sougo_thank_1_10 = " really helped no ze!"
 
 ma_sei_sougo_thank_2_1 = "You're welcome nanoze!"
-ma_sei_sougo_thank_2_2 = "とうっぜん の ことを したまでなのぜ！"
+ma_sei_sougo_thank_2_2 = "Was the natural thing to do nanoze!"
 ma_sei_sougo_thank_2_3 = "【一人称】は ゆっくり した ゆっくりなのぜ！"
 ma_sei_sougo_thank_2_4 = "たすけあいっ の せいっしん なのぜ！"
-ma_sei_sougo_thank_2_5 = "ゆっくりは わけあう もの なのぜ！"
+ma_sei_sougo_thank_2_5 = "Sharing things takes it easy nanoze!"
 ma_sei_sougo_thank_2_6 = "You're welcome nanoze!"
-ma_sei_sougo_thank_2_7 = "とうっぜん の ことを したまでなのぜ！"
+ma_sei_sougo_thank_2_7 = "Was the natural thing to do nanoze!"
 ma_sei_sougo_thank_2_8 = "【一人称】は ゆっくり した ゆっくりなのぜ！"
 ma_sei_sougo_thank_2_9 = "たすけあいっ の せいっしん なのぜ！"
-ma_sei_sougo_thank_2_10 = "ゆっくりは わけあう もの なのぜ！"
+ma_sei_sougo_thank_2_10 = "Sharing things takes it easy nanoze!"
 
 ;////////////////////////////////////////////////////////////
 ;相互遊び
