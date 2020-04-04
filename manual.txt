@@ -1,3 +1,9 @@
+CONTROLS
+It's mostly a point-and-click game.
+Right-click to deselect an action.
+You can click on the scold toggle to... well... toggle it. You can also press
+the space bar to toggle it.
+
 SCOLDING
 The scold toggle is currently in Japanese. If you see する, the scold toggle is
 set to ON. If you instead see しない, it is set to OFF.
@@ -43,3 +49,5 @@ Sometimes, doing an action to one yukkuri will also do it to overlapping
 yukkuri, or you end up doing it to a different yukkuri than the intended one.
 A potential way around this is clicking the label or number above the yukkuri's
 head instead of their sprite.
+
+Autosave saves every 5 minutes.
