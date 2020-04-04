@@ -6879,7 +6879,7 @@ ma_sei_rapo_attack_3_8 = "Nhoooooo! Anyone is fine!"
 ma_sei_rapo_attack_3_9 = "Nnhoooooo! Anyone is fine!"
 ma_sei_rapo_attack_3_10 = "Nhoooooo! Giving love!"
 
-ma_sei_rapo_attack_4_1 = "Giving you yˆêlÌz city-sect love!"
+ma_sei_rapo_attack_4_1 = "Giving you yˆêlÌz's city-sect love!"
 ma_sei_rapo_attack_4_2 = "Nhoooooo!"
 ma_sei_rapo_attack_4_3 = "Nnhoooooo!"
 ma_sei_rapo_attack_4_4 = "Take yˆêlÌz's loveeee!"

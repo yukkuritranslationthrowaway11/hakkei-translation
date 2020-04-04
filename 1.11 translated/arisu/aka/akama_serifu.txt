@@ -6799,7 +6799,7 @@ ma_aka_rapo_attack_3_9 = "Nnhoooooo! Anyone ish fine!"
 ma_aka_rapo_attack_3_10 = "Nhoooooo! Gibing love!"
 
 
-ma_aka_rapo_attack_4_1 = "Gibing youyˆêlÌz'sh cidy-shect love!"
+ma_aka_rapo_attack_4_1 = "Gibing you yˆêlÌz'sh cidy-shect love!"
 ma_aka_rapo_attack_4_2 = "Nhoooooo!"
 ma_aka_rapo_attack_4_3 = "Nnhoooooo!"
 ma_aka_rapo_attack_4_4 = "Chake yˆêlÌz'sh loveeee!"
