@@ -71,10 +71,21 @@ actions you take that would make your yukkuri like you more are more effective.
 ou are always able to toggle your earned bonuses on or off, so you can switch
 between playing with and without them at your leisure.
 
-WHY ISN'T MY SCUM ALICE RAPING OTHER YUKKURI?
+WHY ISN'T MY AROUSED ALICE RAPING OTHER YUKKURI?
 If the Alice is acting like any other aroused yukkuri, just wait. Alice will
 eventually face forward with a sad expression, say a line of dialogue, and then
 she will attempt rape.
+I'm not sure what the conditions are for this one, but some yukkuri will ask an
+aroused Alice to rub-rub with them with the intention of refreshing right
+afterwards. Alice accepts the consensual rub-rub and refresh, and exits the
+arousal state.
+I still have to test if non-scum Alices will rape, if Alices will rape after
+all arousal methods and not just Viyugra, if married Alices will only try to
+rape their partner and nobody else, if married Alices' partners always ask her
+for a rub-rub leading into refreshing before she can enter rape mode, if married
+Alices will rape at all and if so under which conditions, and if other yukkuri
+will rape, too. I also need to test if she or any other yukkuri will use a
+Reimu doll to rut against.
 
 ON CONFISCATING AND REPLACING ACCESSORIES
 Hide adult Reimu's accessory. Let's call this Reimu "Reimyu" for ease of
