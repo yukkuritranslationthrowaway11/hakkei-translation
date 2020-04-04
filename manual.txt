@@ -44,7 +44,7 @@ If the Alice is acting like any other aroused yukkuri, just wait. Alice will
 eventually face forward with a sad expression, say a line of dialogue, and then
 she will attempt rape.
 
-STEALING ACCESSORIES
+ON CONFISCATING AND REPLACING ACCESSORIES
 Hide adult Reimu's accessory. Let's call this Reimu "Reimyu" for ease of
 reference. Then, hold a different adult Reimu's accessory. Let's call that
 adult Reimu "Reimu." Reimyu will not run after Reimu's accessory. If you try to
@@ -58,6 +58,12 @@ mentioned above with Reimyu not reacting whatsoever to Reimu's accessory also
 happens if you try to put a koReimu ribbon on an adult Reimu, or a koMarisa hat
 on a koAlice. Also, Shell Marisa does not accept regular Marisa accessories and
 vice versa).
+
+You cannot use the menu to place more than one koyukkuri accessory and one
+adult yukkuri accessory at the same time. So, you can place a koReimu ribbon
+and an adult Reimu ribbon, but not a koReimu ribbon and a koMarisa ribbon, or
+two koReimu ribbons. You must either put it away (use "Hide accessory") or
+wait for an accessoryless yukkuri of the right type and age to put it on.
 
 MISCELLANEOUS INFO
 Sometimes, doing an action to one yukkuri will also do it to overlapping
