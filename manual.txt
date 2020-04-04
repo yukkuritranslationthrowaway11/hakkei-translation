@@ -1,26 +1,45 @@
 SCOLDING
-The scold toggle is currently in Japanese. If you see する, the scold toggle is set to ON. If you instead see しない, it is set to OFF.
-If an action is selected and the scold toggle text is white, performing the action will have a scolding effect if you set the toggle to ON. If the scold toggle text is gray, regardless of whether the toggle is ON or OFF the action will not have a scolding effect.
-If no action is selected and the scold toggle is ON, clicking a yukkuri verbally scolds it.
+The scold toggle is currently in Japanese. If you see する, the scold toggle is
+set to ON. If you instead see しない, it is set to OFF.
+If an action is selected and the scold toggle text is white, performing the
+action will have a scolding effect if you set the toggle to ON. If the scold
+toggle text is gray, regardless of whether the toggle is ON or OFF the action
+ill not have a scolding effect.
+If no action is selected and the scold toggle is ON, clicking a yukkuri verbally
+scolds it.
 
 GAME SPEED
-When set to slow, 1 in-game minute passes for every second that passes in real life.
-When set to normal, 1 in-game minute passes for every 6 seconds that pass in real life.
+When set to slow, 1 in-game minute passes per real-life second.
+When set to normal, 1 in-game minute passes for every 6 real-life seconds.
 When set to slow, 1 in-game minute passes when a 1 real-life minute passes.
 
 BACKGROUND PROCESSING
 Turning it off may speed up game performance.
 
 TRAINING: READING
-If the gauge at the top is not empty, click to make the yukkuri speed up for a fixed amount of time. When it is empty, clicking will no longer have an effect on the yukkuri.
+If the gauge at the top is not empty, click to make the yukkuri speed up for a
+fixed amount of time. When it is empty, clicking will no longer have an effect
+on the yukkuri.
 
 TRAINING: ARITHMETIC
-Click when the gauge is full (the bar inside will turn yellow) to have the yukkuri tell you the next number in the sequence. Here's a tip: the gauge is called "biorhythm" for a reason.
+Click when the gauge is full (the bar inside will turn yellow) to have the
+yukkuri tell you the next number in the sequence. Here's a tip: the gauge is
+called "biorhythm" for a reason.
 
 BONUSES
-Want your yukkuri to be nicer, smarter, and more affectionate, but faster? Earn achievements, they boost the effects of your scolding and training, and any actions you take that would make your yukkuri like you more are more effective. You are always able to toggle your earned bonuses on or off, so you can switch between playing with and without them at your leisure.
+Want your yukkuri to be nicer, smarter, and more affectionate, but faster? Earn
+achievements, they boost the effects of your scolding and training, and any
+actions you take that would make your yukkuri like you more are more effective.
+ou are always able to toggle your earned bonuses on or off, so you can switch
+between playing with and without them at your leisure.
+
+WHY ISN'T MY SCUM ALICE RAPING OTHER YUKKURI?
+If the Alice is acting like any other aroused yukkuri, just wait. Alice will
+eventually face forward with a sad expression, say a line of dialogue, and then
+she will attempt rape.
 
 MISCELLANEOUS TIPS
-Sometimes, doing an action to one yukkuri will also do it to overlapping yukkuri, or you end up doing it to a different yukkuri than the intended one. A potential way around this is clicking the label or number above the yukkuri's head instead of their sprite.
-
-
+Sometimes, doing an action to one yukkuri will also do it to overlapping
+yukkuri, or you end up doing it to a different yukkuri than the intended one.
+A potential way around this is clicking the label or number above the yukkuri's
+head instead of their sprite.
