@@ -35,3 +35,7 @@ in (game directory)/pict/add1/add.txt. Since add.txt is not anywhere in
 since their contents are meant to be copy/pasted into the game directory/text
 folder. However, the add.txt file may be useful to modders, so it is still
 included in the git.
+
+Finally, the manual.txt file was not in the original game. It is a temporary
+manual in English meant to substitute for the manual given in .html files until
+I get around to translating the contents of the .html files.
