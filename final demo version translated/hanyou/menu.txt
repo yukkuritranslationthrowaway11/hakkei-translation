@@ -312,9 +312,9 @@ S
 M
 L
 XL
-Distribution
-ŒÅ’è
-“ª”•ª
+Portion count
+Fixed
+Per yukkuri
 Auto-feeder settings
 Constantly
 _ daily
