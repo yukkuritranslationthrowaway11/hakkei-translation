@@ -4,6 +4,14 @@ Right-click to deselect an action.
 You can click on the scold toggle to... well... toggle it. You can also press
 the space bar to toggle it.
 
+PLAYING BALL OR SUMO: CAUTION!
+If the yukkuri have significant differences in reflexes and the stronger one is
+dumb, they aren't smart enough to hold back and avoid accidentally killing
+their opponent. I recommend separating yukkuri trying to play those games unless
+they're intelligent and/or close in reflexes. I need to test more to find out
+how durability plays into this and if yukkuri only need a reflex difference to
+accidentally kill each other.
+
 SCOLDING
 The scold toggle is currently in Japanese. If you see する, the scold toggle is
 set to ON. If you instead see しない, it is set to OFF.
@@ -13,6 +21,30 @@ toggle text is gray, regardless of whether the toggle is ON or OFF the action
 ill not have a scolding effect.
 If no action is selected and the scold toggle is ON, clicking a yukkuri verbally
 scolds it.
+
+Not everything is a scold target. Yukkuri will protest if you scold them for
+doing nothing wrong. However, dumb yukkuri might protest as if you scolded them
+unjustly even if they were doing something wrong. I'm not sure about extremely
+intelligent scum yukkuri. I'll test that someday and update this manual with
+what I find. The lists I wrote below are incomplete.
+
+Scold targets include:
+Fighting each other ("Marisa will punish!"-type fighting, not playing sumo)
+Starting to eat when other yukkuri are still approaching the food dish
+Asking for sweet-sweets after you feed them
+Pooping outside a toilet IF there is a toilet in the yukkurarium
+Refusing to do arithmetic or reading
+Refusing to hunt IF their refuse reason isn't because they're full
+
+Things you might think would be scold targets but aren't:
+When they turn around and wave their butt/hips in the air
+Pooping outside a toilet when there's no toilet in the yukkurarium
+Refusing to hunt when they're full
+Winning sumo or a ball game (the loser ALWAYS cries)
+Saying food is gross (not sure if refusing to eat it is scoldable)
+Puffing at their poop
+Puffing at "mister caterpillar" (the yellow food for doing hunting practice)
+Puffing in certain circumstances I don't quite remember
 
 GAME SPEED
 When set to slow, 1 in-game minute passes per real-life second.
@@ -39,10 +71,21 @@ actions you take that would make your yukkuri like you more are more effective.
 ou are always able to toggle your earned bonuses on or off, so you can switch
 between playing with and without them at your leisure.
 
-WHY ISN'T MY SCUM ALICE RAPING OTHER YUKKURI?
+WHY ISN'T MY AROUSED ALICE RAPING OTHER YUKKURI?
 If the Alice is acting like any other aroused yukkuri, just wait. Alice will
 eventually face forward with a sad expression, say a line of dialogue, and then
 she will attempt rape.
+I'm not sure what the conditions are for this one, but some yukkuri will ask an
+aroused Alice to rub-rub with them with the intention of refreshing right
+afterwards. Alice accepts the consensual rub-rub and refresh, and exits the
+arousal state.
+I still have to test if non-scum Alices will rape, if Alices will rape after
+all arousal methods and not just Viyugra, if married Alices will only try to
+rape their partner and nobody else, if married Alices' partners always ask her
+for a rub-rub leading into refreshing before she can enter rape mode, if married
+Alices will rape at all and if so under which conditions, and if other yukkuri
+will rape, too. I also need to test if she or any other yukkuri will use a
+Reimu doll to rut against.
 
 ON CONFISCATING AND REPLACING ACCESSORIES
 Hide adult Reimu's accessory. Let's call this Reimu "Reimyu" for ease of
@@ -64,6 +107,16 @@ adult yukkuri accessory at the same time. So, you can place a koReimu ribbon
 and an adult Reimu ribbon, but not a koReimu ribbon and a koMarisa ribbon, or
 two koReimu ribbons. You must either put it away (use "Hide accessory") or
 wait for an accessoryless yukkuri of the right type and age to put it on.
+
+ON MISIDENTIFICATION
+
+In addition to the normal method of making a yukkuri mistake you for her parent,
+throwing away her parent will make it possible for her to misidentify you as her
+parent. Even if she was just interacting with her parent and/or has her
+intelligence stat maxed out. I will have to test if this works when she has
+two parents alive rather than one, and if you have to throw out both to make her
+think you're mommy/daddy. I will also have to test this with yukkuri who know
+they are orphans, and then get themselves adopted by another yukkuri. 
 
 MISCELLANEOUS INFO
 Sometimes, doing an action to one yukkuri will also do it to overlapping
