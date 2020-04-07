@@ -2327,7 +2327,7 @@ ma_sei_pool_1st_6 = "Splish-splash!"
 ma_sei_pool_1st_7 = "Flap-flap!"
 ma_sei_pool_1st_8 = "Flap-flap!"
 ma_sei_pool_1st_9 = "Mister pool feels good!"
-ma_sei_pool_1st_10 = "Taking it easy!"s
+ma_sei_pool_1st_10 = "Taking it easy!"
 
 ma_sei_pool_melt_1st_1 = "Yu? Mister footsie is uncomfortable"
 ma_sei_pool_melt_1st_2 = "Mister footsie is itchy"
