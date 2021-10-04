@@ -27,7 +27,7 @@ Start?
 Next?
 Intelligence 
  Point UP
-Which one?
+ is which one?
 h
 m
 Spring
@@ -314,9 +314,9 @@ L
 XL
 Portion count
 Fixed
-Per yukkuri
+Per yu
 Auto-feeder settings
-Constantly
+Always
 _ daily
 Once
 Twice
@@ -428,7 +428,7 @@ All complete
 Big peni-peni eruption
 ビュッフェ形式!?
 Merciless
-中枢餡直撃
+Paste core strike
 Date with Miss♪
 Luxury burial
 
