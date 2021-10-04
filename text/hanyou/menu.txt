@@ -1,0 +1,434 @@
+Food
+Actions
+Training
+Items
+Cooler
+Status
+Achievements
+Save
+Options
+Main Screen
+Go Outside
+
+Autosave
+Back to title
+Hotkeys
+Slot
+Comment
+Load hotkeys?
+Load autosave?
+Load?
+Save hotkeys?
+Save autosave?
+Save?
+ 
+End
+Start?
+Next?
+Intelligence 
+ Point UP
+Which one?
+h
+m
+Spring
+Summer
+Fall
+Winter
+Week
+ yen
+Mister footsie!?
+Abyuser level
+強制ライブ開催!
+Vibrator-induced erection
+Poisoned!?
+Total darkness
+どーぴんぐ えれくちおん
+BDSM Play?
+Unattached!?
+Lost future
+ひかりあれ!
+Mental break
+おかわりもいいぞ!
+Breeder level
+New family
+Life's baton
+First-class sniper
+Give and take away
+No escape
+Growing up
+Eternal love
+Cradle of life
+The toilet is here!
+Post-meal exercise
+Hunting!
+Mold cure
+Burnt foot cure
+Hair transplant
+Sell copper-badged yu
+Sell silver-badged yu
+Counted to 
+! New record!
+Scold toggle
+Skip to morning
+Skip to evening
+Fast forward through sleep
+Not taking it easy?
+Not taking it easy?
+Not taking it easy?
+Not taking it easy?
+Not taking it easy?
+Not taking it easy?
+Screenshot
+Waste
+Items
+Yukkuri
+Hands
+Tools
+Accessory
+Speak
+Clean
+Manage
+Hold gently
+Squeeze
+strength
+Rub-rub
+Roll
+Face up
+Flick
+Slap
+Punch
+Remove stalk from jar
+Hold accessory
+Hide accessory
+Pins
+Ruler slap
+Hammer
+Hand drill
+Drill (heated)
+Punishment seat
+Hang gently
+Hang by hook
+string length
+Trap in box
+Vibrator
+Nyutering kit
+Razor
+Fabric shears
+Stalk shears
+Stalk shears
+(Keep stalk)
+Bury
+Throw away
+Freeze
+Set tag
+End tag
+Showing numbers
+Showing tags
+Show badges: ON
+Show badges: OFF
+Kind words
+Cold words
+Treat specially
+Treat as scum
+Roll
+Show butt
+Roll (all)
+Show butt (all)
+Hang accessory
+Marisa
+Reimu
+Shell Marisa
+Alice
+Type
+Give accessory (ko)
+Give accessory
+Disallow
+Allow
+Command
+Life skills
+Academics
+"Happiness" at meals
+to poo-poo upside down
+making little ones
+singing
+"Happiness" at meals
+to poo-poo upside down
+making little ones
+singing
+Poo-poo clean-up (to toilet)
+Poo-poo dance
+Hunt-hunt practice
+Arithmetic
+Arithmetic (auto)
+Reading
+Reading (with food)
+Furniture
+Toys
+Houses
+Yukkurarium
+Abyuse
+Medicine
+Toilet
+Litterbox toilet
+Self-cleaning toilet
+Leaves
+Water dispenser
+Toilet paper roll
+Clay pipe
+Marble
+Rubber ball
+Slide
+Trampoline
+Pool
+Pebble
+Pretty rock
+Clear dice
+Reimu doll
+Cardboard house
+Wooden house
+Mushroom house
+Shake house
+Remove from house
+Remove from house (all)
+Show house interior
+Hide house interior
+Nothing
+Newspaper
+Earth
+Sandpaper
+Alcohol lamp
+Orange juice
+Yogurt
+Ramune
+Sperm paste
+Viyugra
+Ramune spray
+Anti-antiyukkuritis
+Sugar supplement
+Flour supplement
+Bean paste supplement
+Sitataran
+個
+Intelligence UP drug
+Affection UP drug
+Scum correction drug
+Status
+Family
+Relationships
+Medication
+Select a yukkuri to see its status.
+Type:
+Health:
+Intelligence:
+Affection:
+Scumminess:
+Pickiness:
+Hunger:
+Health:
+Reflexes:
+Fear:
+Not married
+Spouse: not in yukkurarium
+Spouse: 
+Orphan
+Thinks you're her parent
+Mother: not in yukkurarium
+Mother: 
+Father: not in yukkurarium
+Father: 
+Child: not in yukkurarium
+Child:    
+Sister: not in yukkurarium
+Sister:       
+Type:
+Anti-antiyukkuritis active
+Sitataran active
+Sugar supplement active: Intelligence Points UP bonus
+Flour supplement active: Affection UP bonus
+Bean paste supplement active: Max Health UP bonus
+No medication
+Breeder
+Bonus 1
+Abyuser
+Bonus 2
+Hair transplant
+Unimplemented
+(highest):
+Total points:
+Intelligence increase bonus:
+Affection increase bonus:
+Bonus: ON
+Bonus: OFF
+Consecutive HITs:
+Scum correction bonus:
+Game speed
+Background
+Set hotkeys
+Hotbar display settings
+Persistent scold toggle: ON
+Persistent scold toggle: OFF
+Persistent menu tab: ON
+Persistent menu tab: OFF
+Fast
+Normal
+Slow
+Game speed
+Please select
+Current setting
+Normal
+Light
+Background processing
+Current setting
+Back
+Hotbar settings
+Move
+Show
+Hide
+Current setting
+Yukkuri food
+Sweets
+Special
+Not good
+Settings
+Luxury yukkuri food
+Spicy yukkuri food
+Cheap yukkuri food
+Auto-feeder: OFF
+Auto-feeder: ON
+Put in plate
+Hand-feed
+Sweet acorn
+Assorted cookies
+Cake
+Hand-fed cookie
+Christmas cake
+Bacon and rice
+Carbonara
+Weeds
+Garbage
+Poo-poo
+Portion size
+S
+M
+L
+XL
+Portion count
+Fixed
+Per yukkuri
+Auto-feeder settings
+Constantly
+_ daily
+Once
+Twice
+Thrice
+Cause of death:
+Age at death:
+ねんと
+season and
+week
+Can't save this yukkuri
+Cooler full!
+Sell
+Release
+Discard
+Select
+Thaw
+Thaw selected
+Full yukk-
+urarium
+Discard
+Discard selected
+Money: 
+(can't sell this yukkuri here)
+Box
+Sell yukkuri
+Leave
+Take bronze badge test
+Take silver badge test
+Take gold badge test
+
+Next
+Previous
+Buy
+View non-pedigreed yus
+View bronze-pedigreed yus
+View silver-pedigreed yus
+View gold-pedigreed yus
+View yu raising supplies
+Sell yukkuri
+Confirm purchase
+Changed my mind
+View stamina-enhanced yus
+View abyuse tools
+Purchased trained yu
+Purchased copper-badged yu
+Purchased silver-badged yu
+Purchased gold-badged yu
+Purchased stamina-enhanced yu
+
+
+
+Cheap yu food contract
+Yu food contract
+Luxury yu food contract
+Cookies for yus
+Cake for yus
+Ramune for yus
+Spicy yu food contract
+Metal box
+Anti-antiyukkuritis
+Seat of Punishment
+Treat mold
+Treat burnt foot
+Treat tongue paralysis
+Hair transplant
+Town
+Home
+Backyard
+Plaza
+Forest
+???
+Back alley
+Beneath vending machine
+Park
+Train to city
+Yukkuri Shop 1
+Garbage dump
+Pond
+Run-down shrine
+Shrine
+Yukkuri Shop 2
+Riverside
+Underpass
+City
+Train to town
+Shopping district
+Yukkuri Association
+Yukkuri Clinic
+Yukkuri Shop 3
+
+
+Luxury Yukkuri Shop
+Park corner
+Expedition party
+Back
+Yu stats
+Sell gold-badged yu
+デートに誘う
+Shake yukkurarium
+Bought employee
+秘拳
+Castrate
+永久の別れ
+Merciful heart
+Shrine rebuilding
+Date with Miss♪
+羞恥心は無いの
+All complete
+Big peni-peni eruption
+ビュッフェ形式!?
+Merciless
+中枢餡直撃
+Date with Miss♪
+Luxury burial
+

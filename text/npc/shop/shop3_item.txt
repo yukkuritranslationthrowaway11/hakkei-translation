@@ -1,0 +1,60 @@
+//来店時
+\nThe price is 
+ yen.
+//アイテム説明・トイレ
+A yukkuri-sized toilet.\nバッジ付きのゆっくりの場合、これでも充分ですが、\n排泄物の除去はお早めに……
+A yukkuri-sized litterbox-style toilet.\n防臭、防湿効果のある砂ですので、\n排泄物の悪臭、カビの繁殖をを多少は抑えてくれます。
+A yukkuri-sized auto-flushing toilet.\nゆっくりの排泄行為に合わせた排泄物を除去してくれます。\nものぐさな方にもおすすめの一品です。
+
+
+
+//給水器
+A water supply for yukkuri.\n基本的に、通常のフードを与えていれば他の水分補給は必要ないのですが、\n夏場などにはフード以外の水分補給手段も必要かもしれません。(未実装)
+
+
+
+//土管
+An unglazed clay pipe.\nYukkuri fit inside snugly. ゆっくりは狭いところを好む習性がありますので\n隠れ家としておいてあげると喜ぶでしょう。
+
+
+
+//おもちゃ
+A marble.\n複数個体をお飼いの方は、遊び道具として与えてはどうでしょう？
+A rubber ball.\n複数個体をお飼いの方は、遊び道具として与えてはどうでしょう？
+A set of 50 clear dice.\nゆっくりはキラキラしたもの集める習性がありますので、\n与えてやると良いかもしれません。
+
+
+
+
+
+
+//人形
+A doll modeled after Reimu-type yukkuris.\n単独飼いの場合、寂しがる場合がありますので、\nそういった場合に与えてやると気が紛れるかもしれません。
+
+
+
+
+
+
+
+
+//遊具
+A playground slide for yukkuri.\nゆっくりでも登れる、小型堅牢な商品です。
+A trampoline for yukkuri.\nゆっくりは空へのあこがれが強いらしく、\n高く跳ねられると喜ぶようです。
+A pool for yukkuri.\n遊びだけではなく、体を洗うためにも使いますが、\n設置中は溶けてしまわないよう、目を離さないようにしてください。
+
+
+
+
+
+
+//ハウス
+A wooden house for yukkuri.\n自然の木材を加工して作った商品で、\n防虫、防湿加工も施されております。
+A house for yukkuri modeled after a mushroom.\nゆっくりの体にも優しい、特殊素材で作られております。
+
+
+
+
+
+
+//フード

@@ -1,0 +1,180 @@
+;”‚¢åŒÄ‚Ñ•û
+your_name1_1_aka=Mishter human
+your_name1_2_aka=Mishter
+your_name1_3_aka=Geejer
+your_name1_4_aka=Shiddy geejer
+your_name1_5_aka=Dwaddie
+your_name1_6_aka=Shiddy pawent
+
+your_name1_1_sei=Mister human
+your_name1_2_sei=Mister
+your_name1_3_sei=Geezer
+your_name1_4_sei=Shitty Geezer
+your_name1_5_sei=Daddy
+your_name1_6_sei=Shitty parent
+
+your_name2_1_aka=Mish human
+your_name2_2_aka=Mish
+your_name2_3_aka=Hwag
+your_name2_4_aka=Shiddy hwag
+your_name2_5_aka=Mwommie
+your_name2_6_aka=Shiddy pawent
+
+your_name2_1_sei=Miss human
+your_name2_2_sei=Miss
+your_name2_3_sei=Hag
+your_name2_4_sei=Shitty hag
+your_name2_5_sei=Mommy
+your_name2_6_sei=Shitty parent
+
+your_name3_1_aka=Mishter mish human
+your_name3_2_aka=Mishter mish
+your_name3_3_aka=Hwag
+your_name3_4_aka=Shiddy hwag
+your_name3_5_aka=Mwommie-dwaddie
+your_name3_6_aka=Shiddy pawent
+
+your_name3_1_sei=Mister miss human
+your_name3_2_sei=Mister miss
+your_name3_3_sei=Hag
+your_name3_4_sei=Shitty hag
+your_name3_5_sei=Mommy-daddy
+your_name3_6_sei=Shitty parent
+
+your_name4_1_aka=Mish mishter human
+your_name4_2_aka=Mish mishter
+your_name4_3_aka=Geejer
+your_name4_4_aka=Shiddy geejer
+your_name4_5_aka=Dwaddie-mwommie
+your_name4_6_aka=Shiddy pawent
+
+your_name4_1_sei=Miss mister human
+your_name4_2_sei=Miss mister
+your_name4_3_sei=Geezer
+your_name4_4_sei=Shitty geezer
+your_name4_5_sei=Daddy-mommy
+your_name4_6_sei=Shitty parent
+
+
+”
+many_aka=wotsh
+
+many_sei=lots
+
+‰Æ‘°
+big_sis_name_aka="Big shish"
+little_sis_name_aka="Widdle shish"
+mother_name_aka="Mwommie"
+father_name_aka="Dwaddie"
+otibi_name_aka="Widdle one"
+big_sis_name_sei="Big sis"
+little_sis_name_sei="Little sis"
+mother_name_sei="Mommy"
+father_name_sei="Daddy"
+otibi_name_sei="Little one"
+
+;‚Ü‚è‚³
+marisa_name_1_aka="Mawisha"
+marisa_name_2_aka="Mawicha"
+marisa_name_3_aka="Maicha"
+marisa_name_4_aka="Maisha"
+marisa_name_5_aka="Maacha"
+marisa_name_6_aka="Maasha"
+
+marisa_name_1_sei="Marisa"
+marisa_name_2_sei="Marisa"
+marisa_name_3_sei="Marisa"
+marisa_name_4_sei="Marisa"
+marisa_name_5_sei="Marisa"
+marisa_name_6_sei="Marisa"
+
+sakebi_marisa = "aaaaa!?"
+
+
+;‚ê‚¢‚Ş
+reimu_name_1_aka="Weimyu"
+reimu_name_2_aka="Weimu"
+reimu_name_3_aka="Reimyu"
+reimu_name_4_aka="Reemu"
+reimu_name_5_aka="Reemyu"
+reimu_name_6_aka="Reemiyu"
+
+reimu_name_1_sei="Reimu"
+reimu_name_2_sei="Reimu"
+reimu_name_3_sei="Reimu"
+reimu_name_4_sei="Reimu"
+reimu_name_5_sei="Reimu"
+reimu_name_6_sei="Reimu"
+
+sakebi_reimu = "uuuuu!?"
+
+
+;‚Â‚Ş‚è
+tumuri_name_1_aka="Mawisha"
+tumuri_name_2_aka="Mawicha"
+tumuri_name_3_aka="Maicha"
+tumuri_name_4_aka="Maisha"
+tumuri_name_5_aka="Maacha"
+tumuri_name_6_aka="Maasha"
+
+tumuri_name_1_sei="Marisa"
+tumuri_name_2_sei="Marisa"
+tumuri_name_3_sei="Marisa"
+tumuri_name_4_sei="Marisa"
+tumuri_name_5_sei="Marisa"
+tumuri_name_6_sei="Marisa"
+
+sakebi_tumuri = "aaaaa!?"
+;‚Â‚Ş‚è
+tumuri_name_1_aka="Mawisha"
+tumuri_name_2_aka="Mawicha"
+tumuri_name_3_aka="Maicha"
+tumuri_name_4_aka="Maisha"
+tumuri_name_5_aka="Maacha"
+tumuri_name_6_aka="Maasha"
+
+tumuri_name_1_sei="Marisa"
+tumuri_name_2_sei="Marisa"
+tumuri_name_3_sei="Marisa"
+tumuri_name_4_sei="Marisa"
+tumuri_name_5_sei="Marisa"
+tumuri_name_6_sei="Marisa"
+
+sakebi_tumuri = "aaaaa!?"
+
+
+;‚ ‚è‚·
+arisu_name_1_aka="Awish"
+arisu_name_2_aka="Awich"
+arisu_name_3_aka="Alish"
+arisu_name_4_aka="Alich"
+arisu_name_5_aka="Alish"
+arisu_name_6_aka="Awish"
+
+arisu_name_1_sei="Alice"
+arisu_name_2_sei="Alice"
+arisu_name_3_sei="Alice"
+arisu_name_4_sei="Alice"
+arisu_name_5_sei="Alice"
+arisu_name_6_sei="Alice"
+
+sakebi_arisu = "eeeeee!?"
+
+
+;add
+add_name_1_aka="maricha"
+add_name_2_aka="maricha"
+add_name_3_aka="marisha"
+add_name_4_aka="maacha"
+add_name_5_aka="maacha"
+add_name_6_aka="maasha"
+
+add_name_1_sei="maricha"
+add_name_2_sei="maricha"
+add_name_3_sei="marisha"
+add_name_4_sei="maacha"
+add_name_5_sei="maacha"
+add_name_6_sei="maasha"
+
+sakebi_add = "aaaaaaa!?"
+

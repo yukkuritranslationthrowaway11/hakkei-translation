@@ -1,0 +1,71 @@
+//来店時
+\nThe price is 
+ yen.
+//アイテム説明・トイレ
+A yukkuri-sized toilet.\nYukkuri may need to be corrected several times before they are fully\ntoilet trained, so please be patient.
+A yukkuri-sized litterbox-style toilet.\n防臭、防湿効果のある砂ですので、\nうんうんを掃除し忘れてもゆっくりちゃんの負担が少ないです。
+A yukkuri-sized auto-flushing toilet.\nなんと、すごい技術で配管工事無しで水が流れます。\nきっと凄い計算されてるんでしょうね。角度とか。
+
+
+
+//給水器
+A water supply for yukkuri.\n基本的に、通常のフードを与えていれば他の水分補給は必要ないのですが、\n赤ゆっくりはこまめな水分補給が必要かもしれません。
+
+
+
+//土管
+An unglazed clay pipe.\nYukkuri fit inside snugly. Because the pipe underwent unglazed wind\nprocessing, it won't damage a yukkuri's delicate skin.
+
+
+
+//おもちゃ
+A marble.\nYukkuri like to play with balls～
+A rubber ball.\nビー玉との違いは好みって感じですかね……
+A set of 50 clear dice.\nYukkuri like to have their own personal treasures～
+
+
+
+
+
+
+//人形
+A doll modeled after Reimu-type yukkuris.\nゆっくりちゃんが寂しがっているけど、\n多頭飼いには難しいなーという方は是非！
+
+
+
+
+
+
+
+
+//遊具
+A playground slide for yukkuri.\nゆっくりちゃんは公園にあるような遊具がお気に入りみたいですねー
+A trampoline for yukkuri.\nゆっくりちゃんは空を飛びたいと思っている子が多いみたいで、\n高くジャンプできるトランポリンはお気に入りなんですよー
+A pool for yukkuri.\nゆっくりちゃんは水浴びも大好きなんですが、長時間浸かっているうちに溶けちゃいますので、\n遊び終わったら片付けてあげてくださいねー
+
+
+
+
+
+
+//ハウス
+A wooden house for yukkuri.\nIt was made using natural wood, so naturally, it's an easy place!
+A house for yukkuri modeled after a mushroom.\n自然のきのこを加工して作った……わけではありませんが、\nとってもゆっくりしているそうですよ！
+
+
+
+
+
+
+//フード
+A budget yukkuri food delivery subscription.\n味はいまいちみたいですが、これでも栄養は十分ですよー。\n置き薬みたいに、お宅に訪問して使った分の代金を徴収するシステムです。
+A yukkuri food delivery subscription.\nThe best-selling yukkuri food. Yukkuri find its taste adequate. \n置き薬みたいに、お宅に訪問して使った分の代金を徴収するシステムです。
+A luxury yukkuri food delivery subscription.\n特別なときなどにあげたい、ゆっくりちゃんも"Happiness～"な味みたいです。\n置き薬みたいに、お宅に訪問して使った分の代金を徴収するシステムです。
+A yukkuri cookie delivery subscription.\nゆっくりちゃんは、甘いものが大好きなので、すごく喜ぶんですよー。\n置き薬みたいに、お宅に訪問して使った分の代金を徴収するシステムです。
+A yukkuri cake delivery subscription.\n大きなケーキにゆっくりちゃんも大興奮間違いなしです！\n置き薬みたいに、お宅に訪問して使った分の代金を徴収するシステムです。
+A yukkuri ramune delivery subscription.\nゆっくりちゃんは、ラムネを食べると何故か直ぐに眠ってしまうので、\n病院への移動時などに睡眠薬代わりに使っている方も多いみたいですよー。
+A yukkuri sugar supplement delivery subscription.\n和三盆をベースに、知能に良い影響を与えられる栄養分をミックスしました。\nお勉強の結果に良い影響を与えれれると思います。
+A yukkuri flour supplement delivery subscription.\n高級餅粉をベースに、外見に良い影響を与えられる栄養分をミックスしました。\n他のゆっくりに好かれやすくなると思います。
+A yukkuri bean paste supplement delivery subscription.\n高級小豆をベースに、体に良い影響を与えられる栄養分をミックスしました。\n体力の成長に良い影響を与えられると思います。
+\n１つ2000円ですが、宅配契約料は無料にさせていただきますねー
+

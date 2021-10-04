@@ -1,0 +1,46 @@
+//—ˆê
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
+This is a badge testing site. We currently offer three tests:\nbronze, silver, and gold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//‘I‘ğˆ
+The testing fee is 
+yen. \nThere are no refunds even if the yukkuri fails the test, so please be careful.
+
+Do you want to take the bronze badge test?
+Do you want to take the silver badge test?
+Do you want to take the gold badge test?
+
+
+
+//Œ±
+Please select the yukkuri to be tested.
+The personality portion of the test was failed.
+The intelligence portion of the test was failed.
+Both the personality and intelligence portions of the test were failed.
+This yukkuri has a badge of higher rank.
+This yukkuri has already been tested this week.

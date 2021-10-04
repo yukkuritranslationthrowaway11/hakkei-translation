@@ -1,0 +1,78 @@
+//来店時
+Welcome!
+銅バッジの中には少し性格の悪い子もいます……
+銅バッジの子はきちんとトイレも覚えられますよー
+子ゆっくり同士で遊ばせていると怪我をしやすいので、\n水槽には床材を敷いてあげてくださいねー
+プールをそのままにしておくと不衛生になりますし、\n事故も起きるので遊び終わったら片付けてあげると安心ですよー
+水槽が過密すぎると、子供が出来なくなるみたいなんで、\n気をつけてあげてくださいね
+ゆっくりの買い取りは多少人馴れしてる子だけになりますー。\n人に馴れていない子はペットとして不向きですので……
+
+
+
+
+
+
+
+
+
+
+
+//退店時
+かえっちゃうんですか？
+
+
+
+
+//タッチ
+Kya!?
+セクハラはいけませんよ！
+
+
+//ゆっくり購入
+Would you like to buy a yukkuri?
+I put the purchased yukkuri inside the cooler～
+There's no room for her since the cooler is full, so\nplease come back after clearing some space～
+やめちゃうんですか？
+Thank you for your purchase!
+Would you like to sell a yukkuri?
+
+
+
+//ゆっくり購入２
+The price is 
+ yen.
+This yukkuri was trained by me.\n
+This yukkuri was born to bronze-badged parents.\n
+This yukkuri was born to silver-badged parents.\n
+This yukkuri was born to gold-badged parents.\n
+
+
+
+
+
+//アイテム購入
+Would you like to buy yukkuri raising supplies?
+Uwa! お店に有る飼育用品、全部買ってくれたんですね！\nThank you!!
+私とお出かけしたいんですか？
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
