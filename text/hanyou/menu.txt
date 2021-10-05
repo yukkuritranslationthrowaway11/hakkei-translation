@@ -190,8 +190,8 @@ Mushroom house
 Shake house
 Remove from house
 Remove from house (all)
-Show house interior
-Hide house interior
+Show interior
+Hide interior
 Nothing
 Newspaper
 Earth
@@ -322,10 +322,10 @@ Once
 Twice
 Thrice
 Cause of death:
-Age at death:
-yr(s),
-season(s),&
-wks(s)
+Died at
+yr,
+season,
+wk
 Can't save this yukkuri
 Cooler full!
 Sell
