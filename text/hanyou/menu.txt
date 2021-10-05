@@ -323,9 +323,9 @@ Twice
 Thrice
 Cause of death:
 Age at death:
- year(s),
-season(s), &
-week(s)
+yr(s),
+season(s),&
+wks(s)
 Can't save this yukkuri
 Cooler full!
 Sell
