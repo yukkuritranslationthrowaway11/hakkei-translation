@@ -6,18 +6,18 @@ Buy the full game here: https://enjiiro.booth.pm/items/1727554
 Unofficial wiki for the game: https://wikiwiki.jp/yukkuri8kei/
 
 The 'translated' folders contain a set of directories containing the
-dialogues of their respective versions.  To update the in-game dialogues,
-copy those directories inside the game's 'text' folder.  After that,
+translations of their respective versions.  To update the in-game files,
+copy those directories inside the game's folder.  After that,
 run the executable that is not the game (should be called
 'セリフ再読込用.exe'.  If you don't have a program with that name,
 just pick the executable that is not the actual game). You will see
-a window that's mostly white, with some characters (as in 2, @, P; not
-as in "Hakurei Reimu" or "Superman") in the top left hand corner. Wait
-for a small popup in the center of your screen. If the popup doesn't
-have the word "Error" in it, the translation succeeded. Don't worry
-if all you see are squares. If the translation doesn't succeed, "Error"
-will still come out in English so you will know if something went wrong.
-If you just see squares, it succeeded.
+a window that's mostly white, with either Japanese text, or
+some characters (as in 2, @, P; not as in "Hakurei Reimu" or "Superman") 
+in the top left hand corner. Wait for a small popup in the center of your
+screen. If the popup doesn't have the word "Error" in it, the translation
+succeeded. Don't worry if all you see are squares. If the translation 
+doesn't succeed, "Error" will still come out in English so you will know
+if something went wrong. If you just see squares, it succeeded.
 After that step, the translations will be applied to the game.
 
 The 'original' folder was used to track changes between different
