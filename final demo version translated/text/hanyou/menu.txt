@@ -8,7 +8,7 @@ Achievements
 Save
 Options
 Main Screen
-Go Outside
+Go Out
 
 Autosave
 Back to title
@@ -27,7 +27,7 @@ Start?
 Next?
 Intelligence 
  Point UP
-Which one?
+ is which one?
 h
 m
 Spring
@@ -64,7 +64,7 @@ Hunting!
 Mold cure
 Burnt foot cure
 Hair transplant
-Sell copper-badged yu
+Sell bronze-badged yu
 Sell silver-badged yu
 Counted to 
 ! New record!
@@ -165,7 +165,7 @@ Reading (with food)
 Furniture
 Toys
 Houses
-Flooring
+Yukkurarium
 Abyuse
 Medicine
 Toilet
@@ -190,8 +190,8 @@ Mushroom house
 Shake house
 Remove from house
 Remove from house (all)
-Show house interior
-Hide house interior
+Show interior
+Hide interior
 Nothing
 Newspaper
 Earth
@@ -285,14 +285,14 @@ Move
 Show
 Hide
 Current setting
-Yukkuri food
+Yu food
 Sweets
 Special
 Not good
 Settings
-Luxury yukkuri food
-Spicy yukkuri food
-Cheap yukkuri food
+Luxury yu food
+Spicy yu food
+Cheap yu food
 Auto-feeder: OFF
 Auto-feeder: ON
 Put in plate
@@ -314,18 +314,18 @@ L
 XL
 Portion count
 Fixed
-Per yukkuri
+Per yu
 Auto-feeder settings
-Constantly
+Always
 _ daily
 Once
 Twice
 Thrice
 Cause of death:
-Age at death:
-‚Ë‚ñ‚Æ
-season and
-week
+Died at
+yr,
+season,
+wk
 Can't save this yukkuri
 Cooler full!
 Sell
@@ -346,22 +346,22 @@ Leave
 Take bronze badge test
 Take silver badge test
 Take gold badge test
-
+Take platinum badge test
 Next
 Previous
 Buy
-View non-pedigreed yus
-View bronze-pedigreed yus
-View silver-pedigreed yus
-View gold-pedigreed yus
-View yu raising supplies
+See non-pedigreed yus
+See bronze-pedigreed yus
+See silver-pedigreed yus
+See gold-pedigreed yus
+See yu raising supplies
 Sell yukkuri
 Confirm purchase
 Changed my mind
-View stamina-enhanced yus
-View abyuse tools
+See stamina-enhanced yus
+See abyuse tools
 Purchased trained yu
-Purchased copper-badged yu
+Purchased bronze-badged yu
 Purchased silver-badged yu
 Purchased gold-badged yu
 Purchased stamina-enhanced yu
@@ -402,33 +402,13 @@ Riverside
 Underpass
 City
 Train to town
-Shopping district
+Shopping district (unimplemented)
 Yukkuri Association
 Yukkuri Clinic
 Yukkuri Shop 3
-
-
+Back alley 2 (unimplemented)
+Abandoned construction site (unimplemented)
 Luxury Yukkuri Shop
 Park corner
 Expedition party
 Back
-Yu stats
-Sell gold-badged yu
-ƒf[ƒg‚É—U‚¤
-Shake yukkurarium
-“Xˆõ‚ğ”ƒ‚¤
-”éŒ
-Castrate
-‰i‹v‚Ì•Ê‚ê
-Merciful heart
-Shrine rebuilding
-Date with Missô
-ãµ’pS‚Í–³‚¢‚Ì
-All complete
-‚Ø‚É‚Ø‚É‘å”š”­
-ƒrƒ…ƒbƒtƒFŒ`®!?
-Merciless
-’†•éQ’¼Œ‚
-Date with Missô
-Luxury burial
-
