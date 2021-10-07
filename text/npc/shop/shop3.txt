@@ -51,8 +51,8 @@ Our shop provides yukkuri care supplies discounted by 20%.
 
 
 //アイテム購入
-Would you like to buy yukkuri raising supplies?
-...!\n当店で取り扱っている飼育用品は全て購入されております。
+Would you like to buy yukkuri breeding supplies?
+...!\nAll the breeding supplies this store carries have been purchased.
 
 
 
