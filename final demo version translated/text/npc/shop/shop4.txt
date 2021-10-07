@@ -52,7 +52,7 @@ That costs
 
 //アイテム購入
 Do you want to buy yukkuri abuse supplies?
-わお、虐待用品を全種購入してくれたんすね\nもう売るものは自分くらいしかないっすー
+Wow, you bought all the abyuse supplies.\nもう売るものは自分くらいしかないっすー
 きゃー えっちー
 デートのお誘いっすか？
 

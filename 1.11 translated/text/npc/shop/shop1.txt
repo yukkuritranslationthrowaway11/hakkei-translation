@@ -51,8 +51,8 @@ This yukkuri was born to gold-badged parents.\n
 
 
 //アイテム購入
-Would you like to buy yukkuri raising supplies?
-Uwa! お店に有る飼育用品、全部買ってくれたんですね！\nThank you!!
+Would you like to buy yukkuri breeding supplies?
+Uwa! You bought all the breeding supplies in the store!\nThank you!!
 私とお出かけしたいんですか？
 
 
