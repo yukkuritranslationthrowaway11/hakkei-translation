@@ -80,7 +80,7 @@ aroused Alice to rub-rub with them with the intention of refreshing right
 afterwards. Alice accepts the consensual rub-rub and refresh, and exits the
 arousal state.
 Even Alices who have the lowest possible scum value (Pure and innocent) can
-attempt rape. Be aware that Koalices can attempt rape.
+attempt rape. Be aware that KoAlices can attempt rape.
 I still have to test if Alices will rape after all arousal methods and not
 just Viyugra, if married Alices will only try to rape their partner and nobody
 else, if married Alices' partners always ask her for a rub-rub leading into
@@ -122,7 +122,7 @@ they are orphans, and then get themselves adopted by another yukkuri.
 MISCELLANEOUS INFO
 Sometimes, doing an action to one yukkuri will also do it to overlapping
 yukkuri, or you end up doing it to a different yukkuri than the intended one.
-A potential way around this is clicking the label or number above the yukkuri's
-head instead of their sprite.
+A way around this is clicking the label or number above the yukkuri
+instead of their sprite.
 
 Autosave saves every 5 minutes.
