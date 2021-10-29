@@ -3437,7 +3437,7 @@ ma_sei_dokan_1_katazuke_1_10 = "Where is mister hiding place nanoze!? Come outtt
 
 ma_sei_dokan_2_katazuke_1_1 = "どおして おそとに でてるのぉぉぉ！？"
 ma_sei_dokan_2_katazuke_1_2 = "すてるす してた でしょぉぉぉぉ！？"
-ma_sei_dokan_2_katazuke_1_3 = "【一人称】's mister hiding placeeeee!?"
+ma_sei_dokan_2_katazuke_1_3 = "【一人称】の かくれがさん とらないでぇぇぇぇ！？"
 ma_sei_dokan_2_katazuke_1_4 = "Give back mister hiding place no zeeee!!"
 ma_sei_dokan_2_katazuke_1_5 = "Give back mister hiding place! Right now is fine no ze!!"
 ma_sei_dokan_2_katazuke_1_6 = "【一人称】's mister hiding placeeeee!?"
