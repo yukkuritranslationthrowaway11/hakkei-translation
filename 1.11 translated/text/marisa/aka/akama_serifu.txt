@@ -2826,12 +2826,12 @@ ma_aka_f_orei_1st_1_1 = "Chank you y”‚¢åz da je!"
 ma_aka_f_orei_1st_1_2 = "y”‚¢åz chakes id weally eajy no jeeee!"
 ma_aka_f_orei_1st_1_3 = "y”‚¢åz ish eajy! Eajyyy!!"
 ma_aka_f_orei_1st_1_4 = "y”‚¢åz! Chank you fow tashty mishter food nanoje!"
-ma_aka_f_orei_1st_1_5 = "Yuwaai!y”‚¢åz chank you da je!"
+ma_aka_f_orei_1st_1_5 = "Yuwaai! y”‚¢åz chank you da je!"
 ma_aka_f_orei_1st_1_6 = "y”‚¢åz chank you da je!"
 ma_aka_f_orei_1st_1_7 = "y”‚¢åz chakes id weally eajy no jeeee!"
 ma_aka_f_orei_1st_1_8 = "y”‚¢åz ij eajy! Eajyyy!!"
 ma_aka_f_orei_1st_1_9 = "y”‚¢åz! Chank you fow tashty mishter food da je!"
-ma_aka_f_orei_1st_1_10 = "Yuwaai!y”‚¢åz chank you!"
+ma_aka_f_orei_1st_1_10 = "Yuwaai! y”‚¢åz chank you!"
 
 
 ;///////////////////////////////////////////////////////////
