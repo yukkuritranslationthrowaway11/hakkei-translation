@@ -3437,7 +3437,7 @@ ma_sei_dokan_1_katazuke_1_10 = "Where is mister hiding place nanoze!? Come outtt
 
 ma_sei_dokan_2_katazuke_1_1 = "どおして おそとに でてるのぉぉぉ！？"
 ma_sei_dokan_2_katazuke_1_2 = "すてるす してた でしょぉぉぉぉ！？"
-ma_sei_dokan_2_katazuke_1_3 = "【一人称】's mister hiding placeeeee!?"
+ma_sei_dokan_2_katazuke_1_3 = "【一人称】の かくれがさん とらないでぇぇぇぇ！？"
 ma_sei_dokan_2_katazuke_1_4 = "Give back mister hiding place no zeeee!!"
 ma_sei_dokan_2_katazuke_1_5 = "Give back mister hiding place! Right now is fine no ze!!"
 ma_sei_dokan_2_katazuke_1_6 = "【一人称】's mister hiding placeeeee!?"
@@ -3744,16 +3744,16 @@ ma_sei_deko_1_8 = "Yupi! Stop!"
 ma_sei_deko_1_9 = "Yuwaaaaaaaaaan!"
 ma_sei_deko_1_10 = "Yueeeeeeeeen!"
 
-ma_sei_nageki1_1 = "なんで……ゆっくり させて くれないんだぜ……？"
-ma_sei_nageki1_2 = "【一人称】なんにも……わるいこと してないんだぜ……！"
+ma_sei_nageki1_1 = "Why... not letting 【一人称】 take it easy da ze...?"
+ma_sei_nageki1_2 = "【一人称】... isn't doing anything bad da ze...!"
 ma_sei_nageki1_3 = "【一人称】... wants to take it easy da ze...?"
-ma_sei_nageki1_4 = "なんで……ゆっくり させて くれないんだぜ……？"
-ma_sei_nageki1_5 = "【一人称】なんにも……わるいこと してないのに……！"
+ma_sei_nageki1_4 = "Why... not letting 【一人称】 take it easy da ze...?"
+ma_sei_nageki1_5 = "Even though 【一人称】... isn't doing anything bad...!"
 ma_sei_nageki1_6 = "【一人称】... wants to take it easy da ze...?"
-ma_sei_nageki1_7 = "なんで……ゆっくり させて くれないんだぜ……？"
-ma_sei_nageki1_8 = "なんで……ゆっくり させて くれないんだぜ……？"
+ma_sei_nageki1_7 = "Why... not letting 【一人称】 take it easy da ze...?"
+ma_sei_nageki1_8 = "Why... not letting 【一人称】 take it easy da ze...?"
 ma_sei_nageki1_9 = "【一人称】... wants to take it easy da ze...?"
-ma_sei_nageki1_10 = "なんで……ゆっくり させて くれないんだぜ……？"
+ma_sei_nageki1_10 = "Why... not letting 【一人称】 take it easy da ze...?"
 
 
 
