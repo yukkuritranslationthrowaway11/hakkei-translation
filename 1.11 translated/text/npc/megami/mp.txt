@@ -1,4 +1,4 @@
-Leave an offering
+Leave a monetary offering
 Leave
 10 yen
 50 yen
@@ -10,9 +10,9 @@ Leave
 10000 yen
 100000 yen
 1000000 yen
-やっぱり止める
-　女神様にお菓子をあげる
-　　　お賽銭を入れる
+Let's not
+　Offer sweets to the goddess
+　　　Leave a monetary offering
 Change a yu's stats
 どのこに パワー をあたえるの?
 このこにする?
