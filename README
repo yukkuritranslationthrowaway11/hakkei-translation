@@ -37,7 +37,8 @@ folder. However, the add.txt file may be useful to modders, so it is still
 included in the git.
 
 The original Japanese dialogue files for version 1.11 are identical to those
-for version 1.12, which is why one set of files can be for both 1.11 and 1.12.
+for version 1.12, which is why one set of files can be for both 1.11 and 1.12:
+the changes made between versions did not include changes to the text files.
 
 Finally, the manual.txt file was not in the original game. It is a temporary
 manual in English meant to substitute for the manual given in .html files until
