@@ -206,7 +206,7 @@ Ramune spray
 Anti-antiyukkuritis
 Sugar supplement
 Flour supplement
-Bean paste supplement
+Filling supplement
 Sitataran
 ŒÂ
 Intelligence UP drug
@@ -245,7 +245,7 @@ Anti-antiyukkuritis active
 Sitataran active
 Sugar supplement active: Intelligence Points UP bonus
 Flour supplement active: Affection UP bonus
-Bean paste supplement active: Max Health UP bonus
+Filling supplement active: Max Health UP bonus
 No medication
 Breeder
 Bonus 1
