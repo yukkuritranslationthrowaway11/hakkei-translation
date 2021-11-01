@@ -1553,7 +1553,7 @@ ma_sei_hatujyou_marid_no_4 = "とは けっこんっ するきは ないわ！"
 ma_sei_hatujyou_marid_no_5 = "もっと ゆっくりした ゆっくりが いいわ！"
 ma_sei_hatujyou_marid_no_6 = "なにを かんちがいっ してるのよ！"
 ma_sei_hatujyou_marid_no_7 = "【一人称】 wants a more suitable yukkuri!"
-ma_sei_hatujyou_marid_no_8 = "みたいな いなかものとは つりあわないわ！"
+ma_sei_hatujyou_marid_no_8 = " is too country bumpkin-like to be a good match!"
 ma_sei_hatujyou_marid_no_9 = "とは けっこんっ するきは ないわ！"
 ma_sei_hatujyou_marid_no_10 = "いや むりだわ"
 
