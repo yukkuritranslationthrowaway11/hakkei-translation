@@ -48,7 +48,7 @@ Unattached!?
 Lost future
 ‚Ð‚©‚è‚ ‚ê!
 Mental break
-‚¨‚©‚í‚è‚à‚¢‚¢‚¼!
+Want seconds!
 Breeder level
 New family
 Life's baton
@@ -243,8 +243,8 @@ Sister:
 Type:
 Anti-antiyukkuritis active
 Sitataran active
-Sugar supplement active: Intelligence Points UP bonus
-Flour supplement active: Affection UP bonus
+Sugar supplement active: Intelligence UP bonus
+Flour supplement active: Relationship UP bonus
 Filling supplement active: Max Health UP bonus
 No medication
 Breeder
