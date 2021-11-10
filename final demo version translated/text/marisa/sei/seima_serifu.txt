@@ -4461,15 +4461,15 @@ ma_sei_sikarare_amaama_need_gesu_1_8 = "Give sweet-sweets next no ze!"
 ma_sei_sikarare_amaama_need_gesu_1_9 = "‚©‚¹‚¬‚Ì ‚·‚­‚È‚¢ ‚©‚¢‚Ê‚µ ‚¾‚Æ ‚­‚ë‚¤ ‚·‚é‚Ì‚ºI"
 ma_sei_sikarare_amaama_need_gesu_1_10 = "Give sweet-sweets next no ze!"
 
-ma_sei_sikarare_amaama_need_miss_1_1 = "No no! yˆêlÌz Want to eat sweet-sweets da zeeeee!!"
+ma_sei_sikarare_amaama_need_miss_1_1 = "No no! yˆêlÌz wants to eat sweet-sweets da zeeeee!!"
 ma_sei_sikarare_amaama_need_miss_1_2 = "yˆêlÌz wants to eat sweet-sweets easy da zeeeee!!"
 ma_sei_sikarare_amaama_need_miss_1_3 = "Sweet-sweet! yˆêlÌz's sweet-sweet!"
 ma_sei_sikarare_amaama_need_miss_1_4 = "Mister dessert comes after a meal righttttt!?"
-ma_sei_sikarare_amaama_need_miss_1_5 = "No no! yˆêlÌz Want to eat sweet-sweets da zeeeee!!"
+ma_sei_sikarare_amaama_need_miss_1_5 = "No no! yˆêlÌz wants to eat sweet-sweets da zeeeee!!"
 ma_sei_sikarare_amaama_need_miss_1_6 = "yˆêlÌz wants to eat sweet-sweets easy da zeeeee!!"
 ma_sei_sikarare_amaama_need_miss_1_7 = "Sweet-sweet! yˆêlÌz's sweet-sweet!"
 ma_sei_sikarare_amaama_need_miss_1_8 = "Mister dessert comes after a meal righttttt!?"
-ma_sei_sikarare_amaama_need_miss_1_9 = "No no! yˆêlÌz Want to eat sweet-sweets da zeeeee!!"
+ma_sei_sikarare_amaama_need_miss_1_9 = "No no! yˆêlÌz wants to eat sweet-sweets da zeeeee!!"
 ma_sei_sikarare_amaama_need_miss_1_10 = "yˆêlÌz wants to eat sweet-sweets da zeeeee!!"
 
 ;‚¨‚©‚í‚è

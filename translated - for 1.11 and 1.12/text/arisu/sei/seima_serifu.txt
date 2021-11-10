@@ -4077,7 +4077,7 @@ ma_sei_okurumi_turi_1_6 = "yˆêlÌz's really easy mister clothes!"
 ma_sei_okurumi_turi_1_7 = "Mister clothes! City-sect!"
 ma_sei_okurumi_turi_1_8 = "‚Ò‚Á‚½‚è‚ÁI‚¾‚íI"
 ma_sei_okurumi_turi_1_9 = "Yuuuuun! Mister clothes are city-sect!"
-ma_sei_okurumi_turi_1_10 = "yˆêlÌz's mister clothes are very city-sect!"
+ma_sei_okurumi_turi_1_10 = "yˆêlÌz's very city-sect mister clothes!"
 
 
 ma_sei_okurumi_turi_branko_1 = "Swing-swing!"
@@ -4459,15 +4459,15 @@ ma_sei_sikarare_amaama_need_gesu_1_8 = "Give sweet-sweets next!"
 ma_sei_sikarare_amaama_need_gesu_1_9 = "‚¢‚È‚©‚à‚Ì‚È ‚©‚¢‚Ê‚µ ‚¾‚Æ ‚­‚ë‚¤ ‚·‚é‚íI"
 ma_sei_sikarare_amaama_need_gesu_1_10 = "Give sweet-sweets next!"
 
-ma_sei_sikarare_amaama_need_miss_1_1 = "No no! yˆêlÌz Want to eat sweet-sweetsssss!!"
+ma_sei_sikarare_amaama_need_miss_1_1 = "No no! yˆêlÌz wants to eat sweet-sweetsssss!!"
 ma_sei_sikarare_amaama_need_miss_1_2 = "yˆêlÌz wants to eat sweet-sweets easyyyyy!!"
 ma_sei_sikarare_amaama_need_miss_1_3 = "Sweet-sweet! yˆêlÌz's sweet-sweet!"
 ma_sei_sikarare_amaama_need_miss_1_4 = "Mister dessert comes after a meal righttttt!?"
-ma_sei_sikarare_amaama_need_miss_1_5 = "No no! yˆêlÌz Want to eat sweet-sweetsssss!!"
+ma_sei_sikarare_amaama_need_miss_1_5 = "No no! yˆêlÌz wants to eat sweet-sweetsssss!!"
 ma_sei_sikarare_amaama_need_miss_1_6 = "yˆêlÌz wants to eat sweet-sweets easyyyyy!!"
 ma_sei_sikarare_amaama_need_miss_1_7 = "Sweet-sweet! yˆêlÌz's sweet-sweet!"
 ma_sei_sikarare_amaama_need_miss_1_8 = "Mister dessert comes after a meal righttttt!?"
-ma_sei_sikarare_amaama_need_miss_1_9 = "No no! yˆêlÌz Want to eat sweet-sweetsssss!!"
+ma_sei_sikarare_amaama_need_miss_1_9 = "No no! yˆêlÌz wants to eat sweet-sweetsssss!!"
 ma_sei_sikarare_amaama_need_miss_1_10 = "yˆêlÌz wants to eat sweet-sweetsssss!!"
 
 ;‚¨‚©‚í‚è
