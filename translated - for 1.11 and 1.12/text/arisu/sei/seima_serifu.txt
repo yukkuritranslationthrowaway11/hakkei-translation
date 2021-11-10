@@ -3707,7 +3707,7 @@ ma_sei_hako_hanmer_1_9 = "Yugyaaaaaaa!?"
 ma_sei_hako_hanmer_1_10 = "Yuyaaaaaaaa!?"
 
 
-ma_sei_hako_escape_safe_1_1 = "No more?"
+ma_sei_hako_escape_safe_1_1 = "もう おしまいなの？"
 ma_sei_hako_escape_safe_1_2 = "Mister morning came!"
 ma_sei_hako_escape_safe_1_3 = "へっちゃらだったわ！"
 ma_sei_hako_escape_safe_1_4 = "ぜんぜん へーき だったわ！"
@@ -3716,7 +3716,7 @@ ma_sei_hako_escape_safe_1_6 = "Yuu...? Mister morning!"
 ma_sei_hako_escape_safe_1_7 = "これくらい へっちゃら だわ！"
 ma_sei_hako_escape_safe_1_8 = "【一人称】は へっちゃら だわ！"
 ma_sei_hako_escape_safe_1_9 = "ぜんっ ぜんっ こわく なかったわ！"
-ma_sei_hako_escape_safe_1_10 = "【一人称】 never trembles in fear!"
+ma_sei_hako_escape_safe_1_10 = "【一人称】は きょうふに ふるえることは ないっわ！"
 
 ma_sei_hako_escape_out_1_1 = "Was saved...?"
 ma_sei_hako_escape_out_1_2 = "Mister morning came...?"
