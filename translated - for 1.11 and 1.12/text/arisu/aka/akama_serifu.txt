@@ -5097,6 +5097,7 @@ ma_aka_yobi_hanyou_8 = "...?"
 ma_aka_yobi_hanyou_9 = "...?"
 ma_aka_yobi_hanyou_10 = "...?"
 
+
 ma_aka_sakebi_child_1 = "Widdle oneeeee!?"
 ma_aka_sakebi_child_2 = "Widdle oneeeeee!?"
 ma_aka_sakebi_child_3 = "Widdle oneeeeee!?"
