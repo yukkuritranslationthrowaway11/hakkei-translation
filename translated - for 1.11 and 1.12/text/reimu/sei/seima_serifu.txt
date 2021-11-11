@@ -6774,6 +6774,7 @@ ma_sei_expedition_5_8 = "yˆêlÌz's expedition party going onwards!"
 ma_sei_expedition_5_9 = "yˆêlÌz's expedition party going onwards!"
 ma_sei_expedition_5_10 = "yˆêlÌz's expedition party going onwards!"
 
+
 ma_sei_expedition_6_1 = "Going onwards!"
 ma_sei_expedition_6_2 = "Going onwards!"
 ma_sei_expedition_6_3 = "Going onwards!"
@@ -6795,6 +6796,7 @@ ma_sei_expedition_7_7 = "Leader!?"
 ma_sei_expedition_7_8 = "Leader!?"
 ma_sei_expedition_7_9 = "Leader!?"
 ma_sei_expedition_7_10 = "Leader!?"
+
 
 ma_sei_expedition_8_1 = "Leader..."
 ma_sei_expedition_8_2 = "Leader..."
