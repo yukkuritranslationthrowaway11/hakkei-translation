@@ -3106,7 +3106,6 @@ ma_aka_kyozetu_namagomi_8 = "Mishter gawbidge ishn't mishter food!"
 ma_aka_kyozetu_namagomi_9 = "Nod eading thish shdinky thing!"
 ma_aka_kyozetu_namagomi_10 = "Shmelly-shmelly ishn't mishter food!"
 
-
 ;ƒQƒX
 ma_aka_ea_s_kyozetu_namagomi_gesu_1 = "yˆêlÌz doeshn't mwunch-mwunch gawbidge!"
 ma_aka_ea_s_kyozetu_namagomi_gesu_2 = "yˆêlÌz doeshn'd mwunch-mwunch gawbidge!"
