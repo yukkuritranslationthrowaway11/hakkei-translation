@@ -3062,7 +3062,6 @@ ma_aka_ea_s_kyozetu_500_gesu_8 = "yˆêlÌz wands choo eat shweed-shweech! Bwe 
 ma_aka_ea_s_kyozetu_500_gesu_9 = "Thish tashtes bad! Bwing shweed-shweech!"
 ma_aka_ea_s_kyozetu_500_gesu_10 = "The cidy-shect yˆêlÌz doeshn'd ead food wike that!"
 
-
 ;ƒQƒX{‚’m”\
 ma_aka_ea_s_kyozetu_500_gesu_hi_int_1 = "The gweat gourmayt yˆêlÌz doeshn'd eat thish kind of thing!"
 ma_aka_ea_s_kyozetu_500_gesu_hi_int_2 = "The cidy-shect yˆêlÌz doeshn't ead food wike that!"
