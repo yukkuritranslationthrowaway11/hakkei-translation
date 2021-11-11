@@ -5307,7 +5307,6 @@ ma_aka_sougo_surisuri_other_stert1_8 = "! Dwo wub-wub wich yˆêlÌz!"
 ma_aka_sougo_surisuri_other_stert1_9 = "! Dwo wub-wub wid yˆêlÌz!"
 ma_aka_sougo_surisuri_other_stert1_10 = "! Dwo wub-wub wich yˆêlÌz!"
 
-
 ma_aka_sougono_okazari1_1 = "Yu? Who ish thish?"
 ma_aka_sougono_okazari1_2 = "Don'd know thish stwange yukkuwi?"
 ma_aka_sougono_okazari1_3 = "Yu? Who ij thish?"
