@@ -6931,6 +6931,5 @@ ma_aka_explo_peni_7 = "Thish ish... S&M pway...!"
 ma_aka_explo_peni_8 = "Yuhooooooo!"
 ma_aka_explo_peni_9 = "Wefwesheddddddddd!"
 ma_aka_explo_peni_10 = "Thish ish... S&M pway...!"
-ma_aka_explo_peni_10 = "こりぇが…… えすっえむ ぷりぇい……！"
 
 
