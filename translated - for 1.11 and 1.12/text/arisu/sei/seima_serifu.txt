@@ -5932,7 +5932,6 @@ ma_sei_lost_leader_1_9 = "Don't take leader away!"
 ma_sei_lost_leader_1_10 = "Give back leader!"
 
 
-
 ;–ì—Ç–ì¶
 
 ¬‚Ü‚è‚³_”‚¢‚äŠó–]_ƒm[ƒ}ƒ‹‚P_1 = "Please make yˆêlÌz a pet yukkuri!"

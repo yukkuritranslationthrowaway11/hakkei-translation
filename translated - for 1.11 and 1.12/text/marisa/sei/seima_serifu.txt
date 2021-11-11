@@ -4258,7 +4258,6 @@ ma_sei_yasuri_9 = "Why does mister footsie hurttttt!?"
 ma_sei_yasuri_10 = "Why does mister floor hurttttt!?"
 
 
-
 ;‚ä‚ç‚·
 ma_sei_kabe_don_1 = "yˆêlÌz's easy placeeeee!?"
 ma_sei_kabe_don_2 = "Mister house! Don't do shake-shake?"

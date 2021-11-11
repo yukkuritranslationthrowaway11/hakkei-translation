@@ -4273,7 +4273,6 @@ ma_sei_kabe_don_10 = "yˆêlÌz's easy place! Easy! Easyy!!"
 
 ;€–SFŠî–{
 ma_sei_deth1_1_1 = "More"
-ma_sei_deth1_1_1 = "More"
 ma_sei_deth1_1_2 = "easy..."
 ma_sei_deth1_1_3 = "yˆêlÌz"
 ma_sei_deth1_1_4 = "More"

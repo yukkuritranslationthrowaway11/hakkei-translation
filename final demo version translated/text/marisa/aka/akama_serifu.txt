@@ -4117,7 +4117,6 @@ ma_aka_asiyaki_nageki_8 = "Hurdssss! Eajy! Eajyy!"
 ma_aka_asiyaki_nageki_9 = "Mishter footshie! 【一人称】'sh mishter footshie!"
 ma_aka_asiyaki_nageki_10 = "Mishter footshie hurdsssss!"
 
-
 ;アルコールランプ発見
 ma_aka_serch_alc_lump_1 = "...yu?"
 ma_aka_serch_alc_lump_2 = "What'sh that? Can id chake id eajy?"
@@ -4246,7 +4245,6 @@ ma_aka_muzai_1_7 = "Yueeeeeen!"
 ma_aka_muzai_1_8 = "Yubyaaaaaaa!"
 ma_aka_muzai_1_9 = "Yupiiiiiii!"
 ma_aka_muzai_1_10 = "Yunyaaaaaaa!"
-
 
 ;どうして
 ma_aka_dousite_1_1 = "Bwry would you dwo datttt!?"

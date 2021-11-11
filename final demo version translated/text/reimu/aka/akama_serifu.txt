@@ -3106,7 +3106,6 @@ ma_aka_kyozetu_namagomi_8 = "Mishter gawbidge ishn't mishter food!"
 ma_aka_kyozetu_namagomi_9 = "Nod eading thish shdinky thing!"
 ma_aka_kyozetu_namagomi_10 = "Shmelly-shmelly ishn't mishter food!"
 
-
 ;ÉQÉX
 ma_aka_ea_s_kyozetu_namagomi_gesu_1 = "ÅyàÍêlèÃÅz doeshn't mwunch-mwunch gawbidge!"
 ma_aka_ea_s_kyozetu_namagomi_gesu_2 = "ÅyàÍêlèÃÅz doeshn'd mwunch-mwunch gawbidge!"
@@ -6750,7 +6749,6 @@ ma_aka_expedition_8_8 = "Leadjer..."
 ma_aka_expedition_8_9 = "Leadjer..."
 ma_aka_expedition_8_10 = "Leadjer..."
 
-
 ma_aka_remi_1_1="Wemiwia!? Nwoooooo!"
 ma_aka_remi_1_2="Wemiwia!? Nwoooooo!"
 ma_aka_remi_1_3="Wemiwia!? Nwoooooo!"
@@ -6761,7 +6759,6 @@ ma_aka_remi_1_7="Wemiwia!? Nwoooooo!"
 ma_aka_remi_1_8="Wemiwia!? Nwoooooo!"
 ma_aka_remi_1_9="Wemiwia!? Nwoooooo!"
 ma_aka_remi_1_10="Wemiwia!? Nwoooooo!"
-
 
 ma_aka_remi_2_1="Wemiwia dwon't come hewe!!"
 ma_aka_remi_2_2="Wemiwia gwo away!!"
