@@ -208,10 +208,10 @@ Sugar supplement
 Flour supplement
 Filling supplement
 Sitataran
-ŒÂ
-Intelligence UP drug
-Affection UP drug
-Scum correction drug
+left)
+Intelligence UP drug (
+Affection UP drug (
+Scum correction drug (
 Status
 Family
 Relationships

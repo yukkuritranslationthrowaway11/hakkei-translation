@@ -1,5 +1,6 @@
 *Important*
-こちらのテキストファイルを弄っての動作不良に関するサポート、質問、要望等は一切受け付けておりません。
+We do not accept any support, questions, or requests regarding malfunctions caused by changing this
+text file.
 弄りたい場合はご自身でトライ・アンド・エラーしてください。
 また、弄り方をこのファイル以外で説明する予定もありません。
 
