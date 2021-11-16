@@ -1,0 +1,19 @@
+0
+0
+maricha
+
+
+
+
+
+
+How to use this file:
+The digit in line 1 indicates the appearance rate of the yukkuri.
+	0: never
+	1: normal rate
+	2: a bit rare
+	3: rare
+The digit in line 2 indicates the type of image used for the accessory.
+	0: the accessory is in the front
+	1: the accessory is in the back
+Whatever is typed in line 3 is the yukkuri type: Reimu, Marisa, etc.
