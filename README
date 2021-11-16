@@ -29,13 +29,6 @@ Those who only have the demo version should still be able to play in
 a language they understand, so there are now two sets of folders: one
 for the latest version of the game and one for the demo version.
 
-The add.txt file left outside of any of the translated copies can be found 
-in (game directory)/pict/add1/add.txt. Since add.txt is not anywhere in
-(game directory)/text, it is not in the 'translated' folders either
-since their contents are meant to be copy/pasted into the game directory/text
-folder. However, the add.txt file may be useful to modders, so it is still
-included in the git.
-
 The original Japanese dialogue files for version 1.11 are identical to those
 for version 1.12, which is why one set of files can be for both 1.11 and 1.12:
 the changes made between versions did not include changes to the text files.
